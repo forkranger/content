@@ -2,7 +2,7 @@ name: Sync upstream repository
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # every hour — adjust as needed
+    - cron: '*/10 * * * *'  # every 10 minutes
   workflow_dispatch:       # also allows manual trigger
 
 permissions:
