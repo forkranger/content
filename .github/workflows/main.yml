@@ -1,0 +1,58 @@
+name: Sync upstream repository
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # every hour — adjust as needed
+  workflow_dispatch:       # also allows manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Get latest upstream commit SHA
+        id: upstream
+        run: |
+          SHA=$(curl -s \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/jordibruin/forkrangerRecipes/commits/main" \
+            | jq -r '.sha')
+          echo "sha=$SHA" >> "$GITHUB_OUTPUT"
+
+      - name: Read stored SHA
+        id: stored
+        run: |
+          if [ -f .last-sync-sha ]; then
+            echo "sha=$(cat .last-sync-sha)" >> "$GITHUB_OUTPUT"
+          else
+            echo "sha=" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Skip if unchanged
+        if: steps.upstream.outputs.sha == steps.stored.outputs.sha
+        run: |
+          echo "No changes detected, exiting."
+          exit 0
+
+      - name: Sync upstream changes
+        if: steps.upstream.outputs.sha != steps.stored.outputs.sha
+        run: |
+          git remote add upstream https://github.com/jordibruin/forkrangerRecipes.git
+          git fetch upstream
+          git merge upstream/main --allow-unrelated-histories -X theirs \
+            -m "chore: sync from upstream"
+
+      - name: Update stored SHA
+        if: steps.upstream.outputs.sha != steps.stored.outputs.sha
+        run: |
+          echo "${{ steps.upstream.outputs.sha }}" > .last-sync-sha
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .last-sync-sha
+          git commit -m "chore: update sync SHA" || echo "Nothing to commit"
+          git push
