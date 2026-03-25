@@ -1,6 +1,7 @@
 name: Sync upstream repository
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '3,13,23,33,43,53 * * * *'  # every 10 minutes
 
