@@ -1,0 +1,302 @@
+{
+  "menus": [
+    {
+      "imageUrl": "https://forkranger.com/wp-content/uploads/bb-plugin/cache/cover-photo-landscape.jpg",
+      "id": 1,
+      "date": 1625565600,
+      "title": "Noten en de zoektocht naar duurzame eiwitten",
+      "recipes": [
+        5,
+        27,
+        8,
+        4
+      ],
+      "link": "https://forkranger.com/nl/noten-en-de-zoektocht-naar-duurzame-eiwitten/?app",
+      "category": "meat",
+      "notificationTitle": "Tuesday 12:00",
+      "notificationBody": "I'm hungry"
+    },
+    {
+      "imageUrl": "https://forkranger.com/wp-content/uploads/bb-plugin/cache/enggal-mukti-Y3ZrFoCfc4M-unsplash-scaled-landscape.jpg",
+      "id": 2,
+      "date": 1626822000,
+      "title": "Hoe slecht is kaas voor het klimaat vergeleken met vlees?",
+      "recipes": [
+        6,
+        22,
+        28,
+        12
+      ],
+      "link": "https://forkranger.com/nl/kaas-vergeleken-met-vlees/?app",
+      "category": "meat",
+      "notificationTitle": "Mooeeeeh 🐮🧀",
+      "notificationBody": "Nieuw weekthema: Hoe slecht is kaas vergeleken met vlees?"
+    },
+    {
+      "imageUrl": "https://forkranger.com/wp-content/uploads/bb-plugin/cache/impact-of-air-transport-landscape.jpg",
+      "id": 4,
+      "date": 1627400580,
+      "title": "De verrassende impact van het eten dat per vliegtuig komt",
+      "recipes": [
+        0,
+        21,
+        33,
+        34
+      ],
+      "link": "https://forkranger.com/nl/de-verrassende-impact-van-het-eten-dat-per-vliegtuig-komt?app",
+      "category": "meat",
+      "notificationTitle": "Sperzieboontjes, ready for take off ✈️",
+      "notificationBody": "Oeps, iets te vroeg. Sorry voor de fout. Nu doet de link het wel 🙃"
+    },
+    {
+      "imageUrl": "https://forkranger.com/wp-content/uploads/bb-plugin/cache/bread-waste-cover-landscape.jpg",
+      "id": 5,
+      "date": 1628038800,
+      "title": "De oplossing voor voedselverspilling begint bij brood",
+      "recipes": [
+        15,
+        3,
+        18,
+        10
+      ],
+      "link": "https://forkranger.com/nl/the-solution-to-food-waste-starts-with-bread?app",
+      "category": "meat",
+      "notificationTitle": "Wat doe jij met kontjes? 🥖",
+      "notificationBody": "Nieuw weekthema: 25% van al het brood wordt weggegooid. Hier is wat je kunt doen."
+    },
+    {
+      "id": 6,
+      "date": 1628643600,
+      "title": "Hoe BBQ je duurzaam zonder schuldgevoel",
+      "recipes": [
+        38,
+        20,
+        14,
+        9
+      ],
+      "link": "https://forkranger.com/nl/hoe-bbq-je-duurzaam-zonder-schuldgevoel?app",
+      "category": "meat",
+      "notificationTitle": "Het is weer BBQ tijd! 🔥",
+      "notificationBody": "Nieuw weekthema: Hoe barbecue je duurzaam?"
+    },
+    {
+      "id": 7,
+      "date": 1629248400,
+      "title": "Plastic om komkommers: hoe erg is dat?",
+      "recipes": [
+        3,
+        11,
+        35,
+        30
+      ],
+      "link": "https://forkranger.com/nl/plastic-om-komkommers-hoe-erg-is-dat?app",
+      "category": "meat",
+      "notificationTitle": "Het is komkommertijd... 🥒",
+      "notificationBody": "Nieuw weekthema: hoe erg is plastic om komkommers?"
+    },
+    {
+      "id": 8,
+      "date": 1629853200,
+      "title": "Is het waar dat soja ontbossing veroorzaakt?",
+      "recipes": [
+        4,
+        19,
+        23,
+        28
+      ],
+      "link": "https://forkranger.com/nl/is-het-waar-dat-soja-ontbossing-veroorzaakt?app",
+      "category": "meat",
+      "notificationTitle": "Zorgt soja echt voor ontbossing? 🌳",
+      "notificationBody": "Nieuw weekthema: Hoe zit het precies met soja?"
+    },
+    {
+      "id": 9,
+      "date": 1630458000,
+      "title": "Wat is de meest duurzame kaas?",
+      "recipes": [
+        24,
+        7,
+        36,
+        17
+      ],
+      "link": "https://forkranger.com/nl/wat-is-de-meest-duurzame-kaas?app",
+      "category": "meat",
+      "notificationTitle": "Voor alle kaasliefhebbers 🧀",
+      "notificationBody": "Nieuw weekthema: Welke kaas is het meest duurzaam?"
+    },
+    {
+      "id": 10,
+      "date": 1631062800,
+      "title": "Hoe overtuig je je vrienden om minder vlees te eten?",
+      "recipes": [
+        22,
+        2,
+        31,
+        29
+      ],
+      "link": "https://forkranger.com/nl/how-to-convince-your-friends-to-eat-less-meat?app",
+      "category": "meat",
+      "notificationTitle": "Je hebt meer invloed dan je denkt 💬",
+      "notificationBody": "Nieuw weekthema: Waarom het sociale aspect van eten zo belangrijk is"
+    },
+    {
+      "id": 11,
+      "date": 1631660400,
+      "title": "Is biologisch beter voor het klimaat?",
+      "recipes": [
+        21,
+        0,
+        13,
+        37
+      ],
+      "link": "https://forkranger.com/nl/is-biologisch-beter-voor-het-klimaat?app",
+      "category": "meat",
+      "notificationTitle": "Koop jij wel eens biologisch? 🌱",
+      "notificationBody": "Nieuw weekthema: Is biologisch eten beter voor het klimaat?"
+    },
+    {
+      "id": 12,
+      "backgroundColor": "f7a56d",
+      "date": 1632272400,
+      "title": "Een korte brief en een belangrijke vraag",
+      "recipes": [
+        4,
+        15,
+        16,
+        26
+      ],
+      "link": "https://forkranger.com/nl/een-korte-brief-en-een-belangrijke-vraag?app",
+      "category": "meat",
+      "notificationTitle": "Wij zijn bezig met een grote update!",
+      "notificationBody": "Het recept van de week: kook je rijst in sinaasappelsap 🍊"
+    },
+    {
+      "id": 13,
+      "backgroundColor": "f7a56d",
+      "date": 1632877200,
+      "title": "De eiwit battle: Noten vs. Vlees 🥜",
+      "recipes": [
+        32,
+        5,
+        11,
+        8
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "De eiwit battle: Noten vs. Vlees 🥜",
+      "notificationBody": "Het recept van de week: Fruitige Curry met Pinda's"
+    },
+    {
+      "id": 14,
+      "backgroundColor": "fac77d",
+      "date": 1633482000,
+      "title": "Kaas vs. vlees - wat is beter? 🧀",
+      "recipes": [
+        1,
+        12,
+        22,
+        28
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Kaas vs. vlees - wat is beter? 🧀",
+      "notificationBody": "Het recept van de week: Kokosrijst met champignons"
+    },
+    {
+      "id": 15,
+      "backgroundColor": "0b9d8e",
+      "date": 1634086800,
+      "title": "Eet jij veel eten wat per vliegtuig komt? ✈️",
+      "recipes": [
+        21,
+        35,
+        34,
+        39
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Hoeveel voedselkilometers worden er nou echt per vliegtuig afgelegd? ✈️",
+      "notificationBody": "Het recept van de week: Pasta met Knoflook en Limoen"
+    },
+    {
+      "id": 16,
+      "backgroundColor": "fac77d",
+      "date": 1634691600,
+      "title": "Wat is het meest verspilde product van Nederland? 🗑",
+      "recipes": [
+        33,
+        15,
+        10,
+        40
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Wat is het meest verspilde product van Nederland? 🗑",
+      "notificationBody": "Het recept van de week: Marokkaanse Soep"
+    },
+    {
+      "id": 17,
+      "date": 1635296400,
+      "backgroundColor": "f7a56d",
+      "title": "Plastic om komkommers: hoe erg is dat?",
+      "recipes": [
+        25,
+        17,
+        18,
+        7
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Plastic om komkommers: hoe erg is dat? 🥒",
+      "notificationBody": "Het recept van de week: Spruitjes met Appel"
+    },
+    {
+      "id": 18,
+      "date": 1635904800,
+      "backgroundColor": "0b9d8e",
+      "title": "Zorgt soja-joghurt voor ontbossing? 🔥",
+      "recipes": [
+        29,
+        23,
+        19,
+        37
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Is het waar dat soja ontbossing veroorzaakt?",
+      "notificationBody": "Het recept van de week: Spicy spitskool"
+    },
+    {
+      "id": 19,
+      "date": 1636509600,
+      "backgroundColor": "fac77d",
+      "title": "Wat is de meest duurzame kaas?",
+      "recipes": [
+        36,
+        24,
+        30,
+        14
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Wat is de meest duurzame kaas? 🧀",
+      "notificationBody": "Het recept van de week: Braziliaanse Stroganof"
+    },
+    {
+      "id": 20,
+      "date": 1637114400,
+      "backgroundColor": "fac77d",
+      "title": "X",
+      "recipes": [
+        33,
+        15,
+        10,
+        40
+      ],
+      "link": "https://forkranger.com/update-de-fork-ranger-app/?app",
+      "category": "meat",
+      "notificationTitle": "Hoe kun je met vrienden en familie praten over minder vlees eten?",
+      "notificationBody": "Het recept van de week: Thaise Pinda Curry"
+    }
+  ]
+}

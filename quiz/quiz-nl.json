@@ -1,0 +1,2192 @@
+{
+  "quizes": [
+    {
+      "id": 13,
+      "intro": {
+        "title": "De eiwit battle: Noten vs. Vlees",
+        "subtitle": "We hoeven vlees en kaas niet volledig te schrappen, maar wel minderen. Als het ons lukt ervan te genieten als een luxe in plaats van een standaard ingrediënt dan zetten we weer een hele grote stap richting een duurzaam voedselsysteem. \n\nOm dat in praktijk te brengen is het recept van de week Kokosrijst met Champignons. Door de umamismaak van de champignons en sojasaus heb je geen vlees of kaas nodig!",
+        "emoji": "🥜"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welk product bevat meer eiwit per 100 gram?",
+          "subtitle": "",
+          "answerOptions": [
+            "Kipfilet",
+            "Pompoenzaadjes"
+          ],
+          "correctAnswer": "Pompoenzaadjes",
+          "explanationText": "Okay dat was een lastige vraag. Want het is normaal om 150g kipfilet in een maaltijd te eten, maar niet 150g pompoenzaadjes. Dus het is makkelijker om heel veel eiwit uit vlees te halen. Maar is dat ook nodig?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/Protein-per-100-g-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Iemand met het gemiddelde Nederlandse dieet, eet per dag...",
+          "subtitle": "",
+          "answerOptions": [
+            "Te weinig eiwit",
+            "Te veel eiwit"
+          ],
+          "correctAnswer": "Te veel eiwit",
+          "explanationText": "te veel eiwit! Best wel zonde want het extra eiwit verdwijnt in het toilet. \n\nEen man van 30 jaar heeft ongeveer 63 g eiwit nodig per dag en een vrouw 54 g (Voedingscentrum). En dat kan prima zonder - of met weinig - vlees!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/09/protein-count-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Hoeveel cashews moet je eten om net zo veel CO2 uit te stoten als met één biefstuk?",
+          "subtitle": "",
+          "answerOptions": [
+            "3 keer zo veel",
+            "7 keer zo veel"
+          ],
+          "correctAnswer": "7 keer zo veel",
+          "explanationText": "Die impact van biefstuk is minstens 7 keer zo hoog als cashews! Het is duidelijk dat de impact van vlees echt in een andere orde valt. \n\nTrouwens, als je dan toch van vlees houdt: kip is een stuk beter is dan rundvlees (en ander vlees).",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/co2-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Noten en zaden zijn een gemakkelijke en duurzame bron van eiwitten",
+        "goal": "Meer noten en zaden eten",
+        "impact": 3,
+        "impactReason": "Want je hebt minder eiwit uit vlees nodig"
+      },
+      "outroRecipe": {
+        "title": "Het recept van deze week is Fruitige Curry met Pinda's. En de andere tip om dit in praktijk te brengen: een broodje pindakaas!",
+        "emoji": "🥜"
+      }
+    },
+    {
+      "id": 14,
+      "intro": {
+        "title": "Kaas vs. vlees - wat is beter?",
+        "subtitle": "Iedereen heeft inmiddels wel gehoord dat vlees slecht is het voor het klimaat (ook al durft de overheid het nog steeds niet hardop te zeggen). Maar hoe verhoudt kaas zich tot de verschillende vleessoorten? ",
+        "emoji": "🧀"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welk product heeft een lagere klimaatimpact?",
+          "subtitle": "Voor 1 kg",
+          "answerOptions": [
+            "Lamsvlees 🐑",
+            "Kaas 🧀"
+          ],
+          "correctAnswer": "Kaas 🧀",
+          "explanationText": "Kaas heeft een lagere klimaatimpact dan lamsvlees. Lamsvlees heeft zelfs samen met geiten- en rundvlees de hoogste klimaatimpact van eten. Dit komt doordat alle drie herkauwers zijn en daarom methaan uitstoten, een sterk broeikasgas. En bij dieren die geen herkauwers zijn, is kaas dan nog steeds beter?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/cheese-vs-meat-quiz-1.png"
+        },
+        {
+          "id": 2,
+          "title": "Welk product heeft de laagste klimaatimpact?",
+          "subtitle": "Voor 1 kg",
+          "answerOptions": [
+            "Kip 🐓",
+            "Varkensvlees 🐖",
+            "Kaas 🧀"
+          ],
+          "correctAnswer": "Kip 🐓",
+          "explanationText": "Kip en varkensvlees hebben een lagere voetafdruk dan kaas. Maar laten we ook eens naar de portiegrootte kijken.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/cheese-vs-meat-quiz-2.png"
+        },
+        {
+          "id": 3,
+          "title": "Welk product heeft een lagere klimaatimpact?",
+          "subtitle": "",
+          "answerOptions": [
+            "400 g varkensvlees 🐖",
+            "200 g kaas 🧀",
+            "Ongeveer hetzelfde"
+          ],
+          "correctAnswer": "Ongeveer hetzelfde",
+          "explanationText": "Vaak eten we van kaas kleinere porties vergeleken met vlees. Dus ondanks dat kaas een hogere uitstoot heeft, hebben varkensvlees, kip en kaas ongeveer dezelfde impact per portiegrootte.\n\nWat dus echt een verschil maakt is de portiegroottes vlees en kaas verkleinen: bijvoorbeeld 100 gram spekjes geeft heel veel smaak voor minder uitstoot.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/cheese-vs-meat-quiz-3.png"
+        }
+      ],
+      "outro": {
+        "insight": "Kaas heeft een vergelijkbare impact als kip of varkensvlees",
+        "goal": "Vervang vlees niet door extra kaas te gebruiken",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "We hoeven vlees en kaas niet volledig te schrappen, maar wel minderen. Als het ons lukt ervan te genieten als een luxe in plaats van een standaard ingrediënt dan zetten we weer een hele grote stap richting een duurzaam voedselsysteem.\n\nOm dat in praktijk te brengen is het recept van de week Kokosrijst met Champignons. Door de umamismaak van de champignons en sojasaus heb je geen vlees of kaas nodig!",
+        "emoji": "🥜"
+      }
+    },
+    {
+      "id": 15,
+      "intro": {
+        "title": "Eet jij veel eten dat per vliegtuig komt?",
+        "subtitle": "Voedsel dat de hele wereld over wordt gevlogen voelt als een van de grote problemen van ons voedselsysteem. Hoe zit dat precies?",
+        "emoji": "✈️"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Hoeveel procent van alle voedselkilometers worden per vliegtuig afgelegd? ✈️",
+          "subtitle": "",
+          "answerOptions": [
+            "23,8%",
+            "0,16%"
+          ],
+          "correctAnswer": "0,16%",
+          "explanationText": "Maar 0,16% - een heel klein deel - van ons eten komt per vliegtuig, alleen producten die heel kwetsbaar zijn en minder lang houdbaar. Het meeste komt per boot.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/transport-methods-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "De uitstoot van producten die per boot komen in plaats van per vliegtuig is... 🚢",
+          "subtitle": "",
+          "answerOptions": [
+            "50 keer lager",
+            "net zo groot"
+          ],
+          "correctAnswer": "50 keer lager",
+          "explanationText": "... 50 keer lager! Grote vrachtschepen zijn ook vervuilend maar er past ongelofelijk veel op. Daardoor is de uitstoot per product enorm laag. En hoe druk moeten we ons maken om ingevlogen eten vergeleken met het eten van vlees?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/emissions-of-transport-methods-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat heeft een lagere CO2 uitstoot?",
+          "subtitle": "neem van allebei 250 gram, kortom:",
+          "answerOptions": [
+            "Twee hamburgers 🍔",
+            "Vier porties ingevlogen sperziebonen ✈️"
+          ],
+          "correctAnswer": "Vier porties ingevlogen sperziebonen ✈️",
+          "explanationText": "Ingevlogen eten heeft een hoge footprint maar rundvlees scoort nog steeds veel hoger. Het pakje ingevlogen sperziebonen heeft een vergelijkbare footprint als dezelfde hoeveelheid kip.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/green-beans-and-meat-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Slechts een klein percentage van alle producten komt per vliegtuig",
+        "goal": "Vermijd die paar producten die per vliegtuig komen",
+        "impact": 2,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "De verrassing is dat de totale impact van ingevlogen voedsel klein is, want ook al is de uitstoot per product hoog, er zijn er maar weinig producten die per vliegtuig komen. Een paar van de meest ingevlogen producten zijn:\n\nIn de winter: Verse bessen van ver weg\n\nAsperges uit Peru\n\nSperziebonen, haricots verts en sugar snaps uit Kenia\n\nHet recept van de week is Bananen Curry, want bananen komen altijd van ver weg maar altijd per boot.",
+        "emoji": "🥜"
+      }
+    },
+    {
+      "id": 16,
+      "intro": {
+        "title": "Wat is het meest verspilde product van Nederland?",
+        "subtitle": "Project Drawdown heeft voedselverspilling op nummer drie staan als het om oplossingen gaat voor het verminderen van de uitstoot van broeikasgassen. Dus waar we moeten we vooral op letten?",
+        "emoji": "🗑"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Wat is wereldwijd het meest verspilde product als je kijkt naar verspilde calorieën?",
+          "subtitle": "",
+          "answerOptions": [
+            "Granen (bv. brood & pasta)",
+            "Groente en fruit"
+          ],
+          "correctAnswer": "Granen (bv. brood & pasta)",
+          "explanationText": "Wereldwijd bestaan 53% van alle verspilde calorieën uit granen. In Nederlandse huishoudens is brood ook het meest verspilde product als je kijkt naar het gewicht.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/voedselverspilling-op-basis-van-calorieen.png"
+        },
+        {
+          "id": 2,
+          "title": "Waar wordt het meeste brood verspild?",
+          "subtitle": "",
+          "answerOptions": [
+            "Supermarkten en bakkers",
+            "Huishoudens"
+          ],
+          "correctAnswer": "Huishoudens",
+          "explanationText": "In Nederland vindt de helft van alle broodverspilling bij ons thuis plaats. Bijvoorbeeld als broodkapjes niet worden gegeten of we oud brood weggooien.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/food-waste-at-different-stages-NL-1024x995.png"
+        },
+        {
+          "id": 3,
+          "title": "Als je naar de totale verspilde CO2 emissies kijkt, welk product heeft dan een hogere impact?",
+          "subtitle": "in totaal (onderzoek het het Verenigd Koninkrijk)",
+          "answerOptions": [
+            "Verspilde tarwe",
+            "Verspild rundvlees"
+          ],
+          "correctAnswer": "Verspilde tarwe",
+          "explanationText": "Rundvlees weggooien is natuurlijk nog steeds erger dan brood. Maar omdat we zoveel brood weggooien is de totale impact daarvan hoger dan van verspild rundvlees.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/top-10-food-waste-carbon-footprint-NL-1024x1024.png"
+        }
+      ],
+      "outro": {
+        "insight": "Het brood dat wij thuis weggooien is een groot onderdeel van de voedselverspilling",
+        "goal": "Wees niet kieskeurig over oud brood (en de kapjes)",
+        "impact": 4,
+        "impactReason": "(als onderdeel van alle voedselverspillingsacties)"
+      },
+      "outroRecipe": {
+        "title": "Het recept van de week is Marokkaanse Soep, waarbij je fantastisch oud brood kan gebruiken om  in de soep te dopen.",
+        "emoji": ""
+      }
+    },
+    {
+      "id": 17,
+      "intro": {
+        "title": "Plastic om komkommers: hoe erg is dat?",
+        "subtitle": "Dit is misschien wel dé doorn in het oog van de duurzame consument: in plastic verpakte komkommers. Driekwart van de mensen vindt deze verpakking overbodig. Maar hoeveel dragen verpakkingen bij aan klimaatverandering?",
+        "emoji": "🥒"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Hoeveel dagen langer blijft een komkommer in de winkel goed, met plastic?",
+          "subtitle": "",
+          "answerOptions": [
+            "2 dagen",
+            "13 dagen"
+          ],
+          "correctAnswer": "13 dagen",
+          "explanationText": "Een komkommer met plastic blijft 13-17 dagen langer houdbaar volgens een onderzoek uit Oostenrijk. Bij de niet-verpakte komkommers was de verspilling 9.4% en bij de verpakte komkommers 4.6%. Kortom, de verpakking zorgde voor de helft minder verspilling in de winkel.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/food-waste-vs-packaging-NL-2048x1485.png"
+        },
+        {
+          "id": 2,
+          "title": "Wat heeft een grotere CO2 impact om te produceren?",
+          "subtitle": "",
+          "answerOptions": [
+            "De plastic verpakking",
+            "De komkommer zelf"
+          ],
+          "correctAnswer": "De komkommer zelf",
+          "explanationText": "Verpakkingen maken bijna altijd het kleinste deel uit van de impact van voedsel. De impact van de komkommer ziet er hier heel groot uit maar in vergelijking met andere producten is deze nog steeds heel laag.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/cucumber-NL-2048x1832.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat veroorzaakt in totaal meer broeikasgassen?",
+          "subtitle": "",
+          "answerOptions": [
+            "Verpakkingen & transport bij elkaar",
+            "Voedselverspilling"
+          ],
+          "correctAnswer": "Voedselverspilling",
+          "explanationText": "Verpakkingen veroorzaken 5% en transport 6% van alle emissies van het voedselsysteem. Dat is nog steeds minder dan de helft van alle broeikasgassen die ontstaan door voedselverspilling (ca. 25%). Bron: https://ourworldindata.org/food-ghg-emissions",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/background-app.png"
+        }
+      ],
+      "outro": {
+        "insight": "Plastic verpakkingen kunnen voedselverspilling tegengaan en hebben daarom niet per se een negatieve impact",
+        "goal": "Koop de komkommer die jouw voorkeur heeft, met of zonder plastic",
+        "impact": 1,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Verpakkingen zijn een ingewikkeld thema. Plastic is vooral heel zichtbaar, helemaal bij een komkommer. Wat je niet ziet is de impact van de landbouw zelf - en daarmee de vermeden impact van voedselverspilling - en die is bijna altijd groter dan de verpakking.",
+        "emoji": "🥒"
+      }
+    },
+    {
+      "id": 18,
+      "intro": {
+        "title": "Zorgt soja-joghurt voor ontbossing?",
+        "subtitle": "Drie producten zijn verantwoordelijk voor 60% van alle ontbossing: rundvlees, palmolie en soja. Maar wat is precies de rol van soja? Is het nou wel of niet goed om soja-joghurt en tofu te eten?",
+        "emoji": "🔥"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Waarvoor wordt het meerendeel van alle soja gebruikt?",
+          "subtitle": "",
+          "answerOptions": [
+            "Olie",
+            "Veevoer",
+            "Vlees- en zuivelvervangers"
+          ],
+          "correctAnswer": "Veevoer",
+          "explanationText": "Het merendeel van de soja wordt gebruikt als veevoer, vooral voor kippen en varkens. Maar ook voor hoogproductieve melkkoeien, vooral relevant in Nederland.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/soy-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Wat is klimaatimpact van sojaproducten zoals tofu?",
+          "subtitle": "",
+          "answerOptions": [
+            "Hoger dan kip",
+            "Even groot als kip",
+            "Kleiner dan kip"
+          ],
+          "correctAnswer": "Kleiner dan kip",
+          "explanationText": "Zoals bijna altijd, heeft plantaardig voedsel een veel kleinere impact dan vlees. Dit is geen uitzondering voor soja.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/meat-vs-soy-NL-2048x1765.png"
+        },
+        {
+          "id": 3,
+          "title": "Komt de soja voor menselijke consumptie (tofu etc.) uit de Amazone?",
+          "subtitle": "",
+          "answerOptions": [
+            "Ja",
+            "Nee"
+          ],
+          "correctAnswer": "Nee",
+          "explanationText": "De meeste soja voor bijvoorbeeld soja-joghurt of tofu wordt niet in de Amazone verbouwd, maar op gecertificeerde boerderijen in Europa en Canada (Bron: NRC checkt - Draagt hipsterkoffie bij aan de ontbossing van de Amazone).",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/background-app.png"
+        }
+      ],
+      "outro": {
+        "insight": "de meeste soja wordt gebruikt om dieren te voeden, niet mensen",
+        "goal": "je kan vlees gerust vervangen door tofu",
+        "impact": 4,
+        "impactReason": "als onderdeel van minder vlees eten"
+      },
+      "outroRecipe": {
+        "title": "Lang verhaal kort: soja veroorzaakt ontbossing, maar dat komt vooral omdat het wordt gebruikt als veevoer om vlees te produceren. Sojaproducten zijn niet alleen een duurzame bron van eiwitten, maar ook een gezonde optie. De recepten van deze week staan in het teken van één heerlijk sojaproduct: sojasaus!",
+        "emoji": "🔥"
+      }
+    },
+    {
+      "id": 19,
+      "intro": {
+        "title": "Wat is de meest duurzame kaas? 🧀",
+        "subtitle": "Minder kaas eten is waarschijnlijk het moeilijkste onderdeel van minder dierlijke producten eten. Dus welke kaas is het beste voor het klimaat? En hoe past kaas in een duurzaam dieet?",
+        "emoji": "🧀"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Hoeveel melk is er nodig voor 1 kg harde kaas zoals Gouda?",
+          "subtitle": "",
+          "answerOptions": [
+            "4 liter",
+            "10 liter"
+          ],
+          "correctAnswer": "10 liter",
+          "explanationText": "Je hebt ca. 10 liter melk nodig voor 1 kg Gouda. Zachte kaas is minder dicht en bevat minder gram eiwit en vet, waardoor er ook minder melk nodig is om te produceren.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/background-app.png"
+        },
+        {
+          "id": 2,
+          "title": "Welke kaas heeft een lagere impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "zachte kaas",
+            "harde kaas"
+          ],
+          "correctAnswer": "zachte kaas",
+          "explanationText": "Zachte kaas heeft minder melk nodig en daardoor is de uitstoot dus ook lager. Moeten we Mozzarella kiezen in plaats van Gouda? Alleen als we van elke kaas altijd evenveel zouden eten.\n\n\\Maar dat is niet wat er in het echte leven gebeurt, omdat mensen de neiging hebben om grotere porties zachte kaas te eten.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/cheese-footprint-NL-2048x1765.png"
+        },
+        {
+          "id": 3,
+          "title": "Waarmee bespaar je meer CO2?",
+          "subtitle": "",
+          "answerOptions": [
+            "zachte kaas gebruiken",
+            "kleinere portiegroottes gebruiken"
+          ],
+          "correctAnswer": "kleinere portiegroottes gebruiken",
+          "explanationText": "In plaats van alleen naar CO2 per kg te kijken, moeten we CO2 per portie vergelijken. De conclusie is simpel maar krachtig: als we kazen gebruiken met een pittige smaak hebben we er minder van nodig en kunnen we daarmee onze impact verlagen.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/cheese-footprint-serving-size-NL-2048x2011.png"
+        }
+      ],
+      "outro": {
+        "insight": "de portiegrootte maakt het meeste uit, niet de soort kaas",
+        "goal": "gebruik kleinere hoeveelheden kaas en geniet ervan als luxeproduct",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Kaas heeft over het algemeen een hoge impact en net als vlees moeten we het zien als een luxeproduct. Dus snij kleine plakjes, vind recepten zonder kaas en rasp Parmezaanse kaas op de fijnste raspstructuur.\n\n\\Voor deze week hebben we een ongebruikelijke combinatie dat te oefenen: een Braziliaans recept met rijst, chips en wat Parmezaanse kaas om het af te maken.",
+        "emoji": "🧀"
+      }
+    },
+    {
+      "id": 20,
+      "intro": {
+        "title": "Hoe kun je anderen inspireren om minder vlees te eten?",
+        "subtitle": "Duurzaam eten zien we vaak als een individueel probleem. Maar we kunnen meer impact hebben door onze vrienden te inspireren dan zelf een perfect duurzaam dieet na te streven.",
+        "emoji": "💬"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Met welke actie kan de gemiddelde Nederlander meer CO2 besparen?",
+          "subtitle": "",
+          "answerOptions": [
+            "Rundvlees vervangen door kip en varkensvlees",
+            "1 dag in de week geen vlees eten"
+          ],
+          "correctAnswer": "Rundvlees vervangen door kip en varkensvlees",
+          "explanationText": "Rundvlees vervangen door kip en varkensvlees bespaart bijna twee keer zoveel CO2 als één dag in de week geen vlees! Helemaal geen vlees eten is natuurlijk nog beter maar rundvlees vervangen maakt al een heel groot verschil. Dit komt vooral doordat koeien methaan uitstoten en kippen en varkens niet.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/09/reduction-footprint-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Wat werkt beter om mensen te inspireren ergens aan te beginnen?",
+          "subtitle": "",
+          "answerOptions": [
+            "Shocking feiten",
+            "Kleine en 'veilige' stapjes"
+          ],
+          "correctAnswer": "Kleine en 'veilige' stapjes",
+          "explanationText": "Mensen worden niet geïnspireerd door negatieve feiten of door wetenschappers en politici. Mensen worden beïnvloed door hun vrienden en familie. Het beste werkt het aanbieden van een positieve oplossing die voor mensen 'veilig' voelt. Als de actie te rigoreus is steken mensen hun kop in 't zand.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/background-app.png"
+        },
+        {
+          "id": 3,
+          "title": "Hoeveel procent van een groep is er nodig om de status quo te veranderen?",
+          "subtitle": "",
+          "answerOptions": [
+            "12%",
+            "25%",
+            "45%"
+          ],
+          "correctAnswer": "25%",
+          "explanationText": "In een experiment moesten mensen samenwerken om overeenstemming te bereiken over een sociale norm. Iedereen zou geld krijgen om zich aan deze sociale norm te houden. Daarna vroegen ze een paar mensen om de norm te wijzigen die ze zojuist hadden afgesproken. Toen 25% van de leden om de verandering vroeg, stemde de hele groep ermee in om te veranderen, ondanks het feit dat de andere 75% veel meer zou krijgen als ze niet zouden veranderen.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/background-app.png"
+        }
+      ],
+      "outro": {
+        "insight": "anderen helpen rundvlees te vervangen, maakt een groter verschil dan je eigen keuzes perfectioneren",
+        "goal": "minstens één persoon overtuigen om rundvlees te vervangen door kip",
+        "impact": 4,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Maak je geen zorgen over de mensen die echt niet willen veranderen. Focus op je vrienden en familie die ervoor open staan. Elke persoon die meedoet, maakt een groot verschil totdat de beweging zich plotseling naar de rest van de groep verspreidt.\n\nWat ook goed werkt is voor mensen koken en als ze het lekker vonden ze daarna het recept te sturen (hint: er zit een deel knop bij de recepten 😉).",
+        "emoji": "💬"
+      }
+    },
+    {
+      "id": 21,
+      "intro": {
+        "title": "Is biologisch eten beter voor het klimaat?",
+        "subtitle": "Er zijn veel redenen om voor biologische producten te kiezen, voor je eigen gezondheid of vanwege dierenwelzijn. Maar is het nou ook beter voor het klimaat?",
+        "emoji": "🌱"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welke boerderij gebruikt minder land voor dezelfde hoeveelheid voedsel?",
+          "subtitle": "",
+          "answerOptions": [
+            "Biologisch",
+            "Industrieel"
+          ],
+          "correctAnswer": "Industrieel",
+          "explanationText": "Biologische landbouw heeft ongeveer 1,5 keer meer land nodig. Maar industriële landbouw beschadigd wel de bodem waardoor er op de lange-termijn minder vruchtbaar land overblijft.\n\n\nEen discussie over landgebruik moet trouwens ook een discussie over vlees bevatten. Rundvlees heeft namelijk 4 tot 30 keer meer land nodig dan noten, linzen en bonen. Dus als land niet de beperking zou zijn...",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/background-app.png"
+        },
+        {
+          "id": 2,
+          "title": "Welke boerderij heeft een lagere klimaat-impact?",
+          "subtitle": "bij gebruik van dezelfde oppervlakte",
+          "answerOptions": [
+            "Biologisch",
+            "Industrieel"
+          ],
+          "correctAnswer": "Biologisch",
+          "explanationText": "Biologische landbouw gebruikt geen kunstmest en dit bespaart een hoop energie en lachgas uitstoot (een enorm sterk broeikasgas). Daarnaast zorgt biologische landbouw beter voor de bodem waardoor er ondergronds CO2 kan worden opgeslagen (net als in een bos).",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/11/cacao-production.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Biologisch eten kopen maakt alleen een verschil als je...",
+          "subtitle": "",
+          "answerOptions": [
+            "het direct bij de boer koopt",
+            "ook minder vlees eet",
+            "het koopt zonder plastic verpakking"
+          ],
+          "correctAnswer": "ook minder vlees eet",
+          "explanationText": "...ook minder vlees eet! Een Franse studie toonde aan dat biologische producten je footprint verkleinen, maar dit gold alleen voor mensen die minder vlees aten.\n\n\nEr is niet genoeg ruimte om ons huidige voedingspatronen om te zetten naar biologisch. Maar als we minder vlees eten EN biologisch eten kopen, is er voldoende land beschikbaar en kunnen we meer zorg dragen voor de bodem.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/09/land-use-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "biologisch voedsel kan je impact verkleinen (als je ook minder vlees eet)",
+        "goal": "start met biologisch brood, pasta, appels, bananen (want daar eten we heel veel van)",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "We moeten ons hele voedselsysteem veranderen en het kopen van biologisch voedsel is een geweldige investering in de bodem, wat beter is voor de biodiversiteit en ook CO2 opslaat. Als je minder vlees eet en je budget het toelaat, kan biologisch eten je impact verkleinen. Daarnaast laat het boeren zien dat mensen bereid zijn meer te betalen voor duurzame producten.",
+        "emoji": "👩‍🌾👨‍🌾"
+      }
+    },
+    {
+      "id": 22,
+      "intro": {
+        "title": "Hoe duurzaam is die chocoladeletter?",
+        "subtitle": "We zullen alvast verklappen dat kruidnoten een lagere impact hebben dan chocolade (want kruidnoten bestaan vooral uit tarwe en suiker). Maar hoe zit het met de klimaatimpact van cacao?",
+        "emoji": "🍫"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Een reep chocolade heeft soms een hogere impact dan een biefstuk",
+          "subtitle": "",
+          "answerOptions": [
+            "waar",
+            "niet waar"
+          ],
+          "correctAnswer": "waar",
+          "explanationText": "Er zit een enorm grote variatie in de impact van chocolade. Het gaat van -4 kg CO2 tot vijf keer meer dan rundvlees!\n\nGelukkig ligt de impact van de meeste chocolade lager dan kip (het gemiddelde is wel hoog maar de mediaan niet, weet je nog van statistiek?)",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/11/cacao.png"
+        },
+        {
+          "id": 2,
+          "title": "Wat veroorzaakt de grote CO2 impact van chocolade?",
+          "subtitle": "",
+          "answerOptions": [
+            "Transport",
+            "Landgebruik",
+            "Productie"
+          ],
+          "correctAnswer": "Landgebruik",
+          "explanationText": "Landgebruik: in veel gebieden wordt bos gekapt om plaats te maken voor cacao plantages. Grote chocolade bedrijven hebben vaak geen toezicht waar de cacao precies vandaan komt.\n\nDit zorgt er voor dat naast ontbossing ook kinderarbeid gewoon door kan gaan. Daarom kun je het beste kleine merken kopen die direct in contact met de boer staan.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/11/cacao-production.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Wat is een duurzamere keuze?",
+          "subtitle": "Hint: in beiden is evenveel cacao verwerkt",
+          "answerOptions": [
+            "200 g melk chocolade",
+            "100 g pure chocolade"
+          ],
+          "correctAnswer": "100 g pure chocolade",
+          "explanationText": "\nIn beide zit ongeveer evenveel cacao, maar bij pure chocolade komt er geen melk aan te pas en dat kan flink schelen (13,5% - 70% minder CO2).\n\nMisschien nog wel belangrijker: met een stuk pure chocolade doe je waarschijnlijk langer omdat je door de intense smaak niet alles in één keer opeet.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/background-app.png"
+        }
+      ],
+      "outro": {
+        "insight": "chocolade is een luxeproduct en zorgt voor ontbossing",
+        "goal": "koop pure chocolade van kleine merken (en sowieso Fairtrade)",
+        "impact": 2,
+        "impactReason": "(chocolade heeft een relatief hoge impact maar we eten er veel minder van dan vlees of zuivel)"
+      },
+      "outroRecipe": {
+        "title": "Je hoeft chocolade niet op te geven als je duurzaam wil eten. Het belangrijkste is dat we het zien als luxeproduct en er dus ook eerlijk voor betalen.\n\n\nDus geen gigantische chocoladeletters voor de laagste prijs maar extra genieten van een luxe en pure chocoladereep. Dat is is gezonder, lekkerder en duurzamer.\n\n\nNet als vlees en zuivel kun je chocolade het beste niet in de supermarkt kopen maar bij speciaalzaakjes of biowinkels met kleinere merken die direct in contact staan met de cacaoboeren.",
+        "emoji": "🍫"
+      }
+    },
+    {
+      "id": 23,
+      "intro": {
+        "title": "De impact van vis",
+        "subtitle": "Labels over 'duurzame vis' zijn vaak best wel misleidend of ingewikkeld, dus hoe kun je duurzame vis keuzes maken?",
+        "emoji": "🐟"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welke vis heeft de laagste milieu-impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "haring",
+            "zalm",
+            "tonijn"
+          ],
+          "correctAnswer": "haring",
+          "explanationText": "Haring is een veel kleinere vis en daarom een betere keuze.\n\nDe CO2 impact van vis is ongeveer vergelijkbaar met kip. Alleen naar CO2 kijken kan bij vis wel misleidend zijn omdat er ook veel andere problemen spelen, zoals overbevissing. Ook in dat opzicht is haring een duurzamere keuze.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/co2-of-fish.png"
+        },
+        {
+          "id": 2,
+          "title": "Wat is het grootste probleem met zalm en tonijn?",
+          "subtitle": "",
+          "answerOptions": [
+            "Ze leven in zout water",
+            "Ze eten andere vis",
+            "Ze zwemmen heel snel"
+          ],
+          "correctAnswer": "Ze eten andere vis",
+          "explanationText": "Zalm en tonijnen eten andere vis en zijn dus carnivoor. Ze zitten hoog op de voedselketen waardoor hun rol in het ecosysteem extra belangrijk, maar daardoor ook, kwetsbaar is.\n\nOmdat je zalm moet voeren met andere vis is er voor een stuk (gekweekte) zalm bijna twee keer zoveel vis nodig. Het is dus veel duurzamer om kleinere vissen te eten.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/see-food-chain.png"
+        },
+        {
+          "id": 3,
+          "title": "Welke van deze is een duurzame keuze?",
+          "subtitle": "",
+          "answerOptions": [
+            "Oesters en mosselen",
+            "Garnalen"
+          ],
+          "correctAnswer": "Oesters en mosselen",
+          "explanationText": "Oesters en mosselen zijn een super keuze! Ze hebben altijd een lage impact. Garnalen hebben juist een van de hoogste impact omdat hiervoor mangrove bossen worden gekapt of grote netten over de zeebodem worden gesleept.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/co2-of-fish-2.png"
+        }
+      ],
+      "outro": {
+        "insight": "vis heeft een vergelijkbare impact als kip",
+        "goal": "koop kleinere vissen (haring, ansjovis) of mosselen en oesters",
+        "impact": 2,
+        "impactReason": "(we eten in Nederland niet heel veel vis dus dat maakt de impact ook iets lager)"
+      },
+      "outroRecipe": {
+        "title": "Vis heeft een vergelijkbare impact als kip. Het is dus een duurzamere keuze dan rood vlees of zuivel, maar er zit wel veel variatie in de impact van vis.\n\nDe beste keuze is om vis- en schaaldieren minder hoog op de voedselketen te eten. Dus minder tonijn, minder zalm en juist meer kleinere opties. Vooral mosselen, oesters en zeewier zijn een goede keuze.\n\nDe rivierkreeft is zelfs een plaag waarvan we het beste zoveel mogelijk kunnen eten! Kijk voor meer info op www.goodfish.nl",
+        "emoji": "🦞"
+      }
+    },
+    {
+      "id": 24,
+      "intro": {
+        "title": "Margarine vs. Boter",
+        "subtitle": "Margarine is gemaakt van palm olie maar boter komt van koeien. Dus welke kun je het beste kiezen?",
+        "emoji": "🥞"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welke heeft een lagere impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "Boter",
+            "Margarine"
+          ],
+          "correctAnswer": "Margarine",
+          "explanationText": "Boter heeft per kg zelfs een hogere impact dan varkensvlees! Maar dit is niet het hele plaatje...",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/butter-and-margarine-carbon-footprint-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Hoeveel boter eten we per jaar?",
+          "subtitle": "(gemiddeld per persoon in Europa en de VS)",
+          "answerOptions": [
+            "0,2 kg",
+            "3,3 kg",
+            "15,8 kg"
+          ],
+          "correctAnswer": "3,3 kg",
+          "explanationText": "3,3 kg. In Frankrijk, Zweden en Duitsland eet men de meeste boter, namelijk 6-7 kg. Maar zelfs dat is lager dan de hoeveelheid andere zuivelproducten (vooral melk, kaas, yoghurt) en vlees.\n\nDat betekent dat de TOTALE impact van boter erg laag is vergeleken met vlees en andere zuivelconsumptie.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/Total-carbon-footprint-butter-and-margarine-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Welk broodje heeft een lagere CO2 impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "Margarine en kip 🍗",
+            "Boter en kaas 🧀"
+          ],
+          "correctAnswer": "Margarine en kip 🍗",
+          "explanationText": "Ai, wat een onplezierige verassing voor kaasliefhebbers.\n\nAls iets van een koe komt, heeft het vaak een hogere impact dan andere voedselproducten. De reden hiervoor is dat koeien veel land nodig hebben (voor de teelt hun voedsel) en ze methaan boeren.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/sandwiches-butter-and-margarine.png"
+        }
+      ],
+      "outro": {
+        "insight": "margarine is duurzamer dan boter",
+        "goal": "kies margarine als standaard optie en gun jezelf soms wat boter",
+        "impact": 1,
+        "impactReason": "(we eten vrij weinig boter, dus het vervangen maakt een relatief klein verschil)"
+      },
+      "outroRecipe": {
+        "title": "De totale hoeveelheid boter die we eten is veel kleiner dan onze vlees, melk en kaasconsumptie. Dus voel je niet te schuldig als je boter eet.\n\nMaar als je er echt voor gaat, is boter vervangen door margarine een duurzamere keuze omdat de impact van margarine drie keer lager is.\n\nDeze quiz dekte niet de andere impact types zoals water- en landgebruik, maar in dat geval is de uitkomst hetzelfde: margarine scoort veel beter. Maar hoe zit het dan met palmolie? Dat is een onderwerp voor een andere keer.",
+        "emoji": "🥞"
+      }
+    },
+    {
+      "id": 25,
+      "intro": {
+        "title": "Duurzaam Kerstmis",
+        "subtitle": "We kennen het allemaal wel van de liedjes: it’s the most wonderful time of the year. Maar bij kerst horen ook minder duurzame tradities, van Beef Wellington tot kerstverlichting. Dus, wat zijn een paar makkelijke manier om klimaatvriendelijk Kerstmis te vieren?",
+        "emoji": "🎄"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welke van deze heeft de laagste impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "Kerststol",
+            "Kaasfondue",
+            "Kerstboom"
+          ],
+          "correctAnswer": "Kerstboom",
+          "explanationText": "Verrast? De boom is natuurlijk echt plantaardig 😉 en heeft maar weinig ruimte nodig om te groeien.\n\nDe kerststol bevat eieren, melk, boter, amandelen en suiker en al deze producten vragen flink wat ruimte en hebben daarmee meer impact.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/christmas-tree-vs-food-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Hoeveel neemt afval toe tijdens Kerstmis?",
+          "subtitle": "al het afval",
+          "answerOptions": [
+            "ca. 11%",
+            "ca. 25%",
+            "ca. 40%"
+          ],
+          "correctAnswer": "ca. 25%",
+          "explanationText": "Afval neemt 25-30% toe tijdens Kerstmis... Mensen gebruiken veel cadeaupapier, maar het ergste soort afval is voedselverspilling. In Nederland gooit men alleen tijdens kerst voedsel ter waarde van 124 miljoen euro weg.\n\nEat food, not too much, mostly plants. En eet alle restjes.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Welke actie bespaart de meeste emissies?",
+          "subtitle": "",
+          "answerOptions": [
+            "Low waste en vegetarisch kerstdiner",
+            "Geen ongewenste cadeautjes kopen"
+          ],
+          "correctAnswer": "Geen ongewenste cadeautjes kopen",
+          "explanationText": "Dit was een beetje een strikvraag: één maaltijd maakt een kleiner verschil dan één ongewenst cadeautje, maar een heel jaar minder vlees eten maakt een heel groot verschil.\n\nDit onderzoek uit het VK kwam ook tot de conclusie dat het hebben van extravagante kerstverlichting enorm veel effect heeft op je totale impact.\n\nDus, deze grafiek vertelt ons hetzelfde verhaal als altijd: eet minder vlees, gebruik een fiets of OV en stop met het kopen van zoveel spullen.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/Christmas-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "ook al maakt één maaltijd niet zo’n grote verschil, toch doen alle maaltijden samen dat wel",
+        "goal": "geniet van Kerstmis en voel je niet schuldig, het maakt vooral uit wat je de rest van het jaar doet",
+        "impact": 5,
+        "impactReason": "(plezier hebben is belangrijk voor een duurzaam leven)"
+      },
+      "outroRecipe": {
+        "title": "Kerstmis is echt een bijzondere tijd van het jaar. De aandacht voor familie en goed eten kan ons weer even eraan herinneren wat echt belangrijk is in het leven. Kerst kan echt goed voor ons zijn als we het los kunnen breken van al dat consumeren.\n\nHet belangrijkste advies is om geen ongewenste cadeautjes te kopen. Geef iemand een ervaring of een goed boek. Wist je dat er ook een Fork Ranger kookboek is?😜\n\nGa naar forkranger.nl voor het boek en een uitgebreidere blog post over Kerstmis.",
+        "emoji": "🎄"
+      }
+    },
+    {
+      "id": 26,
+      "intro": {
+        "title": "En alcohol dan?",
+        "subtitle": "Wauw, het is (bijna) 2022. Tijd voor een feestje! Helaas is het ook een tijd waarin veel mensen een paar drankjes te veel op hebben. Een goed moment dus om te kijken naar de duurzaamheid van de meest populaire drug.",
+        "emoji": "🍷"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welke van deze drankjes heeft de laagste CO2 impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "🍺 Een biertje (330 ml)",
+            "🍷Een glas wijn (150 ml)"
+          ],
+          "correctAnswer": "🍷Een glas wijn (150 ml)",
+          "explanationText": "Wijn heeft een grotere impact per liter, maar een glas wijn is meestal half zo groot als een biertje.\n\nAls referentie hebben we er ook nog een glas melk bij gedaan. De impact van zowel wijn als bier is nog steeds lager dan die van een glas melk - wat niet betekent dat je elke keer wijn of bier moet vervangen door melk 😉.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/milk-beer-wine-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Wat is er anders aan een fles wijn in vergelijking met de impact van de meeste andere voedingsmiddelen?",
+          "subtitle": "",
+          "answerOptions": [
+            "De uitstoot van transport en verpakking is hoog",
+            "De uitstoot van landbouw is hoog"
+          ],
+          "correctAnswer": "De uitstoot van transport en verpakking is hoog",
+          "explanationText": "Landbouw is bijna altijd veruit de grootste impact van een voedingsproduct. Maar als het om wijn gaat, is het anders. Het is een vloeistof, daardoor vrij zwaar en de glazen fles weegt ook veel. Dat maakt wijn een uitzondering: de uitstoot van transport en verpakking is hoog.\n\nOok het wegtransport van dit zware ‘voedings’product zorgt voor behoorlijk wat uitstoot, terwijl het verschepen van wijn veel minder uitstoot. Door de grote afstanden over zee hebben de Europese wijnen echter nog steeds een 10-20% lagere impact in vergelijking met de Zuid-Amerikaanse of Australische wijnen (ervan uitgaande dat je in Europa woont).",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Laten we gezellig tafelen! Welke heeft een lagere impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "Een fles wijn",
+            "Risotto voor 4 personen"
+          ],
+          "correctAnswer": "Een fles wijn",
+          "explanationText": "De fles wijn heeft een lagere impact! De helft van de uitstoot van de risotto komt door veel boter en wat Parmezaanse kaas. Dit is trouwens de impact van de venkel risotto uit de recepten van deze week.\n\nEr zijn zeker maaltijden met een kleinere impact, maar het is meer dan vier keer beter dan een spaghetti bolognese met 400 g rundvlees!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/wine-and-risotto-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "De impact van bier en wijn is niet heel groot, maar verpakking en transport spelen een grote rol",
+        "goal": "Drink verantwoord, geef de voorkeur aan lokale bieren en wijnen en recycle je flessen",
+        "impact": 1,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Omdat bier en wijn vloeistoffen zijn en in flessen worden geleverd, zijn ze behoorlijk zwaar en speelt transport een grotere rol dan normaal. Maar het is het wegvervoer dat telt. Scheepvaart per boot heeft doorgaans een lagere impact. Behalve als de afstanden erg groot zijn, zoals vanuit Australië, Chili en Argentinië.\n\nDus als je een lokale brouwerij of wijnmaker kent, is dat een goede optie. Maar als je een fles van halverwege de wereld krijgt, is dat niet erg. Zorg er maar beter voor dat je het niet naast een Braziliaanse steak drinkt 😉.",
+        "emoji": "🍷"
+      }
+    },
+    {
+      "id": 27,
+      "intro": {
+        "title": "Is filterkoffie duurzamer dan pads?",
+        "subtitle": "Welkom in 2022! Hoog tijd om nieuwe plannen te maken (we hebben er heel wat voor Fork Ranger) en goede voornemens. Zou minder koffie drinken er ook eentje moeten zijn?",
+        "emoji": "☕"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welke van deze twee heeft een lagere impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "Thee",
+            "Koffie"
+          ],
+          "correctAnswer": "Thee",
+          "explanationText": "Thee is ten minste drie keer duurzamer dan koffie! De impact van thee is zo laag dat het meeste van de CO2 door het koken van het water komt. Dus laten we inzoomen op koffie.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Waardoor worden de meeste emissies van koffie veroorzaakt?",
+          "subtitle": "",
+          "answerOptions": [
+            "Koffiebonen verbouwen",
+            "Verpakking",
+            "Stroom voor het brouwen van koffie"
+          ],
+          "correctAnswer": "Koffiebonen verbouwen",
+          "explanationText": "Zoals vaak is het verbouwen van het voedsel hetgeen dat de meeste emissies uitstoot. Daarom is er een belangrijke conclusie: het verspillen van koffie is veel schadelijker dan de extra verpakkingen. De totale uitstoot van verspilde koffie in het Verenigd Koninkrijk is zelfs hoger dan alle emissies van een heel Formule 1 seizoen!🤯\n\nDit verrassende feit maakte ons ook nieuwsgierig naar hoe we deze verspilling kunnen voorkomen. Een Amerikaanse studie vond dat in bijna alle gevallen, cups en pads duurzamer zijn dan filter systemen omdat het makkelijker is om de juiste hoeveelheid koffie per persoon te zetten.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Laten we nu eens naar cappuccino kijken. Welk ingrediënt veroorzaakt de meeste uitstoot?",
+          "subtitle": "",
+          "answerOptions": [
+            "Espresso",
+            "Melk"
+          ],
+          "correctAnswer": "Melk",
+          "explanationText": "Een cappuccino bestaat uit één espresso van 25 ml en 85 ml melk. Dit betekent dat de melk emissies vrij hoog zijn. Het vervangen van koemelk door havermelk kan de impact van een cappuccino halveren.\n\nZelfs dan, koffie drinken heeft nou eenmaal een flinke impact. Over een heel jaar zijn de emissies van het drinken van 1 cappuccino en 2 koffies per dag vergelijkbaar met het eten van 2,5 kipfilets per week!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/coffee-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Koffie heeft een relatieve hoge impact omdat we er zo veel kopjes van drinken",
+        "goal": "Drink minder koffie (vooral cappuccinos) en meer thee",
+        "impact": 2,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Koffie is een gecompliceerd product met aardig wat issues rondom klimaatverandering, landgebruik en arbeidsomstandigheden. Net als chocolade en vlees is het een luxeproduct dat we voor ons heel gewoon is geworden in ons leven. Misschien een beetje te gewoontjes?\n\nDoor de hoeveelheid koffie die we drinken te verminderen, kunnen we een betere kwaliteit kopen en er meer van genieten. En zwarte thee is trouwens een goede vervanger voor wat caffeïne 😉",
+        "emoji": "☕"
+      }
+    },
+    {
+      "id": 28,
+      "intro": {
+        "title": "Hoe kun je duurzaam avocado's eten?",
+        "subtitle": "Avocado’s zijn waarschijnlijk ‘s werelds meest controversiële vrucht. Is er een manier hoe we ze duurzaam kunnen eten?",
+        "emoji": "🥑"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welke van deze types impact is vooral relevant voor avocado’s?",
+          "subtitle": "",
+          "answerOptions": [
+            "CO2 emissies",
+            "Watergebruik"
+          ],
+          "correctAnswer": "Watergebruik",
+          "explanationText": "Ook al is de CO2 impact van avocado’s hoger dan die van bananen of ananas, toch is dat niet het voornaamste om ons druk over te maken.\n\nHet meest belangrijke is dat avocado’s heel erg dorstige planten zijn. Dit is niet automatisch een probleem want het hangt voornamelijk af van hoe droog te regio is. In Mexico - waar de meeste avocado’s vandaan komen - is watergebruik zeker wel een issue.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/avocado-water-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Avocado’s hebben een hogere impact dan andere tropische vruchten doordat ze...",
+          "subtitle": "",
+          "answerOptions": [
+            "veel land innemen om ze te verbouwen",
+            "van Mexico naar Europa getransporteerd worden"
+          ],
+          "correctAnswer": "veel land innemen om ze te verbouwen",
+          "explanationText": "...veel land innemen om ze te verbouwen. Er is veel meer land nodig dan bij andere vruchten zoals bananen, ananas of mango. Trouwens, avocado’s vragen trouwens nog steeds 7 keer minder land dan rundvlees (RIVM). In Mexico, is het vooral een probleem dat avocado’s het beste in groeien in bosgebieden, wat tot ontbossing leidt.\n\nZe worden per schip naar Europa getransporteerd, maar die emissies zijn vrij laag.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/avocado-land-use-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat is waar?",
+          "subtitle": "",
+          "answerOptions": [
+            "Drugsbendes verdienen geld aan avocado’s",
+            "Avocado boeren ervaren moderne slavernij"
+          ],
+          "correctAnswer": "Drugsbendes verdienen geld aan avocado’s",
+          "explanationText": "Veel boeren in tropische landen worden niet voldoende betaald voor hun producten (bijvoorbeeld koffie of ananas). Maar met avocado’s kunnen boeren goed geld verdienen.\n\nDit is ook de drugsbendes niet ontgaan. Zij zijn avocadoplantages gaan beïnvloeden en boeren bedreigen. Leer meer hierover in de Netflix serie ‘Rotten’ 🎬.",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Avocado is een van de meest problematische plantaardige producten",
+        "goal": "Gebruik avocado’s voor Mexicaanse gerechten (in plaats van een of meerdere keren per week)",
+        "impact": 2,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "De avocado is niet het enige tropische fruit met sociale en milieu issues en tegelijkertijd veroorzaakt vlees nog steeds veel meer schade. Maar veel van deze issues van het voedselsysteem worden zichtbaar bij de avocado.\n\nWe hoeven avocado’s niet helemaal te bannen, maar het is zinvol om ze met mate te eten. Onze aanpak is om ze ongeveer 1-2 keer per maand te eten - dat is trouwens het Nederlandse gemiddelde - en ze alleen te gebruiken in Mexicaanse recepten. Eigenlijk als een eerbetoon. Bijvoorbeeld zoals in de Black Bean Fajitas van deze week.\n\nGa naar onze blog om meer te leren over dit thema (forkranger.com)",
+        "emoji": "🥑"
+      }
+    },
+    {
+      "id": 29,
+      "intro": {
+        "title": "Hoe belangrijk is het om met het seizoen te eten?",
+        "subtitle": "Stel je voor: het is winter en je wilt iets maken met sperziebonen. Zijn ze in het seizoen? Wat is de beste manier om ze te kopen? En maakt het überhaupt uit of iets in het seizoen is of niet?",
+        "emoji": "🌱"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Wanneer zijn sperziebonen in het seizoen in Nederland?",
+          "subtitle": "",
+          "answerOptions": [
+            "April - Juni",
+            "Juli - September",
+            "October - November"
+          ],
+          "correctAnswer": "Juli - September",
+          "explanationText": "In Nederland worden sperziebonen alleen in de zomer verbouwd. Maar het seizoen van een product hangt natuurlijk af van de locatie. Sperziebonen in Marokko zijn in het seizoen van October en Juni. En in Californië worden ze van Maart tot November verbouwd.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Wat is de betere keuze voor sperziebonen buiten het seizoen? ",
+          "subtitle": "Ga ervan uit dat je in Nederland bent",
+          "answerOptions": [
+            "Lokaal, geteeld in een kas",
+            "Geimporteerd uit Spanje, geteeld op een akker"
+          ],
+          "correctAnswer": "Geimporteerd uit Spanje, geteeld op een akker",
+          "explanationText": "Sperziebonen uit Spanje hebben extra emissies door het vervoer, maar het vervoer kost een hoop minder emissies dan het verwarmen van kassen in Nederland!\n\nDat betekent dat het het belangrijkste is of iets in het seizoen is daar waar het wordt verbouwd, niet waar het wordt gegeten.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/green-beans-seasonal-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Laten we nu eens kijken naar spinazie buiten het seizoen. Wat is de betere keuze? ",
+          "subtitle": "",
+          "answerOptions": [
+            "Vers, geteeld in een kas",
+            "Uit de diepvries, geteeld in het seizoen"
+          ],
+          "correctAnswer": "Uit de diepvries, geteeld in het seizoen",
+          "explanationText": "En alweer: het is de energie die nodig is om de spinazie te telen die de meeste emissies veroorzaakt.\n\nAls vergelijking hebben we kip in deze grafiek opgenomen - het vlees met de laagste impact. De conclusie voor de CO2 impact is duidelijk: minder vlees eten maakt nog steeds een veel groter verschil dan eten met het seizoen.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/spinach-seasonal-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Het belangrijkste is of iets in het seizoen is daar waar het wordt verbouwd, niet waar het wordt gegeten.",
+        "goal": "Als je twijfelt, koop het product uit de diepvries",
+        "impact": 1,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Natuurlijk is eten met het seizoen en lokaal de beste optie. Maar de belangrijkste informatie is hoe iets verbouwd is, en dit kan best lastig zijn om te weten. De emissies van het verwarmen van kassen zijn veel hoger dan die van het importeren of invriezen van hetzelfde voedsel. Uit de diepvries is altijd een veilige keuze als je twijfelt.\n\nUiteindelijk is met het seizoen eten altijd een goede keuze. Maar het is niet altijd eenvoudig en rechtlijnig dus maakt je er niet te druk over en verlies daarbij het belangrijkere doel van het verminderen van vlees en zuivel niet uit het oog.",
+        "emoji": "❄️"
+      }
+    },
+    {
+      "id": 30,
+      "intro": {
+        "title": "Een verrassend weetje over melk",
+        "subtitle": "Je hebt waarschijnlijk wel gehoord dat rundvlees een hoge impact heeft, maar wat zegt dat over een ander product van koeien? Laten we eens naar melk kijken met deze drie vragen.",
+        "emoji": "🥛"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "De impact van een glas melk is vergelijkbaar met...",
+          "subtitle": "(200 ml)",
+          "answerOptions": [
+            "1 plak kaas",
+            "1 ei",
+            "1 banaan"
+          ],
+          "correctAnswer": "1 plak kaas",
+          "explanationText": "1 plak kaas. Voor hetzelfde gewicht is de impact van melk niet zo extreem hoog, maar we consumeren vaak grote ‘melk porties’ en we gebruiken melk op dagelijkse basis.\n\nAls je bijvoorbeeld elke dag 1 glas melk drinkt zou dat 200 kg CO2 veroorzaken. Dat is vergelijkbaar met het eten van 1 hamburger per week!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/milk-footprint-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Welke van deze veroorzaakt meer CO2 emissies voor melk?",
+          "subtitle": "",
+          "answerOptions": [
+            "verpakking",
+            "transport",
+            "verspilling in huishoudens"
+          ],
+          "correctAnswer": "verspilling in huishoudens",
+          "explanationText": "Het voorkomen van verspilde melk is een grote uitdaging omdat melk zo snel bederft. Verspilde melk is ongeveer 10% van alle gedronken melk in Nederland terwijl verpakkingen en transport elk maar 3-4% van de melk impact zijn.\n\nHier is een verrassend weetje dat we beloofd hadden: de emissies van alle verspilde melk in Engelse huishoudens is veel meer dan alle emissies van een heel Formule 1 seizoen!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/milk-waste-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat maakt een groter verschil?",
+          "subtitle": "om CO2 uitstoot te verminderen",
+          "answerOptions": [
+            "De helft minder melk consumeren",
+            "Overstappen naar plantaardige melk"
+          ],
+          "correctAnswer": "Overstappen naar plantaardige melk",
+          "explanationText": "Alle plantaardige opties hebben een CO2 impact die ongeveer 1/3 van de die van koemelk is. Dus je kan of je melk consumptie met twee derde verminderen of naar plantaardige alternatieven overstappen. Het is goede ambitie om koemelk voor dagelijks gebruik te vervangen.\n\nSojamelk is een goede algemene vervanger voor bakken en koken vanwege de structuur en de eiwitten. Havermelk is een populaire optie voor cappuccino omdat het goed schuimt. En ondanks de grote hoeveelheid water die nodig is voor amandelmelk, is de meeste amandelmelk nog steeds duurzamer dan koemelk.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/different-milks-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Melk heeft een relatief hoge impact als je het op een dagelijkse basis gebruikt",
+        "goal": "Voorkom verspilling en stap over naar plantaardige melk voor dagelijkse gewoontes",
+        "impact": 3,
+        "impactReason": "(als onderdeel van het verminderen van zuivelconsumptie)"
+      },
+      "outroRecipe": {
+        "title": "Melk is naast rundvlees een ander product van koeien dat ook een relatief hoge impact heeft, vooral omdat we veel melk gebruiken in een portie en we best wel veel verspillen.\n\nOnze conclusie is dus dat melk niet iets is voor dagelijkse consumptie. Dus begin waar het makkelijk is: als je havermout maakt met melk, of elke dag een cappuccino drinkt, maakt het vinden van een plantaardig alternatief een groot verschil.",
+        "emoji": "🐮"
+      }
+    },
+    {
+      "id": 31,
+      "intro": {
+        "title": "Wat je over palmolie moet weten",
+        "subtitle": "Palmolie is werelds meest gebruikte olie and heeft een hele slechte reputatie. Laten we eens kijken waarom.",
+        "emoji": "🌴"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welk product bevat palmolie?",
+          "subtitle": "(200 ml)",
+          "answerOptions": [
+            "Margarine",
+            "Koekjes",
+            "IJs",
+            "Alle bovenstaande"
+          ],
+          "correctAnswer": "Alle bovenstaande",
+          "explanationText": "Palmolie is een soort magisch ingrediënt omdat het zo veelzijdig is. Meer dan de helft van alle verpakte producten in de supermarkt bevat palmolie.\n\nOndanks het feit dat palmolie in bijna alles zit - van tandpasta tot koekjes - wordt de meeste palmolie in Azië en Afrika gebruikt om te koken.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Wat is het hoofdprobleem rondom palmolie?",
+          "subtitle": "",
+          "answerOptions": [
+            "Ontbossing",
+            "Hoog waterverbruik",
+            "Pesticiden"
+          ],
+          "correctAnswer": "Ontbossing",
+          "explanationText": "84% van alle palmolie komt uit Indonesië en Maleisië waar regenwoud wordt gekapt om plaats te maken voor plantages.\n\nEr is een label voor duurzame palmolie (RSPO) maar de keten is zo ingewikkeld dat het lastig is om te weten wat nou echt duurzaam is.\n\nAlsnog blijft het belangrijk dat wij bereid zijn om meer te betalen voor duurzame oplossingen. Wat kunnen we nog meer doen?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/rspo-logo.png"
+        },
+        {
+          "id": 3,
+          "title": "Als je palmolie vervangt door andere olie is er...",
+          "subtitle": "(per kg olie)",
+          "answerOptions": [
+            "meer land nodig",
+            "minder land nodig"
+          ],
+          "correctAnswer": "meer land nodig",
+          "explanationText": "Meer land nodig. Het is verreweg de meest efficiënte olieplant. Dus als je palmolie zou vervangen door andere producten is er veel meer land nodig en verschuif je het probleem naar andere gebieden.\n\nWat we wel kunnen doen is minder bewerkt voedsel kopen want dat is waar palmolie vooral wordt gebruikt: ijs, koekjes, pizza, kant-en-klare maaltijden.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/palm-oil-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Palmolie vervangen door andere olie zou het probleem alleen verplaatsen",
+        "goal": "Eet minder bewerkt eten en betaal meer voor duurzame opties",
+        "impact": 2,
+        "impactReason": "(als onderdeel van minder bewerkt eten kopen)"
+      },
+      "outroRecipe": {
+        "title": "Palmolie is een geval waar overheden en bedrijven de productie moeten verduurzamen omdat vervangen vaak niet de juiste oplossing is.\n\nHet hoge aantal producten in de supermarkt waar palmolie in zit getuigt van de hoeveelheid bewerkt eten in onze samenleving. Wat we als individuen kunnen doen is minder kant-en-klare maaltijden en pakjes kopen en vaker koken met onbewerkte ingrediënten. Dat is niet alleen gezonder maar ook lekkerder :-)",
+        "emoji": "🌴"
+      }
+    },
+    {
+      "id": 32,
+      "intro": {
+        "title": "Eet lokaal, maar om een andere reden dan je denkt",
+        "subtitle": "Als het over duurzaam eten gaat horen we vaak over lokaal voedsel. Maar waarom is dit belangrijk?",
+        "emoji": "📍"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welke type spinazie heeft een hogere impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "1500 km vervoerd per vrachtwagen",
+            "Lokaal verbouwd in een verwarmde kas"
+          ],
+          "correctAnswer": "Lokaal verbouwd in een verwarmde kas",
+          "explanationText": "Voedselkilometers hebben alleen een hoge impact als het product per vliegtuig vervoerd wordt. En dat gebeurt nauwelijks, maar voor 0,16% van alle voedselkilometers.\n\nEen kas verwarmen veroorzaakt over het algemeen meer emissies dan transport. Dus lokaal voedsel is niet automatisch duurzaam voedsel.\n\nDus als voedselkilometers niet echt uitmaken, is er dan een andere reden om lokaal voedsel te kiezen?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/spinach-local-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Hoeveel soorten appels zijn er?",
+          "subtitle": "",
+          "answerOptions": [
+            "800",
+            "2300",
+            "7500"
+          ],
+          "correctAnswer": "7500",
+          "explanationText": "Er zijn zoveel soorten appels, maar de meeste supermarkten in de wereld hebben allemaal dezelfde Granny Smith en Golden Delicious appels.\n\nDus bezoek eens een boerenmarkt. Lokaal voedsel stimuleert diversiteit in plaats van dat alles hetzelfde oogt en smaakt.\n\nMaar waarom zouden we om diversiteit moeten geven?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/apple-varieties.png"
+        },
+        {
+          "id": 3,
+          "title": "Diversiteit is belangrijk omdat...",
+          "subtitle": "",
+          "answerOptions": [
+            "het een gezonder land creëert",
+            "het landbouw efficiënter maakt"
+          ],
+          "correctAnswer": "het een gezonder land creëert",
+          "explanationText": "het een gezonder land creëert. Als alle appelbomen van dezelfde soort zijn en een van deze ziek wordt, dan worden ze allemaal ziek en hebben we geen appels meer. Dit is een groot risico want plantenziektes komen waarschijnlijk vaker voor met klimaatverandering.\n\nDiversiteit is een van de meest belangrijke eigenschappen van een gezond ecosysteem. Het geeft ook meer unieke smaken, is de kern van lokale voedseltradities en maakt het landschap mooier :-)",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Lokaal voedsel is belangrijk voor diversiteit (niet vanwege de voedselkilometers)",
+        "goal": "Ga eens naar een boerenmarkt",
+        "impact": 2,
+        "impactReason": "(niet vanwege CO2, maar voor het grotere plaatje van een duurzaam voedselsysteem)"
+      },
+      "outroRecipe": {
+        "title": "Als het op klimaatverandering aankomt, hebben voedselkilometers geen grote impact. Maar lokaal voedsel is belangrijk omdat het diversiteit stimuleert. Dit zorgt voor een gezonder ecosysteem en meer unieke smaken.\n\nHet gaat minder om hoe ver een appel heeft gereisd en meer over of het een lokale soort is. Kijk verder dan de supermarkt om deze producten te vinden. Dus ga eens naar een boerenmarkt om in contact te staan met de voedseltradities van jouw omgeving.",
+        "emoji": "📍"
+      }
+    },
+    {
+      "id": 33,
+      "intro": {
+        "title": "Eet je de juiste carbs?",
+        "subtitle": "Waarom volkoren zo belangrijk is als je duurzaam wilt eten.",
+        "emoji": "🌾"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "In het gemiddelde Europese voedingspatroon, wat geeft meer eiwit?",
+          "subtitle": "",
+          "answerOptions": [
+            "Vlees",
+            "Granen (pasta, rijst, etc.)"
+          ],
+          "correctAnswer": "Granen (pasta, rijst, etc.)",
+          "explanationText": "Granen zoals pasta, rijst en brood zijn de belangrijkste bronnen van energie voor de mensheid.\n\nZe hebben een lage impact en zijn belangrijk voor een duurzaam voedingspatroon omdat ze ons minder afhankelijk maken van eiwit van vlees en zuivel.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-from-cereals-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Hoe is volkoren brood anders dan witbrood?",
+          "subtitle": "",
+          "answerOptions": [
+            "Het is gebakken op hogere temperaturen",
+            "De buitenste laag van het graan is niet verwijderd",
+            "Het bevat extra zaden"
+          ],
+          "correctAnswer": "De buitenste laag van het graan is niet verwijderd",
+          "explanationText": "De buitenste laag (zemelen) en kiemen zijn niet verwijderd. Dit zorgt voor een iets ‘zwaarder’ meel dat moeilijker is om op te kauwen maar wel veel meer voedingsstoffen bevat.\n\nDus op een bepaalde manier is het kiezen van niet-volkoren granen bijna een soort van voedselverspilling: we lopen perfecte voeding mis.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/What-is-whole-grain-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat is NIET een voordeel van volkoren?",
+          "subtitle": "",
+          "answerOptions": [
+            "Meer eiwit",
+            "Meer vezels",
+            "Minder calorieën",
+            "Meer vitamines"
+          ],
+          "correctAnswer": "Minder calorieën",
+          "explanationText": "Volkoren heeft enorme gezondheidsvoordelen: het vermindert het risico op hartaandoeningen, diabetes en verlengt je levensduur. De extra eiwitten en vezels zijn ook meer vullend waardoor je minder snel honger hebt.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/health-benefits-of-whole-grain-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Volkoren granen zijn een belangrijke bron van eiwitten",
+        "goal": "Kies zoveel mogelijk de volkoren optie",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Volkoren granen zijn een belangrijke bouwsteen van een duurzaam voedingspatroon omdat ze veel voeding leveren voor een lage impact. Hun hoge eiwitgehalte maakt ze ook een belangrijke basis om vlees en zuivel te verminderen.",
+        "emoji": "🌾"
+      }
+    },
+    {
+      "id": 34,
+      "intro": {
+        "title": "Eet jij veel eten dat per vliegtuig komt?",
+        "subtitle": "Een klassieker uit de eerste dagen van de Fork Ranger app (terwijl we hard werken aan een nieuwe update).\n\nVoedsel dat de hele wereld over wordt gevlogen voelt als een van de grote problemen van ons voedselsysteem. Hoe zit dat precies?",
+        "emoji": "✈️"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Hoeveel procent van alle voedselkilometers worden per vliegtuig afgelegd? ✈️",
+          "subtitle": "",
+          "answerOptions": [
+            "23,8%",
+            "0,16%"
+          ],
+          "correctAnswer": "0,16%",
+          "explanationText": "Maar 0,16% - een heel klein deel - van ons eten komt per vliegtuig, alleen producten die heel kwetsbaar zijn en minder lang houdbaar. Het meeste komt per boot.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/transport-methods-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "De uitstoot van producten die per boot komen in plaats van per vliegtuig is... 🚢",
+          "subtitle": "",
+          "answerOptions": [
+            "50 keer lager",
+            "net zo groot"
+          ],
+          "correctAnswer": "50 keer lager",
+          "explanationText": "... 50 keer lager! Grote vrachtschepen zijn ook vervuilend maar er past ongelofelijk veel op. Daardoor is de uitstoot per product enorm laag. En hoe druk moeten we ons maken om ingevlogen eten vergeleken met het eten van vlees?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/emissions-of-transport-methods-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat heeft een lagere CO2 uitstoot?",
+          "subtitle": "neem van allebei 250 gram, kortom:",
+          "answerOptions": [
+            "Twee hamburgers 🍔",
+            "Vier porties ingevlogen sperziebonen ✈️"
+          ],
+          "correctAnswer": "Vier porties ingevlogen sperziebonen ✈️",
+          "explanationText": "Ingevlogen eten heeft een hoge footprint maar rundvlees scoort nog steeds veel hoger. Het pakje ingevlogen sperziebonen heeft een vergelijkbare footprint als dezelfde hoeveelheid kip.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/green-beans-and-meat-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Slechts een klein percentage van alle producten komt per vliegtuig",
+        "goal": "Vermijd die paar producten die per vliegtuig komen",
+        "impact": 2,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "De verrassing is dat de totale impact van ingevlogen voedsel klein is, want ook al is de uitstoot per product hoog, er zijn er maar weinig producten die per vliegtuig komen. Een paar van de meest ingevlogen producten in de winter zijn:\n\n- Verse bessen van ver weg\n- Asperges uit Peru\n- Sperziebonen, haricots verts en sugar snaps uit Kenia",
+        "emoji": "✈️"
+      }
+    },
+    {
+      "id": 35,
+      "intro": {
+        "title": "Het aftellen is begonnen",
+        "subtitle": "Maandag zal deze app een grote update ondergaan en we kunnen niet wachten het je te laten zien 🤩! Hier is alvast een kleine ‘behind the scenes’ quiz.",
+        "emoji": "⏳"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Hoeveel mensen besteden veel aandacht aan de klimaatimpact van hun voedselkeuzes?",
+          "subtitle": "in relatie tot helemaal niet, weinig en een beetje aandacht",
+          "answerOptions": [
+            "ca. 5%",
+            "ca. 10%",
+            "ca. 15%"
+          ],
+          "correctAnswer": "ca. 10%",
+          "explanationText": "Maar 10%, en dat begrijpen we. Ergens aandacht aan besteden kost energie. En voor veel mensen voelt het alsof duurzaamheid een groot, complex ding is. Waar begin je?\n\nIn de nieuwe app gaan we op reis om simpele richtlijnen die een groot verschil maken te ontdekken.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/screenshot-1.png"
+        },
+        {
+          "id": 2,
+          "title": "Wat is de hoofdreden die mensen weerhoudt van duurzaam eten?",
+          "subtitle": "",
+          "answerOptions": [
+            "Te duur",
+            "Te weinig informatie over hoe je dat doet",
+            "Weinig duurzame opties in the gebruikelijke winkels"
+          ],
+          "correctAnswer": "Te duur",
+          "explanationText": "Dus, de meeste mensen denken dat het te duur is. Dit komt waarschijnlijk door het idee dat duurzaam eten betekent dat alles biologisch moet zijn. Maar duurzaam eten heeft veel meer te maken met welke ingrediënten je kiest, en minder met of ze biologisch zijn of niet.\n\nDat is waarom we makkelijke recepten zullen houden zodat je meteen je nieuwe inzichten in praktijk kan brengen. En geen zorgen, je opgeslagen recepten zullen blijven als je de nieuwe versie downloadt.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/screenshot-2.png"
+        },
+        {
+          "id": 3,
+          "title": "Hoeveel mensen die vlees eten zeggen dat ze minder vlees willen eten?",
+          "subtitle": "onderzoek onder Nederlandse burgers",
+          "answerOptions": [
+            "1 uit 3",
+            "1 uit 4",
+            "1 uit 5"
+          ],
+          "correctAnswer": "1 uit 3",
+          "explanationText": "Iets meer dan één derde van de vleeseters wil minder vlees eten. Dat is fantastisch nieuws! Het is namelijk de nummer 1 actie die enorm helpt om onze impact te verkleinen.\n\nEr is dus al een grote groep die echt hun eetgewoontes wil aanpassen. We hopen dat de nieuwe Fork Ranger app het gemakkelijker maakt dit ook echt te bereiken! Zorg ervoor dat je de nieuwe app ervaring in je kringen deelt zodat meer mensen ervan kunnen profiteren.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/screenshot-3.png"
+        }
+      ],
+      "outro": {
+        "insight": "Meer mensen zijn bereid hun eetgewoontes te veranderen, het moet alleen makkelijker en leuker worden",
+        "goal": "Download de nieuwe versie en deel die met vrienden",
+        "impact": 5,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Maandag zullen we de nieuwe update van de app lanceren. Zorg ervoor dat je automatische updates aanstaan in de instellingen van je iPhone :-)\n\nWe zien je maandag en may the forks be with you!\n\nHet Fork Ranger Team",
+        "emoji": "🌟"
+      }
+    },
+    {
+      "id": 36,
+      "intro": {
+        "title": "Nieuwe app update beschikbaar",
+        "subtitle": "Voor deze app is er een geweldige update",
+        "emoji": "🤩"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Hoeveel mensen besteden veel aandacht aan de klimaatimpact van hun voedselkeuzes?",
+          "subtitle": "in relatie tot helemaal niet, weinig en een beetje aandacht",
+          "answerOptions": [
+            "ca. 5%",
+            "ca. 10%",
+            "ca. 15%"
+          ],
+          "correctAnswer": "ca. 10%",
+          "explanationText": "Maar 10%, en dat begrijpen we. Ergens aandacht aan besteden kost energie. En voor veel mensen voelt het alsof duurzaamheid een groot, complex ding is. Waar begin je?\n\nIn de nieuwe app gaan we op reis om simpele richtlijnen die een groot verschil maken te ontdekken.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Wat is de hoofdreden die mensen weerhoudt van duurzaam eten?",
+          "subtitle": "",
+          "answerOptions": [
+            "Te duur",
+            "Te weinig informatie over hoe je dat doet",
+            "Weinig duurzame opties in the gebruikelijke winkels"
+          ],
+          "correctAnswer": "Te duur",
+          "explanationText": "Dus, de meeste mensen denken dat het te duur is. Dit komt waarschijnlijk door het idee dat duurzaam eten betekent dat alles biologisch moet zijn. Maar duurzaam eten heeft veel meer te maken met welke ingrediënten je kiest, in plaats van of ze biologisch zijn of niet.\n\nDat is waarom we makkelijke recepten zullen houden zodat je meteen je nieuwe inzichten in praktijk kan brengen. En geen zorgen, je opgeslagen recepten zullen blijven als je de nieuwe versie downloadt.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Hoeveel mensen die vlees eten zeggen dat ze minder vlees willen eten?",
+          "subtitle": "onderzoek onder Nederlandse burgers",
+          "answerOptions": [
+            "1 uit 3",
+            "1 uit 4",
+            "1 uit 5"
+          ],
+          "correctAnswer": "1 uit 3",
+          "explanationText": "Iets meer dan één derde van de vleeseters wil minder vlees eten. Dat is fantastisch nieuws! Het is namelijk de nummer 1 actie die enorm helpt om onze impact te verkleinen.\n\nEr is dus al een grote groep die echt hun eetgewoontes wil aanpassen. We hopen dat de nieuwe Fork Ranger app het gemakkelijker maakt dit ook echt te bereiken! Zorg ervoor dat je de nieuwe app ervaring in je kringen deelt zodat meer mensen ervan kunnen profiteren.",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Meer mensen zijn bereid hun eetgewoontes te veranderen, het moet alleen makkelijker en leuker worden",
+        "goal": "Download de nieuwe versie en deel die met vrienden",
+        "impact": 5,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "We zien je in de nieuwe app en may the forks be with you!\n\nHet Fork Ranger Team",
+        "emoji": "🌟"
+      }
+    },
+    {
+      "id": 100,
+      "intro": {
+        "title": "Je eerste quiz over de impact van eten",
+        "subtitle": "Wat heeft eten en klimaatverandering met elkaar te maken? Laten we eens naar die relatie kijken. En geen zorgen, je hoeft geen veganist of vegetariër te worden 😉",
+        "emoji": "🌍"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Hoeveel draagt ons eten bij aan klimaatverandering?",
+          "subtitle": "jaarlijkse broeikasgasemissies wereldwijd",
+          "answerOptions": [
+            "11%",
+            "34%"
+          ],
+          "correctAnswer": "34%",
+          "explanationText": "Ons wereldwijde voedselsysteem veroorzaakt een derde van alle uitstoot.\n\nOp jouw Fork Ranger reis ga je ontdekken wat de meest belangrijke bronnen van deze emissies zijn. En wat we eraan kunnen doen.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/food-and-climate-change-2-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Waarmee kunnen we meer CO2 emissies besparen?",
+          "subtitle": "",
+          "answerOptions": [
+            "Veranderen wat we eten",
+            "Boerderijen duurzamer maken"
+          ],
+          "correctAnswer": "Veranderen wat we eten",
+          "explanationText": "De meest effectieve manier om de klimaatimpact van ons eten te reduceren is te veranderen wat we eten. Dat is goed nieuws want zo kan iedereen onderdeel zijn van de oplossing!\n\nWe zullen je laten zien dat het ook vrij eenvoudig is. Een paar makkelijke aanpassingen kunnen al een enorm verschil maken. Dus wat is dan de belangrijkste eerste stap?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-diet-2-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat maakt een groter verschil?",
+          "subtitle": "om CO2 te verminderen in een gemiddeld Europees of Noord-Amerikaans voedingspatroon",
+          "answerOptions": [
+            "Al het rundvlees vervangen door kip",
+            "1 dag in de week vegetarisch eten"
+          ],
+          "correctAnswer": "Al het rundvlees vervangen door kip",
+          "explanationText": "Rundvlees heeft de hoogste impact van al het vlees. Natuurlijk, het vervangen van rundvlees door kip (of varken) is niet het einddoel van een duurzaam voedingspatroon. Maar het is een gemakkelijke eerste stap die al een geweldig verschil maakt.\n\nZonder minder vlees te eten, vermindert deze stap al de CO2 impact van een gemiddeld Westers voedingspatroon met één vijfde!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/replacing-beef-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Het veranderen van voedingspatronen maakt een enorm verschil voor het klimaat",
+        "goal": "Vervang rundvlees (en als je dat al doet, inspireer anderen)",
+        "impact": 5,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Wat we eten heeft een groot effect op ons klimaat. Dit betekent dat wij - gewone burgers - invloed hebben.\n\nOf je nou elke dag vlees eet of al jaren vegetariër bent, we zijn allemaal op een reis. Deze app is een kompas om je de juiste richting te wijzen. En een eerste stap die iedereen kan zetten is het vervangen van rundvlees.",
+        "emoji": "🌍"
+      }
+    },
+    {
+      "id": 101,
+      "intro": {
+        "title": "The Big Ranch",
+        "subtitle": "Laten we de nummer één aanpassing om duurzamer te eten eens onder de loep nemen.",
+        "emoji": "🐮"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Wat is zwaarder?",
+          "subtitle": "",
+          "answerOptions": [
+            "Alle koeien",
+            "Alle mensen",
+            "Alle wilde land zoogdieren"
+          ],
+          "correctAnswer": "Alle koeien",
+          "explanationText": "Alle koeien zijn zwaarder dan alle mensen en alle wilde zoogdieren bij elkaar opgeteld! Ze zijn ook zwaarder dan al het andere vee samen (varkens, kippen, schapen, geiten, paarden).\n\nDe planeet Aarde is eerder Planeet Koe geworden. Het is ‘The Big Ranch’ geworden.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/weight-of-all-mammals-2-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Welke van deze is GEEN herkauwer?",
+          "subtitle": "",
+          "answerOptions": [
+            "Koe",
+            "Geit",
+            "Schaap",
+            "Varken"
+          ],
+          "correctAnswer": "Varken",
+          "explanationText": "Herkauwers hebben een speciale maag die het mogelijk maakt gras te eten. In dit proces, laten ze boeren van methaan, een sterk broeikasgas.\n\nMethaan is een grote reden waarom rundvlees - maar ook geiten- en schapenvlees - een veel hogere impact dan ander voedsel heeft.\n\nEr is ook nog een andere reden voor de hoge impact van rundvlees.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/co2-of-various-meat-NL-.png"
+        },
+        {
+          "id": 3,
+          "title": "Hoeveel van het land op aarde wordt gebruikt voor voedselproductie?",
+          "subtitle": "exclusief ijs en woestijnen",
+          "answerOptions": [
+            "25%",
+            "50%"
+          ],
+          "correctAnswer": "50%",
+          "explanationText": "Voedselproductie neemt ongeveer de helft van al het land op aarde in (ijs en woestijnen niet meegerekend). De grote hoeveelheid ruimte voor landbouw is de hoofdreden waarom voedsel zo’n grote rol speelt in klimaatverandering.\n\nHet meeste van dit land wordt gebruikt om vlees en zuivel te produceren. Vooral voor de productie van rundvlees is veel land nodig, ongeveer 7 keer meer dan varken en kip per kilo vlees.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/land-use-3-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Vlees van herkauwers - vooral rundvlees - heeft de hoogste impact van al het eten",
+        "goal": "Vervang rundvlees (en als je dat al doet, inspireer anderen)",
+        "impact": 5,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Er is geen andere diersoort die ook maar enigzins bij koeien in de buurt komt als je het hebt over hun totale gewicht. Ze hebben ook veel land nodig en laten boeren van methaan. Al deze factoren maken rundvlees het voedselproduct met de hoogste impact.\n\nAls je van rundvlees houdt: je hoeft het niet volledig op te geven. Maak het een luxe product voor speciale momenten.\n\nEn als je geen rundvlees eet: inspireer alle vleesliefhebbers in je vriendenkring om rundvlees te vervangen. Wij hebben gemerkt dat dit een eerste stap is die de meeste mensen wel willen nemen.",
+        "emoji": "🐮"
+      }
+    },
+    {
+      "id": 102,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "Als we vlees vervangen of we er minder van eten, hoe kunnen we dan genoeg eiwit binnen krijgen?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Iemand met een gemiddeld Westers voedingspatroon eet...",
+          "subtitle": "",
+          "answerOptions": [
+            "Te veel eiwit",
+            "Te weinig eiwit"
+          ],
+          "correctAnswer": "Te veel eiwit",
+          "explanationText": "te veel eiwit. Dat komt door de grote hoeveelheid dierlijke producten. De gemiddelde 30-jarige man heeft per dag 63 g eiwit nodig en een gemiddelde vrouw 54 g.\n\nMaar als je vlees en zuivel zou weglaten heb je iets meer eiwit nodig. Dit komt doordat dierlijke eiwitten beter verteerd worden dan plantaardige eiwitten. Gelukkig zijn er meer dan genoeg goede opties.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/too-much-protein-NL-2.png"
+        },
+        {
+          "id": 2,
+          "title": "Welke van deze is NIET een goede bron van eiwit?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Noten",
+            "Aardappels",
+            "Bonen"
+          ],
+          "correctAnswer": "Aardappels",
+          "explanationText": "In tegenstelling tot aardappels, hebben volkoren producten zoals pasta en rijst goede hoeveelheden eiwit. Andere belangrijke eiwithoudende building blocks zijn noten, zaden, linzen, en bonen.\n\nHet is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar zoals je kan zien hebben we dat niet op een dagelijkse basis nodig voor voldoende eiwit.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/protein-per-serving-2-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Welke impact heeft het vervangen van Aardappels & Biefstuk door Groene Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 keer lager",
+            "10 keer lager"
+          ],
+          "correctAnswer": "10 keer lager",
+          "explanationText": "De voornaamste bronnen van eiwit van Groene Spaghetti zijn de pasta en erwten. Het biefstuk heeft een hogere hoeveelheid eiwit, maar zoals we in vraag één gezien hebben, is het niet nodig om zoveel eiwit met elke maaltijd te consumeren.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/meals-comparison-2.png.png"
+        }
+      ],
+      "outro": {
+        "insight": "Mensen met een gemiddeld Westers voedingspatroon eten te veel eiwit",
+        "goal": "Eet meer noten, bonen en linzen om dierlijke eiwitten te vervangen",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Het is waar dat vlees de gemakkelijkste manier is om eiwit te consumeren. Maar we hebben het niet dagelijks nodig. Voldoende eiwitten binnenkrijgen is een kwestie van volkoren granen eten met een goede mix van noten, bonen en linzen.\n\nWe creëeren alle recepten in deze app zelf en voegen altijd een bron van eiwit toe. Dus kom op en beklim Muscle Mountain!",
+        "emoji": "💪"
+      }
+    },
+    {
+      "id": 103,
+      "intro": {
+        "title": "The Food Waste Monster",
+        "subtitle": "Elke dag voeden we een gigantisch monster. Het eet één derde van al ons eten. Wat kunnen we daaraan doen?",
+        "emoji": "🗑"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Voedselverspilling wereldwijd halveren bespaart 7 keer meer emissies dan...",
+          "subtitle": "",
+          "answerOptions": [
+            "1/3 van alle auto’s door elektrische vervangen",
+            "1/4 van alle electriciteit met windturbines op land opwekken"
+          ],
+          "correctAnswer": "1/3 van alle auto’s door elektrische vervangen",
+          "explanationText": "Eén derde van al ons eten wordt verspild en dit heeft veel negatieve gevolgen.\n\nProject Drawdown berekende verschillende acties om emissies te verminderen en het vermijden van voedselverspilling is de allerbelangrijkste oplossing!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/CO2-3-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "In Westerse landen wordt het meeste voedsel verspild...",
+          "subtitle": "",
+          "answerOptions": [
+            "Tijdens productie",
+            "In de supermarkt",
+            "Thuis"
+          ],
+          "correctAnswer": "Thuis",
+          "explanationText": "...thuis. Meer dan de helft van alle voedselverspilling in Noord-Amerika en Europa vindt thuis plaats, bij ons als consument. Dat bekent dat we hierin allemaal een belangrijke rol hebben!\n\nDat voedselverspilling zonde is, begrijpen we allemaal. Maar hoe is het precies gelinkt aan klimaatverandering?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/Total-food-waste-2-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat gebeurt er als we ons bord niet leeg eten?",
+          "subtitle": "Het ergste is...",
+          "answerOptions": [
+            "Rottende restjes veroorzaken veel methaan emissies",
+            "Dat je de totale benodigde voedselproductie verhoogt",
+            "Dat het food waste monster je komt halen"
+          ],
+          "correctAnswer": "Dat je de totale benodigde voedselproductie verhoogt",
+          "explanationText": "Meer voedselverspilling ➡️ Meer voedselproductie ➡️ Meer landgebruik, meer pesticiden, etc.\n\nAls het je lukt een klein restje te bewaren heb je later een kosteloze maaltijd. Het lijkt misschien onbelangrijk of je een half broodje redt. Maar als 1% van alle Europeanen een half broodje redt, is dat samen 3-4 miljoen broodjes die niet geproduceerd hoeven te worden.",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Wij kunnen iets doen aan het grote probleem van voedselverspilling",
+        "goal": "Red voedselrestjes van verspilling wanneer je maar kunt",
+        "impact": 4,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Eén derde van al het voedsel dat we produceren wordt nooit gegeten. Dat maakt alle negatieve gevolgen van ons voedselsysteem veel groter dan ze zouden kunnen zijn.\n\nIn Europa en Noord-Amerika wordt het meeste voedsel verspild door de consument. Dat geeft ons allemaal een missie om zoveel mogelijk voedsel van verspilling te redden. Het is tijd om te stoppen met het voeden van het food waste monster!",
+        "emoji": "🗑"
+      }
+    },
+    {
+      "id": 104,
+      "intro": {
+        "title": "Hoe word je een Food Waste Warrior",
+        "subtitle": "Niet alle voedselverspilling is hetzelfde, dus waar kan ons gedrag het grootste verschil maken?",
+        "emoji": "⚔️"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Wat is wereldwijd het meest verspilde product als je kijkt naar verspilde calorieën?",
+          "subtitle": "",
+          "answerOptions": [
+            "Granen (bv. brood & pasta)",
+            "Groente en fruit",
+            "Vlees"
+          ],
+          "correctAnswer": "Granen (bv. brood & pasta)",
+          "explanationText": "Wereldwijd bestaan 53% van alle verspilde calorieën uit granen. In Nederlandse huishoudens is brood ook het meest verspilde product als je kijkt naar het gewicht.\n\nEn hoe ziet dit plaatje eruit als we naar de CO2 impact van voedselverspilling kijken?",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "De CO2 impact van verspild brood is hoger dan dat van verspild rundvlees",
+          "subtitle": "",
+          "answerOptions": [
+            "Waar",
+            "Niet waar"
+          ],
+          "correctAnswer": "Waar",
+          "explanationText": "Tarwe heeft een enorme impact op voedselverspilling. Niet omdat de impact van één brood zo groot is, maar omdat we zoveel brood en pasta verspillen.\n\nZoals je ziet, maken dranken ook deel uit van voedselverspilling. Melk of koffie door de gootsteen gooien heeft ook een grote impact, zelfs meer dan een heel seizoen Formule 1!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/top-5-food-waste-carbon-footprint-NL-2.png"
+        },
+        {
+          "id": 3,
+          "title": "Een Duitse studie keek naar waarom mensen brood weggooien. Wat is de voornaamste reden?",
+          "subtitle": "",
+          "answerOptions": [
+            "Over de datum",
+            "Te veel gekocht",
+            "Geen zin in"
+          ],
+          "correctAnswer": "Geen zin in",
+          "explanationText": "Brood verspillen gaat over onze houding: voelen we ons te goed om een broodkapje te eten? Of zien we het als waardevol voedsel?\n\nLaten we onszelf eraan herinneren dat eten een eerste levensbehoefte is. Het is te waardevol om weg te gooien, zelfs als ons oude brood een beetje hard is geworden.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/Bread-waste-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Een van de meest verspilde producten is brood",
+        "goal": "Leer om van oud brood en broodkapjes te houden",
+        "impact": 4,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "De eerste stap in het worden van een food waste warrior is het veranderen van ons perspectief op ons eten: het is een van de meest waardevolle dingen in de wereld.\n\nEn wat is een betere manier om dit te oefenen dan oud brood en broodkapjes te eten: het symbool van voedselverspilling en iets dat we bijna elke dag kunnen doen. Dus dip dat broodje in de soep of haal je broodrooster tevoorschijn!",
+        "emoji": "⚔️"
+      }
+    },
+    {
+      "id": 105,
+      "intro": {
+        "title": "The Fellowship of the Fork",
+        "subtitle": "Je bent al erg ver gereisd! Voordat we verder gaan met het ontdekken van het voedselsysteem, moeten we een belangrijk onderwerp bespreken.",
+        "emoji": "🧙‍♂️"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Wat bespaart meer emissies?",
+          "subtitle": "",
+          "answerOptions": [
+            "1 persoon die veganistisch eet",
+            "2 personen die vegetarisch eten",
+            "3 personen die rundvlees door varkensvlees/kip vervangen"
+          ],
+          "correctAnswer": "3 personen die rundvlees door varkensvlees/kip vervangen",
+          "explanationText": "Eén ander persoon inspireren om rundvlees te vervangen door kip maakt veel meer verschil dan zelf op zoek te gaan naar de meest duurzame komkommer.\n\nEten is een sociaal iets. En de oplossing naar een duurzaam voedselsysteem moet dat dus ook zijn!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/reduction-footprint-3-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Wat is de hoofdreden die mensen ervan weerhoudt minder vlees te eten?",
+          "subtitle": "",
+          "answerOptions": [
+            "Niet geloven dat vlees bijdraagt aan klimaatverandering",
+            "Niet willen veranderen van gedrag",
+            "Zich niet een andere manier van eten kunnen voorstellen"
+          ],
+          "correctAnswer": "Zich niet een andere manier van eten kunnen voorstellen",
+          "explanationText": "De meeste mensen zijn het met de feiten eens. Maar als je gewend bent om bij elke maaltijd vlees te eten, kan het lastig zijn om je voor te stellen hoe een alternatief er uitziet. Het eerste ding waar vaak aan wordt gedacht is het eten van alleen maar salades en we moeten zeggen: dat klinkt ook wel beangstigend!\n\nHet kost tijd om het idee dat een ‘goede maaltijd’ vlees moet bevatten los te laten. Gelukkig hebben we heel veel makkelijke recepten in deze app waar de meeste mensen het vlees niet missen😉",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Wat werkt het beste om anderen te inspireren een nieuwe gewoonte te ontwikkelen?",
+          "subtitle": "",
+          "answerOptions": [
+            "Shockerende feiten😱",
+            "Logische argumenten🤓",
+            "Kleine stapjes🥾"
+          ],
+          "correctAnswer": "Kleine stapjes🥾",
+          "explanationText": "Mensen worden niet overtuigd door logica of shockerende feiten. De beste manier om een nieuwe gewoonte je eigen te maken is om een makkelijke oplossing aan te bieden dat bijna bizar simpel voelt. Zoals het vervangen van rundvlees door kip.\n\nOp deze manier voelen mensen zich niet overweldigd. En wanneer ze deze kleine stap hebben behaald, dan zijn ze gemotiveerd om door te gaan.",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Anderen helpen rundvlees te vervangen, maakt een groter verschil dan je eigen keuzes perfectioneren",
+        "goal": "Nodig je vrienden uit voor een duurzaam diner en deel het recept",
+        "impact": 4,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Wanneer je al gestart bent met het eten van minder rundvlees is het op een na beste wat je kan doen anderen inspireren om hetzelfde doen.\n\nEn daarbij: op ontdekkingsreis gaan is veel beter als je niet alleen bent. Dus tijd om je vrienden en familie uit te nodigen deel te worden van de Fellowship of the Fork! \n\n*epische muziek start*",
+        "emoji": "🧙‍♂️"
+      }
+    },
+    {
+      "id": 106,
+      "intro": {
+        "title": "The Fading Forest",
+        "subtitle": "Er is iets heel erg mis in dit bos, meer en meer bomen verdwijnen. Wat is er aan de hand?!",
+        "emoji": "🪓"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Wat is de grootste oorzaak van ontbossing?",
+          "subtitle": "",
+          "answerOptions": [
+            "Papier & hout",
+            "Rundvlees",
+            "Soja"
+          ],
+          "correctAnswer": "Rundvlees",
+          "explanationText": "Bijna alle ontbossing vindt plaats in tropische en subtropische landen en het merendeel wordt veroorzaakt door rundvlees in Zuid-Amerika.\n\nMaar soja speelt ook een belangrijke rol in de vernietiging van bossen.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/deforestation-2-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "77% van alle soja wordt gebruikt voor...",
+          "subtitle": "",
+          "answerOptions": [
+            "Vlees- en zuivelvervangers",
+            "Veevoer",
+            "Olie"
+          ],
+          "correctAnswer": "Veevoer",
+          "explanationText": "Het grootste deel van soja wordt gebruikt als veevoer, vooral voor kippen🐔 en varkens🐷. Soja voor producten zoals yoghurt en tofu is maar een klein deel van de gehele sojaproductie.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Wat heeft een vergelijkbare impact als een blok tofu?",
+          "subtitle": "een blok tofu is ongeveer 400 g",
+          "answerOptions": [
+            "🥓 Spekjes (125 g)",
+            "🍔 4 hamburgers (400 g)",
+            "🍗 4 kippendijen (500 g)"
+          ],
+          "correctAnswer": "🥓 Spekjes (125 g)",
+          "explanationText": "Er zijn 2 belangrijke conclusies hier:\n\n1. Je kunt ook je impact verminderen door kleinere porties vlees te eten. Ook al heeft varkensvlees een grotere impact dan kip, 125 g spekjes is beter dan 500 g kip.\n\n2. Voor hetzelfde gewicht is tofu zeker de meest duurzame keuze.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/tofu-co2-2-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "De meeste ontbossing wordt veroorzaakt door vlees; soja voor mensen is prima",
+        "goal": "Voel je niet slecht over het eten van sojaproducten",
+        "impact": 4,
+        "impactReason": "(als je vlees en/of zuivel vervangt door sojaproducten)"
+      },
+      "outroRecipe": {
+        "title": "Soja heeft een erg slechte reputatie en zorgt inderdaad voor ontbossing. Maar dat is omdat de meeste soja wordt gebruikt als veevoer. ",
+        "emoji": "🪓"
+      }
+    },
+    {
+      "id": 107,
+      "intro": {
+        "title": "Feeding Frenzy",
+        "subtitle": "Deze prachtige velden strekken zo ver als de horizon. Waar zijn al die granen voor?",
+        "emoji": "🌽"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Meer dan de helft van alle granen worden gebruikt voor...",
+          "subtitle": "in Europa en Noord-Amerika",
+          "answerOptions": [
+            "Menselijke consumptie",
+            "Veevoer",
+            "Biobrandstof"
+          ],
+          "correctAnswer": "Veevoer",
+          "explanationText": "...veevoer. Wereldwijd zouden we 1.3 miljard extra mensen te eten kunnen geven als we alle granen in plaats van voor dieren voor mensen zouden gebruiken.\n\nAl deze granen zijn nodig omdat we ZO veel vlees eten. Laten we twee gemakkelijke manieren ontdekken om de hoeveelheid veevoer te verminderen.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Ten eerste, welk dier ‘produceert’ het meest efficiënt vlees?",
+          "subtitle": "",
+          "answerOptions": [
+            "Kip🐔",
+            "Varken🐷",
+            "Koe🐮"
+          ],
+          "correctAnswer": "Kip🐔",
+          "explanationText": "Een van de hoofdredenen waarom kip een lagere impact heeft dan rund- en varkensvlees is hun efficiëntie. Ze zijn efficiënter in het omzetten van voer naar vlees.\n\nDus als je vlees kiest is kip de beste optie.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/feed-conversion-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Ten tweede, welk vlees wordt het meest gegeten door de gemiddelde Europeaan?",
+          "subtitle": "",
+          "answerOptions": [
+            "Rundvlees",
+            "Varkensvlees",
+            "Kip"
+          ],
+          "correctAnswer": "Varkensvlees",
+          "explanationText": "Ruim één derde is varkensvlees! Dus dat is waar we echt de hoeveelheid kunnen verminderen.\n\nZoals we in The Fading Forest zagen is een gemakkelijke manier om minder varkensvlees te eten het kiezen voor kleinere porties: maar 100 gram spekjes geven meer dan genoeg smaak voor 4 personen.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/meat-consumption-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "De meeste granen in Europa en de VS worden aan dieren gevoerd",
+        "goal": "1) Verminder varkensvlees en 2) Als je vlees eet, ga voor kip",
+        "impact": 4,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "We voeren grote hoeveelheden granen aan dieren in plaats van ze direct als mensen te consumeren.\n\nEr zijn verschillende manieren dit te verminderen: voor het meest efficiënte vlees kiezen (kip), kleinere porties, en natuurlijk: meer plantaardig eten!",
+        "emoji": "🌽"
+      }
+    },
+    {
+      "id": 108,
+      "intro": {
+        "title": "Bij de Molenaar",
+        "subtitle": "Waarom volkoren zo belangrijk is als je duurzaam wilt eten.",
+        "emoji": "🌾"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "In het gemiddelde Europese voedingspatroon, wat geeft meer eiwit?",
+          "subtitle": "",
+          "answerOptions": [
+            "Vlees",
+            "Granen (pasta, rijst, etc.)"
+          ],
+          "correctAnswer": "Granen (pasta, rijst, etc.)",
+          "explanationText": "Granen zoals pasta, rijst en brood zijn de belangrijkste bronnen van energie voor de mensheid.\n\nZe hebben een lage impact en zijn belangrijk voor een duurzaam voedingspatroon omdat ze ons minder afhankelijk maken van eiwit van vlees en zuivel.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/protein-from-cereals-2-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Hoe is volkoren brood anders dan witbrood?",
+          "subtitle": "",
+          "answerOptions": [
+            "Het is gebakken op hogere temperaturen",
+            "De buitenste laag van het graan is niet verwijderd",
+            "Het bevat extra zaden"
+          ],
+          "correctAnswer": "De buitenste laag van het graan is niet verwijderd",
+          "explanationText": "De buitenste laag (zemelen en kiemen) zijn niet verwijderd. Dit zorgt voor een iets ‘zwaarder’ meel dat moeilijker is om op te kauwen maar wel veel meer voedingsstoffen bevat.\n\nDus op een bepaalde manier is het kiezen van niet-volkoren granen bijna een soort van voedselverspilling: we lopen perfecte voeding mis.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/What-is-whole-grain-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat is NIET een voordeel van volkoren?",
+          "subtitle": "",
+          "answerOptions": [
+            "Meer eiwit",
+            "Meer vezels",
+            "Minder calorieën",
+            "Meer vitamines"
+          ],
+          "correctAnswer": "Minder calorieën",
+          "explanationText": "Volkoren heeft enorme gezondheidsvoordelen: het vermindert het risico op hartaandoeningen, diabetes en verlengt je levensduur. De extra eiwitten en vezels zijn ook meer vullend waardoor je minder snel honger hebt.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/health-benefits-of-whole-grain-2-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Volkoren granen zijn een belangrijke bron van eiwitten",
+        "goal": "Kies zoveel mogelijk de volkoren optie",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Volkoren granen zijn een belangrijke bouwsteen van een duurzaam voedingspatroon omdat ze veel voeding leveren voor een lage impact. Hun hoge eiwitgehalte maakt ze ook een belangrijke basis om vlees en zuivel te verminderen.",
+        "emoji": "🌾"
+      }
+    },
+    {
+      "id": 109,
+      "intro": {
+        "title": "Moo Moo Meadows",
+        "subtitle": "Het pad leidt ons door grasland maar dit is geen natuur, er is helemaal geen diversiteit hier. Dit is voedsel!",
+        "emoji": "🐄"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Hoeveel voedsel heeft een koe nodig?",
+          "subtitle": "in een jaar",
+          "answerOptions": [
+            "5 tennisvelden aan gras 🎾",
+            "3 voetbalvelden aan gras ⚽️"
+          ],
+          "correctAnswer": "3 voetbalvelden aan gras ⚽️",
+          "explanationText": "Een koe heeft ongeveer 3 voetbalvelden aan gras nodig per jaar ⚽️. De hoeveelheid land die daarvoor nodig is is een van de redenen waarom rundvlees zo’n hoge impact heeft.\n\nMaar natuurlijk is rundvlees niet het enige wat van koeien komt...",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "De impact van zuivel in het gemiddelde voedingspatroon is vergelijkbaar met...",
+          "subtitle": "in Noord-Amerika en Europa",
+          "answerOptions": [
+            "Rundvlees",
+            "Varkensvlees",
+            "Kip"
+          ],
+          "correctAnswer": "Rundvlees",
+          "explanationText": "Wow, we waren nogal verrast hierdoor! De impact van rundvlees is hoog omdat het product zelf zo’n hoge impact heeft.\n\nDe zuivel impact is hoog omdat we er zo veel van eten: yoghurt voor ontbijt, een broodje met kaas en boter voor lunch en lasagne met heeel veeel mozzarella voor het avondeten.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/total-emissions-of-Western-diet-2-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat heeft een lagere impact?",
+          "subtitle": "in CO2",
+          "answerOptions": [
+            "Twee plakjes kaas 🧀 (50g)",
+            "Een glas melk 🥛 (200 ml)"
+          ],
+          "correctAnswer": "Een glas melk 🥛 (200 ml)",
+          "explanationText": "Niet alle zuivelproducten hebben dezelfde impact, maar over het algemeen heeft zuivel een vergelijkbare of zelfs iets hogere impact dan kip. ",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/portions-of-dairy-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "De totale impact van zuivel is hoog omdat we er zoveel van eten",
+        "goal": "Verminder het aantal maaltijden met zuivel",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Naast rund- en varkensvlees draagt zuivel voor een groot deel aan onze impact bij, vooral in Europa en Noord-Amerika. Dit komt vooral doordat we er zoveel van eten.\n\nMaar dat betekent ook dat we al veel kunnen besparen door simpelweg het aantal maaltijden met zuivel te verminderen.",
+        "emoji": "🐄"
+      }
+    },
+    {
+      "id": 110,
+      "intro": {
+        "title": "Verborgen Melk",
+        "subtitle": "Als er zoveel zuivelproducten zijn, welke heeft dan de hoogste impact?",
+        "emoji": "🥛"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Waar wordt de meeste melk voor gebruikt?",
+          "subtitle": "",
+          "answerOptions": [
+            "Kaas",
+            "Boter",
+            "Melk om te drinken"
+          ],
+          "correctAnswer": "Kaas",
+          "explanationText": "Een blokje kaas lijkt klein maar er is veel melk in ‘verborgen’🧀. Dat betekent dat kaas een hoge impact heeft. Voor de meeste mensen is dit de meest ongemakkelijke waarheid over duurzaam eten. Vooral omdat veel vegetariërs vlees vervangen door kaas.\n\nMaar als je een kaasliefhebber bent: wordt niet meteen wanhopig, je hoeft kaas niet helemaal op te geven.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Zachte kaas maken kost minder melk dan harde kaas",
+          "subtitle": "",
+          "answerOptions": [
+            "Waar",
+            "Niet waar"
+          ],
+          "correctAnswer": "Waar",
+          "explanationText": "Dat betekent dat de CO2 impact van een kilogram harde kaas hoger is dan zachte kaas.\n\nMaar dat is niet het hele verhaal. We gebruiken namelijk vaak grotere hoeveelheden zachte kaas.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/milk-for-cheese-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat heeft een lagere impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "250 g Mozzarella",
+            "80 g Grana Padano"
+          ],
+          "correctAnswer": "80 g Grana Padano",
+          "explanationText": "De portiegrootte van kaas verminderen maakt een groter verschil dan een specifieke kaas kiezen. Onze favoriete manier om dat te doen: een heerlijke kwaliteit Parmezaanse kaas en de fijnste rasp. Je zult meer geraspte kaasdeeltjes hebben en daardoor minder kaas om dezelfde smaak te proeven🙂",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/cheese-footprint-serving-size-NL-2.png"
+        }
+      ],
+      "outro": {
+        "insight": "De meeste melk is ‘verborgen’ in kaas",
+        "goal": "Vervang vlees niet door kaas en gebruik kleinere hoeveelheden",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Veel melk is ‘verborgen’ in kaas. Dat maakt het het zuivelproduct met de hoogste impact.\n\nWe hoeven kaas niet volledig op te geven. Het gaat erom het als luxe product te behandelen: het niet elke dag te eten en de portiegroottes te verminderen.",
+        "emoji": "🧀"
+      }
+    },
+    {
+      "id": 111,
+      "intro": {
+        "title": "De Notenkraker",
+        "subtitle": "Een belangrijke boodschap voor iedereen die net zoveel van pindakaas houdt als wij.",
+        "emoji": "🥜"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Wat is het belangrijkste voordeel van noten?",
+          "subtitle": "",
+          "answerOptions": [
+            "Goede bron van koolhydraten",
+            "Bevatten veel eiwit",
+            "Laag in vetten"
+          ],
+          "correctAnswer": "Bevatten veel eiwit",
+          "explanationText": "Noten bevatten de grootste hoeveelheid eiwit van alle plantaardige producten! 💪 Ze zijn geweldig om vlees te vervangen en maken een maaltijd vullend op een gezonde manier.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/Proteinper100g-2-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Wat is het voornaamste nadeel van noten?",
+          "subtitle": "",
+          "answerOptions": [
+            "Vervuilen de bodem",
+            "Veroorzaken hoge emissies in productie",
+            "Vragen veel water"
+          ],
+          "correctAnswer": "Vragen veel water",
+          "explanationText": "Het is waar dat sommige noten - vooral amandelen en pistachenoten - zijn erg dorstige planten. En dit is een probleem in droge gebieden, zoals Californië.\n\nMaar het moet ons niet tegenhouden om meer noten te eten.\n\nHoewel het gevraagde water voor veel noten een uitdaging is in het bereiken van een duurzaam voedselsysteem, is het nog steeds een duurzamere bron van eiwit dan vlees of zuivel.\n",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Vergeleken met groentes, is de CO2 impact van noten...",
+          "subtitle": "",
+          "answerOptions": [
+            "Hoger",
+            "Gelijk",
+            "Lager"
+          ],
+          "correctAnswer": "Lager",
+          "explanationText": "Het fantastische aan noten is dat ze aan bomen groeien, en dat bomen CO2 opnemen.\n\nOmdat notenbomen recentelijk zijn geplant op graslanden, is er een grote emissiebesparing. Daarom is hun impact negatief: de bomen nemen meer CO2 op dan hoeveel er veroorzaakt wordt tijdens productie.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/nuts-median-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Noten zijn een belangrijk onderdeel van een duurzaam voedingspatroon",
+        "goal": "Go nuts! Maak noten en zaden onderdeel van tenminste één maaltijd per dag ",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Goed nieuws: noten zijn een belangrijke bouwsteen van een gezond en duurzaam dieet.\n\nWater kan een issue zijn voor noten, maar we moeten toch eiwitten eten en over het geheel hebben noten een significant lagere impact dan vlees.\n\nDus pak die pot pindakaas er maar bij en geniet ervan!\n",
+        "emoji": "🥜"
+      }
+    },
+    {
+      "id": 112,
+      "intro": {
+        "title": "Het magische ingrediënt",
+        "subtitle": "Een echte Fork Ranger is altijd op zoek naar manieren om meer van dit geweldige ingrediënt te eten. Weet je wat het is?",
+        "emoji": "⭐️"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Wat zijn GEEN peulvruchten?",
+          "subtitle": "",
+          "answerOptions": [
+            "Bonen",
+            "Linzen",
+            "Quinoa"
+          ],
+          "correctAnswer": "Quinoa",
+          "explanationText": "Peulvruchten zijn planten die een kleine droge vrucht produceren. Zo kennen we kikkererwten, linzen, erwten en bonen!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/legumes.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Een blik bonen heeft dezelfde hoeveelheid eiwit als...",
+          "subtitle": "",
+          "answerOptions": [
+            "1 Ei",
+            "3 Eieren",
+            "6 Eieren"
+          ],
+          "correctAnswer": "6 Eieren",
+          "explanationText": "Peulvruchten hebben veel eiwit voor een zeer lage impact. Ze scoren niet alleen goed op CO2 maar ook op andere milieufactoren zoals watergebruik. En misschien het beste: ze zijn goedkoop!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/protein-CO2-comparison-legumes-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat maakt de wortels van peulvruchten speciaal?",
+          "subtitle": "",
+          "answerOptions": [
+            "Ze kunnen water opslaan",
+            "Ze voegen stikstof toe aan de bodem"
+          ],
+          "correctAnswer": "Ze voegen stikstof toe aan de bodem",
+          "explanationText": "Planten kunnen niet zonder stikstof. Maar peulvruchten gebruiken deze stikstof niet, maar voegen het toe aan de bodem door een ‘samenwerking’ met bacteriën.\n\nDit betekent dat boeren peulvruchten kunnen gebruiken in plaats van kunstmest, en dat bespaart emissies en tal van andere voordelen.\n",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Peulvruchten - bonen, erwten en linzen - zijn de meest duurzame vorm van eiwit",
+        "goal": "Voeg peulvruchten toe aan in elk geval één maaltijd per dag",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Peulvruchten zijn het magische ingredient als het aankomt op klimaatvriendelijk eten: goedkoop, veel eiwit en super duurzaam!\n\nMeer bonen, erwten en linzen eten is een win-win situatie omdat ze boeren ook helpen om goed voor het land te zorgen.\n",
+        "emoji": "⭐️"
+      }
+    },
+    {
+      "id": 113,
+      "intro": {
+        "title": "De Ranger Hut",
+        "subtitle": "Je bent al ver gekomen! Kom binnen voor een warme maaltijd, het is tijd om te zien hoe een duurzaam voedingspatroon eruit ziet.",
+        "emoji": "🔥"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Hoeveel hamburgers mogen we per week eten? 🥩🥓",
+          "subtitle": "rund- of varkensvlees",
+          "answerOptions": [
+            "0 Hamburgers",
+            "1 Hamburger",
+            "2 Hamburgers"
+          ],
+          "correctAnswer": "1 Hamburger",
+          "explanationText": "In Europa en de VS eten we op dit moment het equivalent van 5 hamburgers per week (ca. 350 g varkensvlees en 150 g rundvlees).\n\nDit aan te passen naar 1 hamburger per week is ons meest belangrijke doel. Deze stap brengt ons al halverwege van een duurzaam voedingspatroon!\n",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-meat-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Behalve rund- en varkensvlees, wat moeten we het meest verminderen?",
+          "subtitle": "",
+          "answerOptions": [
+            "Vis 🐟",
+            "Kip 🐔",
+            "Zuivel 🧀"
+          ],
+          "correctAnswer": "Zuivel 🧀",
+          "explanationText": "Ons dagelijkse ‘budget’ aan zuivel is 250 g melk equivalenten. Dat is ongeveer één glas melk 🥛 of twee plakken kaas per dag 🧀.\n\nVoor de meeste Westerse landen betekent dit dat de zuivelconsumptie gehalveerd moet worden.\n",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-dairy-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Hoeveel meer noten en peulvruchten moeten we eten? 🥜",
+          "subtitle": "",
+          "answerOptions": [
+            "2x",
+            "3x",
+            "6x"
+          ],
+          "correctAnswer": "6x",
+          "explanationText": "Op dit moment eten we hiervan maar 19 g per dag, terwijl het 125 g zou moeten zijn!\n\nProbeer elke dag ten minste één portie en één portie peulvruchten te eten. Dus haal die pot pindakaas tevoorschijn! 😍🥜\n",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-nuts-and-legumes-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Er zijn een paar acties waarmee we al een 70% duurzaam voedingspatroon bereiken",
+        "goal": "Verminder rund- en varkensvlees & zuivel en eet meer noten & peulvruchten",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Gefeliciteerd! Je hebt de fundamenten om een echte Fork Ranger te worden gelegd.\n\nDeze drie stappen zullen je al helpen om een 70% duurzaam voedingspatroon te behalen. Vanaf hier zul je meer inzicht krijgen in kleinere stappen om nog meer besparing te bereiken. Maar verlies deze grote 3 niet uit het oog:\n\nvervang rund- en varkensvlees 🥩🥓⬇️\neet minder zuivel 🧀🥛⬇️\neet meer noten en peulvruchten 🥜⬆️",
+        "emoji": ""
+      }
+    }
+  ]
+}

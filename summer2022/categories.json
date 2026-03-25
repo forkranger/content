@@ -1,0 +1,170 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "title": "Base Camp",
+      "subtitle": "Introduction",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Base-Camp.png",
+      "backgroundColor": "a77c39",
+      "buttonColor": "4f4019",
+      "color": 0
+    },
+    {
+      "id": 1,
+      "title": "The Big Ranch",
+      "subtitle": "Meat",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Big-Ranch.png",
+      "backgroundColor": "d8c363",
+      "buttonColor": "6b5f24",
+      "color": 1
+    },
+    {
+      "id": 2,
+      "title": "Power Valley",
+      "subtitle": "Nuts & Legumes",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/power-valley.png",
+      "backgroundColor": "bc5543",
+      "buttonColor": "592a16",
+      "color": 2
+    },
+    {
+      "id": 3,
+      "title": "Fading Forest",
+      "subtitle": "Deforestation",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Fading-Forest.png",
+      "backgroundColor": "2d936b",
+      "buttonColor": "134c32",
+      "color": 3
+    },
+    {
+      "id": 4,
+      "title": "Fellowship of the Forks",
+      "subtitle": "Community",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/fellowship-of-the-forks.png",
+      "backgroundColor": "33787c",
+      "buttonColor": "124948",
+      "color": 4,
+      "unlockedAfterDailyContentID": 5
+    },
+    {
+      "id": 5,
+      "title": "Wild Waste",
+      "subtitle": "Food Waste",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Wild-Waste.png",
+      "backgroundColor": "f4a26d",
+      "buttonColor": "86512b",
+      "color": 5,
+      "unlockedAfterDailyContentID": 6
+    },
+    {
+      "id": 6,
+      "title": "Muscle Mountain",
+      "subtitle": "Protein",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/muscle-mountain.png",
+      "backgroundColor": "707070",
+      "buttonColor": "2a4551",
+      "color": 5,
+      "unlockedAfterDailyContentID": 9
+    },
+    {
+      "id": 7,
+      "title": "Moo Moo Meadows",
+      "subtitle": "Dairy",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/moo-moo-meadows-2-1.png",
+      "backgroundColor": "67a270",
+      "buttonColor": "3d593d",
+      "color": 6,
+      "unlockedAfterDailyContentID": 13
+    },
+    {
+      "id": 8,
+      "title": "The Harbor",
+      "subtitle": "Transport & Packaging",
+      "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/harbor.png",
+      "backgroundColor": "8fa9b4",
+      "buttonColor": "2a4349",
+      "color": 6,
+      "unlockedAfterDailyContentID": 18
+    },
+    {
+      "id": 9,
+      "title": "Golden Fields",
+      "subtitle": "Grains",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/golden-fields.png",
+      "backgroundColor": "f2bc75",
+      "buttonColor": "754f13",
+      "color": 6,
+      "unlockedAfterDailyContentID": 30
+    },
+    {
+      "id": 10,
+      "title": "Vegetable Garden",
+      "subtitle": "Seasonal & Local",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/vegetable-garden.png",
+      "backgroundColor": "326b3e",
+      "buttonColor": "0f3a0f",
+      "color": 6,
+      "unlockedAfterDailyContentID": 34
+    },
+    {
+      "id": 11,
+      "title": "Ocean",
+      "subtitle": "Fish & Seafood",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/ocean.png",
+      "backgroundColor": "154b7c",
+      "buttonColor": "0a283a",
+      "color": 6,
+      "unlockedAfterDailyContentID": 41
+    },
+    {
+      "id": 12,
+      "title": "Underground Jungle",
+      "subtitle": "Soil & Biodiversity",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/soil.png",
+      "backgroundColor": "58432e",
+      "buttonColor": "3f2812",
+      "color": 6,
+      "unlockedAfterDailyContentID": 49
+    },
+    {
+      "id": 13,
+      "title": "The Dry Lake",
+      "subtitle": "Water",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/the-dry-lake.png",
+      "backgroundColor": "c68a61",
+      "buttonColor": "6d5341",
+      "color": 6,
+      "unlockedAfterDailyContentID": 55
+    },
+    {
+      "id": 14,
+      "title": "Fair Fields",
+      "subtitle": "Working conditions",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/fairfields.png",
+      "backgroundColor": "b8c470",
+      "buttonColor": "484A11",
+      "color": 6,
+      "unlockedAfterDailyContentID": 70
+    },
+    {
+      "id": 15,
+      "title": "The Good Ranch",
+      "subtitle": "Sustainable Meat",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/the-good-ranch.png",
+      "backgroundColor": "d6b116",
+      "buttonColor": "7c6814",
+      "color": 6,
+      "unlockedAfterDailyContentID": 77
+    },
+    {
+      "id": 16,
+      "title": "Windmill Land",
+      "subtitle": "Energy Use",
+      "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/windmill-land.png",
+      "backgroundColor": "8eafb2",
+      "buttonColor": "065e60",
+      "color": 6,
+      "unlockedAfterDailyContentID": 82
+    }
+  ]
+}

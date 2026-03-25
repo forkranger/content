@@ -1,0 +1,52 @@
+{
+	"content": [
+		{
+			"categoryId": 0,
+			"type": "blog",
+			"url": "",
+			"thumbnailUrl": ""
+		},
+		{
+			"categoryId": 0,
+			"type": "video",
+			"url": "",
+			"thumbnailUrl": ""
+		},
+		{
+			"categoryId": 5,
+			"type": "blog",
+			"url": "",
+			"thumbnailUrl": ""
+		},
+		{
+			"categoryId": 10,
+			"type": "video",
+			"url": "",
+			"thumbnailUrl": ""
+		},
+		{
+			"categoryId": 3,
+			"type": "blog",
+			"url": "",
+			"thumbnailUrl": ""
+		},
+		{
+			"categoryId": 8,
+			"type": "video",
+			"url": "",
+			"thumbnailUrl": ""
+		},
+		{
+			"categoryId": 1,
+			"type": "blog",
+			"url": "",
+			"thumbnailUrl": ""
+		},
+		{
+			"categoryId": 15,
+			"type": "video",
+			"url": "",
+			"thumbnailUrl": ""
+		}
+	]
+}

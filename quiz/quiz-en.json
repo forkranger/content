@@ -1,0 +1,2192 @@
+{
+  "quizes": [
+    {
+      "id": 13,
+      "intro": {
+        "title": "De eiwit battle: Noten vs. Vlees",
+        "subtitle": "We hoeven vlees en kaas niet volledig te schrappen, maar wel minderen. Als het ons lukt ervan te genieten als een luxe in plaats van een standaard ingrediënt dan zetten we weer een hele grote stap richting een duurzaam voedselsysteem. \n\nOm dat in praktijk te brengen is het recept van de week Kokosrijst met Champignons. Door de umamismaak van de champignons en sojasaus heb je geen vlees of kaas nodig!",
+        "emoji": "🥜"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welk product bevat meer eiwit per 100 gram?",
+          "subtitle": "",
+          "answerOptions": [
+            "Kipfilet",
+            "Pompoenzaadjes"
+          ],
+          "correctAnswer": "Pompoenzaadjes",
+          "explanationText": "Okay dat was een lastige vraag. Want het is normaal om 150g kipfilet in een maaltijd te eten, maar niet 150g pompoenzaadjes. Dus het is makkelijker om heel veel eiwit uit vlees te halen. Maar is dat ook nodig?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/Protein-per-100-g-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Iemand met het gemiddelde Nederlandse dieet, eet per dag...",
+          "subtitle": "",
+          "answerOptions": [
+            "Te weinig eiwit",
+            "Te veel eiwit"
+          ],
+          "correctAnswer": "Te veel eiwit",
+          "explanationText": "te veel eiwit! Best wel zonde want het extra eiwit verdwijnt in het toilet. \n\nEen man van 30 jaar heeft ongeveer 63 g eiwit nodig per dag en een vrouw 54 g (Voedingscentrum). En dat kan prima zonder - of met weinig - vlees!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/09/protein-count-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Hoeveel cashews moet je eten om net zo veel CO2 uit te stoten als met één biefstuk?",
+          "subtitle": "",
+          "answerOptions": [
+            "3 keer zo veel",
+            "7 keer zo veel"
+          ],
+          "correctAnswer": "7 keer zo veel",
+          "explanationText": "Die impact van biefstuk is minstens 7 keer zo hoog als cashews! Het is duidelijk dat de impact van vlees echt in een andere orde valt. \n\nTrouwens, als je dan toch van vlees houdt: kip is een stuk beter is dan rundvlees (en ander vlees).",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/co2-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Noten en zaden zijn een gemakkelijke en duurzame bron van eiwitten",
+        "goal": "Meer noten en zaden eten",
+        "impact": 3,
+        "impactReason": "Want je hebt minder eiwit uit vlees nodig"
+      },
+      "outroRecipe": {
+        "title": "Het recept van deze week is Fruitige Curry met Pinda's. En de andere tip om dit in praktijk te brengen: een broodje pindakaas!",
+        "emoji": "🥜"
+      }
+    },
+    {
+      "id": 14,
+      "intro": {
+        "title": "Kaas vs. vlees - wat is beter?",
+        "subtitle": "Iedereen heeft inmiddels wel gehoord dat vlees slecht is het voor het klimaat (ook al durft de overheid het nog steeds niet hardop te zeggen). Maar hoe verhoudt kaas zich tot de verschillende vleessoorten? ",
+        "emoji": "🧀"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welk product heeft een lagere klimaatimpact?",
+          "subtitle": "Voor 1 kg",
+          "answerOptions": [
+            "Lamsvlees 🐑",
+            "Kaas 🧀"
+          ],
+          "correctAnswer": "Kaas 🧀",
+          "explanationText": "Kaas heeft een lagere klimaatimpact dan lamsvlees. Lamsvlees heeft zelfs samen met geiten- en rundvlees de hoogste klimaatimpact van eten. Dit komt doordat alle drie herkauwers zijn en daarom methaan uitstoten, een sterk broeikasgas. En bij dieren die geen herkauwers zijn, is kaas dan nog steeds beter?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/cheese-vs-meat-quiz-1.png"
+        },
+        {
+          "id": 2,
+          "title": "Welk product heeft de laagste klimaatimpact?",
+          "subtitle": "Voor 1 kg",
+          "answerOptions": [
+            "Kip 🐓",
+            "Varkensvlees 🐖",
+            "Kaas 🧀"
+          ],
+          "correctAnswer": "Kip 🐓",
+          "explanationText": "Kip en varkensvlees hebben een lagere voetafdruk dan kaas. Maar laten we ook eens naar de portiegrootte kijken.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/cheese-vs-meat-quiz-2.png"
+        },
+        {
+          "id": 3,
+          "title": "Welk product heeft een lagere klimaatimpact?",
+          "subtitle": "",
+          "answerOptions": [
+            "400 g varkensvlees 🐖",
+            "200 g kaas 🧀",
+            "Ongeveer hetzelfde"
+          ],
+          "correctAnswer": "Ongeveer hetzelfde",
+          "explanationText": "Vaak eten we van kaas kleinere porties vergeleken met vlees. Dus ondanks dat kaas een hogere uitstoot heeft, hebben varkensvlees, kip en kaas ongeveer dezelfde impact per portiegrootte.\n\nWat dus echt een verschil maakt is de portiegroottes vlees en kaas verkleinen: bijvoorbeeld 100 gram spekjes geeft heel veel smaak voor minder uitstoot.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/cheese-vs-meat-quiz-3.png"
+        }
+      ],
+      "outro": {
+        "insight": "Kaas heeft een vergelijkbare impact als kip of varkensvlees",
+        "goal": "Vervang vlees niet door extra kaas te gebruiken",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "We hoeven vlees en kaas niet volledig te schrappen, maar wel minderen. Als het ons lukt ervan te genieten als een luxe in plaats van een standaard ingrediënt dan zetten we weer een hele grote stap richting een duurzaam voedselsysteem.\n\nOm dat in praktijk te brengen is het recept van de week Kokosrijst met Champignons. Door de umamismaak van de champignons en sojasaus heb je geen vlees of kaas nodig!",
+        "emoji": "🥜"
+      }
+    },
+    {
+      "id": 15,
+      "intro": {
+        "title": "Eet jij veel eten dat per vliegtuig komt?",
+        "subtitle": "Voedsel dat de hele wereld over wordt gevlogen voelt als een van de grote problemen van ons voedselsysteem. Hoe zit dat precies?",
+        "emoji": "✈️"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Hoeveel procent van alle voedselkilometers worden per vliegtuig afgelegd? ✈️",
+          "subtitle": "",
+          "answerOptions": [
+            "23,8%",
+            "0,16%"
+          ],
+          "correctAnswer": "0,16%",
+          "explanationText": "Maar 0,16% - een heel klein deel - van ons eten komt per vliegtuig, alleen producten die heel kwetsbaar zijn en minder lang houdbaar. Het meeste komt per boot.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/transport-methods-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "De uitstoot van producten die per boot komen in plaats van per vliegtuig is... 🚢",
+          "subtitle": "",
+          "answerOptions": [
+            "50 keer lager",
+            "net zo groot"
+          ],
+          "correctAnswer": "50 keer lager",
+          "explanationText": "... 50 keer lager! Grote vrachtschepen zijn ook vervuilend maar er past ongelofelijk veel op. Daardoor is de uitstoot per product enorm laag. En hoe druk moeten we ons maken om ingevlogen eten vergeleken met het eten van vlees?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/emissions-of-transport-methods-NL.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat heeft een lagere CO2 uitstoot?",
+          "subtitle": "neem van allebei 250 gram, kortom:",
+          "answerOptions": [
+            "Twee hamburgers 🍔",
+            "Vier porties ingevlogen sperziebonen ✈️"
+          ],
+          "correctAnswer": "Vier porties ingevlogen sperziebonen ✈️",
+          "explanationText": "Ingevlogen eten heeft een hoge footprint maar rundvlees scoort nog steeds veel hoger. Het pakje ingevlogen sperziebonen heeft een vergelijkbare footprint als dezelfde hoeveelheid kip.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/green-beans-and-meat-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "Slechts een klein percentage van alle producten komt per vliegtuig",
+        "goal": "Vermijd die paar producten die per vliegtuig komen",
+        "impact": 2,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "De verrassing is dat de totale impact van ingevlogen voedsel klein is, want ook al is de uitstoot per product hoog, er zijn er maar weinig producten die per vliegtuig komen. Een paar van de meest ingevlogen producten zijn:\n\nIn de winter: Verse bessen van ver weg\n\nAsperges uit Peru\n\nSperziebonen, haricots verts en sugar snaps uit Kenia\n\nHet recept van de week is Bananen Curry, want bananen komen altijd van ver weg maar altijd per boot.",
+        "emoji": "🥜"
+      }
+    },
+    {
+      "id": 16,
+      "intro": {
+        "title": "Wat is het meest verspilde product van Nederland?",
+        "subtitle": "Project Drawdown heeft voedselverspilling op nummer drie staan als het om oplossingen gaat voor het verminderen van de uitstoot van broeikasgassen. Dus waar we moeten we vooral op letten?",
+        "emoji": "🗑"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Wat is wereldwijd het meest verspilde product als je kijkt naar verspilde calorieën?",
+          "subtitle": "",
+          "answerOptions": [
+            "Granen (bv. brood & pasta)",
+            "Groente en fruit"
+          ],
+          "correctAnswer": "Granen (bv. brood & pasta)",
+          "explanationText": "Wereldwijd bestaan 53% van alle verspilde calorieën uit granen. In Nederlandse huishoudens is brood ook het meest verspilde product als je kijkt naar het gewicht.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/voedselverspilling-op-basis-van-calorieen.png"
+        },
+        {
+          "id": 2,
+          "title": "Waar wordt het meeste brood verspild?",
+          "subtitle": "",
+          "answerOptions": [
+            "Supermarkten en bakkers",
+            "Huishoudens"
+          ],
+          "correctAnswer": "Huishoudens",
+          "explanationText": "In Nederland vindt de helft van alle broodverspilling bij ons thuis plaats. Bijvoorbeeld als broodkapjes niet worden gegeten of we oud brood weggooien.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/food-waste-at-different-stages-NL-1024x995.png"
+        },
+        {
+          "id": 3,
+          "title": "Als je naar de totale verspilde CO2 emissies kijkt, welk product heeft dan een hogere impact?",
+          "subtitle": "in totaal (onderzoek het het Verenigd Koninkrijk)",
+          "answerOptions": [
+            "Verspilde tarwe",
+            "Verspild rundvlees"
+          ],
+          "correctAnswer": "Verspilde tarwe",
+          "explanationText": "Rundvlees weggooien is natuurlijk nog steeds erger dan brood. Maar omdat we zoveel brood weggooien is de totale impact daarvan hoger dan van verspild rundvlees.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/top-10-food-waste-carbon-footprint-NL-1024x1024.png"
+        }
+      ],
+      "outro": {
+        "insight": "Het brood dat wij thuis weggooien is een groot onderdeel van de voedselverspilling",
+        "goal": "Wees niet kieskeurig over oud brood (en de kapjes)",
+        "impact": 4,
+        "impactReason": "(als onderdeel van alle voedselverspillingsacties)"
+      },
+      "outroRecipe": {
+        "title": "Het recept van de week is Marokkaanse Soep, waarbij je fantastisch oud brood kan gebruiken om  in de soep te dopen.",
+        "emoji": ""
+      }
+    },
+    {
+      "id": 17,
+      "intro": {
+        "title": "Plastic om komkommers: hoe erg is dat?",
+        "subtitle": "Dit is misschien wel dé doorn in het oog van de duurzame consument: in plastic verpakte komkommers. Driekwart van de mensen vindt deze verpakking overbodig. Maar hoeveel dragen verpakkingen bij aan klimaatverandering?",
+        "emoji": "🥒"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Hoeveel dagen langer blijft een komkommer in de winkel goed, met plastic?",
+          "subtitle": "",
+          "answerOptions": [
+            "2 dagen",
+            "13 dagen"
+          ],
+          "correctAnswer": "13 dagen",
+          "explanationText": "Een komkommer met plastic blijft 13-17 dagen langer houdbaar volgens een onderzoek uit Oostenrijk. Bij de niet-verpakte komkommers was de verspilling 9.4% en bij de verpakte komkommers 4.6%. Kortom, de verpakking zorgde voor de helft minder verspilling in de winkel.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/food-waste-vs-packaging-NL-2048x1485.png"
+        },
+        {
+          "id": 2,
+          "title": "Wat heeft een grotere CO2 impact om te produceren?",
+          "subtitle": "",
+          "answerOptions": [
+            "De plastic verpakking",
+            "De komkommer zelf"
+          ],
+          "correctAnswer": "De komkommer zelf",
+          "explanationText": "Verpakkingen maken bijna altijd het kleinste deel uit van de impact van voedsel. De impact van de komkommer ziet er hier heel groot uit maar in vergelijking met andere producten is deze nog steeds heel laag.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/cucumber-NL-2048x1832.png"
+        },
+        {
+          "id": 3,
+          "title": "Wat veroorzaakt in totaal meer broeikasgassen?",
+          "subtitle": "",
+          "answerOptions": [
+            "Verpakkingen & transport bij elkaar",
+            "Voedselverspilling"
+          ],
+          "correctAnswer": "Voedselverspilling",
+          "explanationText": "Verpakkingen veroorzaken 5% en transport 6% van alle emissies van het voedselsysteem. Dat is nog steeds minder dan de helft van alle broeikasgassen die ontstaan door voedselverspilling (ca. 25%). Bron: https://ourworldindata.org/food-ghg-emissions",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/background-app.png"
+        }
+      ],
+      "outro": {
+        "insight": "Plastic verpakkingen kunnen voedselverspilling tegengaan en hebben daarom niet per se een negatieve impact",
+        "goal": "Koop de komkommer die jouw voorkeur heeft, met of zonder plastic",
+        "impact": 1,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Verpakkingen zijn een ingewikkeld thema. Plastic is vooral heel zichtbaar, helemaal bij een komkommer. Wat je niet ziet is de impact van de landbouw zelf - en daarmee de vermeden impact van voedselverspilling - en die is bijna altijd groter dan de verpakking.",
+        "emoji": "🥒"
+      }
+    },
+    {
+      "id": 18,
+      "intro": {
+        "title": "Zorgt soja-joghurt voor ontbossing?",
+        "subtitle": "Drie producten zijn verantwoordelijk voor 60% van alle ontbossing: rundvlees, palmolie en soja. Maar wat is precies de rol van soja? Is het nou wel of niet goed om soja-joghurt en tofu te eten?",
+        "emoji": "🔥"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Waarvoor wordt het meerendeel van alle soja gebruikt?",
+          "subtitle": "",
+          "answerOptions": [
+            "Olie",
+            "Veevoer",
+            "Vlees- en zuivelvervangers"
+          ],
+          "correctAnswer": "Veevoer",
+          "explanationText": "Het merendeel van de soja wordt gebruikt als veevoer, vooral voor kippen en varkens. Maar ook voor hoogproductieve melkkoeien, vooral relevant in Nederland.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/soy-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Wat is klimaatimpact van sojaproducten zoals tofu?",
+          "subtitle": "",
+          "answerOptions": [
+            "Hoger dan kip",
+            "Even groot als kip",
+            "Kleiner dan kip"
+          ],
+          "correctAnswer": "Kleiner dan kip",
+          "explanationText": "Zoals bijna altijd, heeft plantaardig voedsel een veel kleinere impact dan vlees. Dit is geen uitzondering voor soja.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/meat-vs-soy-NL-2048x1765.png"
+        },
+        {
+          "id": 3,
+          "title": "Komt de soja voor menselijke consumptie (tofu etc.) uit de Amazone?",
+          "subtitle": "",
+          "answerOptions": [
+            "Ja",
+            "Nee"
+          ],
+          "correctAnswer": "Nee",
+          "explanationText": "De meeste soja voor bijvoorbeeld soja-joghurt of tofu wordt niet in de Amazone verbouwd, maar op gecertificeerde boerderijen in Europa en Canada (Bron: NRC checkt - Draagt hipsterkoffie bij aan de ontbossing van de Amazone).",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/background-app.png"
+        }
+      ],
+      "outro": {
+        "insight": "de meeste soja wordt gebruikt om dieren te voeden, niet mensen",
+        "goal": "je kan vlees gerust vervangen door tofu",
+        "impact": 4,
+        "impactReason": "als onderdeel van minder vlees eten"
+      },
+      "outroRecipe": {
+        "title": "Lang verhaal kort: soja veroorzaakt ontbossing, maar dat komt vooral omdat het wordt gebruikt als veevoer om vlees te produceren. Sojaproducten zijn niet alleen een duurzame bron van eiwitten, maar ook een gezonde optie. De recepten van deze week staan in het teken van één heerlijk sojaproduct: sojasaus!",
+        "emoji": "🔥"
+      }
+    },
+    {
+      "id": 19,
+      "intro": {
+        "title": "Wat is de meest duurzame kaas? 🧀",
+        "subtitle": "Minder kaas eten is waarschijnlijk het moeilijkste onderdeel van minder dierlijke producten eten. Dus welke kaas is het beste voor het klimaat? En hoe past kaas in een duurzaam dieet?",
+        "emoji": "🧀"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Hoeveel melk is er nodig voor 1 kg harde kaas zoals Gouda?",
+          "subtitle": "",
+          "answerOptions": [
+            "4 liter",
+            "10 liter"
+          ],
+          "correctAnswer": "10 liter",
+          "explanationText": "Je hebt ca. 10 liter melk nodig voor 1 kg Gouda. Zachte kaas is minder dicht en bevat minder gram eiwit en vet, waardoor er ook minder melk nodig is om te produceren.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/background-app.png"
+        },
+        {
+          "id": 2,
+          "title": "Welke kaas heeft een lagere impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "zachte kaas",
+            "harde kaas"
+          ],
+          "correctAnswer": "zachte kaas",
+          "explanationText": "Zachte kaas heeft minder melk nodig en daardoor is de uitstoot dus ook lager. Moeten we Mozzarella kiezen in plaats van Gouda? Alleen als we van elke kaas altijd evenveel zouden eten.\n\n\\Maar dat is niet wat er in het echte leven gebeurt, omdat mensen de neiging hebben om grotere porties zachte kaas te eten.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/cheese-footprint-NL-2048x1765.png"
+        },
+        {
+          "id": 3,
+          "title": "Waarmee bespaar je meer CO2?",
+          "subtitle": "",
+          "answerOptions": [
+            "zachte kaas gebruiken",
+            "kleinere portiegroottes gebruiken"
+          ],
+          "correctAnswer": "kleinere portiegroottes gebruiken",
+          "explanationText": "In plaats van alleen naar CO2 per kg te kijken, moeten we CO2 per portie vergelijken. De conclusie is simpel maar krachtig: als we kazen gebruiken met een pittige smaak hebben we er minder van nodig en kunnen we daarmee onze impact verlagen.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/08/cheese-footprint-serving-size-NL-2048x2011.png"
+        }
+      ],
+      "outro": {
+        "insight": "de portiegrootte maakt het meeste uit, niet de soort kaas",
+        "goal": "gebruik kleinere hoeveelheden kaas en geniet ervan als luxeproduct",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Kaas heeft over het algemeen een hoge impact en net als vlees moeten we het zien als een luxeproduct. Dus snij kleine plakjes, vind recepten zonder kaas en rasp Parmezaanse kaas op de fijnste raspstructuur.\n\n\\Voor deze week hebben we een ongebruikelijke combinatie dat te oefenen: een Braziliaans recept met rijst, chips en wat Parmezaanse kaas om het af te maken.",
+        "emoji": "🧀"
+      }
+    },
+    {
+      "id": 20,
+      "intro": {
+        "title": "Hoe kun je anderen inspireren om minder vlees te eten?",
+        "subtitle": "Duurzaam eten zien we vaak als een individueel probleem. Maar we kunnen meer impact hebben door onze vrienden te inspireren dan zelf een perfect duurzaam dieet na te streven.",
+        "emoji": "💬"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Met welke actie kan de gemiddelde Nederlander meer CO2 besparen?",
+          "subtitle": "",
+          "answerOptions": [
+            "Rundvlees vervangen door kip en varkensvlees",
+            "1 dag in de week geen vlees eten"
+          ],
+          "correctAnswer": "Rundvlees vervangen door kip en varkensvlees",
+          "explanationText": "Rundvlees vervangen door kip en varkensvlees bespaart bijna twee keer zoveel CO2 als één dag in de week geen vlees! Helemaal geen vlees eten is natuurlijk nog beter maar rundvlees vervangen maakt al een heel groot verschil. Dit komt vooral doordat koeien methaan uitstoten en kippen en varkens niet.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/09/reduction-footprint-NL.png"
+        },
+        {
+          "id": 2,
+          "title": "Wat werkt beter om mensen te inspireren ergens aan te beginnen?",
+          "subtitle": "",
+          "answerOptions": [
+            "Shocking feiten",
+            "Kleine en 'veilige' stapjes"
+          ],
+          "correctAnswer": "Kleine en 'veilige' stapjes",
+          "explanationText": "Mensen worden niet geïnspireerd door negatieve feiten of door wetenschappers en politici. Mensen worden beïnvloed door hun vrienden en familie. Het beste werkt het aanbieden van een positieve oplossing die voor mensen 'veilig' voelt. Als de actie te rigoreus is steken mensen hun kop in 't zand.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/background-app.png"
+        },
+        {
+          "id": 3,
+          "title": "Hoeveel procent van een groep is er nodig om de status quo te veranderen?",
+          "subtitle": "",
+          "answerOptions": [
+            "12%",
+            "25%",
+            "45%"
+          ],
+          "correctAnswer": "25%",
+          "explanationText": "In een experiment moesten mensen samenwerken om overeenstemming te bereiken over een sociale norm. Iedereen zou geld krijgen om zich aan deze sociale norm te houden. Daarna vroegen ze een paar mensen om de norm te wijzigen die ze zojuist hadden afgesproken. Toen 25% van de leden om de verandering vroeg, stemde de hele groep ermee in om te veranderen, ondanks het feit dat de andere 75% veel meer zou krijgen als ze niet zouden veranderen.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/background-app.png"
+        }
+      ],
+      "outro": {
+        "insight": "anderen helpen rundvlees te vervangen, maakt een groter verschil dan je eigen keuzes perfectioneren",
+        "goal": "minstens één persoon overtuigen om rundvlees te vervangen door kip",
+        "impact": 4,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Maak je geen zorgen over de mensen die echt niet willen veranderen. Focus op je vrienden en familie die ervoor open staan. Elke persoon die meedoet, maakt een groot verschil totdat de beweging zich plotseling naar de rest van de groep verspreidt.\n\nWat ook goed werkt is voor mensen koken en als ze het lekker vonden ze daarna het recept te sturen (hint: er zit een deel knop bij de recepten 😉).",
+        "emoji": "💬"
+      }
+    },
+    {
+      "id": 21,
+      "intro": {
+        "title": "Is biologisch eten beter voor het klimaat?",
+        "subtitle": "Er zijn veel redenen om voor biologische producten te kiezen, voor je eigen gezondheid of vanwege dierenwelzijn. Maar is het nou ook beter voor het klimaat?",
+        "emoji": "🌱"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Welke boerderij gebruikt minder land voor dezelfde hoeveelheid voedsel?",
+          "subtitle": "",
+          "answerOptions": [
+            "Biologisch",
+            "Industrieel"
+          ],
+          "correctAnswer": "Industrieel",
+          "explanationText": "Biologische landbouw heeft ongeveer 1,5 keer meer land nodig. Maar industriële landbouw beschadigd wel de bodem waardoor er op de lange-termijn minder vruchtbaar land overblijft.\n\n\nEen discussie over landgebruik moet trouwens ook een discussie over vlees bevatten. Rundvlees heeft namelijk 4 tot 30 keer meer land nodig dan noten, linzen en bonen. Dus als land niet de beperking zou zijn...",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/background-app.png"
+        },
+        {
+          "id": 2,
+          "title": "Welke boerderij heeft een lagere klimaat-impact?",
+          "subtitle": "bij gebruik van dezelfde oppervlakte",
+          "answerOptions": [
+            "Biologisch",
+            "Industrieel"
+          ],
+          "correctAnswer": "Biologisch",
+          "explanationText": "Biologische landbouw gebruikt geen kunstmest en dit bespaart een hoop energie en lachgas uitstoot (een enorm sterk broeikasgas). Daarnaast zorgt biologische landbouw beter voor de bodem waardoor er ondergronds CO2 kan worden opgeslagen (net als in een bos).",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/11/cacao-production.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Biologisch eten kopen maakt alleen een verschil als je...",
+          "subtitle": "",
+          "answerOptions": [
+            "het direct bij de boer koopt",
+            "ook minder vlees eet",
+            "het koopt zonder plastic verpakking"
+          ],
+          "correctAnswer": "ook minder vlees eet",
+          "explanationText": "...ook minder vlees eet! Een Franse studie toonde aan dat biologische producten je footprint verkleinen, maar dit gold alleen voor mensen die minder vlees aten.\n\n\nEr is niet genoeg ruimte om ons huidige voedingspatronen om te zetten naar biologisch. Maar als we minder vlees eten EN biologisch eten kopen, is er voldoende land beschikbaar en kunnen we meer zorg dragen voor de bodem.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/09/land-use-NL.png"
+        }
+      ],
+      "outro": {
+        "insight": "biologisch voedsel kan je impact verkleinen (als je ook minder vlees eet)",
+        "goal": "start met biologisch brood, pasta, appels, bananen (want daar eten we heel veel van)",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "We moeten ons hele voedselsysteem veranderen en het kopen van biologisch voedsel is een geweldige investering in de bodem, wat beter is voor de biodiversiteit en ook CO2 opslaat. Als je minder vlees eet en je budget het toelaat, kan biologisch eten je impact verkleinen. Daarnaast laat het boeren zien dat mensen bereid zijn meer te betalen voor duurzame producten.",
+        "emoji": "👩‍🌾👨‍🌾"
+      }
+    },
+    {
+      "id": 22,
+      "intro": {
+        "title": "Hoe duurzaam is die chocoladeletter?",
+        "subtitle": "We zullen alvast verklappen dat kruidnoten een lagere impact hebben dan chocolade (want kruidnoten bestaan vooral uit tarwe en suiker). Maar hoe zit het met de klimaatimpact van cacao?",
+        "emoji": "🍫"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Een reep chocolade heeft soms een hogere impact dan een biefstuk",
+          "subtitle": "",
+          "answerOptions": [
+            "waar",
+            "niet waar"
+          ],
+          "correctAnswer": "waar",
+          "explanationText": "Er zit een enorm grote variatie in de impact van chocolade. Het gaat van -4 kg CO2 tot vijf keer meer dan rundvlees!\n\nGelukkig ligt de impact van de meeste chocolade lager dan kip (het gemiddelde is wel hoog maar de mediaan niet, weet je nog van statistiek?)",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/11/cacao.png"
+        },
+        {
+          "id": 2,
+          "title": "Wat veroorzaakt de grote CO2 impact van chocolade?",
+          "subtitle": "",
+          "answerOptions": [
+            "Transport",
+            "Landgebruik",
+            "Productie"
+          ],
+          "correctAnswer": "Landgebruik",
+          "explanationText": "Landgebruik: in veel gebieden wordt bos gekapt om plaats te maken voor cacao plantages. Grote chocolade bedrijven hebben vaak geen toezicht waar de cacao precies vandaan komt.\n\nDit zorgt er voor dat naast ontbossing ook kinderarbeid gewoon door kan gaan. Daarom kun je het beste kleine merken kopen die direct in contact met de boer staan.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/11/cacao-production.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Wat is een duurzamere keuze?",
+          "subtitle": "Hint: in beiden is evenveel cacao verwerkt",
+          "answerOptions": [
+            "200 g melk chocolade",
+            "100 g pure chocolade"
+          ],
+          "correctAnswer": "100 g pure chocolade",
+          "explanationText": "\nIn beide zit ongeveer evenveel cacao, maar bij pure chocolade komt er geen melk aan te pas en dat kan flink schelen (13,5% - 70% minder CO2).\n\nMisschien nog wel belangrijker: met een stuk pure chocolade doe je waarschijnlijk langer omdat je door de intense smaak niet alles in één keer opeet.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/10/background-app.png"
+        }
+      ],
+      "outro": {
+        "insight": "chocolade is een luxeproduct en zorgt voor ontbossing",
+        "goal": "koop pure chocolade van kleine merken (en sowieso Fairtrade)",
+        "impact": 2,
+        "impactReason": "(chocolade heeft een relatief hoge impact maar we eten er veel minder van dan vlees of zuivel)"
+      },
+      "outroRecipe": {
+        "title": "Je hoeft chocolade niet op te geven als je duurzaam wil eten. Het belangrijkste is dat we het zien als luxeproduct en er dus ook eerlijk voor betalen.\n\n\nDus geen gigantische chocoladeletters voor de laagste prijs maar extra genieten van een luxe en pure chocoladereep. Dat is is gezonder, lekkerder en duurzamer.\n\n\nNet als vlees en zuivel kun je chocolade het beste niet in de supermarkt kopen maar bij speciaalzaakjes of biowinkels met kleinere merken die direct in contact staan met de cacaoboeren.",
+        "emoji": "🍫"
+      }
+    },
+    {
+      "id": 23,
+      "intro": {
+        "title": "The impact of fish",
+        "subtitle": "Labels about sustainable fish are often misleading and compliacted, so how you can make sustainable fish choices?",
+        "emoji": "🐟"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which type of fish has the lowest environmental impact?",
+          "subtitle": "",
+          "answerOptions": [
+            "herring",
+            "salmon",
+            "tuna"
+          ],
+          "correctAnswer": "herring",
+          "explanationText": "Herring is a much smaller fish and is therefore a better choice.\n\nThe carbon footprint of fish is similar to that of chicken. But only looking at CO2 can be misleading because there are so many other issues, such as overfishing. Herring is also a better choice when considering those other issues.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/co2-of-fish-EN.png"
+        },
+        {
+          "id": 2,
+          "title": "What's the biggest issue with salmon and tuna?",
+          "subtitle": "",
+          "answerOptions": [
+            "They live in salt water",
+            "They eat other fish",
+            "They swim very fast"
+          ],
+          "correctAnswer": "They eat other fish",
+          "explanationText": "Salmon and tuna eat other fish and are carnivores. They're high up on the food chain, which means their role in the ecosystem is extra vulnerable.\n\nBecause you have to feed salmon with other fish, a piece of (farmed) salmon requires almost double the amount of fish. That's why it's more sustainable to eat smaller fish.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/see-food-chain-EN.png"
+        },
+        {
+          "id": 3,
+          "title": "Which of these is a sustainable choice?",
+          "subtitle": "",
+          "answerOptions": [
+            "Mussels, oysters and clams",
+            "Shrimp"
+          ],
+          "correctAnswer": "Mussels, oysters and clams",
+          "explanationText": "Mussels, oysters and clams are a great choice of seafood! They have a very low impact. Shrimp on the other hand, have one of the highest impacts of seafood because in some cases, mangrove forests are cut down or huge nets dragged across the Ocean floor.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/co2-of-fish-2-EN.png"
+        }
+      ],
+      "outro": {
+        "insight": "fish has a similar footprint to chicken",
+        "goal": "eat smaller fish (herring, anchovies) or mussels, oysters and clams",
+        "impact": 2,
+        "impactReason": "(most Western countries eat less fish than meat)"
+      },
+      "outroRecipe": {
+        "title": "Fish has a similar impact as chicken. So it's a more sustainable alternative to red meat or dairy but there the impact of fish can variate a lot.\n\nThe best hoice is to eat (shell)fish that are lower on the food chain. So less tuna and salmon and more of the smaller fish. Especially mussels, oysters and clams are a good choice.\n\nCrayfish is an invasive species in the Netherlands, so eating them is even helping the environment.",
+        "emoji": "🦞"
+      }
+    },
+    {
+      "id": 24,
+      "intro": {
+        "title": "Margarine vs. Butter",
+        "subtitle": "Margarine is made from palm oil but butter comes from cows. So which one should you choose?",
+        "emoji": "🥞"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which one has a lower carbon footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            "Butter",
+            "Margarine"
+          ],
+          "correctAnswer": "Margarine",
+          "explanationText": "Per kg, butter even has a higher footprint than chicken! But this is not the full story...",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/butter-and-margarine-carbon-footprint.png"
+        },
+        {
+          "id": 2,
+          "title": "How much butter do we eat per year?",
+          "subtitle": "(average per person in Europe and USA)",
+          "answerOptions": [
+            "0,2 kg",
+            "3,3 kg",
+            "15,8 kg"
+          ],
+          "correctAnswer": "3,3 kg",
+          "explanationText": "3,3 kg. France, Sweden and Germany eat the most butter at around 6-7 kg. But even that is much lower than the amount of other milk products (mostly milk, cheese, yoghurt) and meat.\n\nThat means the TOTAL footprint of butter is very low compared to meat and other dairy consumption.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/Total-carbon-footprint-butter-and-margarine.png"
+        },
+        {
+          "id": 3,
+          "title": "Which sandwich has a lower carbon footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            "Margarine and chicken 🍗",
+            "Butter and cheese 🧀"
+          ],
+          "correctAnswer": "Margarine and chicken 🍗",
+          "explanationText": "Ouch, what an unpleasant surprise for the cheese lovers.\n\nIf something comes from a cow, it usually has a higher footprint than other food products. The reason is that cows require a lot of land (for feed) and burp methane.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/sandwiches-butter-and-margarine-1.png"
+        }
+      ],
+      "outro": {
+        "insight": "margarine is more sustainable than butter",
+        "goal": "Use margarine as standard option and butter as a special treat",
+        "impact": 1,
+        "impactReason": "(we don't eat much butter so replacing it makes a relatively small difference)"
+      },
+      "outroRecipe": {
+        "title": "The total amount of butter we eat is much lower than our meat, milk and cheese consumption. So don't feel too guilty if you're eating butter.\n\nBut if you're really going for it, replacing butter with margarine is a sustainable choice because the impact of margarine is around three times lower.\n\nThis quiz didn't cover other issues like water use or land use, but in those cases the result is the same: margarine scores much better. And what about palm oil? That's a topic for another time.",
+        "emoji": "🥞"
+      }
+    },
+    {
+      "id": 25,
+      "intro": {
+        "title": "Sustainable Christmas",
+        "subtitle": "We all know it from the songs: it’s the most wonderful time of the year. But it also comes with some less sustainable traditions, from beef wellington to Christmas lights. So what are some easy ways to have a climate-friendly Christmas?",
+        "emoji": "🎄"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which of these has the lowest footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            "Christmas stollen (cake)",
+            "Cheese fondue",
+            "Christmas tree"
+          ],
+          "correctAnswer": "Christmas tree",
+          "explanationText": "Surprised? Well, the tree is plant-based 😉 It only needs a small space to grow. The Christmas stollen or cheese fondue seems a lot smaller than a tree, but it requires quite some space to grow the ingredients, from grasslands for milk to fields of sugar cane.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/christmas-tree-vs-food.png"
+        },
+        {
+          "id": 2,
+          "title": "How much does waste increase during Christmas time?",
+          "subtitle": "general waste",
+          "answerOptions": [
+            "ca. 11 %",
+            "ca. 25%",
+            "ca. 45%"
+          ],
+          "correctAnswer": "ca. 25%",
+          "explanationText": "Waste increases 25-30% during Christmas time... People use lots of wrapping paper for presents but the worst form of waste is food waste. The Netherlands throws away 124 million euros worth of food during Christmas!\n\nEat food, not too much, mostly plants. And save leftovers.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Which action saves more emissions?",
+          "subtitle": "",
+          "answerOptions": [
+            "Low waste and vegetarian Christmas dinner",
+            "Not buying unwanted presents"
+          ],
+          "correctAnswer": "Not buying unwanted presents",
+          "explanationText": "This was a bit of a trick question: one meal makes a smaller difference than one unwanted present, but a whole year of eating less meat does make a huge difference.\n\nThis research from the UK also found that having extravagant Christmas lights can also add a lot to your footprint.\n\nOverall, the graph tells the same story as always: eat less meat, use a bike or public transport, and stop buying so much stuff.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/Christmas-.png"
+        }
+      ],
+      "outro": {
+        "insight": "While one meal doesn’t make a huge difference, all your meals together do",
+        "goal": "Enjoy Christmas and don’t feel guilty, what matters is making a difference the rest of the year",
+        "impact": 5,
+        "impactReason": "(having a good time is important to live a sustainable life)"
+      },
+      "outroRecipe": {
+        "title": "Christmas is a wonderful time of the year. The focus on family and good meals can help us remember what matters most in life. Christmas can be great for us if we disconnect it from consumerism.\n\nThe most important advice is not to buy unnecessary presents. Give someone an experience or a good book. Did you know we have a Fork Ranger cookbook? 😜 Go to forkranger.com for the book and a more in-depth blog post about Christmas.\n\nMerry Christmas dear Fork Rangers!",
+        "emoji": "🎄"
+      }
+    },
+    {
+      "id": 26,
+      "intro": {
+        "title": "What about alcohol?",
+        "subtitle": "Wow it’s (almost) 2022. Time to celebrate! Unfortunately it’s also a time where a lot of people have a few too many drinks. So this is a good time to take a look at the sustainability of the most popular drug.",
+        "emoji": "🍷"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which of these drinks has the lowest carbon footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            "🍺 One beer (330 ml)",
+            "🍷 A glass of wine (150 ml)"
+          ],
+          "correctAnswer": "🍷 A glass of wine (150 ml)",
+          "explanationText": "Wine has a higher footprint per liter, but a glass of wine is usually half as big as a beer.\n\nAs a reference we’ve also added a glass of milk. The impact of both wine and beer is still lower than a glass of milk - which doesn’t mean you should substitute milk for wine or beer every time 😉.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/milk-beer-wine.png"
+        },
+        {
+          "id": 2,
+          "title": "What is different about a bottle of wine compared to the environmental impact of most other food?",
+          "subtitle": "",
+          "answerOptions": [
+            "Transport and packaging emissions are high",
+            "Farming emissions are high"
+          ],
+          "correctAnswer": "Transport and packaging emissions are high",
+          "explanationText": "Farming is almost always by far the largest impact of a food product. But when it comes to wine, it’s different. It’s a liquid; it’s quite heavy and the glass bottle also weighs a lot. That makes wine an exception: transport and packaging emissions are high.\n\nRoad transport of this heavy ‘food’ product also adds quite some emissions, whereas shipping of wine adds far less emissions. However due to the large shipping distances, the European wines still have a 10-20% lower impact compared to the South-American or Australian ones (assuming you live in Europe).",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Let’s have a nice dinner! Which part has a lower footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            "One bottle of wine",
+            "Risotto for 4 people"
+          ],
+          "correctAnswer": "One bottle of wine",
+          "explanationText": "Wine has a lower footprint! Half of the risotto’s emissions are lots of butter and some parmesan. This is the footprint of the Fennel Risotto of this week’s recipes.\n\nThere are definitely meals with a lower footprint but it’s more than four times better than a spaghetti bolognese with 400 g of beef!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/12/wine-and-risotto.png"
+        }
+      ],
+      "outro": {
+        "insight": "The impact of beer and wine is not very high, but packaging and transport play a large role",
+        "goal": "Drink responsibly, prefer local beers and wines and recycle your bottles",
+        "impact": 1,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Because beer and wine are liquids and come in bottles, they are quite heavy and that means transportation plays a bigger role than usual. But it’s the road transportation that counts. Shipping by boat usually has a lower impact. Except, if the distances are very large, like from Australia, Chile and Argentina.\n\nSo if you know a local brewery or wine maker, that is a great option. But if you end up with a bottle from half-way around the world, it’s not a big deal. Better make sure you don’t drink it next to a Brazilian steak 😉",
+        "emoji": "🍷"
+      }
+    },
+    {
+      "id": 27,
+      "intro": {
+        "title": "Is filter coffee more sustainable than pads?",
+        "subtitle": "Welcome in 2022! A good time to make new plans and new year’s resolutions. Should drinking less coffee be one of them?",
+        "emoji": "☕"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which drink has a lower carbon footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            "Tea",
+            "Coffee"
+          ],
+          "correctAnswer": "Tea",
+          "explanationText": "Tea is at least three times more sustainable than coffee! The impact of tea is so low that most of the CO2 comes from boiling water. So let’s have a closer look at coffee.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Where do most of the coffee emissions come from?",
+          "subtitle": "",
+          "answerOptions": [
+            "Growing the beans",
+            "Packaging",
+            "Electricity for brewing the coffee"
+          ],
+          "correctAnswer": "Growing the beans",
+          "explanationText": "As usual growing the food makes up most of the emissions. Therefore there’s an important conclusion: wasting coffee is more damaging than extra packaging waste. The total emissions from wasted coffee in the UK are higher than the entire emissions of a Formula 1 season! 🤯\n\nThis surprising fact also made us curious about how to prevent this waste. An American study that found that in most cases, cups and pads are more sustainable than filter systems because it’s easier to set just the right amount of coffee per person.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Now let’s take a look at a cappuccino. Which ingredient causes more emissions?",
+          "subtitle": "",
+          "answerOptions": [
+            "Espresso",
+            "Milk"
+          ],
+          "correctAnswer": "Milk",
+          "explanationText": "A cappuccino has one espresso of 25 ml and 85 ml milk, which means the milk emissions are quite high. Substituting cow milk for oat milk can cut the impact of a cappuccino in half.\n\nEven then, drinking coffee has a relatively high footprint. The carbon footprint of drinking 1 capuccino and 2 coffees per day is similar to eating 2,5 chicken breasts per week!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/coffee.png"
+        }
+      ],
+      "outro": {
+        "insight": "Coffee has a relatively high impact because we drink so many cups per day",
+        "goal": "Drink less coffee (especially cappuccinos) and more tea",
+        "impact": 2,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Coffee is a complicated product with lots of issues around climate change, land use and working conditions. Just like chocolate or meat, it’s a luxury product that we have made completely normal in our lives. Perhaps a bit too normal?\n\nBy reducing the amount of coffee we drink, we can upgrade on the quality and overall enjoy it more. And black tea is a great substitute for some caffeine 😉",
+        "emoji": "☕"
+      }
+    },
+    {
+      "id": 28,
+      "intro": {
+        "title": "How to eat avocados sustainably",
+        "subtitle": "Avocados are probably the world’s most controversial fruit. Is there a way to eat them sustainably?",
+        "emoji": "🥑"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which of these impacts is especially relevant for avocados?",
+          "subtitle": "",
+          "answerOptions": [
+            "CO emissions",
+            "Water use"
+          ],
+          "correctAnswer": "Water use",
+          "explanationText": "While the carbon footprint of avocados is higher than that of bananas or pineapples, it is not the main issue to worry about.\n\nThe most important aspect is that avocados are very thirsty plants. This is not automatically a problem because it depends on how dry the region is. In Mexico - where most avocados come from - water use is definitely an issue.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/avocado-water.png"
+        },
+        {
+          "id": 2,
+          "title": "Avocados have a higher impact than other tropical fruits because of...",
+          "subtitle": "",
+          "answerOptions": [
+            "The space it takes to grow them",
+            "Transport from Mexico to Europe"
+          ],
+          "correctAnswer": "The space it takes to grow them",
+          "explanationText": "The space it takes to grow them. They require a lot more land than other fruit like bananas, pineapple or mango. However, avocados still require around 7 times less land than beef (RIVM). In Mexico, the big problem is that avocados grow best in forest areas, which means avocados cause deforestation.\n\nAvocados are transported by ship and these emissions are relatively low.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/avocado-land-use.png"
+        },
+        {
+          "id": 3,
+          "title": "Which statement is true?",
+          "subtitle": "",
+          "answerOptions": [
+            "Drug gangs make money with avocados",
+            "Avocado farmers work in modern slavery"
+          ],
+          "correctAnswer": "Drug gangs make money with avocados",
+          "explanationText": "Many farmers in tropical countries don’t get paid enough for their produce (e.g. coffee or pineapple). With avocados on the other hand, farmers can make good money.\n\nBut this has also caught the attention of drug gangs who are now controlling avocado plantations and threatening farmers. Learn more in the Netflix series ‘Rotten’ 🎬.",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Avocado is one of the most problematic plant-based products",
+        "goal": "Use avocados for Mexican recipes (instead of eating them every week)",
+        "impact": 2,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Avocados are not the only tropical fruit with social and environmental issues and overall, meat still causes a lot more damage. But a lot of the problems of the food system become visible in the avocado.\n\nWe don’t have to give up avocados completely, but it makes sense to eat them sparingly. Our approach is to stick to around 1-2 per month - which is the current Dutch average - and honour the avocado by only using it for Mexican recipes, like this week’s black bean fajitas.\n\nGo to our blog to learn more about this topic (forkranger.com)",
+        "emoji": "🥑"
+      }
+    },
+    {
+      "id": 29,
+      "intro": {
+        "title": "How important is eating seasonally?",
+        "subtitle": "Imagine it’s winter and you want to make something with green beans. Are they in season? What’s the best way to buy them? And does it even matter if anything is in season or not?",
+        "emoji": "🌱"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "When are green beans in season in the Netherlands? ",
+          "subtitle": "",
+          "answerOptions": [
+            "April - June",
+            "July - September",
+            "October - November"
+          ],
+          "correctAnswer": "July - September",
+          "explanationText": "In the Netherlands they only grow during summer. But the season of a product is of course dependent on location. Green beans in Morocco are in season from October to June. In California they are grown from March to November.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "What’s the better choice if green beans are out of season?",
+          "subtitle": "Assuming you’re in the Netherlands",
+          "answerOptions": [
+            "Local, grown in a greenhouse",
+            "Imported from Spain, grown on a field"
+          ],
+          "correctAnswer": "Imported from Spain, grown on a field",
+          "explanationText": "Green beans from Spain have extra transport emissions, but the transport requires a lot less energy than heating the greenhouse in the Netherlands!\n\nThat means the most important factor is whether something is seasonal in the place it is grown, not where it is consumed.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/green-beans-seasonal.png"
+        },
+        {
+          "id": 3,
+          "title": "Now let’s take a look at spinach out of season. What’s a better choice?",
+          "subtitle": "",
+          "answerOptions": [
+            "Frozen, grown in season",
+            "Fresh, grown in a greenhouse"
+          ],
+          "correctAnswer": "Frozen, grown in season",
+          "explanationText": "Once again, it’s the energy required for growing the spinach that causes most of the emissions.\n\nFor comparison we included chicken in this graph, which is the meat with the lowest climate impact. The conclusion for the carbon footprint is clear: eating less meat makes a much bigger difference than eating seasonally.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/spinach-seasonal.png"
+        }
+      ],
+      "outro": {
+        "insight": "The most important factor is whether something is seasonal in the place it is grown, not where it is consumed.",
+        "goal": "When in doubt, buy the frozen option",
+        "impact": 1,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Of course eating seasonal and local is the best option. But the most important information is how something was grown, and this can be tricky to find out. The emissions of heating a greenhouse are much higher than importing the same food or storing it in a freezer. Frozen is always a safe choice when you’re in doubt.\n\nOverall, eating seasonal is a good choice. But it’s not always straightforward so don’t worry too much about it or lose sight of the more important goal of reducing meat and dairy.",
+        "emoji": "❄️"
+      }
+    },
+    {
+      "id": 30,
+      "intro": {
+        "title": "A surprising fact about milk",
+        "subtitle": "You’ve probably heard that beef has a high footprint, but what does that say about another cow product? Let’s find out about milk with these three questions.",
+        "emoji": "🥛"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "The footprint of a glass of milk is comparable to...",
+          "subtitle": "(200 ml)",
+          "answerOptions": [
+            "1 slice of cheese",
+            "1 egg",
+            "1 banana"
+          ],
+          "correctAnswer": "1 slice of cheese",
+          "explanationText": "1 slice of cheese. For the same weight, the footprint of milk is not extremely high, but we often have big ‘milk portions’ and use it on a daily basis.\n\nLet’s say you have one glass of milk everyday, that would cause around 200 kg CO2, which is comparable to eating one hamburger a week!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/milk-footprint.png"
+        },
+        {
+          "id": 2,
+          "title": "Which of these causes more CO2 emissions for milk?",
+          "subtitle": "",
+          "answerOptions": [
+            "packaging",
+            "transport",
+            "waste in households"
+          ],
+          "correctAnswer": "waste in households",
+          "explanationText": "Preventing wasted milk is a big challenge, since milk spoils so easily. Milk waste in households is around 10% in the Netherlands while packaging and transport each only make up 3-4% of the milk footprint.\n\nHere is the surprising fact that we promised: the emissions of wasted milk in UK households are much higher than all the emissions of a Formula 1 season!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/milk-waste.png"
+        },
+        {
+          "id": 3,
+          "title": "What makes a bigger difference?",
+          "subtitle": "for reducing CO2",
+          "answerOptions": [
+            "Cutting milk consumption in half",
+            "Switching to plant-based milk"
+          ],
+          "correctAnswer": "Switching to plant-based milk",
+          "explanationText": "All plant-based options have a carbon footprint that is around 1/3 of cow’s milk. So you can either reduce milk consumption by two thirds or switch to a plant-based version. A good ambition is to replace cow’s milk for daily use.\n\nSoy milk is a good overall replacement for baking and cooking because of its structure and protein. Oat milk is a popular option for cappuccino because it foams well. Despite the high water footprint, most almond milk is also more sustainable than cow’s milk.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/01/different-milks.png"
+        }
+      ],
+      "outro": {
+        "insight": "Milk has a relatively high footprint if you use it on a daily basis",
+        "goal": "Prevent waste and switch to plant-based milk for daily habits",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Milk is another cow product that also has a relatively high impact, especially because we use a lot of milk in one serving and we waste a lot of it.\n\nOverall, our conclusion is that milk shouldn’t be something for daily use. So start where it’s easy: if you make oatmeal with milk, or you drink a cappuccino everyday, finding a good plant-based alternative is going to make a big difference.",
+        "emoji": "🐮"
+      }
+    },
+    {
+      "id": 31,
+      "intro": {
+        "title": "What you should know about palm oil",
+        "subtitle": "Palm oil is the world’s most-used oil and it has a very bad reputation. Let’s find out why.",
+        "emoji": "🌴"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which product contains palm oil?",
+          "subtitle": "",
+          "answerOptions": [
+            "Margarine",
+            "Cookies",
+            "Ice cream",
+            "All of the above"
+          ],
+          "correctAnswer": "All of the above",
+          "explanationText": "Palm oil is an almost magical ingredient because it can do so many things. It is used in more than 50% of the packaged products in the supermarket.\n\nEven though we can find palm oil in almost anything - from toothpaste to cookies - most palm oil is used as cooking oil in Asia and Africa.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "What is the main issue with palm oil?",
+          "subtitle": "",
+          "answerOptions": [
+            "Deforestation",
+            "High water use",
+            "Pesticides"
+          ],
+          "correctAnswer": "Deforestation",
+          "explanationText": "84% of all palm oil comes from Indonesia and Malaysia, where it is responsible for cutting down the rainforest. \n\nThere is a label for sustainable palm oil (RSPO) but the supply chain is so complicated that it’s difficult to know what is truly sustainable. \n\nStill it’s important that we are willing to pay more for these sustainable options. What else can we do?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/rspo-logo.png"
+        },
+        {
+          "id": 3,
+          "title": "Replacing palm oil with other oils would require...",
+          "subtitle": "(per kg of oil)",
+          "answerOptions": [
+            "More land",
+            "Less land"
+          ],
+          "correctAnswer": "More land",
+          "explanationText": "More land. It is by far the most efficient oil crop! That means replacing palm oil with other products would require much more land and shift the problem to other areas.\n\nWhat we can do is eat less processed food because that’s where palm oil is used: ice cream, cookies, pizza, ready-made meals.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/palm-oil.png"
+        }
+      ],
+      "outro": {
+        "insight": "Replacing palm oil with other oil only shifts the problem to different areas",
+        "goal": "Eat less processed food and pay more for sustainable options",
+        "impact": 2,
+        "impactReason": "(as part of eating less processed food)"
+      },
+      "outroRecipe": {
+        "title": "Palm oil is an issue where we need governments and businesses to make production more sustainable because replacing it is often not the answer.\n\nThe huge number of supermarket products with palm oil is a symbol of the amount of processed food in our society. What we can do as individuals is eat fewer ready-made meals and packages and cook more with whole ingredients. That is not only healthier, it also tastes better :-)",
+        "emoji": "🌴"
+      }
+    },
+    {
+      "id": 32,
+      "intro": {
+        "title": "Eat local food, but not for the reason you think",
+        "subtitle": "When it comes to eating sustainably we often hear about local food. But why is it important?",
+        "emoji": "📍"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which type of spinach has a higher footprint?",
+          "subtitle": "",
+          "answerOptions": [
+            "Transported 1500 km by truck",
+            "Locally grown in a heated greenhouse"
+          ],
+          "correctAnswer": "Locally grown in a heated greenhouse",
+          "explanationText": "Food miles only have a high footprint if the product travels by air. That rarely happens, just for 0,16% of all food miles.\n\nHeating a greenhouse generally causes more emissions than transport. So local food is not automatically sustainable food.\n\nSo if food miles don’t really matter, is there a different reason to choose for local food?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/spinach-local.png"
+        },
+        {
+          "id": 2,
+          "title": "How many varieties of apple are there?",
+          "subtitle": "",
+          "answerOptions": [
+            "800",
+            "2300",
+            "7500"
+          ],
+          "correctAnswer": "7500",
+          "explanationText": "There are so many apple varieties but most supermarkets around the world all have the same Granny Smith and Golden Delicious.\n\nSo visit a farmers’ market from time to time. Local food encourages diversity instead of everything looking and tasting the same.\n\nBut why should we care about diversity?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/apple-varieties.png"
+        },
+        {
+          "id": 3,
+          "title": "Diversity is important because it...",
+          "subtitle": "",
+          "answerOptions": [
+            "creates a healthier land",
+            "makes farming more efficient"
+          ],
+          "correctAnswer": "creates a healthier land",
+          "explanationText": "it creates a healthier land. If all apple trees are the same and one of them gets sick, they all get sick and we don’t have any apples. This is a big risk because plant diseases are more likely with climate change.\n\nDiversity is one of the most important features of a healthy ecosystem. It also creates more unique flavours, supports local food traditions and creates a more beautifiul landscape :-)",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Local food is important for diversity (not because of food miles)",
+        "goal": "Go to a farmers’ market from time to time",
+        "impact": 2,
+        "impactReason": "(not for CO2, but for the bigger picture of a sustainable food system)"
+      },
+      "outroRecipe": {
+        "title": "When it comes to climate change, food miles don’t have a big impact. But local food is important because it encourages diversity. This creates a healthier ecosystem and more unique flavours.\n\nIt’s less about how far an apple travelled than whether it’s a local variety. To find these products you have to leave the supermarket. So go to a farmers’ market from time to time, to stay in touch with the food traditions of your region.",
+        "emoji": "🧑‍🌾"
+      }
+    },
+    {
+      "id": 33,
+      "intro": {
+        "title": "Are you eating the right carbs?",
+        "subtitle": "Why whole grain is so important for eating sustainably.",
+        "emoji": "🌾"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "In the average European diet, what provides more protein?",
+          "subtitle": "",
+          "answerOptions": [
+            "Meat",
+            "Cereals (pasta, rice, etc.)"
+          ],
+          "correctAnswer": "Cereals (pasta, rice, etc.)",
+          "explanationText": "Cereals like pasta, rice and bread are the most important source of energy for humanity. They also contain a lot of protein.\n\nThey have a low impact and are important for a sustainable diet because they make us less dependent on protein from meat and dairy.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/protein-from-cereals.png"
+        },
+        {
+          "id": 2,
+          "title": "How is whole-grain bread different from white bread?",
+          "subtitle": "",
+          "answerOptions": [
+            "It has been baked at higher temperatures",
+            "Outer layer of the grains has not been removed",
+            "It contains extra seeds"
+          ],
+          "correctAnswer": "Outer layer of the grains has not been removed",
+          "explanationText": "The outer layer (bran) and germ have not been removed. This creates a flour that is a bit tougher to chew but also contains a lot more nutrients.\n\nSo in a way, choosing refined instead of whole grain is almost like a form of food waste: we are missing out on perfectly good nutrition.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/What-is-whole-grain.png"
+        },
+        {
+          "id": 108,
+          "title": "What is NOT a benefit of whole grain?",
+          "subtitle": "",
+          "answerOptions": [
+            "More protein",
+            "More fibre",
+            "Fewer calories",
+            "More vitamins"
+          ],
+          "correctAnswer": "Fewer calories",
+          "explanationText": "Whole grain has enormous health benefits: it reduces the risk of heart disease, diabetes and extends your lifespan. The extra protein and fibre are also more filling so you become hungry less quickly.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/health-benefits-of-whole-grain.png"
+        }
+      ],
+      "outro": {
+        "insight": "Whole grain cereals are an important source of protein",
+        "goal": "Choose the whole grain option as much as possible",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Whole grain cereals are an important building block of a sustainable diet because they provide lots of nutrition for a low impact. Their high protein count also make them an important foundation to reduce meat and dairy.",
+        "emoji": "🌾"
+      }
+    },
+    {
+      "id": 34,
+      "intro": {
+        "title": "Do you know how much air-transported food you're eating?",
+        "subtitle": "A classic from the early days of the Fork Ranger app (while we are working hard on a new update).\n\nFlying food across the world feels like one of the big problems in our food system. But how does it work exactly?",
+        "emoji": "✈️"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "How many food miles are air-transported? ✈️",
+          "subtitle": "",
+          "answerOptions": [
+            "23,8%",
+            "0,16%"
+          ],
+          "correctAnswer": "0,16%",
+          "explanationText": "Only 0,16% - a very tiny part - of our food comes by plane, only the products which are highly perishable. Most products come by boat.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/transport-methods-1024x1024.png"
+        },
+        {
+          "id": 2,
+          "title": "The emissions of a product that comes by boat instead of by plane are... 🚢",
+          "subtitle": "",
+          "answerOptions": [
+            "50 times lower",
+            "similar"
+          ],
+          "correctAnswer": "50 times lower",
+          "explanationText": "... 50 times lower! Large cargo ships are also polluting but they transport an incredible amount of stuff. As a result, the emissions per product are extremely low. And how concerned should we be with air-transported food compared to eating meat?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/emissions-of-transport-methods.png"
+        },
+        {
+          "id": 3,
+          "title": "What has lower CO2 emissions?",
+          "subtitle": "Take 250g of each, so:",
+          "answerOptions": [
+            "Two hamburgers 🍔",
+            "Four portions of air-transported green beans ✈️"
+          ],
+          "correctAnswer": "Four portions of air-transported green beans ✈️",
+          "explanationText": "Air-transported food has a high footprint, but beef still ranks much higher. The pack of air-transported green beans has a similar footprint as the same amount of chicken.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2021/07/green-beans-and-meat-1024x972.png"
+        }
+      ],
+      "outro": {
+        "insight": "A tiny percentage of products come by air",
+        "goal": "Avoid the few air-transported products",
+        "impact": 2,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "The surprise is that the total impact of air-transported food is small, because even though the emissions per product are high, there are only few products that come by plane. Some of the most common air-transported products appear during winter: \n\n- Fresh berries from far away\n- Asparagus from Peru\n- Green beans, haricots verts and sugar snap peas from Kenya.",
+        "emoji": "✈️"
+      }
+    },
+    {
+      "id": 35,
+      "intro": {
+        "title": "The countdown has started",
+        "subtitle": "Monday this app will receive an amazing update and we can’t wait to show it to you 🤩 Here is a small ‘behind the scenes’ quiz.",
+        "emoji": "⏳"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "How many people pay a lot of attention to the environmental impact of their food choices?",
+          "subtitle": "in relation to not caring, paying few and some attention",
+          "answerOptions": [
+            "ca. 5%",
+            "ca. 10%",
+            "ca. 15%"
+          ],
+          "correctAnswer": "ca. 10%",
+          "explanationText": "Just 10%, and we understand that. Paying attention costs energy. And for many people paying attention to sustainability feels like a big, complex thing. Where do you start?\n\nIn the new app we will go on a journey to discover simple guidelines that make a big difference.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/screenshot-1.png"
+        },
+        {
+          "id": 2,
+          "title": "What is the main reason preventing people from eating sustainably?",
+          "subtitle": "",
+          "answerOptions": [
+            "Too expensive",
+            "Lack of information how to do so",
+            "Lack of sustainable food in usual shopping places"
+          ],
+          "correctAnswer": "Too expensive",
+          "explanationText": "Most people think it’s too expensive. This is probably built upon the idea that sustainable food means is about buying everything organic. But it’s more about the type of ingredients you choose, and less about whether they are organic.\n\nThat’s why we keep including easy recipes so you can put your new insights into practice right away. No worries, your saved recipes will remain when updating to the new version.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/screenshot-2.png"
+        },
+        {
+          "id": 3,
+          "title": "How many people who eat meat say they actually want to eat less meat?",
+          "subtitle": "research among Dutch citizens",
+          "answerOptions": [
+            "1 out of 3",
+            "1 out of 4",
+            "1 out of 5"
+          ],
+          "correctAnswer": "1 out of 3",
+          "explanationText": "A little over a third of the meat eaters wants to eat less meat. That’s great news! It’s the no. 1 measure that helps to reduce the footprint of our food.\n\nThere is already a large group who wants to change their eating patterns. We hope the new Fork Ranger app makes it easier to achieve this! Make sure you share your new app experience within your circles so more people can benefit from it.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/screenshot-3.png"
+        }
+      ],
+      "outro": {
+        "insight": "Many people are willing to change their eating habits, it just needs to be more simple and fun",
+        "goal": "Download the new version on Monday, and share with friends",
+        "impact": 5,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Monday we will launch the new update of the app. Make sure to turn on automatic updates in the settings of your iPhone :-)\n\nSee you on Monday and may the forks be with you!\n\nThe Fork Ranger team",
+        "emoji": "🌟"
+      }
+    },
+    {
+      "id": 36,
+      "intro": {
+        "title": "New app update available",
+        "subtitle": "For this app there's an amazing update",
+        "emoji": "🤩"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "How many people pay a lot of attention to the environmental impact of their food choices?",
+          "subtitle": "in relation to not caring, paying few and some attention",
+          "answerOptions": [
+            "ca. 5%",
+            "ca. 10%",
+            "ca. 15%"
+          ],
+          "correctAnswer": "ca. 10%",
+          "explanationText": "Just 10%, and we understand that. Paying attention costs energy. And for many people paying attention to sustainability feels like a big, complex thing. Where do you start?\n\nIn the new app we will go on a journey to discover simple guidelines that make a big difference.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "What is the main reason preventing people from eating sustainably?",
+          "subtitle": "",
+          "answerOptions": [
+            "Too expensive",
+            "Lack of information how to do so",
+            "Lack of sustainable food in usual shopping places"
+          ],
+          "correctAnswer": "Too expensive",
+          "explanationText": "Most people think it’s too expensive. This is probably built upon the idea that sustainable food means is about buying everything organic. But it’s more about the type of ingredients you choose, and not whether they are organic.\n\nThat’s why we keep including easy recipes so you can put your new insights into practice right away. No worries, your saved recipes will remain when updating to the new version.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "How many people who eat meat say they actually want to eat less meat?",
+          "subtitle": "research among Dutch citizens",
+          "answerOptions": [
+            "1 out of 3",
+            "1 out of 4",
+            "1 out of 5"
+          ],
+          "correctAnswer": "1 out of 3",
+          "explanationText": "A little over a third of the meat eaters wants to eat less meat. That’s great news! It’s the no. 1 measure that helps to reduce the footprint of our food.\n\nThere is already a large group who wants to change their eating patterns. We hope the new Fork Ranger app makes it easier to achieve this! Make sure you share your new app experience within your circles so more people can benefit from it.",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Many people are willing to change their eating habits, it just needs to be more simple and fun",
+        "goal": "Download the new version, and share with friends",
+        "impact": 5,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "See you in the new app and may the forks be with you!\n\nThe Fork Ranger team",
+        "emoji": "🌟"
+      }
+    },
+    {
+      "id": 100,
+      "intro": {
+        "title": "Your first quiz about the impact of food",
+        "subtitle": "Let’s find out the connection between food and climate change. And no worries, you don’t have to become vegan or vegetarian 😉",
+        "emoji": "🌍"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "How much does our food contribute to climate change?",
+          "subtitle": "yearly greenhouse gas emissions worldwide",
+          "answerOptions": [
+            "11%",
+            "34%"
+          ],
+          "correctAnswer": "34%",
+          "explanationText": "Our global food system causes one third of all emissions.\n\nOn your Fork Ranger journey you’re going to explore the most important sources of these emissions. And what we can do about it.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/food-and-climate-change-2-EN.png"
+        },
+        {
+          "id": 2,
+          "title": "What can save more CO2 emissions?",
+          "subtitle": "",
+          "answerOptions": [
+            "Changing what we eat",
+            "Making farms more sustainable"
+          ],
+          "correctAnswer": "Changing what we eat",
+          "explanationText": "The most effective way to reduce the climate impact of food is to change what we eat. This is good news because everyone can be part of the solution!\n\nWe will show you that it’s also pretty straightforward. A few simple changes can make a massive difference. So what is the most important first step?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-diet-2-EN.png"
+        },
+        {
+          "id": 3,
+          "title": "What makes a bigger difference?",
+          "subtitle": "for reducing CO2 in average European or North American diet",
+          "answerOptions": [
+            "Replacing all beef with chicken",
+            "Eating vegetarian 1 day a week"
+          ],
+          "correctAnswer": "Replacing all beef with chicken",
+          "explanationText": "Beef has the highest footprint of any meat. Of course, replacing beef with chicken (or pork) is not the end goal of a sustainable diet. But it’s an easy first step that already makes a huge difference.\n\nWithout eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one fifth!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/replacing-beef.png"
+        }
+      ],
+      "outro": {
+        "insight": "Changing diets makes a huge difference for climate change",
+        "goal": "Replace beef (and if you already do it, inspire others)",
+        "impact": 5,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "What we eat has a massive effect on our climate. This means that we - regular citizens - are in control.\n\nWhether you eat meat every day or have been vegetarian for years, we are all on a journey. This app is a compass for heading in the right direction. And the first step that anyone can take is to replace beef.",
+        "emoji": "🌍"
+      }
+    },
+    {
+      "id": 101,
+      "intro": {
+        "title": "The Big Ranch",
+        "subtitle": "Let’s explore the number one action for eating more sustainably.",
+        "emoji": "🐮"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "What is heavier?",
+          "subtitle": "",
+          "answerOptions": [
+            "All cows",
+            "All humans",
+            "All wild land mammals"
+          ],
+          "correctAnswer": "All cows",
+          "explanationText": "All cows are heavier than all humans and wild mammals combined! They are also heavier than all other livestock animals combined (pigs, chickens, sheep, goats, horses).\n\nPlanet Earth has almost become Planet Cow. It has become ‘The Big Ranch’.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/weight-of-all-mammals-2-EN.png"
+        },
+        {
+          "id": 2,
+          "title": "Which of these is NOT a ruminant?",
+          "subtitle": "",
+          "answerOptions": [
+            "cow",
+            "goat",
+            "sheep",
+            "pig"
+          ],
+          "correctAnswer": "pig",
+          "explanationText": "Ruminants have a special stomach that makes it possible to eat grass. In this process, they burp a gas called methane, which is a strong greenhouse gas.\n\nMethane is a big reason why beef - but also goat and sheep meat - has a much higher footprint than other food.\n\nThere is also another reason for the high footprint of beef.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/co2-of-various-meat.png"
+        },
+        {
+          "id": 3,
+          "title": "How much of the world’s land is used for food production?",
+          "subtitle": "excluding ice and deserts",
+          "answerOptions": [
+            "25%",
+            "50%"
+          ],
+          "correctAnswer": "50%",
+          "explanationText": "Food production takes up half of all land on Earth (excluding ice and deserts). The huge amount of space it takes to grow food is the number one reason why food plays such a big role in climate change.\n\nMost of this land is used to produce meat and dairy. Especially beef production takes up a lot of land, around 7 times more than pork or chicken per kilogram of meat.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/land-use-3-EN.png"
+        }
+      ],
+      "outro": {
+        "insight": "Meat from ruminants - especially beef - has the highest footprint of all foods",
+        "goal": "Replace beef (and if you already do it, inspire others)",
+        "impact": 5,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "There is no other animal group that even comes close to the weight of all cows. They also require a lot of land and burp methane. All these factors make beef the food with the highest footprint.\n\nIf you love beef, you don’t have to give it up completely. Just make it a luxury for special occasions.\n\nAnd if you gave up beef, tell your meat-loving friends to start with replacing beef. We’ve experienced that this is a first step that most people are willing to take.",
+        "emoji": "🐮"
+      }
+    },
+    {
+      "id": 102,
+      "intro": {
+        "title": "Muscle Mountain",
+        "subtitle": "If we replace meat or eat less of it, how can we get enough protein?",
+        "emoji": "💪"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Somone with the average Western diets eats...",
+          "subtitle": "",
+          "answerOptions": [
+            "Too much protein",
+            "Too little protein"
+          ],
+          "correctAnswer": "Too much protein",
+          "explanationText": "too much protein. That’s because of the high amount of animal products. The average 30-year old man needs about 63 grams of protein per day, and the average woman around 54 grams.\n\nBut if you leave out all meat and dairy you need a bit more protein. This is because animal proteins can be better digested than plant-based proteins. Luckily there are plenty of good options.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/too-much-protein-2.png"
+        },
+        {
+          "id": 2,
+          "title": "Which of these is NOT a good source of protein?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pasta",
+            "Nuts",
+            "Potatoes",
+            "Beans"
+          ],
+          "correctAnswer": "Potatoes",
+          "explanationText": "Unlike potatoes, whole grains like pasta or rice have a good amount of protein. Other important protein building blocks are nuts, seeds, lentils and beans.\n\nIt’s true that meat is the easiest way to consume protein. But as you can see, we don’t need meat on a daily basis to get enough protein.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/protein-per-serving-2-EN.png"
+        },
+        {
+          "id": 3,
+          "title": "What’s the impact of replacing Potatoes and Steak with Green Spaghetti?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "5 times lower",
+            "10 times lower"
+          ],
+          "correctAnswer": "10 times lower",
+          "explanationText": "The main sources of protein of Green Spaghetti are pasta and peas. The steak does have a higher protein count, but as we saw in question one, it’s not necessary to get that much protein with every meal.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/meals-comparison-NL-2.png"
+        }
+      ],
+      "outro": {
+        "insight": "People with the average Western diet eat too much protein",
+        "goal": "Eat more nuts, beans and lentils to replace animal protein",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "It’s true that meat is the easiest source of protein. But we don’t need it on a daily basis. Getting enough protein is a matter of eating whole grains with a good mix of nuts, beans and lentils.\n\nWe create all of the recipes in this app ourselves and always include a source of protein. So go ahead and climb muscle mountain!",
+        "emoji": "💪"
+      }
+    },
+    {
+      "id": 103,
+      "intro": {
+        "title": "The Food Waste Monster",
+        "subtitle": "Everyday, we are feeding a giant monster. It consumes one third of all our food. What can we do about it?",
+        "emoji": "🗑"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "Worldwide, cutting food waste in half saves 7 times more emissions than...",
+          "subtitle": "",
+          "answerOptions": [
+            "converting 1/3 of all cars to electrical cars",
+            "producing 1/4 of all electricity by wind turbines"
+          ],
+          "correctAnswer": "converting 1/3 of all cars to electrical cars",
+          "explanationText": "One third of of all food is wasted and this creates a lot of problems.\n\nProject Drawdown calculated various actions to reduce emissions and found that reducing food waste is the number one solution!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/CO2-3-EN.png"
+        },
+        {
+          "id": 2,
+          "title": "In Western countries, most food is wasted...",
+          "subtitle": "",
+          "answerOptions": [
+            "during production",
+            "at the supermarket",
+            "at home"
+          ],
+          "correctAnswer": "at home",
+          "explanationText": "... at home. More than half of all food waste in North America and Europe happens at consumption. That means all of us have a role to play.\n\nWe all understand that wasting food is a shame. But, how exactly is it related to climate change?",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/Total-food-waste-2-EN.png"
+        },
+        {
+          "id": 3,
+          "title": "What happens when you don’t finish your plate?",
+          "subtitle": "The worst thing is",
+          "answerOptions": [
+            "rotting leftovers cause lots of methane emissions",
+            "you increase the total amount of food that needs to be produced",
+            "the food waste monster comes after you"
+          ],
+          "correctAnswer": "you increase the total amount of food that needs to be produced",
+          "explanationText": "More food waste ➡️ More food production ➡️ More land use, more pesticides, etc.\n\nSaving a small leftover means that you can later have a ‘free’ meal. It might seem insignificant whether you save half a sandwich. But if 1% of Europeans save half a sandwich, that’s 3-4 million sandwiches that don’t need to be produced.",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "We can all do something about the huge problem of food waste",
+        "goal": "Save food leftovers whenever you can",
+        "impact": 4,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "One third of all the food we produce is never eaten. That makes all the negative effects of our food system much larger than they should be.\n\nIn Europe and North America, most food is wasted during consumption. That gives all of us the mission to save as much food as possible. It’s time to stop feeding the food waste monster!",
+        "emoji": "🗑"
+      }
+    },
+    {
+      "id": 104,
+      "intro": {
+        "title": "How to become a food waste warrior",
+        "subtitle": "Not all food waste is the same, so where can our actions make the biggest difference?",
+        "emoji": "⚔️"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "What makes up more than half of all wasted calories?",
+          "subtitle": "",
+          "answerOptions": [
+            "Cereals (e.g. bread and pasta)",
+            "Fruits and vegetables",
+            "Meat"
+          ],
+          "correctAnswer": "Cereals (e.g. bread and pasta)",
+          "explanationText": "Worldwide, 53% of all wasted calories come from cereals. In Dutch households, bread is also the most wasted product in terms of weight.\n\nWhat if we look at the carbon footprint of wasted food?",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "The carbon footprint of wasted bread is higher than that of wasted beef",
+          "subtitle": "",
+          "answerOptions": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": "True",
+          "explanationText": "Wheat has a massive food waste impact. Not because the impact of one bread is high, but because we waste so much bread and pasta.\n\nAs you can see, drinks are part of food waste as well. Throwing milk or coffee down the drain also has a huge footprint, even more than a whole season of Formula 1!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/top-5-food-waste-carbon-footprint-2.png"
+        },
+        {
+          "id": 3,
+          "title": "A German study looked at why people throw away bread. What was the main reason?",
+          "subtitle": "",
+          "answerOptions": [
+            "Passed expiration date",
+            "Bought too much",
+            "Didn’t feel like it"
+          ],
+          "correctAnswer": "Didn’t feel like it",
+          "explanationText": "Bread waste is about our attitude: do we feel too good to eat a bread crust? Or do we see it as valuable food?\n\nTo solve food waste, we have to remind ourselves that food is our first basic need. It is too valuable to throw away, even if our old bread has become a bit hard.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/Bread-waste.png"
+        }
+      ],
+      "outro": {
+        "insight": "One of the most wasted products is bread",
+        "goal": "Learn to love old bread and bread crusts",
+        "impact": 4,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "The first step of becoming a food waste warrior is changing our perspective of food: it’s one of the most valuable things in the world.\n\nAnd what’s a better way to practice this than eating old bread and bread crusts: the symbol of food waste and something we can do almost every day. So dip that bread into soup or get out the toaster!",
+        "emoji": "⚔️"
+      }
+    },
+    {
+      "id": 105,
+      "intro": {
+        "title": "The Fellowship of the Fork",
+        "subtitle": "You’ve already travelled quite far! Before we continue our journey through the food system, we need to address an important topic.",
+        "emoji": "🧙‍♂️"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "What saves more emissions?",
+          "subtitle": "",
+          "answerOptions": [
+            "1 person who eats vegan",
+            "2 people who eat vegetarian",
+            "3 people who replace beef with pork & chicken"
+          ],
+          "correctAnswer": "3 people who replace beef with pork & chicken",
+          "explanationText": "Inspiring one other person to replace beef with chicken makes a much bigger difference than searching for the most sustainable cucumber by yourself.\n\nFood is social. And the solution to a sustainable food system should be social, too!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/reduction-footprint-3-EN.png"
+        },
+        {
+          "id": 2,
+          "title": "What is the main reason that keeps people from eating less meat?",
+          "subtitle": "",
+          "answerOptions": [
+            "not believing that meat contributes to climate change",
+            "not willing to change their habits",
+            "unable to imagine an alternative way of eating"
+          ],
+          "correctAnswer": "unable to imagine an alternative way of eating",
+          "explanationText": "Most people agree with the facts. But if you’re used to eating meat with every meal, it can be hard to imagine what an alternative looks like. The first thing that comes to mind is eating salads everyday and that sounds pretty scary indeed!\n\nIt takes time to let go of the idea that a ‘good meal’ must include meat. Good thing we have a lot of easy recipes in this app where most people don’t miss meat😉",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "What works best to inspire people to start a new habit?",
+          "subtitle": "",
+          "answerOptions": [
+            "Shocking facts😱",
+            "Logical arguments🤓",
+            "Small steps🥾"
+          ],
+          "correctAnswer": "Small steps🥾",
+          "explanationText": "People are not convinced by logic or shocking facts. The best way to start a new habit is to offer an easy solution that almost feels ridiculously easy. Like replacing beef with chicken.\n\nThis way people don’t feel overwhelmed. And when they achieve this small step, they will be motivated to keep going.",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Helping others to replace beef makes a much bigger difference than perfecting your own choices",
+        "goal": "Invite your friends to a sustainable dinner party and share the recipe",
+        "impact": 4,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Once you’re eating less beef, the second-best thing you can do is inspire other people to do the same.\n\nGoing on adventure is much better when you’re not alone. So it’s time to invite your friends and family to the ‘Fellowship of the Fork’! \n\n*epic music starts*",
+        "emoji": "🧙‍♂️"
+      }
+    },
+    {
+      "id": 106,
+      "intro": {
+        "title": "The Fading Forest",
+        "subtitle": "Something is very wrong in this forest, more and more trees are disappearing. What’s going on?!",
+        "emoji": "🪓"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "What is the biggest cause of deforestation?",
+          "subtitle": "",
+          "answerOptions": [
+            "Paper & wood",
+            "Beef",
+            "Soy"
+          ],
+          "correctAnswer": "Beef",
+          "explanationText": "Nearly all deforestation happens in tropical and subtropical countries and most of it is caused by beef in South America.\n\nBut soy also plays an important role in the destruction of forest.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/deforestation-2-EN.png"
+        },
+        {
+          "id": 2,
+          "title": "77% of all soy is used for...",
+          "subtitle": "",
+          "answerOptions": [
+            "Meat and dairy substitutes",
+            "Animal feed",
+            "Oil"
+          ],
+          "correctAnswer": "Animal feed",
+          "explanationText": "The majority of soy is used as animal feed, mostly for chickens and pigs.\n\nSoy for products like yogurt or tofu is only a small part of the total soy production.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "What has a comparable footprint as a block of tofu?",
+          "subtitle": "a block of tofu is around 400 g",
+          "answerOptions": [
+            "🥓 Bacon bits (125 g)",
+            "🍔 4 hamburger patties (400 g)",
+            "🍗 4 chicken drumsticks (500 g)"
+          ],
+          "correctAnswer": "🥓 Bacon bits (125 g)",
+          "explanationText": "There are two important conclusions here:\n\n1. You can also reduce your footprint by eating smaller portions of meat. Even though pork has a higher footprint than chicken, 125 g of bacon is better than 500 g of drumsticks.\n\n2. For the same weight, tofu is by far the most sustainable.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/tofu-co2-2-EN.png"
+        }
+      ],
+      "outro": {
+        "insight": "Most deforestation is caused by meat; soy for humans is fine",
+        "goal": "Don’t feel guilty about eating soy products",
+        "impact": 4,
+        "impactReason": "(when replacing meat and/or dairy with soy products)"
+      },
+      "outroRecipe": {
+        "title": "Soy has a very bad reputation and it indeed causes deforestation. But that’s because most soy is used as animal feed.",
+        "emoji": "🪓"
+      }
+    },
+    {
+      "id": 107,
+      "intro": {
+        "title": "Feeding Frenzy",
+        "subtitle": "These golden fields stretch as far as the horizon. Where do all these cereals end up?",
+        "emoji": "🌽"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "More than half of all cereals are used as...",
+          "subtitle": "in Europe and North America",
+          "answerOptions": [
+            "Human food",
+            "Animal feed",
+            "Biofuel"
+          ],
+          "correctAnswer": "Animal feed",
+          "explanationText": "...animal feed. Worlwide, we could feed 1.3 billion extra people if we would use all of the feed cereals for human food.\n\nAll these cereals are necessary because we eat SO much meat. Let’s discover two easy ways to reduce the amount of animal feed.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "First, which animal is most efficient at eating cereals?",
+          "subtitle": "",
+          "answerOptions": [
+            "Chicken",
+            "Pig",
+            "Cow"
+          ],
+          "correctAnswer": "Chicken",
+          "explanationText": "One of the main reasons why chicken has a lower impact than beef and pork is because they are more efficient at “converting” feed to meat.\n\nSo when choosing meat, chicken is the best option.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/feed-conversion.png"
+        },
+        {
+          "id": 3,
+          "title": "Secondly, which meat is most consumed by the average European?",
+          "subtitle": "",
+          "answerOptions": [
+            "Beef",
+            "Pork",
+            "Chicken"
+          ],
+          "correctAnswer": "Pork",
+          "explanationText": "One third is pork! So that’s where we can really cut down the amount of meat.\n\nLike we saw in The Fading Forest, an easy way to eat less pork is to reduce portion sizes: just 100 grams of bacon provides a lot of taste for four people.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/meat-consumption.png"
+        }
+      ],
+      "outro": {
+        "insight": "Most cereals in Europe and US are fed to animals",
+        "goal": "1) Reduce pork and 2) When choosing meat, go for chicken",
+        "impact": 4,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "We are feeding huge amounts of cereals to animals instead of using them for human food.\n\nThere are various ways to reduce this: choosing the most efficient meat (chicken), reducing portion sizes, and of course: eating more plant-based meals!",
+        "emoji": "🌽"
+      }
+    },
+    {
+      "id": 108,
+      "intro": {
+        "title": "The Milling Master",
+        "subtitle": "Why whole grain is so important for eating sustainably.",
+        "emoji": "🌾"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "In the average European diet, what provides more protein?",
+          "subtitle": "",
+          "answerOptions": [
+            "Meat",
+            "Cereals (pasta, rice, etc.)"
+          ],
+          "correctAnswer": "Cereals (pasta, rice, etc.)",
+          "explanationText": "Cereals like pasta, rice and bread are the most important source of energy for humanity. They also contain a lot of protein.\n\nThey have a low impact and are important for a sustainable diet because they make us less dependent on protein from meat and dairy.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/protein-from-cereals-2-EN.png"
+        },
+        {
+          "id": 2,
+          "title": "How is whole-grain bread different from white bread?",
+          "subtitle": "",
+          "answerOptions": [
+            "It has been baked at higher temperatures",
+            "Outer layer of the grains has not been removed",
+            "It contains extra seeds"
+          ],
+          "correctAnswer": "Outer layer of the grains has not been removed",
+          "explanationText": "The outer layer (bran) and germ have not been removed. This creates a flour that is a bit tougher to chew but also contains a lot more nutrients.\n\nSo in a way, choosing refined instead of whole grain is almost like a form of food waste: we are missing out on perfectly good nutrition.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/02/What-is-whole-grain.png"
+        },
+        {
+          "id": 3,
+          "title": "What is NOT a benefit of whole grain?",
+          "subtitle": "",
+          "answerOptions": [
+            "More protein",
+            "More fibre",
+            "Fewer calories",
+            "More vitamins"
+          ],
+          "correctAnswer": "Fewer calories",
+          "explanationText": "Whole grain has enormous health benefits: it reduces the risk of heart disease, diabetes and extends your lifespan. The extra protein and fibre are also more filling so you become hungry less quickly.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/health-benefits-of-whole-grain-2-EN.png"
+        }
+      ],
+      "outro": {
+        "insight": "Whole grain cereals are an important source of protein",
+        "goal": "Choose the whole grain option as much as possible",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Whole grain cereals are an important building block of a sustainable diet because they provide lots of nutrition for a low impact. Their high protein count also make them an important foundation to reduce meat and dairy.",
+        "emoji": "🌾"
+      }
+    },
+    {
+      "id": 109,
+      "intro": {
+        "title": "Moo Moo Meadows",
+        "subtitle": "The path leads through grassland but this is not wild, there is no diversity here. This is food!",
+        "emoji": "🐄"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "How much food does a cow need?",
+          "subtitle": "in a year",
+          "answerOptions": [
+            "5 tennis courts of grass 🎾",
+            "3 football fields of grass ⚽️"
+          ],
+          "correctAnswer": "3 football fields of grass ⚽️",
+          "explanationText": "A cow needs rougly 3 football fields of grass per year ⚽️ The amount of land it takes to feed a cow is one of the reasons why beef has such a high impact.\n\nBut of course beef is not the only food product that comes from cows...",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "The impact of dairy in the average diet is comparable to the impact of...",
+          "subtitle": "in North America and Europe",
+          "answerOptions": [
+            "Beef",
+            "Pork",
+            "Chicken"
+          ],
+          "correctAnswer": "Beef",
+          "explanationText": "Wow, we were a bit surprised by this! The impact of beef is high because the product itself has such a high footprint.\n\nThe dairy impact is high because we eat so much of it: yogurt for breakfast, a butter and cheese sandwich for lunch and lasagne with lots of mozzarella for dinner.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/total-emissions-of-Western-diet-2-EN.png"
+        },
+        {
+          "id": 3,
+          "title": "What has a lower footprint?",
+          "subtitle": "in CO2",
+          "answerOptions": [
+            "Two slices of cheese 🧀 (50 g) ",
+            "A glass of milk 🥛 (200 ml)"
+          ],
+          "correctAnswer": "A glass of milk 🥛 (200 ml)",
+          "explanationText": "Not all dairy products have the same footprint but overall, dairy has similar or even slightly higher impact than chicken.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/03/portions-of-dairy.png"
+        }
+      ],
+      "outro": {
+        "insight": "The total impact of dairy is high because we eat so much of it",
+        "goal": "Reduce the amount of meals that contain dairy",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Next to beef and pork, dairy is a major part of our food impact in Europe and North America. The main reason is because we eat so much of it.\n\nThat means we can achieve a lot of savings by simply reducing the number of meals that contain dairy.",
+        "emoji": "🐄"
+      }
+    },
+    {
+      "id": 110,
+      "intro": {
+        "title": "Hidden Milk",
+        "subtitle": "If there are so many different dairy products, which one has the highest impact?",
+        "emoji": "🥛"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "What is most milk used for?",
+          "subtitle": "In EU and US production",
+          "answerOptions": [
+            "Cheese",
+            "Butter",
+            "Drinking milk"
+          ],
+          "correctAnswer": "Cheese",
+          "explanationText": "A piece of cheese looks small but there is a lot of milk ‘hidden’ in it🧀. That means cheese a high impact.\n\nFor most people this is the most inconvenient truth about sustainable food. Especially because a lot of vegetarians replace meat with cheese.\n\nBut if you’re a cheese lover: don’t despair, you don’t have to give up cheese completely.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Producing soft cheese requires less milk than hard cheese",
+          "subtitle": "",
+          "answerOptions": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": "True",
+          "explanationText": "That means the carbon footprint per kilogram of hard cheese is higher than soft cheese.\n\nBut that is not the full story, because we often use bigger portions of soft cheese.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/milk-for-cheese.png"
+        },
+        {
+          "id": 3,
+          "title": "What has a lower impact?",
+          "subtitle": "in CO2 impact",
+          "answerOptions": [
+            "250 g Mozzarella",
+            "80 g Grana Padano"
+          ],
+          "correctAnswer": "80 g Grana Padano",
+          "explanationText": "Reducing the portion size makes a bigger difference than choosing a specific type of cheese.\n\nOur favourite way of doing that: get a high quality Parmesan and use the finest grating structure; you will get more particles and need less cheese to experience the taste🙂",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/cheese-footprint-serving-size-2.png"
+        }
+      ],
+      "outro": {
+        "insight": "Most milk is ‘hidden’ in cheese",
+        "goal": "Don’t replace meat with cheese and use smaller portions",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "A lot of milk is ‘hidden’ in cheese, which makes it the dairy product with the highest impact.\n\nWe don’t have to give up cheese completely. It’s about treating it like a luxury: not eating it every day and reducing the portion size.",
+        "emoji": "🧀"
+      }
+    },
+    {
+      "id": 111,
+      "intro": {
+        "title": "Nutcracker strength",
+        "subtitle": "An important message for everyone that loves peanut butter as much as we do.",
+        "emoji": "🥜"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "What is the main benefit of nuts?",
+          "subtitle": "",
+          "answerOptions": [
+            "Good source of carbs",
+            "High in protein",
+            "Low in fat"
+          ],
+          "correctAnswer": "High in protein",
+          "explanationText": "Nuts are the plant-based foods with highest amount of protein! 💪 They are a great way to replace meat and create a ‘filling’ meal in a healthy way.",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/Proteinper100g-2-EN.png"
+        },
+        {
+          "id": 2,
+          "title": "What is main disadvantage of nuts?",
+          "subtitle": "",
+          "answerOptions": [
+            "Pollute the soil",
+            "Cause high farm emissions",
+            "Require a lot of water"
+          ],
+          "correctAnswer": "Require a lot of water",
+          "explanationText": "It’s true that some nuts - especially almonds and pistachios - are very thirsty plants. This is a problem in dry areas like California.\n\nBut it shouldn’t keep us from eating more nuts.\n\nWhile the water footprint of some nuts is a challenge in moving to a sustainable food system, it’s still a more sustainable source of protein than meat or dairy.\n",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Compared to veggies, the carbon footprint of nuts is...",
+          "subtitle": "",
+          "answerOptions": [
+            "High",
+            "Medium",
+            "Low"
+          ],
+          "correctAnswer": "Low",
+          "explanationText": "The awesome thing about nuts is that they grow on trees, and trees can absorb CO2.\n\nBecause nut trees have recently been planted on grasslands, there is a significant emission saving. That’s why their footprint is negative: the trees take up more carbon than is caused during production.\n",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/nuts-median.png"
+        }
+      ],
+      "outro": {
+        "insight": "Nuts are an important building block of a sustainable diet",
+        "goal": "Go nuts! Include nuts and seeds into at least one meal per day",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Good news: nuts are are an important building block of a healthy and sustainable diet.\n\nWater can be an issue for nuts but we need to eat protein and overall, nuts have a significantly lower impact than meat.\n\nSo go ahead and enjoy some well-deserved peanut butter!\n",
+        "emoji": "🥜"
+      }
+    },
+    {
+      "id": 112,
+      "intro": {
+        "title": "The magical ingredient",
+        "subtitle": "A true Fork Ranger is always looking for ways to eat more of this awesome ingredient. Do you know what it is?",
+        "emoji": "⭐️"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "What is NOT a legume?",
+          "subtitle": "",
+          "answerOptions": [
+            "Beans",
+            "Quinoa",
+            "Lentils"
+          ],
+          "correctAnswer": "Quinoa",
+          "explanationText": "Legumes are plants that produce a small dry fruit. We know them as chickpeas, lentils, peas or beans!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/legumes.jpg"
+        },
+        {
+          "id": 2,
+          "title": "One can of beans has the same amount of protein as...",
+          "subtitle": "",
+          "answerOptions": [
+            "1 egg",
+            "3 eggs",
+            "6 eggs"
+          ],
+          "correctAnswer": "3 eggs",
+          "explanationText": "Legumes have lots of protein for a very low footprint. They score well on CO2 and also on other environmental factors such as water use. And another benefit is that they’re cheap!",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/protein20CO220comparison20legumes.png"
+        },
+        {
+          "id": 3,
+          "title": "What makes the roots of legumes special?",
+          "subtitle": "",
+          "answerOptions": [
+            "They can store water",
+            "They add nitrogen to the soil"
+          ],
+          "correctAnswer": "They add nitrogen to the soil",
+          "explanationText": "Nitrogen is a key ingredient for plants. Instead of using nitrogen, legumes ADD it to the soil through a ‘partnership’ with bacteria.\n\nThis means that farmers can use legumes instead of nitrogen fertiliser, which saves emissions and has lots of other benefits.\n",
+          "imageUrl": ""
+        }
+      ],
+      "outro": {
+        "insight": "Legumes - beans, peas, and lentils - are the most sustainable source of protein",
+        "goal": "Include legumes into at least one meal a day",
+        "impact": 3,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Legumes are the magical ingredient when it comes to eating for the climate: cheap, lots of protein and super sustainable!\n\nEating more beans, peas, and lentils is a win-win because they also help farmers to take care of the land.\n",
+        "emoji": "⭐️"
+      }
+    },
+    {
+      "id": 113,
+      "intro": {
+        "title": "The Ranger Hut",
+        "subtitle": "You’ve travelled a long way! Come inside for a warm meal, it’s time to see what a sustainable diet looks like.",
+        "emoji": "🔥"
+      },
+      "questions": [
+        {
+          "id": 1,
+          "title": "How many hamburgers of red meat can we eat per week? 🥩🥓",
+          "subtitle": "",
+          "answerOptions": [
+            "0 Hamburgers",
+            "1 Hamburger",
+            "2 Hamburgers"
+          ],
+          "correctAnswer": "1 Hamburger",
+          "explanationText": "In Europe and the US we currently eat the equivalent of 5 hamburgers per week (ca. 350 g pork and 150 g beef).\n\nChanging this number to 1 hamburger per week is the most important goal. This step alone gets us almost half-way to the sustainable diet calculated by the EAT-Lancet report.\n",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-meat.png"
+        },
+        {
+          "id": 2,
+          "title": "Besides beef and pork, what is the other thing we need to reduce most?",
+          "subtitle": "",
+          "answerOptions": [
+            "Fish 🐟",
+            "Chicken 🐔",
+            "Dairy 🧀"
+          ],
+          "correctAnswer": "Dairy 🧀",
+          "explanationText": "Our daily budget for dairy is 250 g of ‘whole milk equivalents’. That’s about one glass of milk 🥛 or two slices of cheese per day 🧀.\n\nFor most Western countries that means reducing dairy by more than half.\n",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-dairy.png"
+        },
+        {
+          "id": 3,
+          "title": "How many more nuts and legumes should we eat? 🥜",
+          "subtitle": "",
+          "answerOptions": [
+            "2x",
+            "3x",
+            "6x"
+          ],
+          "correctAnswer": "6x",
+          "explanationText": "Right now we only eat 19 g per day, while it should be 125 g!\n\nTry to eat at least one portion of nuts and one portion of legumes every day. So get out the peanut butter jar! 😍🥜\n",
+          "imageUrl": "https://forkranger.com/wp-content/uploads/2022/04/sustainable-nuts-and-legumes.png"
+        }
+      ],
+      "outro": {
+        "insight": "There are a few actions that get us 70% to a sustainable diet",
+        "goal": "Reduce red meat & dairy and eat more nuts & legumes",
+        "impact": 5,
+        "impactReason": ""
+      },
+      "outroRecipe": {
+        "title": "Congratulations! You’ve mastered the basics of becoming a Fork Ranger.\n\nThese three steps already get us 70% to a sustainable diet. From here on, you will learn the smaller steps to achieve even more savings. But don’t lose sight of the big 3:\n\n- replace red meat 🥩🥓⬇️\n- less dairy 🧀🥛⬇️\n- more nuts & legumes 🥜⬆️",
+        "emoji": ""
+      }
+    }
+  ]
+}

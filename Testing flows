@@ -1,0 +1,89 @@
+## The feature itself
+
+- [ ]  light mode
+- [ ]  dark mode
+- [ ]  english
+- [ ]  dutch
+- [ ]  german
+
+## CORE flows
+
+*These have to be tested for each update - even if the change code base shouldn’t affect the flow, as we don’t want to publish any releases with bugs in these. Bugs in these flows immediately impact using the app.*
+
+- [ ]  Updating the app retains progress
+    - [ ]  Number of completed stories remains the same and you land on the same current story upon opening the app
+    - [ ]  Number of available recipes remains the same
+    - [ ]  Personal recipe notes are available
+    - [ ]  Streak remains the same
+- [ ]  Notifications pop-up after day 1
+    - [ ]  Notification is received the next day
+- [ ]  Story can be completed
+    - [ ]  ‘Completed days’ goes up
+    - [ ]  Infographic is unlocked
+    - [ ]  Recipe is unlocked and added to Recipes
+    - [ ]  Streak goes up
+- [ ]  Becoming a supporter
+    - [ ]  Adds bonus question to the story
+    - [ ]  Unlocks seasonal tile ‘Fruits & Vegetables of X’
+    - [ ]  Unlocks seasonal information for each recipe
+    - [ ]  Unlocks ‘Now in Season’ - quick filter
+    - [ ]  Adds all recipes to Recipes
+    - [ ]  Viewing old stories works
+- [ ]  Scanning recipe QR-code of the OLD calendars
+- [ ]  Scanning month QR-code of the calendar
+    - [ ]  Adds all recipes to Recipes
+    - [ ]  Opens monthly overview bottom sheet/overlay
+    - [ ]  Unlocks seasonal tile ‘Fruits & Vegetables of X’
+    - [ ]  Unlocks seasonal information for each recipe
+    - [ ]  Unlocks ‘Now in Season’ - quick filter
+
+## NOT CORE - test every quarter
+
+*These are not tested for each update, but do need to be fixed within reasonable time when bugs arise. Bugs in these flows don’t impact the core flows, but can restrict user functionality and affect Fork Ranger.*
+
+**Recipes**
+
+- [ ]  Favorite/unfavorite a recipe
+- [ ]  Edit number of portions of a recipe
+- [ ]  Quick selection
+    - [ ]  Favorites
+    - [ ]  Now in Season
+- [ ]  Sorting recipes
+- [ ]  Filters
+    - [ ]  Search
+    - [ ]  Recipe type
+    - [ ]  Time
+    - [ ]  Diet
+    - [ ]  Less is more
+- [ ]  Voucher codes unlock recipes
+- [ ]  Making a recipe
+    - [ ]  First time
+    - [ ]  Second time
+
+**Today**
+
+- [ ]  Share a recipe
+- [ ]  Share an infographic
+- [ ]  Share the app
+- [ ]  Messaging center | Leave feedback → will also notice if no new forms come in
+- [ ]  Supporter | Leave feedback → will also notice if no new forms come in
+- [ ]  Go back/see previous days in the calendar bar
+- [ ]  Go forward/get a preview of tomorrow in the calendar bar
+
+**Infographics**
+
+- [ ]  Infographics & Recipes shared counter
+- [ ]  All infographics
+
+Supporter
+
+- [ ]  Link to book
+- [ ]  Link to seasonal calendar
+- [ ]  Link to game
+- [ ]  Link to ‘About Fork Ranger’
+- [ ]  Settings
+    - [ ]  Notifications time
+    - [ ]  Units (metric/imperial)
+    - [ ]  Region
+    - [ ]  Language
+- [ ]  Stop supporting blocks the features

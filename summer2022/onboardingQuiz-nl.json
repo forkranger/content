@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "question",
+      "title": "Hoeveel draagt ons eten bij aan klimaatverandering?",
+      "subtitle": "Omgerekend naar jaarlijkse broeikasgasemissies wereldwijd",
+      "answerOptions": [
+        {
+          "id": 0,
+          "title": "8%",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "title": "34%",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "title": "62%",
+          "correct": false
+        }
+      ],
+      "answerExplanation": {
+        "text": "Ons wereldwijde voedselsysteem veroorzaakt een derde van alle CO2-uitstoot.\n\nOp jouw Fork Ranger reis ga je ontdekken wat de meest belangrijke bronnen van deze emissies zijn en wat we eraan kunnen doen.",
+        "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/10/food-causes-one-third-of-climate-change-NL.png"
+      },
+      "recipe": 12,
+      "recipeSubtitle" : "Dit is het eerst ontwikkelde Fork Ranger recept en is het favoriete recept van heel veel mensen."
+    },
+    {
+      "id": 2,
+      "type": "question",
+      "title": "Waarmee kunnen we meer CO2-emissies besparen?",
+      "subtitle": "",
+      "answerOptions": [
+        {
+          "id": 1,
+          "title": "Veranderen wat we eten",
+          "correct": true
+        },
+        {
+          "id": 0,
+          "title": "Boerderijen duurzamer maken",
+          "correct": false
+        }
+      ],
+      "answerExplanation": {
+        "text": "De meest effectieve manier om de klimaatimpact van ons eten te reduceren is minder vlees en zuivel te eten.\n\nJe hoeft geen vegetariër te worden om onderdeel te zijn van de oplossing. Een paar makkelijke aanpassingen kunnen al een enorm verschil maken.",
+        "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/10/sustainable-diet-NL.png"
+      },
+      "recipe": 4,
+      "recipeSubtitle" : "De meesten van ons zoeken naar manieren om meer groenten te eten en dit is één van de makkelijkste manieren."
+    },
+    {
+      "id": 3,
+      "type": "question",
+      "title": "Welke oplossing bespaart het meest CO2?",
+      "subtitle": "Volgens de berekeningen van Project Drawdown",
+      "answerOptions": [
+        {
+          "id": 0,
+          "title": "Elektrische auto’s 🚗",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "title": "Minder voedselverspilling 🗑",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "title": "Plantrijke voedingspatronen 🥦",
+          "correct": false
+        }
+      ],
+      "answerExplanation": {
+        "text": "Bij Fork Ranger zijn wij geïnspireerd door het feit dat lifestyle oplossingen veel meer CO2 kunnen besparen dan technologie.\n\nUiteindelijk gaat het er om een nieuwe manier van leven te vinden die in harmonie is met de natuur:\n- Minder vlees, meer planten\n- Minder vliegen, meer lokale avonturen\n- Minder spullen, meer herinneringen",
+        "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/10/drawdown-solutions-NL.png"
+      },
+      "recipe": 69,
+      "recipeSubtitle" : "Curry's zoals deze zijn één van de makkelijkste manieren om meer plantaardig te eten."
+    }
+  ]
+}

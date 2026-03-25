@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "question",
+      "title": "Wie stark trägt unser Essen zum Klimawandel bei?",
+      "subtitle": "jährliche Treibhausgasemissionen weltweit",
+      "answerOptions": [
+        {
+          "id": 0,
+          "title": "8%",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "title": "34%",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "title": "62%",
+          "correct": false
+        }
+      ],
+      "answerExplanation": {
+        "text": "Unser globales Ernährungssystem verursacht ein Drittel aller Emissionen. Auf deiner Fork Ranger-Reise wirst du die wichtigsten Quellen dieser Emissionen erkunden und herausfinden, was wir dagegen tun können.",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_causes_one_third_of_climate_change_DE.png?v=1756982211"
+      },
+      "recipe": 12,
+      "recipeSubtitle" : "Das ist das allererste Rezept von Fork Ranger und es hat sich zu einem Lieblingsrezept von sehr vielen Menschen entwickelt."
+    },
+    {
+      "id": 2,
+      "type": "question",
+      "title": "Wie können mehr CO₂-Emissionen reduziert werden?",
+      "subtitle": "",
+      "answerOptions": [
+        {
+          "id": 1,
+          "title": "Unsere Essgewohnheiten ändern",
+          "correct": true
+        },
+        {
+          "id": 0,
+          "title": "Landwirtschaft nachhaltiger gestalten",
+          "correct": false
+        }
+      ],
+      "answerExplanation": {
+        "text": "Der wirksamste Weg, den Fußabdruck unserer Nahrung zu verringern, ist weniger Fleisch und Milchprodukte zu essen. Du musst nicht gleich Vegetarier werden, um Teil der Lösung zu sein. Ein paar einfache Änderungen können einen großen Unterschied machen.",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/sustainable_diet_DE.png?v=1756982211"
+      },
+      "recipe": 4,
+      "recipeSubtitle" : "Die meisten von uns sollten mehr Gemüse essen, und dieses Rezept macht das sehr viel einfacher."
+    },
+    {
+      "id": 3,
+      "type": "question",
+      "title": "Welche Lösung spart am meisten CO₂ ein?",
+      "subtitle": "nach den Berechnungen von Project Drawdown",
+      "answerOptions": [
+        {
+          "id": 0,
+          "title": "Elektrofahrzeuge 🚗",
+          "correct": false
+        },
+        {
+          "id": 1,
+          "title": "Weniger Lebensmittelverschwendung 🗑",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "title": "Pflanzenreiche Ernährung 🥦",
+          "correct": false
+        }
+      ],
+      "answerExplanation": {
+        "text": "Wir von Fork Ranger lassen uns davon inspirieren, dass es einige sehr “menschliche” Lösungen gibt, die viel mehr CO₂ einsparen können als Technologie. Es geht darum, eine neue Lebensweise zu finden, die im Einklang mit der Natur steht: \n- weniger Fleisch, mehr Pflanzen\n- weniger Fliegen, mehr regionale Abenteuer\n- weniger Kram, mehr Erinnerungen",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/drawdown_solutions_DE.png?v=1756982211"
+      },
+      "recipe": 69,
+      "recipeSubtitle" : "Eines unserer einfachsten Rezepte. So kannst du auch an stressigen Tagen einen kleinen Schritt gehen."
+    }
+  ]
+}
