@@ -2,42 +2,42 @@
   "dailyContent": [
     {
       "id": 1,
-      "notificationTitle": "Today: The Big Ranch",
-      "notificationText": "What makes a bigger difference: eating vegetarian or eating different meats? 🌍 - Recipe of the day: Smokey Chilli",
+      "notificationTitle": "Italian... Today: The Big Ranch",
+      "notificationText": "Italian... What makes a bigger difference: eating vegetarian or eating different meats? 🌍 - Recipe of the day: Smokey Chilli",
       "home": {
-        "title": "A small step with a big impact",
+        "title": "Italian... A small step with a big impact",
         "category": 1
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Welcome to the Big Ranch! Here we are going to explore the impact of meat and what you can do about it."
+          "title": "Italian...Welcome to the Big Ranch! Here we are going to explore the impact of meat and what you can do about it."
         },
         {
           "id": 1,
           "type": "text",
-          "title": "There is one small step everyone can take to immediately reduce their impact 🥾"
+          "title": "Italian... There is one small step everyone can take to immediately reduce their impact 🥾"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "What makes a bigger difference?",
-          "subtitle": "for reducing CO2 in average European or North American diet",
+          "title": "Italian...What makes a bigger difference?",
+          "subtitle": "Italian...for reducing CO2 in average European or North American diet",
           "answerOptions": [
             {
               "id": 1,
-              "title": "Eating vegetarian 1 day a week",
+              "title": "Italian..Eating vegetarian 1 day a week",
               "correct": false
             },
             {
               "id": 0,
-              "title": "Replacing beef with chicken",
+              "title": "Italian...Replacing beef with chicken",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Beef has by far the highest footprint of any meat. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one-fifth!\n\nOf course, replacing beef with chicken (or pork) is not the end goal of a sustainable diet. But it’s an easy first step that already makes a huge difference. ",
+            "text": "Italian...Beef has by far the highest footprint of any meat. Without eating any less meat, this step alone would reduce the carbon footprint of the average Western diet by one-fifth!\n\nOf course, replacing beef with chicken (or pork) is not the end goal of a sustainable diet. But it’s an easy first step that already makes a huge difference. ",
             "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/replacing_beef_vs_vegetarian_for_1_day.png?v=1756981221"
           }
         },
@@ -45,12 +45,12 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 22,
-          "subtitle": "This is one of our favorite recipes and a great way to turn a classic beef recipe vegetarian."
+          "subtitle": "Italian...This is one of our favorite recipes and a great way to turn a classic beef recipe vegetarian."
         },
         {
           "id": 4,
           "type": "text",
-          "title": "Come back tomorrow to discover the climate impact of nuts"
+          "title": "Italian..Come back tomorrow to discover the climate impact of nuts"
         },
         {
           "id": 5,
@@ -86,7 +86,8 @@
           }
         }
       ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/8227d2990cc945e5bf75f2b7b8c7f940.mp4",
+      "videoURL" : "https://cdn.shopify.com/videos/c/o/v/2a0459d1a39b4a9f90e4adec49bdb458.mp4",
+      "blogURL" : "https://www.forkranger.com/blog/5-microadventures-leading-to-discover-sustainable-food-pioneers/"
     },
     {
       "id": 2,
@@ -214,7 +215,7 @@
           ],
           "answerExplanation": {
             "text": "Most of us live in cities and don’t realize that farmland is the main way that humans are changing the surface of the Earth.\n\nFood production takes up half of all habitable land on Earth (excluding ice and deserts). Most of this land is used to produce meat and dairy.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/land_use_2.png?v=1774457320"
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/land_use.png?v=1756982212"
           }
         },
         {
@@ -254,8 +255,7 @@
             "urlButtonText": "View source"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/71303b064b114dc080c6baba5d56c245.mp4"
+      ]
     },
     {
       "id": 4,
@@ -348,8 +348,7 @@
             "urlButtonText": "View source"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/f50990d91bda480d8674bd9870448c1c.mp4"
+      ]
     },
     {
       "id": 5,
@@ -525,8 +524,7 @@
             "urlButtonText": "View source"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/b811987d384e4e8893cb8f461da0c9f5.mp4"
+      ]
     },
     {
       "id": 7,
@@ -607,8 +605,7 @@
             "urlButtonText": "View source"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/a5c651b118de472393a9b5d10027bc58.mp4"
+      ]
     },
     {
       "id": 8,
@@ -704,8 +701,7 @@
             "urlButtonText": "View source"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/e686b1f3baa7424391e9141385d70d22.mp4"
+      ]
     },
     {
       "id": 9,
@@ -967,8 +963,7 @@
             "urlButtonText": "View source"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/8275cbdc838f430c96bc2e32bedf5334.mp4"
+      ]
     },
     {
       "id": 12,
@@ -1235,8 +1230,7 @@
             "urlButtonText": "View source"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/7c7e55b0d78744a5ba71a647de0bb388.mp4"
+      ]
     },
     {
       "id": 15,
@@ -1332,8 +1326,7 @@
             "title": "🌾"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/d1895bd61261437f8a8e2bf0f66d2ed4.mp4"
+      ]
     },
     {
       "id": 16,
@@ -1501,8 +1494,7 @@
             "blogURL": "https://www.forkranger.com/why-palm-oil-is-not-as-bad-as-its-reputation/"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/833136d069da4265b55cb2664194eea8.mp4"
+      ]
     },
     {
       "id": 18,
@@ -1594,8 +1586,7 @@
             "title": "👅"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/c49e5c94a0364464a6df1d6fb3ae4b09.mp4"
+      ]
     },
     {
       "id": 19,
@@ -1850,8 +1841,7 @@
             "urlButtonText": "View source"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/e94fcc18d34146968989d0a50a823017.mp4"
+      ]
     },
     {
       "id": 22,
@@ -1944,8 +1934,7 @@
             "urlButtonText": "View source"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/f42d987b2c5e4acc83bbded56ed882ad.mp4"
+      ]
     },
     {
       "id": 23,
@@ -2125,8 +2114,7 @@
             "title": "🥔"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/fb1d7731fb8a49689f854bc83a9461a5.mp4"
+      ]
     },
     {
       "id": 25,
@@ -2203,8 +2191,7 @@
             "urlButtonText": "View source"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/e3f67b00b21045b6a754399d948745fc.mp4"
+      ]
     },
     {
       "id": 26,
@@ -2288,8 +2275,7 @@
             "blogURL": ""
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/e9114edf461c40ffae87f669cb0bfa44.mp4"
+      ]
     },
     {
       "id": 27,
@@ -2631,8 +2617,7 @@
             "blogURL": ""
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/9dec0dc3192546e7a5e58044a85f6748.mp4"
+      ]
     },
     {
       "id": 31,
@@ -2715,8 +2700,7 @@
             "title": "🌾"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/c6c5f10b0b974582932405dcf0eff4b2.mp4"
+      ]
     },
     {
       "id": 32,
@@ -2881,8 +2865,7 @@
             "title": "🌾"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/f090f72012b14324a48eabf2c849d270.mp4"
+      ]
     },
     {
       "id": 34,
@@ -3052,8 +3035,7 @@
             "blogURL": ""
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/af99ec4983794592ad1165fa38be1c14.mp4"
+      ]
     },
     {
       "id": 36,
@@ -3144,8 +3126,7 @@
             "title": "🍫"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/79bd0ad82d8640fcbb866143d08f2e42.mp4"
+      ]
     },
     {
       "id": 37,
@@ -3235,8 +3216,7 @@
             "title": "🇬🇷"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/17a4749c2820484baaa72e1566437b41.mp4"
+      ]
     },
     {
       "id": 38,
@@ -3276,7 +3256,7 @@
           ],
           "answerExplanation": {
             "text": "Wheat products like pasta and bread contain more protein than a lot of people think.\n\nThis means we often don’t even need to replace meat or dairy when eating wheat products. Especially because most people in Europe currently eat more than enough protein already.\n",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/protein_of_carbs.png?v=1771934817"
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/protein_of_carbs_2.png?v=1756981668"
           }
         },
         {
@@ -3502,8 +3482,7 @@
             "urlButtonText": "Viewing tip 🎬"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/218fd786265b442191265c5975dd3b61.mp4"
+      ]
     },
     {
       "id": 41,
@@ -3738,7 +3717,7 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 33,
-          "subtitle": "A summer recipe to enjoy when rocket, green beans, and bell pepper are in season. \n\nBut, there's also a winter version possible, check the Variation tips."
+          "subtitle": "A summer recipe to enjoy when rocket, green beans, and bell pepper are in season."
         },
         {
           "id": 4,
@@ -3783,8 +3762,7 @@
           "type": "text",
           "title": "So if fruits and veggies currently make up 4% of the CO2 footprint… how much would it be in a sustainable diet? 🥗"
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/ab95a3a795d44b91a0f1bbebdcbe1151.mp4"
+      ]
     },
     {
       "id": 44,
@@ -3922,7 +3900,7 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 50,
-          "subtitle": "Here is your chance to cook with fermented white cabbage, also known as sauerkraut.\n\nFor a 100% seasonal recipe: if the spinach is not in season right now, you can try kale. Check the Variation tips for the details."
+          "subtitle": "Here is your chance to cook with fermented white cabbage, also known as sauerkraut."
         },
         {
           "id": 4,
@@ -3955,8 +3933,7 @@
             "title": "☀️"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/e2e6f26c566f4797b9c2f66862594a84.mp4"
+      ]
     },
     {
       "id": 46,
@@ -4122,8 +4099,7 @@
             "urlButtonText": "View source"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/233e86366e23434196b3f7d293496637.mp4"
+      ]
     },
     {
       "id": 48,
@@ -4299,8 +4275,7 @@
             "title": "❄️"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/96c80539c7ff45a9bbf6fdd7ade7b9a8.mp4"
+      ]
     },
     {
       "id": 50,
@@ -4819,8 +4794,7 @@
             "urlButtonText": "Check for each country"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/42bd9554f0d04cecaade1cbb9aba73f1.mp4"
+      ]
     },
     {
       "id": 56,
@@ -5282,8 +5256,7 @@
             "urlButtonText": "View source"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/d91b97a768d741cb871a025fd417326d.mp4"
+      ]
     },
     {
       "id": 61,
@@ -5833,8 +5806,7 @@
             "urlButtonText": "View source"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/291c1f9e2f1f4bef95f48505dedb0728.mp4"
+      ]
     },
     {
       "id": 67,
@@ -6000,8 +5972,7 @@
             "title": "🌻"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/33700f69aa164403baf3e2e6880d520d.mp4"
+      ]
     },
     {
       "id": 69,
@@ -6490,8 +6461,7 @@
             "urlButtonText": "View source"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/180534367fa44a4597deb57689858d5d.mp4"
+      ]
     },
     {
       "id": 74,
@@ -7627,8 +7597,7 @@
             "urlButtonText": "View source"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/3e3d3ccffcc5447891f102ca48cec6bf.mp4"
+      ]
     },
     {
       "id": 86,
@@ -8182,8 +8151,7 @@
             "title": "🔥"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/9d101d4904b548259d927fc68d614296.mp4"
+      ]
     },
     {
       "id": 92,
@@ -8752,8 +8720,7 @@
             "urlButtonText": "Reading tip 🤓"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/d03fc7c5e2f643fc88fd8d5ed0499162.mp4"
+      ]
     },
     {
       "id": 98,
@@ -9036,8 +9003,7 @@
             "title": "⚡️"
           }
         }
-      ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/626c343a8789444b812ef6cf6f9e6cdf.mp4"
+      ]
     },
     {
       "id": 101,
