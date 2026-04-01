@@ -1103,12 +1103,12 @@
     ]
   },
   {
-    "id": "",
+    "id": "84",
     "nameNL": "Kruisbes",
     "nameEN": "Gooseberry",
     "nameDE": "Stachelbeeren",
     "nameUS": "Gooseberry",
-    "image": "",
+    "image": "gooseberry",
     "LC": [
       8
     ],
@@ -1201,12 +1201,12 @@
     ]
   },
   {
-    "id": "",
+    "id": "82",
     "nameNL": "Kweepeer",
     "nameEN": "Quince",
     "nameDE": "Quitte",
     "nameUS": "Quince",
-    "image": "",
+    "image": "quince",
     "LC": [
       11
     ],
@@ -1219,12 +1219,12 @@
     ]
   },
   {
-    "id": "",
+    "id": "78",
     "nameNL": "Radicchio",
     "nameEN": "Radicchio",
     "nameDE": "Radicchio",
     "nameUS": "Radicchio",
-    "image": "",
+    "image": "radicchio",
     "LC": [
       11
     ],
