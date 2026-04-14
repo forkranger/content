@@ -2968,7 +2968,7 @@
           ],
           "answerExplanation": {
             "text": "Von all dem Wasser, das wir aus Flüssen, Seen oder unterirdischen Speichern entnehmen, wird 70 % für die Landwirtschaft verwendet. Das bedeutet, dass unsere Lebensmittel eine wichtige Rolle beim sorgsamen Umgang mit Wasser spielen. In einigen europäischen Ländern verbraucht die Industrie das meiste Wasser, während der Anteil der Haushalte in der Regel am geringsten ist.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/water_withdrawals_DE.png?v=1756980198"
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/water_withdrawals_DE_2.png?v=1776161951"
           }
         },
         {
@@ -3755,17 +3755,17 @@
         {
           "id": 2,
           "type": "text",
-          "title": "Der Durchschnittspreis für weißen Reis in den Niederlanden beträgt 1,69 € pro kg 🍚 Wenn der Reisbauer einen angemessenen Betrag erhält, wie viel würde der Preis steigen?"
+          "title": "Der Durchschnittspreis für weißen Reis in den Niederlanden beträgt 2,29 € pro kg (2026) 🍚 Wenn der Reisbauer einen angemessenen Betrag erhält, wie viel würde der Preis steigen?"
         },
         {
           "id": 3,
           "type": "question",
           "title": "Wie stark würde der Preis steigen? 🍚",
-          "subtitle": "um einen angemessenen Lebensstandard zu gewährleisten, wenn der Reis 1,69 € pro kg kostet",
+          "subtitle": "um einen angemessenen Lebensstandard zu gewährleisten, wenn der Reis 2,29 € pro kg kostet",
           "answerOptions": [
             {
               "id": 0,
-              "title": "0,05 €",
+              "title": "0,07 €",
               "correct": true
             },
             {
@@ -3775,13 +3775,13 @@
             },
             {
               "id": 2,
-              "title": "1,55 €",
+              "title": "1,77 €",
               "correct": false
             }
           ],
           "answerExplanation": {
             "text": "Die Landwirte und Arbeiter vieler Produkte werden deutlich unterbezahlt. Aber es würde nicht viel kosten, dieses Problem zu lösen. Um besser zu verstehen, warum das so ist, müssen wir uns anschauen, wo das meiste Geld landet. Das ist ein Thema für die nächste Story in den Fairen Feldern.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/fair_price_of_rice_DE.png?v=1756981438"
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/fair_price_of_rice_2_DE.png?v=1776162800"
           }
         },
         {

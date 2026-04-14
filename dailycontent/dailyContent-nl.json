@@ -4869,7 +4869,7 @@
           ],
           "answerExplanation": {
             "text": "Van al het water dat we onttrekken aan rivieren, meren of ondergrondse opslagplaatsen, wordt 70% gebruikt voor de landbouw. Ons voedsel speelt dus een belangrijke rol bij het goed zorgen voor watervoorziening.\n\nIn sommige Europese landen gebruikt de industrie het meeste water, maar huishoudens hebben meestal het kleinste aandeel.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/water_withdrawals_NL.png?v=1756980198"
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/water_withdrawals_NL_2.png?v=1776161951"
           }
         },
         {
@@ -6220,17 +6220,17 @@
         {
           "id": 2,
           "type": "text",
-          "title": "De gemiddelde prijs voor witte rijst in Nederland is € 1,69 per kg 🍚 Als de boer een eerlijk bedrag krijgt, hoeveel zou dit de prijs dan verhogen?"
+          "title": "De gemiddelde prijs voor witte rijst in Nederland is € 2,29 per kg (2026) 🍚 Als de boer een eerlijk bedrag krijgt, hoeveel zou dit de prijs dan verhogen?"
         },
         {
           "id": 3,
           "type": "question",
           "title": "Hoeveel zou de prijs stijgen? 🍚",
-          "subtitle": "om een behoorlijke levensstandaard te bieden, ervan uitgaande dat rijst € 1,69 per kg kost",
+          "subtitle": "om een behoorlijke levensstandaard te bieden, ervan uitgaande dat rijst € 2,29 per kg kost",
           "answerOptions": [
             {
               "id": 0,
-              "title": "0,05 €",
+              "title": "0,07 €",
               "correct": true
             },
             {
@@ -6240,13 +6240,13 @@
             },
             {
               "id": 2,
-              "title": "1,55 €",
+              "title": "1,77 €",
               "correct": false
             }
           ],
           "answerExplanation": {
             "text": "Boeren en arbeiders van veel producten worden aanzienlijk onderbetaald. Maar het zou eigenlijk niet veel kosten om dit probleem op te lossen.\n\nOm beter te begrijpen waarom dit gebeurt, moeten we onderzoeken waar het meeste geld terechtkomt. Dat is voor het volgende verhaal in Fair Fields.\n",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/fair_price_of_rice_NL.png?v=1756981438"
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/fair_price_of_rice_2_NL.png?v=1776161646"
           }
         },
         {
