@@ -391,5 +391,22 @@
     "bodyDE": "Hin und wieder möchten wir dein Feedback zu dieser App einholen. Wir nutzen die Rückmeldungen, um die App weiter zu verbessern.\n\nDas Thema diesmal: Benachrichtigungen. Egal ob du diese nutzt oder nicht, deine Meinung ist wertvol.",
     "buttonTextDE": "Zur Umfrage (3 Min - English)",
     "buttonURLDE": "https://tally.so/r/KY0l97"
+  },
+  {
+    "id": 27,
+    "startDate": "12-05-2026",
+    "endDate": "19-05-2026",
+    "titleEN": "NEW: seasonal calendar for the Alps in German 🇨🇭🇦🇹",
+    "bodyEN": "When we added new regions to the seasonal calendar last year we started with English. But because so many of you asked for it (and it makes a lot of sense), we’ve created a German version for the Alps seasonal calendar that applies to Switzerland and Austria.",
+    "buttonTextEN": "To the shop",
+    "buttonURLEN": "https://www.forkranger.com/products/seasonal-calendar",
+    "titleNL": "Nieuw: seizoenskalender voor de Alpen in het Duits 🇨🇭🇦🇹",
+    "bodyNL": "Vorig jaar hebben we nieuwe regio’s toegevoegd aan de seizoenskalender. We wilden beginnen met Engels maar omdat zoveel mensen er naar hebben gevraagd (en het ook logisch is), hebben we een Duitse versie van de Alpenkalender gemaakt. Deze is van toepassing op Zwitserland en Oostenrijk.",
+    "buttonTextNL": "Naar de shop",
+    "buttonURLNL": "https://www.forkranger.com/nl/products/seizoenskalender",
+    "titleDE": "NEU: Deutscher Saisonkalender für die Alpen 🇨🇭🇦🇹",
+    "bodyDE": "Als wir letztes Jahr neue Regionen für den Saisonkalender aufgenommen haben, haben wir zunächst mit der englischen Version begonnen. Da jedoch so viele von euch danach gefragt haben (und es durchaus Sinn macht), haben wir auch eine deutsche Version des Alpen-Saisonkalenders erstellt (für die Schweiz und Österreich).",
+    "buttonTextDE": "Zum Shop",
+    "buttonURLDE": "https://www.forkranger.com/de/products/saisonkalender"
   }
 ]
