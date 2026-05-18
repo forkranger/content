@@ -2,7 +2,7 @@
   "categories": [
     {
       "id": 0,
-      "title": "Spanish Base Camp",
+      "title": "campamento base",
       "subtitle": "Spanish Introduction",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Base-Camp.png",
       "backgroundColor": "a77c39",
@@ -11,7 +11,7 @@
     },
     {
       "id": 1,
-      "title": "Spanish The Big Ranch",
+      "title": "la gran granja",
       "subtitle": "Spanish Meat",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Big-Ranch.png",
       "backgroundColor": "d8c363",
@@ -20,7 +20,7 @@
     },
     {
       "id": 2,
-      "title": "Power Valley",
+      "title": "valle de la fuerza",
       "subtitle": "Nuts & Legumes",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/power-valley.png",
       "backgroundColor": "bc5543",
@@ -29,7 +29,7 @@
     },
     {
       "id": 3,
-      "title": "Fading Forest",
+      "title": "bosque amenazado",
       "subtitle": "Deforestation",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Fading-Forest.png",
       "backgroundColor": "2d936b",
@@ -38,7 +38,7 @@
     },
     {
       "id": 4,
-      "title": "Fellowship of the Forks",
+      "title": "la communidad del tenedor",
       "subtitle": "Community",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/fellowship-of-the-forks.png",
       "backgroundColor": "33787c",
@@ -48,7 +48,7 @@
     },
     {
       "id": 5,
-      "title": "Wild Waste",
+      "title": "llanura de los residuos",
       "subtitle": "Food Waste",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/Wild-Waste.png",
       "backgroundColor": "f4a26d",
@@ -58,7 +58,7 @@
     },
     {
       "id": 6,
-      "title": "Muscle Mountain",
+      "title": "montaña de la fuerza",
       "subtitle": "Protein",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/muscle-mountain.png",
       "backgroundColor": "707070",
@@ -68,7 +68,7 @@
     },
     {
       "id": 7,
-      "title": "Moo Moo Meadows",
+      "title": "praderas muuu",
       "subtitle": "Dairy",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/moo-moo-meadows-2-1.png",
       "backgroundColor": "67a270",
@@ -78,7 +78,7 @@
     },
     {
       "id": 8,
-      "title": "The Harbor",
+      "title": "el puerto",
       "subtitle": "Transport & Packaging",
       "imageURL": "https://forkranger.com/wp-content/uploads/2022/07/harbor.png",
       "backgroundColor": "8fa9b4",
@@ -88,7 +88,7 @@
     },
     {
       "id": 9,
-      "title": "Golden Fields",
+      "title": "campos dorados",
       "subtitle": "Grains",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/golden-fields.png",
       "backgroundColor": "f2bc75",
@@ -98,7 +98,7 @@
     },
     {
       "id": 10,
-      "title": "Vegetable Garden",
+      "title": "la huerta",
       "subtitle": "Seasonal & Local",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/11/vegetable-garden.png",
       "backgroundColor": "326b3e",
@@ -108,7 +108,7 @@
     },
     {
       "id": 11,
-      "title": "Ocean",
+      "title": "océano",
       "subtitle": "Fish & Seafood",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/12/ocean.png",
       "backgroundColor": "154b7c",
@@ -118,7 +118,7 @@
     },
     {
       "id": 12,
-      "title": "Underground Jungle",
+      "title": "vida oculta",
       "subtitle": "Soil & Biodiversity",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/01/soil.png",
       "backgroundColor": "58432e",
@@ -128,7 +128,7 @@
     },
     {
       "id": 13,
-      "title": "The Dry Lake",
+      "title": "el lago seco",
       "subtitle": "Water",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/02/the-dry-lake.png",
       "backgroundColor": "c68a61",
@@ -138,7 +138,7 @@
     },
     {
       "id": 14,
-      "title": "Fair Fields",
+      "title": "campos de comercio justo",
       "subtitle": "Working conditions",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/fairfields.png",
       "backgroundColor": "b8c470",
@@ -148,7 +148,7 @@
     },
     {
       "id": 15,
-      "title": "The Good Ranch",
+      "title": "la granja sostenible",
       "subtitle": "Sustainable Meat",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/the-good-ranch.png",
       "backgroundColor": "d6b116",
@@ -158,7 +158,7 @@
     },
     {
       "id": 16,
-      "title": "Windmill Land",
+      "title": "tierra de molinos",
       "subtitle": "Energy Use",
       "imageURL": "https://www.forkranger.com/wp-content/uploads/2023/03/windmill-land.png",
       "backgroundColor": "8eafb2",
