@@ -408,5 +408,23 @@
     "bodyDE": "Als wir letztes Jahr neue Regionen für den Saisonkalender aufgenommen haben, haben wir zunächst mit der englischen Version begonnen. Da jedoch so viele von euch danach gefragt haben (und es durchaus Sinn macht), haben wir auch eine deutsche Version des Alpen-Saisonkalenders erstellt (für die Schweiz und Österreich).",
     "buttonTextDE": "Zum Shop",
     "buttonURLDE": "https://www.forkranger.com/de/products/saisonkalender"
+  },
+  {
+    "id": 28,
+    "startDate": "25-05-2026",
+    "endDate": "28-05-2026",
+    "limitTo": "iOS",
+    "titleEN": "Bug is solved 💪",
+    "bodyEN": "We were experiencing some issues with the app not loading, but this should be solved now. If you are still experiencing it, try and hard close the app (swipe away) and reopen. Please tell us if this doesn't solve it.",
+    "buttonTextEN": "Contact us",
+    "buttonURLEN": "https://www.forkranger.com/policies/contact-information",
+    "titleNL": "Bug is opgelost 💪",
+    "bodyNL": "We hadden wat problemen dat de app niet laadde, maar dit zou nu opgelost moeten zijn. Als je er nog steeds last van hebt, kun je het beste de app hard afsluiten (weg swipen) en opnieuw openen. Laat het ons weten als dit het niet oplost.",
+    "buttonTextNL": "Neem contact op",
+    "buttonURLNL": "https://www.forkranger.com/nl/policies/contact-information",
+    "titleDE": "Der Fehler ist behoben 💪",
+    "bodyDE": "Wir hatten einige Probleme damit, dass die App nicht geladen wurde, aber das sollte nun behoben sein. Falls das Problem weiterhin besteht, versuche bitte, die App vollständig zu schließen und sie erneut zu öffnen. Bitte teile uns mit, falls das Problem dadurch nicht behoben wird.",
+    "buttonTextDE": "Kontaktiere uns",
+    "buttonURLDE": "https://www.forkranger.com/de/policies/contact-information"
   }
 ]
