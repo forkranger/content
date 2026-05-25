@@ -49,11 +49,14 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git remote add upstream https://github.com/jordibruin/forkrangerRecipes.git
           git fetch upstream
-          git merge upstream/main --allow-unrelated-histories -X theirs \
-            -m "chore: sync from upstream"
-          git checkout ORIG_HEAD -- .github/
-          git add .github/
-          git diff --cached --quiet || git commit -m "chore: restore local .github"
+          git merge upstream/main --allow-unrelated-histories -X theirs --no-commit --no-ff || true
+          # Drop ANY .github/ changes from upstream — including new files like validate-json.yml.
+          # Clear the path from the index entirely, then restore our version from HEAD,
+          # and wipe any upstream-added files from the working tree.
+          git rm -rf --cached --ignore-unmatch .github/ > /dev/null
+          git checkout HEAD -- .github/
+          git clean -fd .github/
+          git commit -m "chore: sync from upstream"
 
       - name: Update stored SHA
         if: steps.upstream.outputs.sha != steps.stored.outputs.sha
