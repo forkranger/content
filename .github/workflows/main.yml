@@ -51,6 +51,9 @@ jobs:
           git fetch upstream
           git merge upstream/main --allow-unrelated-histories -X theirs \
             -m "chore: sync from upstream"
+          git checkout ORIG_HEAD -- .github/
+          git add .github/
+          git diff --cached --quiet || git commit -m "chore: restore local .github"
 
       - name: Update stored SHA
         if: steps.upstream.outputs.sha != steps.stored.outputs.sha
