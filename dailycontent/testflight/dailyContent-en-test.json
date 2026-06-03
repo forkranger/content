@@ -3498,7 +3498,7 @@
             {
               "id": 1,
               "title": "Margarine",
-              "correct": false
+              "correct": true
             }
           ],
           "answerExplanation": {
