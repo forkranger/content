@@ -21,26 +21,25 @@ jobs:
       - name: Get latest upstream commit SHA
         id: upstream
         run: |
-          SHA=$(curl -s \
-            -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/jordibruin/forkrangerRecipes/commits/main" \
-            | jq -r '.sha')
+          SHA=$(git ls-remote https://github.com/jordibruin/forkrangerRecipes.git refs/heads/main | cut -f1)
+          if [ -z "$SHA" ] || [ "$SHA" = "null" ]; then
+            echo "::error::Failed to fetch upstream SHA"
+            exit 1
+          fi
           echo "sha=$SHA" >> "$GITHUB_OUTPUT"
 
       - name: Read stored SHA
         id: stored
         run: |
-          if [ -f .last-sync-sha ]; then
-            echo "sha=$(cat .last-sync-sha)" >> "$GITHUB_OUTPUT"
-          else
-            echo "sha=" >> "$GITHUB_OUTPUT"
-          fi
+          STORED=$(cat .last-sync-sha 2>/dev/null || true)
+          # A previous bug wrote the literal string "null"; treat it as no stored SHA.
+          if [ "$STORED" = "null" ]; then STORED=""; fi
+          echo "sha=$STORED" >> "$GITHUB_OUTPUT"
 
       - name: Skip if unchanged
         if: steps.upstream.outputs.sha == steps.stored.outputs.sha
         run: |
           echo "No changes detected, exiting."
-          exit 0
 
       - name: Sync upstream changes
         if: steps.upstream.outputs.sha != steps.stored.outputs.sha
@@ -56,7 +55,7 @@ jobs:
           git rm -rf --cached --ignore-unmatch .github/ > /dev/null
           git checkout HEAD -- .github/
           git clean -fd .github/
-          git commit -m "chore: sync from upstream"
+          git commit -m "chore: sync from upstream" || echo "Nothing to commit"
 
       - name: Update stored SHA
         if: steps.upstream.outputs.sha != steps.stored.outputs.sha
