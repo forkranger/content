@@ -81,7 +81,8 @@
             "urlButtonText": "Bekijk de bron"
           }
         }
-      ]
+      ],
+      "videoURL": "https://cdn.shopify.com/videos/c/o/v/4e25e6d6fc99468fa02011ba7c9d7b67.mp4"
     },
     {
       "id": 2,
@@ -727,7 +728,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "In 2019 berekende een groep wetenschappers hoe een gezond EN duurzaam voedselpatroon er uit zou zien 🥗"
+          "title": "In 2025 berekende een groep van 24 wetenschappers hoe een gezond EN duurzaam voedselpatroon er uit zou zien 🥗"
         },
         {
           "id": 1,
@@ -757,7 +758,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Op dit moment eten we hiervan maar 19 g per dag, terwijl het 125 g zou moeten zijn!\n\nProbeer elke dag ten minste één portie noten en één portie peulvruchten te eten. Dus haal die pot pindakaas maar tevoorschijn! 😍🥜",
+            "text": "Op dit moment eten we hiervan maar 20 g per dag, terwijl het 125 g zou moeten zijn!\n\nProbeer elke dag ten minste één portie noten en één portie peulvruchten te eten. Dus haal die pot pindakaas maar tevoorschijn! 😍🥜",
             "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/recommended_amount_nuts_and_legumes_NL_1.1.png?v=1781518826",
             "infographicSourceURL": "https://eatforum.org/wp-content/uploads/2026/04/EL_Summary-Report_2025_v1.pdf"
           }

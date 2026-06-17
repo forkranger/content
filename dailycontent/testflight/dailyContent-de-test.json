@@ -52,7 +52,8 @@
           "type": "text",
           "title": "Komm morgen wieder und entdecke den Klima Effekt von Nüssen"
         }
-      ]
+      ],
+      "videoURL": "https://cdn.shopify.com/videos/c/o/v/7c7076508f9649cea83fd8a5d793c6b8.mp4"
     },
     {
       "id": 2,
@@ -460,7 +461,7 @@
         {
           "id": 0,
           "type": "text",
-          "title": "Im Jahr 2019 hat eine Gruppe von 37 Wissenschaftlern berechnet, wie eine gesunde UND nachhaltige Ernährung aussehen würde 🥗."
+          "title": "Im Jahr 2025 hat eine Gruppe von 24 Wissenschaftlern berechnet, wie eine gesunde UND nachhaltige Ernährung aussehen würde 🥗."
         },
         {
           "id": 1,
@@ -490,7 +491,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Derzeit essen wir nur 15 g pro Tag, während es 125 g sein sollten. Nüsse und Hülsenfrüchte sind der nachhaltigste Weg, um Fleisch und Milchprodukte zu ersetzen.\n\nVersuch jeden Tag mindestens eine Portion Nüsse und eine Portion Hülsenfrüchte zu essen. Also hol schonmal das Studentenfutter raus! 😍🥜",
+            "text": "Derzeit essen wir nur 23 g pro Tag, während es 125 g sein sollten. Nüsse und Hülsenfrüchte sind der nachhaltigste Weg, um Fleisch und Milchprodukte zu ersetzen.\n\nVersuch jeden Tag mindestens eine Portion Nüsse und eine Portion Hülsenfrüchte zu essen. Also hol schonmal das Studentenfutter raus! 😍🥜",
             "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/recommended_amount_nuts_and_legumes_DE_1.1.png?v=1781518827",
             "infographicSourceURL": "https://eatforum.org/wp-content/uploads/2026/04/EL_Summary-Report_2025_v1.pdf"
           }
