@@ -2207,7 +2207,7 @@
           "answerExplanation": {
             "text": "A piece of cheese looks small but there is a lot of milk ‘hidden’ in it. This causes most of the emissions.\n\nTransport, packaging, or whether it comes from industrial or artisanal production only has a tiny influence on the carbon footprint.",
             "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/cheese_milk.png?v=1756980344",
-            "infographicSourceURL": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:T1_Utilisation_of_milk_and_dairy_products_obtained_(million_tonnes,_EU,_2024).png",
+            "infographicSourceURL": "https://www.sciencedirect.com/science/article/abs/pii/S0048969718312026",
             "blogURL": "https://www.forkranger.com/blogs/food-facts/how-bad-is-cheese-for-the-climate-compared-to-meat"
           }
         },
@@ -2537,7 +2537,7 @@
           ],
           "answerExplanation": {
             "text": "In Europe and the US, we currently eat the equivalent of 5 hamburgers per week. Changing this number to 1 hamburger per week is the most important goal. This step alone gets us almost halfway to the sustainable diet calculated by the EAT-Lancet report. ",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/sustainable_meat.png?v=1756981222",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/sustainable_meat_2.0_EN.png?v=1781604200",
             "infographicSourceURL": "https://eatforum.org/wp-content/uploads/2026/04/EL_Summary-Report_2025_v1.pdf"
           }
         },
@@ -7991,7 +7991,7 @@
           "answerExplanation": {
             "text": "The reason that we have so many honey bees is because we use them as ‘honey farms’. While honey bees are really good at collecting pollen for honey, they don’t stop at other flowers to pollinate them. And if there are two bee hives in one area, there is no more food for other pollinators.\n\nSo eating honey is not helping (pollinating) insects. Instead, to increase biodiversity you can eat more organic products and keep native plants in your garden.\n",
             "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/honey_bees_1.1_EN.png?v=1781685795",
-            "infographicSourceURL": "https://www.science.org/doi/10.1126/science.1230200"
+            "infographicSourceURL": "https://www.sciencedirect.com/science/article/pii/S0960982225002623"
           }
         },
         {
@@ -8095,7 +8095,7 @@
           "answerExplanation": {
             "text": "It is false that you can only get all 20 amino acids from meat. It’s also not true that you need to eat the right combinations in one meal (e.g. rice and beans). All you need is to eat a diverse range of foods within 24 hours.\n\nIn other words, there is no need to worry about ‘complete’ protein.",
             "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/complete_protein.png?v=1756981575",
-            "infographicSourceURL": "https://pubmed.ncbi.nlm.nih.gov/30726996/",
+            "infographicSourceURL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6394758/",
             "blogURL": "https://www.forkranger.com/blogs/health/how-healthy-is-eating-less-meat-and-dairy-protein"
           }
         },
