@@ -27,7 +27,7 @@
         "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_causes_one_third_of_climate_change_NL.png?v=1756982212"
       },
       "recipe": 12,
-      "recipeSubtitle" : "Dit is het eerst ontwikkelde Fork Ranger recept en is het favoriete recept van heel veel mensen."
+      "recipeSubtitle": "Dit is het eerst ontwikkelde Fork Ranger recept en is het favoriete recept van heel veel mensen."
     },
     {
       "id": 2,
@@ -51,36 +51,36 @@
         "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/sustainable_diet_NL.png?v=1756982213"
       },
       "recipe": 4,
-      "recipeSubtitle" : "De meesten van ons zoeken naar manieren om meer groenten te eten en dit is één van de makkelijkste manieren."
+      "recipeSubtitle": "De meesten van ons zoeken naar manieren om meer groenten te eten en dit is één van de makkelijkste manieren."
     },
     {
       "id": 3,
       "type": "question",
       "title": "Welke oplossing bespaart het meest CO2?",
-      "subtitle": "Volgens de berekeningen van Project Drawdown",
+      "subtitle": "wereldwijde CO2e-reductie volgens Project Drawdown",
       "answerOptions": [
         {
           "id": 0,
-          "title": "Elektrische auto’s 🚗",
+          "title": "🚗 80% van alle auto's elektrisch maken",
           "correct": false
         },
         {
           "id": 1,
-          "title": "Minder voedselverspilling 🗑",
-          "correct": true
+          "title": "🗑️ 50% minder voedsel verspillen",
+          "correct": false
         },
         {
           "id": 2,
-          "title": "Plantrijke voedingspatronen 🥦",
-          "correct": false
+          "title": "🥩 53% minder rundvlees eten",
+          "correct": true
         }
       ],
       "answerExplanation": {
-        "text": "Bij Fork Ranger zijn wij geïnspireerd door het feit dat lifestyle oplossingen veel meer CO2 kunnen besparen dan technologie.\n\nUiteindelijk gaat het er om een nieuwe manier van leven te vinden die in harmonie is met de natuur:\n- Minder vlees, meer planten\n- Minder vliegen, meer lokale avonturen\n- Minder spullen, meer herinneringen",
-        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/drawdown_solutions_NL.png?v=1756982212"
+        "text": "Er bestaat geen magische oplossing voor de klimaatcrisis, we hebben alle oplossingen nodig. Maar het inspireert ons dat onze persoonlijke voedselkeuzes zo'n grote rol spelen.\n\nHet gaat om het ontdekken van een nieuwe versie van Het Goede Leven:\n\nMinder vlees, meer groente.\nMinder vliegen, meer avontuur.\nMinder spullen, meer herinneringen.",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Top_climate_solutions_Drawdown_NL.png?v=1781866779"
       },
       "recipe": 69,
-      "recipeSubtitle" : "Curry's zoals deze zijn één van de makkelijkste manieren om meer plantaardig te eten."
+      "recipeSubtitle": "Curry's zoals deze zijn één van de makkelijkste manieren om meer plantaardig te eten."
     }
   ]
 }
