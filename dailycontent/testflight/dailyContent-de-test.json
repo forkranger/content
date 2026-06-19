@@ -53,7 +53,8 @@
           "title": "Komm morgen wieder und entdecke den Klima Effekt von Nüssen"
         }
       ],
-      "videoURL": "https://cdn.shopify.com/videos/c/o/v/7c7076508f9649cea83fd8a5d793c6b8.mp4"
+      "videoURL": "https://cdn.shopify.com/videos/c/o/v/7c7076508f9649cea83fd8a5d793c6b8.mp4",
+      "videoSharingURL": "https://www.forkranger.com/de/pages/welcome-to-the-fork-ranger-app"
     },
     {
       "id": 2,
@@ -201,7 +202,7 @@
           ],
           "answerExplanation": {
             "text": "Die meisten Wälder werden zerstört, um Weideland für Kühe zu schaffen. Ein Großteil der Waldabholzung findet in Südamerika statt.\n\nBei unserem nächsten Besuch im Schwindenden Wald schauen wir uns Soja und Palmöl genauer an.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/deforestation_causes_DE.png?v=1756981221",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/deforestation_causes_1.1_DE.png?v=1781863320",
             "infographicSourceURL": "https://ourworldindata.org/grapher/deforestation-by-commodity",
             "blogURL": "https://www.forkranger.com/is-it-true-that-soy-products-cause-deforestation/"
           }
@@ -2792,7 +2793,7 @@
           ],
           "answerExplanation": {
             "text": "Viele Weiden für Kühe sind industrielle Monokulturen. Sie brauchen viel Dünger, schaden dem Boden und haben keine Blumen oder andere Vielfalt. Deshalb sollte man sie eher als Industrieparks oder grüne Wüsten betrachten und nicht als Natur.\n\nDas Gleiche gilt für „perfekte“ Rasenflächen 😉.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/grass_vs_meadow_DE.png?v=1756980603"
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/grass_vs_meadow_DE_1.1.png?v=1781861265"
           }
         },
         {
@@ -4745,11 +4746,11 @@
           "id": 2,
           "type": "question",
           "title": "Wie viel von ihrem Einkommen geben die Menschen in den Niederlanden für Essen aus? 💰",
-          "subtitle": "als Prozentsatz des Haushaltseinkommens im Jahr 2018",
+          "subtitle": "als Prozentsatz des Haushaltseinkommens im Jahr 2024",
           "answerOptions": [
             {
               "id": 0,
-              "title": "8 %",
+              "title": "11 %",
               "correct": true
             },
             {
@@ -4765,7 +4766,7 @@
           ],
           "answerExplanation": {
             "text": "In reichen westlichen Ländern geben wir nur etwa 6-12 % für Lebensmittel aus. Aber die Niederländer glauben, dass es dreimal so viel ist!\n\nNachhaltig zu essen ist oft günstiger, weil Fleisch teuer ist. Aber wir müssen auch die Landwirtschaft nachhaltiger und fairer gestalten, und der Kauf dieser Produkte ist im Moment oft teurer. Wenn du es dir also leisten kannst, sei nicht zu sparsam bei Lebensmitteln.\n",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/spending_on_food_DE.png?v=1756981437",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/spending_on_food_2_DE.png?v=1781862615",
             "infographicSourceURL": "https://www.lto.nl/nederlander-overschat-uitgaven-voedsel/"
           }
         },
