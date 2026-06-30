@@ -27,7 +27,8 @@
         "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_causes_one_third_of_climate_change_NL.png?v=1756982212"
       },
       "recipe": 12,
-      "recipeSubtitle": "Dit is het eerst ontwikkelde Fork Ranger recept en is het favoriete recept van heel veel mensen."
+      "recipeSubtitle": "Dit is het eerst ontwikkelde Fork Ranger recept en is het favoriete recept van heel veel mensen.",
+      "infographicSourceURL": "https://www.nature.com/articles/s43016-021-00225-9"
     },
     {
       "id": 2,
@@ -51,7 +52,8 @@
         "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/sustainable_diet_NL.png?v=1756982213"
       },
       "recipe": 4,
-      "recipeSubtitle": "De meesten van ons zoeken naar manieren om meer groenten te eten en dit is één van de makkelijkste manieren."
+      "recipeSubtitle": "De meesten van ons zoeken naar manieren om meer groenten te eten en dit is één van de makkelijkste manieren.",
+      "infographicSourceURL": "https://eatforum.org/wp-content/uploads/2026/04/EL_Summary-Report_2025_v1.pdf"
     },
     {
       "id": 3,
@@ -80,7 +82,8 @@
         "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Top_climate_solutions_Drawdown_NL.png?v=1781866779"
       },
       "recipe": 69,
-      "recipeSubtitle": "Curry's zoals deze zijn één van de makkelijkste manieren om meer plantaardig te eten."
+      "recipeSubtitle": "Curry's zoals deze zijn één van de makkelijkste manieren om meer plantaardig te eten.",
+      "infographicSourceURL": "https://drawdown.org/explorer?sortCarbon=desc#chart"
     }
   ]
 }

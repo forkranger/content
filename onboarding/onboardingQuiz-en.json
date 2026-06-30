@@ -27,7 +27,8 @@
         "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_causes_one_third_of_climate_change.png?v=1756982213"
       },
       "recipe": 12,
-      "recipeSubtitle": "This was the first Fork Ranger recipe and it has become a favorite of dozens of people."
+      "recipeSubtitle": "This was the first Fork Ranger recipe and it has become a favorite of dozens of people.",
+      "infographicSourceURL": "https://www.nature.com/articles/s43016-021-00225-9"
     },
     {
       "id": 2,
@@ -51,7 +52,8 @@
         "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/sustainable_diet.png?v=1756982213"
       },
       "recipe": 4,
-      "recipeSubtitle": "Most of us need to eat more veggies and this recipe makes that a lot easier."
+      "recipeSubtitle": "Most of us need to eat more veggies and this recipe makes that a lot easier.",
+      "infographicSourceURL": "https://eatforum.org/wp-content/uploads/2026/04/EL_Summary-Report_2025_v1.pdf"
     },
     {
       "id": 3,
@@ -80,7 +82,8 @@
         "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Top_climate_solutions_Drawdown_EN.png?v=1781866779"
       },
       "recipe": 69,
-      "recipeSubtitle": "Curry recipes like this one are one of the easiest ways to eat more plant-based meals."
+      "recipeSubtitle": "Curry recipes like this one are one of the easiest ways to eat more plant-based meals.",
+      "infographicSourceURL": "https://drawdown.org/explorer?sortCarbon=desc#chart"
     }
   ]
 }
