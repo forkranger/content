@@ -9527,7 +9527,8 @@
           "recipeID": 12,
           "subtitle": "This was the first Fork Ranger recipe and it has become a favorite of dozens of people."
         }
-      ]
+      ],
+      "infographicSourceURL": "https://www.nature.com/articles/s43016-021-00225-9"
     },
     {
       "id": 1001,
@@ -9564,7 +9565,8 @@
           "recipeID": 4,
           "subtitle": "Most of us need to eat more veggies and this recipe makes that a lot easier."
         }
-      ]
+      ],
+      "infographicSourceURL": "https://eatforum.org/wp-content/uploads/2026/04/EL_Summary-Report_2025_v1.pdf"
     },
     {
       "id": 1002,
@@ -9606,7 +9608,8 @@
           "recipeID": 18,
           "subtitle": "One of our most simple recipes. So it’s to also set a small step on busy days."
         }
-      ]
+      ],
+      "infographicSourceURL": "https://drawdown.org/explorer?sortCarbon=desc#chart"
     }
   ]
 }
