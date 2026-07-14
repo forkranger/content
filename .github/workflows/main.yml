@@ -3,7 +3,7 @@ name: Sync upstream repository
 on:
   workflow_dispatch:
   schedule:
-    - cron: '3,13,23,33,43,53 * * * *'  # every 10 minutes
+    - cron: '0 */3 * * *'  # every three hours, on the hour
 
 permissions:
   contents: write
@@ -41,28 +41,20 @@ jobs:
         run: |
           echo "No changes detected, exiting."
 
-      - name: Sync upstream changes
+      - name: Sync upstream changes and record SHA
         if: steps.upstream.outputs.sha != steps.stored.outputs.sha
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git remote add upstream https://github.com/jordibruin/forkrangerRecipes.git
-          git fetch upstream
-          git merge upstream/main --allow-unrelated-histories -X theirs --no-commit --no-ff || true
-          # Drop ANY .github/ changes from upstream — including new files like validate-json.yml.
-          # Clear the path from the index entirely, then restore our version from HEAD,
-          # and wipe any upstream-added files from the working tree.
-          git rm -rf --cached --ignore-unmatch .github/ > /dev/null
-          git checkout HEAD -- .github/
-          git clean -fd .github/
-          git commit -m "chore: sync from upstream" || echo "Nothing to commit"
-
-      - name: Update stored SHA
-        if: steps.upstream.outputs.sha != steps.stored.outputs.sha
-        run: |
+          # Fetch and merge exactly the commit whose SHA was checked above. This avoids
+          # recording a different SHA if upstream's main branch advances mid-run.
+          git fetch --no-tags upstream "${{ steps.upstream.outputs.sha }}"
+          git merge FETCH_HEAD --allow-unrelated-histories -X theirs --no-commit --no-ff
+          # Keep this repository's workflow configuration, including removing any
+          # .github files that were introduced by upstream.
+          git restore --source=HEAD --staged --worktree -- .github/
           echo "${{ steps.upstream.outputs.sha }}" > .last-sync-sha
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .last-sync-sha
-          git commit -m "chore: update sync SHA" || echo "Nothing to commit"
+          git commit -m "chore: sync from upstream"
           git push
