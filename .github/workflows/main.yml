@@ -1,60 +1,55 @@
-name: Sync upstream repository
+name: Mirror legacy content repository
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */3 * * *'  # every three hours, on the hour
+    - cron: '0 * * * *'  # every hour, on the hour (UTC)
 
 permissions:
   contents: write
 
+concurrency:
+  group: mirror-legacy-content
+  cancel-in-progress: false
+
 jobs:
-  sync:
+  mirror:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout your repo
+      - name: Checkout new content repository
         uses: actions/checkout@v6.0.2
         with:
+          ref: main
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      - name: Get latest upstream commit SHA
-        id: upstream
+      - name: Mirror legacy content
         run: |
-          SHA=$(git ls-remote https://github.com/jordibruin/forkrangerRecipes.git refs/heads/main | cut -f1)
-          if [ -z "$SHA" ] || [ "$SHA" = "null" ]; then
-            echo "::error::Failed to fetch upstream SHA"
-            exit 1
-          fi
-          echo "sha=$SHA" >> "$GITHUB_OUTPUT"
-
-      - name: Read stored SHA
-        id: stored
-        run: |
-          STORED=$(cat .last-sync-sha 2>/dev/null || true)
-          # A previous bug wrote the literal string "null"; treat it as no stored SHA.
-          if [ "$STORED" = "null" ]; then STORED=""; fi
-          echo "sha=$STORED" >> "$GITHUB_OUTPUT"
-
-      - name: Skip if unchanged
-        if: steps.upstream.outputs.sha == steps.stored.outputs.sha
-        run: |
-          echo "No changes detected, exiting."
-
-      - name: Sync upstream changes and record SHA
-        if: steps.upstream.outputs.sha != steps.stored.outputs.sha
-        run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git remote add upstream https://github.com/jordibruin/forkrangerRecipes.git
-          # Fetch and merge exactly the commit whose SHA was checked above. This avoids
-          # recording a different SHA if upstream's main branch advances mid-run.
-          git fetch --no-tags upstream "${{ steps.upstream.outputs.sha }}"
-          git merge FETCH_HEAD --allow-unrelated-histories -X theirs --no-commit --no-ff
-          # Keep this repository's workflow configuration, including removing any
-          # .github files that were introduced by upstream.
-          git restore --source=HEAD --staged --worktree -- .github/
-          echo "${{ steps.upstream.outputs.sha }}" > .last-sync-sha
+          git fetch --no-tags upstream refs/heads/main
+          UPSTREAM_SHA=$(git rev-parse --verify 'FETCH_HEAD^{commit}')
+
+          # Replace the entire tracked tree with upstream. Unlike a merge, this also
+          # removes target-only files and repairs any existing content drift.
+          git read-tree --reset -u FETCH_HEAD
+
+          # These files belong to the new repository and are not mirrored upstream.
+          git restore --source=HEAD --staged --worktree -- .github/ README.md
+          printf '%s\n' "$UPSTREAM_SHA" > .last-sync-sha
           git add .last-sync-sha
-          git commit -m "chore: sync from upstream"
-          git push
+
+          # Refuse to publish unless every non-exempt path matches upstream exactly.
+          git diff --exit-code FETCH_HEAD -- . \
+            ':(exclude).github/**' \
+            ':(exclude).last-sync-sha' \
+            ':(exclude)README.md'
+
+          if git diff --cached --quiet; then
+            echo "Content already mirrors upstream commit $UPSTREAM_SHA"
+            exit 0
+          fi
+
+          git commit -m "chore: mirror legacy content"
+          git push origin HEAD:main
