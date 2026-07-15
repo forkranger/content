@@ -982,7 +982,7 @@
   {
     "id": "66",
     "nameNL": "Abrikoos",
-    "nameEN": "Abricot",
+    "nameEN": "Apricot",
     "nameDE": "Aprikose",
     "nameUS": "Apricot",
     "image": "apricot",
@@ -1115,7 +1115,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "71",
     "nameNL": "Netmeloen",
     "nameEN": "Cantaloupe",
     "nameDE": "Kantalupe",
@@ -1134,7 +1134,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "87",
     "nameNL": "Bladkool",
     "nameEN": "Collard greens",
     "nameDE": "Blattkohl",
@@ -1173,7 +1173,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "88",
     "nameNL": "Mierikswortel",
     "nameEN": "Horseradish",
     "nameDE": "Meerrettich",
@@ -1196,7 +1196,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "89",
     "nameNL": "Okra",
     "nameEN": "Okra",
     "nameDE": "Okraschote",
@@ -1214,7 +1214,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "90",
     "nameNL": "Pawpaw",
     "nameEN": "Pawpaw",
     "nameDE": "Papau",
@@ -1230,7 +1230,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "91",
     "nameNL": "Postelein",
     "nameEN": "Purslane",
     "nameDE": "Portulak",
@@ -1290,7 +1290,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "92",
     "nameNL": "Peultjes",
     "nameEN": "Snow peas",
     "nameDE": "Zuckerschoten",
@@ -1309,7 +1309,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "93",
     "nameNL": "Sugar snaps",
     "nameEN": "Sugar snaps",
     "nameDE": "Zuckerschoten",
