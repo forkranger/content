@@ -716,6 +716,33 @@
     ]
   },
   {
+    "id": "48",
+    "nameNL": "Spitskool",
+    "nameEN": "Pointed Cabbage",
+    "nameDE": "Spitzkohl",
+    "nameUS": "Pointed Cabbage",
+    "image": "oxheartcabbage",
+    "LC": [
+      3
+    ],
+    "GFS": [
+      1,
+      2,
+      12
+    ],
+    "PT": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "SN": [
+      5
+    ]
+  },
+  {
     "id": "41",
     "nameNL": "Rucola",
     "nameEN": "Rocket",

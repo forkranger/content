@@ -68,11 +68,12 @@
     "nameUS": "Apple",
     "image": "apple",
     "LC": [
-      3
+      4
     ],
     "GFS": [
       1,
       2,
+      3,
       12
     ],
     "PT": [
@@ -259,6 +260,31 @@
     ],
     "SN": [
       7
+    ]
+  },
+  {
+    "id": "48",
+    "nameNL": "Spitskool",
+    "nameEN": "Pointed Cabbage",
+    "nameDE": "Spitzkohl",
+    "nameUS": "Pointed Cabbage",
+    "image": "oxheartcabbage",
+    "LC": [
+      3
+    ],
+    "GFS": [
+      12,
+      1,
+      2
+    ],
+    "PT": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "SN": [
+      6
     ]
   },
   {
@@ -823,6 +849,7 @@
     ],
     "GFS": [],
     "PT": [
+      5,
       6,
       7,
       8,
@@ -830,7 +857,7 @@
       10
     ],
     "SN": [
-      5
+      4
     ]
   },
   {
