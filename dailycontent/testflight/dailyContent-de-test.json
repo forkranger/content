@@ -841,9 +841,9 @@
     {
       "id": 16,
       "notificationTitle": "Heute: ",
-      "notificationText": "Was ist das am meisten verschwendete Produkt? 🗑 – Rezept des Tages: Pinke Pasta",
+      "notificationText": "Was verursacht die Klimaauswirkungen von Lebensmittelabfällen? 🗑 – Rezept des Tages: Pinke Pasta",
       "home": {
-        "title": "Was ist das am meisten verschwendete Essen?",
+        "title": "Was verursacht die Klimaauswirkungen von Lebensmittelabfällen?",
         "category": 5
       },
       "pages": [
@@ -855,34 +855,34 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Aber was ist, wenn wir uns die verschwendete „Energie“ anschauen? ⚡️"
+          "title": "Aber wie sieht es mit dem CO₂-Fußabdruck aus?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Was macht mehr als die Hälfte aller verschwendeten Kalorien aus?",
+          "title": "Die Hälfte der klimabedingten Auswirkungen von Lebensmittelabfällen stammt von…",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Obst und Gemüse",
+              "title": "Brot, Nudeln und Reis 🍞",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Getreideprodukte (z.B. Brot und Nudeln)",
+              "title": "Fleisch 🥩",
               "correct": true
             },
             {
               "id": 2,
-              "title": "Fleisch",
+              "title": "Milchprodukten 🥛",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Weltweit fallen 53% aller verschwendeten Kalorien auf Getreideprodukte zurück. Für den Anbau von Getreide wird viel Land und Dünger benötigt, sodass die Verschwendung von Getreide schädlicher ist als die Verschwendung der meisten Obst- und Gemüsesorten.\n\nJeder Nudelrest oder jedes alte Brot, das du isst statt wegwirfst, ist ein Gewinn fürs Klima.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_waste_in_calories_DE.png?v=1756980886",
-            "infographicSourceURL": "https://www.fao.org/4/mb060e/mb060e.pdf",
+            "text": "Wir verschwenden zwar nicht besonders viel Fleisch, gemessen am Gewicht, doch die Klimaauswirkungen von dem weggeworfenen Fleisch sind immer noch deutlich höher als bei anderen Produkten.\n\nDas bedeutet, dass weniger Fleisch essen einen zusätzlichen Vorteil mit sich bringt: Es trägt auch dazu bei, das Klimaproblem der Lebensmittelverschwendung zu verringern.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Carbon_footprint_of_food_waste_DE.png?v=1784808020",
+            "infographicSourceURL": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129245",
             "blogURL": "https://www.forkranger.com/blogs/new-habits/the-solution-to-food-waste-starts-with-bread"
           }
         },
@@ -1284,43 +1284,43 @@
     {
       "id": 24,
       "notificationTitle": "Heute: Wilder Waste",
-      "notificationText": "Der überraschende Klima Impact wenn wir zu Hause Essen wegwerfen 🏠 -  Rezept des Tages: Käse-Penne mit Rucola",
+      "notificationText": "Was ist die beste Strategie, um Verschwendung von Nudeln zu vermeiden?🍝 -  Rezept des Tages: Käse-Penne mit Rucola",
       "home": {
-        "title": "Der überraschende Klima Impact wenn wir zu Hause Essen wegwerfen",
+        "title": "Was ist die beste Strategie, um Verschwendung von Nudeln zu vermeiden?",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Eine Studie aus dem Vereinigten Königreich hat sich alle Lebensmittel angeschaut, die zu Hause weggeworfen werden 🏠 "
+          "title": "Eine deutsche Studie hat ergeben, dass der Hauptgrund für verschwendete Nudeln ist, dass zu viele Nudeln gekocht werden 🍝"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "Und dann den gesamten Fußabdruck all dieser Abfälle ausgerechnet"
+          "title": "Wie wäre es also, wenn man immer genau die richtige Menge Nudeln kocht und, falls jemand noch Hunger hat, einfach ein bisschen mehr kocht 🔥 Wäre das besser?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Was hat einen größeren Fußabdruck?",
-          "subtitle": "in Haushalten im Vereinigten Königreich",
+          "title": "Was hat einen geringeren CO₂-Fußabdruck?",
+          "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Verschwendeter Kaffee ☕️",
-              "correct": true
+              "title": "100 g übrig gebliebene Nudeln wegwerfen",
+              "correct": false
             },
             {
               "id": 1,
-              "title": "Verschwendete Tomaten 🍅",
+              "title": "Wasser ein zweites Mal aufkochen, um zusätzliche Nudeln zu kochen",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Wie du siehst, sind Getränke auch Teil von Lebensmittelverschwendung. Milch oder Kaffee in den Abfluss zu gießen, hat einen riesigen Fußabdruck. Und wieder sehen wir, dass wir eine Menge Brot und Pasta verschwenden.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/top_5_food_waste_carbon_footprint_DE.png?v=1756980885",
-            "infographicSourceURL": "https://assets.wwf.org.uk/downloads/water_carbon_footprint_final_230311.pdf"
+            "text": "Stellen wir uns zwei Szenarien vor: Im ersten kochst du 400 g Nudeln, aber es ist zu viel, und du wirfst 100 g weg. Im zweiten kochst du 300 g Nudeln, aber es stellt sich heraus, dass es nicht reicht, also kochst du noch 100 g dazu.\n\nDer CO₂-Fußabdruck für das erneute Aufkochen des Wassers im zweiten Szenario ist fünfmal geringer als der Fußabdruck, der durch das Wegwerfen der Nudeln entsteht. Es ist also besser, genau die Menge zu kochen, die man voraussichtlich essen wird, und bei Bedarf etwas mehr zu kochen.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/wasting_pasta_DE.png?v=1784813673",
+            "infographicSourceURL": "https://www.nature.com/articles/s43016-020-00200-w"
           }
         },
         {
@@ -1389,47 +1389,43 @@
     {
       "id": 26,
       "notificationTitle": "Heute: Wilder Waste",
-      "notificationText": "Warum wir so viel Brot verschwenden 🥖 - Rezept des Tages: Einfache Pesto Lasagne",
+      "notificationText": "Entdecke eine magische Pausetaste ⏸️ - Rezept des Tages: Einfache Pesto Lasagne",
       "home": {
-        "title": "Warum verschwenden wir so viel Brot?",
+        "title": "Lebensmittelverschwendung: tiefgekühlt vs frisch",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Eine deutsche Studie untersuchte alle Lebensmittel, die Menschen zu Hause verschwenden 🗑."
+          "title": "In einer österreichischen Umfrage wurde die Lebensmittelverschwendung bei frischen Produkten und deren tiefgekühlten Varianten verglichen ❄️"
         },
         {
           "id": 1,
-          "type": "text",
-          "title": "Und sie untersuchten auch die Gründe für das Wegwerfen von Lebensmitteln."
-        },
-        {
-          "id": 2,
           "type": "question",
-          "title": "Was war der Hauptgrund für die Verschwendung von Brot?",
+          "title": "Im Vergleich zu frischen Lebensmitteln werden Tiefkühlprodukte…",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Abgelaufenes Verfallsdatum",
+              "title": "2x öfter weggeworfen ↗️",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Zu viel eingekauft",
+              "title": "3x seltener weggeworfen ↘️",
               "correct": false
             },
             {
               "id": 2,
-              "title": "Keine Lust drauf",
+              "title": "6x seltener weggeworfen ⬇️",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Bei der Verschwendung von Brot geht es um unsere Einstellung: Fühlen wir uns zu gut, um Brotkruste zu essen? Oder sehen wir es als etwas wertvolles an?\n\nUm Lebensmittelverschwendung zu lösen, sollten wir uns daran erinnern, dass Lebensmittel unser allererstes Grundbedürfnis sind. Sie sind zu wertvoll, um sie wegzuwerfen, selbst wenn unser altes Brot ein bisschen hart geworden ist.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/reasons_for_bread_waste_DE.png?v=1756980885",
+            "text": "Tiefkühlkost wurde 6x seltener weggeworfen als frische Lebensmittel. Der Gefrierschrank ist wie eine „magische Pausetaste“ gegen den Verderb von Lebensmitteln (diesen Ausdruck haben wir aus dem Kinderbuch ‘magic pause button’ übernommen). Und die gute Nachricht: Tiefkühlkost enthält genauso viele oder manchmal sogar mehr Nährstoffe!\n\nMan kann fast alles einfrieren, sogar Salat. Natürlich verändert sich die Konsistenz nach dem Auftauen, aber dann kann man ihn ja in eine Soße geben.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/frozen_food_waste_DE.png?v=1784806980",
+            "infographicSourceURL": "https://www.emerald.com/bfj/article/119/12/2510/65225",
             "blogURL": "https://www.forkranger.com/blogs/new-habits/the-solution-to-food-waste-starts-with-bread"
           }
         },
@@ -1437,7 +1433,7 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 51,
-          "subtitle": "Ofenrezepte sind eine großartige Möglichkeit, altes Brot zu verwenden: einfach drüber bröseln, um eine knusprige Schicht zu erhalten."
+          "subtitle": "Hast du vergessen, das Brot in den Gefrierschrank zu legen, und ist es jetzt alt? Ofenrezepte sind eine großartige Möglichkeit, altes Brot zu verwenden: einfach drüber bröseln, um eine knusprige Schicht zu erhalten."
         }
       ],
       "videoURL": "https://cdn.shopify.com/videos/c/o/v/e9114edf461c40ffae87f669cb0bfa44.mp4",
@@ -1746,19 +1742,19 @@
             },
             {
               "id": 1,
-              "title": "Beanspruchen viel Land 🌎",
+              "title": "Verbrauchen viel Wasser💦",
               "correct": false
             },
             {
               "id": 2,
-              "title": "Verbrauchen viel Wasser💦",
+              "title": "Werden manchmal von Drogenkartelle verkauft 🔫",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Die meisten Avocados kommen aus Mexiko, wo Wälder abgeholzt werden, um Platz für ihren Anbau zu schaffen. Sie verbrauchen sehr viel Wasser, und Drogenkartelle sind jetzt auch in das Avocado-Geschäft verwickelt.\n\nEs ist ein kompliziertes Produkt. Deshalb haben wir uns ein “Avocado-Budget” von 1 pro Monat gegeben.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/avocado_-_land_use_DE.png?v=1762963098",
-            "infographicSourceURL": "https://www.blog.industrialecology.uni-freiburg.de/wp-content/uploads/2019/03/LCA_tropical_fruits_Julian_Egle_Tobias_Bahmer_Peiman_Hadjian.pdf",
+            "text": "Für eine Frucht haben Avocados einen hohen Wasser-Fußabdruck, vor allem weil sie oft in Regionen mit Wasserknappheit angebaut werden. Doch die Gesamtumweltbelastung (wenn man auch andere Faktoren als nur den Wasserverbrauch berücksichtigt) ist deutlich geringer als bei Rindfleisch.\n\nDennoch ist es ein kompliziertes Produkt. Ein weiteres Problem ist, dass die meisten Avocados aus Mexiko stammen, wo mittlerweile auch Drogenkartelle im Avocado-Geschäft verwickelt sind. Deshalb haben wir uns ein “Avocado-Budget” von 1 pro Monat gegeben.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Avocado_water_use_2_DE.png?v=1784806679",
+            "infographicSourceURL": "https://www.pnas.org/doi/full/10.1073/pnas.2120584119",
             "blogURL": "https://www.forkranger.com/is-it-possible-to-eat-sustainable-avocados/"
           }
         },
@@ -1894,24 +1890,24 @@
         {
           "id": 1,
           "type": "question",
-          "title": "Welche Art von Spinat hat den größeren Fußabdruck?",
-          "subtitle": "in den Niederlanden",
+          "title": "Welche Art von Salat hat einen HÖHEREN CO₂-Fußabdruck",
+          "subtitle": "in der Schweiz",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Im beheizten Gewächshaus vor Ort angebaut 🏭",
+              "title": "Im beheizten Gewächshaus vor Ort angebaut 🔥",
               "correct": true
             },
             {
               "id": 1,
-              "title": "Saisonal angebaut, transportiert aus Spanien 🚚",
+              "title": "Aus Spanien importiert 🚚",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Saisonales Essen kann im Vergleich zur nicht saisonalen Version aus einem beheizten Gewächshaus einen echten Unterschied machen.\n\nDer Standort ist weniger wichtig als die Frage, ob es Saison hat. Das liegt daran, dass der Großteil der Emissionen in der Regel durch die Produktion und nicht durch den Transport entsteht.\n",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/spinach_seasonal_DE.png?v=1756980684",
-            "infographicSourceURL": "https://groenkennisnet.nl/zoeken/resultaat/milieueffecten-van-sperziebonen-en-spinazie-:-een-vergelijking-tussen-vers,-conserven-en-diepvries:-vanaf-de-teelt-tot-op-het-bord?id=424388",
+            "text": "Um in den kälteren Monaten Salat anzubauen, muss man das Gewächshaus beheizen. Das verursacht einen höheren CO₂-Fußabdruck als der Import aus einem wärmeren Land wie Spanien.\n\nIm Sommer hat der lokale und saisonale Salat jedoch einen geringeren Fußabdruck. Idealerweise essen wir Obst und Gemüse also vor allem dann, wenn sie gerade Saison haben.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Seasonal_lettuce_DE.png?v=1784809074",
+            "infographicSourceURL": "https://www.sciencedirect.com/science/article/pii/S2666916125000210",
             "blogURL": "https://www.forkranger.com/blogs/food-facts/why-the-benefits-of-seasonal-food-can-t-be-measured-in-co2"
           }
         },
@@ -1919,7 +1915,7 @@
           "id": 2,
           "type": "recipe",
           "recipeID": 42,
-          "subtitle": "Ein One-Pot-Curry mit Spinat. Du kannst gefrorenen Spinat auch außerhalb der Saison kaufen."
+          "subtitle": "Manche Gemüsesorten gibt es auch ganz einfach als Tiefkühlware, wie zum Beispiel für dieses One-Pot-Curry mit Spinat. Außerhalb der Saison kannst du am besten gefrorenen Spinat kaufen."
         }
       ],
       "videoURL": "https://cdn.shopify.com/videos/c/o/v/af99ec4983794592ad1165fa38be1c14.mp4",
@@ -2596,43 +2592,48 @@
     {
       "id": 48,
       "notificationTitle": "Heute: Wilder Waste",
-      "notificationText": "Was Kaffee uns über den Kreislauf des Lebens lehren kann ☕️ - Rezept des Tages: Fruchtiger Reis mit Erdnüssen",
+      "notificationText": "Gilt kompostierte Nahrung als Lebensmittelabfall?♻️ - Rezept des Tages: Fruchtiger Reis mit Erdnüssen",
       "home": {
-        "title": "Was Kaffee uns über den Kreislauf des Lebens lehren kann",
+        "title": "Gilt kompostierte Nahrung als Lebensmittelabfall?",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "In einer früheren Story im “Wilden Waste” haben wir gesehen, dass eine Menge Kaffee verschwendet wird ☕️"
+          "title": "Unser wichtigstes Ziel sollte es sein, Lebensmittelabfälle zu reduzieren 🗑"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "Der Prozess der Kaffeeherstellung kann uns auch etwas über Verschwendung im Allgemeinen beibringen 🗑"
+          "title": "Aber wenn es doch dazu kommt, was ist dann die nächstbeste Option?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Warum entsteht bei der Herstellung von Kaffee eine Menge Abfall?",
+          "title": "Was ist – nach der Vermeidung – die effizienteste Art, Lebensmittelabfälle zu verwerten?",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Nur ein kleiner Teil der Frucht wird verwendet",
-              "correct": true
+              "title": "Kompostieren 🌱",
+              "correct": false
             },
             {
               "id": 1,
-              "title": "Viele Kaffeefrüchte verfaulen während der Ernte",
+              "title": "An Tiere füttern 🐷",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Für Energie verbrennen ⚡️",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Die Erzeugung von Nahrungsmitteln entzieht dem Boden Nährstoffe. Wenn wir sie nicht durch Kompost zurückgeben, verschlechtert sich der Boden. Unser Ziel sollte es sein, einen Lebenskreislauf zu schaffen, wie bei Der König der Löwen.\n\nGebrauchter Kaffeesatz enthält immer noch eine Menge Nährstoffe. Eine kleine Sache, die du tun kannst, ist, den Kaffeesatz als Dünger zu verwenden. Streu ihn einfach über die Erde deiner Pflanzen oder deines Gartens!",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/coffee_waste_DE.png?v=1756982154",
-            "infographicSourceURL": "https://www.sciencedirect.com/science/article/pii/S2949736125000478"
+            "text": "Lebensmittelabfälle haben Energie, Land und Wasser verbraucht. Daher ist es effizienter, die Kalorien dieser Lebensmittel zur Fütterung von Tieren zu nutzen (die dann selbst zu Nahrungsmitteln werden), als sie zu kompostieren oder die Nährstoffe in den Boden zurückzuführen.\n\nAber es ist immer am besten, Lebensmittel selbst zu essen. Alles andere ist eigentlich eine große Verschwendung.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_waste_hierarchy_DE.png?v=1784814175",
+            "infographicSourceURL": "https://www.sciencedirect.com/science/article/pii/S0301479723013427"
           }
         },
         {
@@ -5182,19 +5183,19 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "Holzkohle für einen Grillabend (1,5 kg) 🔥. ",
+              "title": "Holzkohle für einen Grillabend (750 g) 🔥. ",
               "correct": false
             },
             {
               "id": 1,
-              "title": "20 Schweinefleischwürste (1 kg) 🌭.",
+              "title": "8 Schweinefleischwürste (400 g) 🌭.",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Ein Grill verbrennt Holz (oder fossile Brennstoffe) und ist in Zeiten des Klimawandels nicht wirklich nachhaltig, aber es ist ein Luxus, den wir uns ab und zu gönnen können. Viel wichtiger ist, was wir auf den Grill legen.\n\nEin weiterer wichtiger Hinweis: Kaufe Holzkohle mit dem FSC-Siegel für nachhaltige Forstwirtschaft.\n",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/bbq_DE.png?v=1756982165",
-            "infographicSourceURL": "https://www.sciencedirect.com/science/article/abs/pii/S0195925509000420"
+            "text": "Ein Grill verbrennt Holz (oder fossile Brennstoffe) und ist in Zeiten des Klimawandels nicht wirklich nachhaltig, aber es ist ein Luxus, den wir uns ab und zu gönnen können. Viel wichtiger ist, was wir auf den Grill legen.\n\nEin weiterer wichtiger Hinweis: Kaufe Holzkohle mit dem FSC-Siegel für nachhaltige Forstwirtschaft.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/bbq_2_DE.png?v=1784806399",
+            "infographicSourceURL": "https://www.mdpi.com/2071-1050/16/3/1041"
           }
         },
         {

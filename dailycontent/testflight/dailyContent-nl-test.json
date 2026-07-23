@@ -1134,42 +1134,36 @@
           "id": 4,
           "supporterOnly": true,
           "type": "text",
-          "title": "Aan het begin bij 'Base camp' lieten we je een infographic zien over Project Drawdown."
+          "title": "Eten weggooien kost niet alleen land en water, maar ook geld 💸"
         },
         {
           "id": 5,
           "supporterOnly": true,
-          "type": "text",
-          "title": "De conclusie: voedselverspilling verminderen is de nummer 1 oplossing voor het klimaat."
-        },
-        {
-          "id": 6,
-          "supporterOnly": true,
           "type": "question",
-          "title": "Met hoeveel moeten we voedselverspilling verminderen om het Drawdown doel te halen?",
-          "subtitle": "",
+          "title": "Hoeveel Nederlandse huishoudens verspillen kost ongeveer evenveel als…",
+          "subtitle": "per persoon",
           "answerOptions": [
             {
               "id": 0,
-              "title": "50%",
-              "correct": true
+              "title": "1 Fork Ranger boek (29€)",
+              "correct": false
             },
             {
               "id": 1,
-              "title": "70%",
+              "title": "ca. 2 Fork Ranger boeken",
               "correct": false
             },
             {
               "id": 2,
-              "title": "90%",
-              "correct": false
+              "title": "ca. 5 Fork Ranger boeken",
+              "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Er zal altijd wat voedselverspilling blijven, maar het doel in Project Drawdown (voor scenario 1) is om dit te verminderen met 50%. Dat moet ons lukken!\n\nHet zou 10x meer CO2 besparen dan 1/3 van alle auto's omzetten naar elektrisch.",
-            "title": "🗑",
+            "text": "Het bedrag dat mensen in Nederland aan eten verspillen, komt neer op 138 € per persoon per jaar. Voor een gezin van vier personen is dat dus meer dan 500 €!\n\nEn als het bij jou het geval is dat je die 138 € geen probleem vindt, kun je misschien overwegen om boeken van Fork Ranger aan je familie en vrienden cadeau te doen 😉",
+            "title": "💸",
             "imageURL": "",
-            "sourceURL": "https://drawdown.org/solutions/reduced-food-waste",
+            "sourceURL": "https://www.voedingscentrum.nl/Assets/Uploads/voedingscentrum/Documents/Professionals/Pers/Pers overig/Rapport Voedselverspilling 2022.pdf",
             "urlButtonText": "Bekijk de bron"
           }
         }
@@ -1366,9 +1360,9 @@
     {
       "id": 16,
       "notificationTitle": "Vandaag: Wild Waste",
-      "notificationText": "Wat is het meest verspilde product? 🗑 - Recept van de dag: Roze Pasta",
+      "notificationText": "Wat veroorzaakt de klimaatimpact van voedselverspilling? 🗑 - Recept van de dag: Roze Pasta",
       "home": {
-        "title": "Wat is het meest verspilde product?",
+        "title": "Wat veroorzaakt de klimaatimpact van voedselverspilling?",
         "category": 5
       },
       "pages": [
@@ -1380,34 +1374,34 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Maar wat als we kijken naar de ‘energie’ die wordt verspild? ⚡️"
+          "title": "Maar wat als we kijken naar de CO2-impact?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Wat is wereldwijd het meest verspilde product als je kijkt naar verspilde calorieën?",
+          "title": "De helft van de klimaatimpact van voedselverspilling komt van…",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Groente en fruit",
+              "title": "Brood, pasta en rijst 🍞",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Granen",
+              "title": "Vlees 🥩",
               "correct": true
             },
             {
               "id": 2,
-              "title": "Vlees",
+              "title": "Zuivel 🥛",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Wereldwijd bestaat 53% van alle verspilde calorieën uit granen. Er zijn veel land en kunstmest nodig om granen te verbouwen, dus als we ze verspillen is het schadelijker dan bij groente en fruit.\n\nElk stukje oud brood of restje overgebleven pasta dat je eet, is winst voor het klimaat.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_waste_in_calories_NL.png?v=1756980886",
-            "infographicSourceURL": "https://www.fao.org/4/mb060e/mb060e.pdf",
+            "text": "We verspillen qua gewicht niet eens echt veel vlees, maar de klimaatimpact van dat verspilde vlees is nog steeds veel groter dan die van andere producten.\n\nDit betekent dat minder vlees eten een extra voordeel heeft: het helpt ook om het klimaatprobleem van voedselverspilling te verminderen.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Carbon_footprint_of_food_waste_NL.png?v=1784808020",
+            "infographicSourceURL": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129245",
             "blogURL": "https://www.forkranger.com/nl/blogs/nieuwe-gewoontes/the-solution-to-food-waste-starts-with-bread"
           }
         },
@@ -1419,38 +1413,32 @@
         },
         {
           "id": 4,
-          "supporterOnly": true,
-          "hometitle": "Wat is de beste tactiek om minder pasta te verspillen?",
-          "type": "text",
-          "title": "Een Duitse studie vond dat pasta meestal verspild wordt omdat er te veel van wordt gekookt 🍝"
-        },
-        {
-          "id": 5,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "Dus wat als je altijd de juiste hoeveelheid pasta kookt en als iemand nog steeds trek heeft, je een beetje extra kookt 🔥 Is dat dan beter?"
-        },
-        {
-          "id": 6,
           "type": "question",
-          "title": "Wat heeft een lagere klimaatimpact?",
-          "subtitle": "",
+          "title": "Welk percentage van al het vlees wordt verspild?",
+          "subtitle": "wereldwijd",
           "answerOptions": [
             {
               "id": 0,
-              "title": "100g overgebleven pasta weggooien",
+              "title": "ca. 8%",
               "correct": false
             },
             {
               "id": 1,
-              "title": "2e keer water koken om extra pasta te koken",
+              "title": "ca. 20%",
               "correct": true
+            },
+            {
+              "id": 2,
+              "title": "ca. 50%",
+              "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Laten we naar twee scenario's kijken: in het eerste kook je 400 g pasta en blijkt het te veel te zijn, waardoor je 100 g pasta weggooit. In het tweede scenario, kook je 300 g pasta maar blijkt het niet genoeg te zijn, waardoor je 100 g extra kookt.\n\nDe klimaatimpact van een tweede keer water koken is vijf keer lager dan de klimaatimpact van de pasta die je weggooit. Dus je kan beter precies koken wat je verwacht te eten, en zo nodig kook je gewoon wat extra.",
+            "text": "Wereldwijd wordt ongeveer een vijfde van al het vlees verspild. Onderzoekers hebben berekend dat dit neerkomt op ongeveer 18 miljard boerderijdieren.\n\nIn Noord-Amerika komt dit neer op een verspilling van 7 dieren per persoon per jaar. In Europa zijn dat er 3,6.",
             "imageURL": "",
-            "title": "🍝",
+            "title": "🙀",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S2352550923002579",
+            "urlButtonText": "Bekijk de bron",
             "blogURL": ""
           }
         }
@@ -2080,43 +2068,43 @@
     {
       "id": 24,
       "notificationTitle": "Vandaag: Wild Waste",
-      "notificationText": "De verrassende impact van voedselverspilling thuis 🏠 - Recept van de dag: Penne met Mozarella en Rucola",
+      "notificationText": "Wat is de beste tactiek om minder pasta te verspillen?🍝 - Recept van de dag: Penne met Mozarella en Rucola",
       "home": {
-        "title": "De verrassende uitstoot van voedselverspilling",
+        "title": "Wat is de beste tactiek om minder pasta te verspillen?",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Bij een onderzoek in het VK werd gekeken naar al het eten dat er thuis wordt weggegooid 🏠"
+          "title": "Een Duitse studie vond dat pasta meestal verspild wordt omdat er te veel van wordt gekookt 🍝"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "En toen berekenden ze de totale uitstoot van deze verspilling."
+          "title": "Dus wat als je altijd de juiste hoeveelheid pasta kookt en als iemand nog steeds trek heeft, je een beetje extra kookt 🔥 Is dat dan beter?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Wat heeft een grotere footprint?",
-          "subtitle": "in huishoudens in het VK",
+          "title": "Wat heeft een lagere klimaatimpact?",
+          "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Verspilde koffie ☕️",
-              "correct": true
+              "title": "100g overgebleven pasta weggooien",
+              "correct": false
             },
             {
               "id": 1,
-              "title": "Verspilde tomaten 🍅",
-              "correct": false
+              "title": "2e keer water koken om extra pasta te koken",
+              "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Zoals je kunt zien, hoort drinken ook bij voedselverspilling. Melk of koffie weggooien heeft ook een behoorlijke impact. En natuurlijk zien we ook hier weer dat we te veel brood en pasta weggooien.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/top_5_food_waste_carbon_footprint_NL.png?v=1756980886",
-            "infographicSourceURL": "https://assets.wwf.org.uk/downloads/water_carbon_footprint_final_230311.pdf",
+            "text": "Laten we naar twee scenario's kijken: in het eerste kook je 400 g pasta en blijkt het te veel te zijn, waardoor je 100 g pasta weggooit. In het tweede scenario, kook je 300 g pasta maar blijkt het niet genoeg te zijn, waardoor je 100 g extra kookt.\n\nDe klimaatimpact van een tweede keer water koken is vijf keer lager dan de klimaatimpact van de pasta die je weggooit. Dus je kan beter precies koken wat je verwacht te eten, en zo nodig kook je gewoon wat extra.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/wasting_pasta_NL.png?v=1756980886",
+            "infographicSourceURL": "https://www.nature.com/articles/s43016-020-00200-w",
             "blogURL": "https://www.forkranger.com/nl/blogs/nieuwe-gewoontes/the-solution-to-food-waste-starts-with-bread"
           }
         },
@@ -2131,19 +2119,7 @@
           "supporterOnly": true,
           "hometitle": "Tellen aardappelschillen als voedselverspilling?",
           "type": "text",
-          "title": "De vorige infographic liet ons alleen de CO2 impact van 'vermijdbare' verspilling zien 🗑"
-        },
-        {
-          "id": 5,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "Dat omvat alle verspilling waarvan het duidelijk is dat het opgegeten had moeten worden, zoals een stuk brood 🍞"
-        },
-        {
-          "id": 6,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "Maar er is ook 'onvermijdbare' verspilling, zoals bananenschillen 🍌 En 'mogelijk vermijdbare' verspilling"
+          "title": "Er is 'vermijdbare' verspilling (zoals weggegooide pasta) en er is onvermijdbare verspilling (zoals eierschalen)."
         },
         {
           "id": 7,
@@ -2169,7 +2145,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Aardappelschillen zijn de grootste categorie als je kijkt naar 'mogelijk vermijdbare' voedselverspilling op de Engelse lijst van huishoudafval. Weggegooide aardappelschillen hebben nog steeds een 3 keer hogere CO2 impact dan een heel seizoen Formule 1! Dus als je aardappels koopt hoef je ze niet te schillen. Een win-win voor het klimaat en voor jou, want het kost minder tijd.\n\nAndere verse groente dragen ook voor een groot deel bij aan 'mogelijk vermijdbare' voedselverspilling, zoals de stam van broccoli's.",
+            "text": "Het grootste deel van de voedselverspilling is te voorkomen; het gaat dus om voedsel dat we eigenlijk hadden moeten eten.\n\n‘Mogelijk vermijdbare voedselverspilling’ gaat over delen die niet iedereen eet, maar die wel voedzaam zijn. Aardappelschillen of de broccolistam zijn hier een goede voorbeelden van. \n\nAls je aardappelen koopt, hoef je ze dus niet te schillen. Een win-winsituatie voor het klimaat en voor jou, want het bespaart ook tijd.",
             "imageURL": "",
             "title": "🥔"
           }
@@ -2262,55 +2238,57 @@
     {
       "id": 26,
       "notificationTitle": "Vandaag: Wild Waste",
-      "notificationText": "Waarom we zoveel brood verspillen 🥖 - Recept van de dag: Easy Pesto Lasagne",
+      "notificationText": "Ontdek de magische pauzeknop ⏸️ - Recept van de dag: Easy Pesto Lasagne",
       "home": {
-        "title": "Waarom verspillen we zoveel brood?",
+        "title": "Verspilling van vers vs uit de diepvries",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Tijdens een Duits onderzoek keek men naar de producten die mensen thuis verspillen 🗑"
+          "title": "In een Oostenrijkse enquête vergeleken ze voedselverspilling van verse voedingsproducten met hetzelfde product uit de diepvries ❄️"
         },
         {
           "id": 1,
-          "type": "text",
-          "title": "Ze onderzochten ook waarom mensen bepaalde producten weggooien."
-        },
-        {
-          "id": 2,
           "type": "question",
-          "title": "Wat was de voornaamste reden om brood weg te gooien?",
+          "title": "Vergeleken met vers voedsel, worden diepvriesproducten…",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Over de datum",
+              "title": "2x meer verspild ↗️",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Te veel gekocht",
+              "title": "3x minder verspild ↘️",
               "correct": false
             },
             {
               "id": 2,
-              "title": "Geen zin in",
+              "title": "6x minder verspild ⬇️",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Brood verspillen gaat over onze houding: Voelen we ons te goed om een broodkapje te eten? Of zien we het als waardevol voedsel?\r\n\r\nLaten we onszelf eraan herinneren dat eten een eerste levensbehoefte is. Het is te waardevol om weg te gooien, zelfs als ons oude brood een beetje hard is geworden.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/reasons_for_bread_waste_NL.png?v=1756980885",
+            "text": "Diepvriesproducten gingen 6x minder vaak verloren dan verse producten. De diepvries is een soort ‘magische pauzeknop’ tegen het bederven van voedselproducten (die uitdrukking hebben we van een kinderboek met de titel ‘magic pause button’). En goed nieuws: diepvriesproducten bevatten evenveel of soms zelfs meer voedingsstoffen!\n\nJe kunt bijna alles invriezen, zelfs sla. Natuurlijk verandert de textuur na het ontdooien, maar dan kun je het bijvoorbeeld aan een saus toevoegen.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/frozen_food_waste_NL.png?v=1784806980",
+            "infographicSourceURL": "https://www.emerald.com/bfj/article/119/12/2510/65225",
             "blogURL": "https://www.forkranger.com/nl/blogs/nieuwe-gewoontes/the-solution-to-food-waste-starts-with-bread"
           }
         },
         {
-          "id": 3,
+          "id": 2,
           "type": "recipe",
           "recipeID": 51,
-          "subtitle": "Ovengerechten zijn handig om oud brood op te maken: Verkruimel het brood er bovenop voor een krokant laagje."
+          "subtitle": "Vergeten je brood in de vriezer te doen en is het nu oud? Ovengerechten zijn handig om oud brood op te maken: Verkruimel het brood er bovenop voor een krokant laagje."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Veel voedselverspilling heeft te maken met de manier waarop we dingen bewaren (en de vriezer kan daarbij altijd helpen dit te voorkomen)"
         },
         {
           "id": 4,
@@ -2813,19 +2791,19 @@
             },
             {
               "id": 1,
-              "title": "Kost veel land om te verbouwen 🌎",
+              "title": "Vragen veel water 💦",
               "correct": false
             },
             {
               "id": 2,
-              "title": "Vragen veel water 💦",
+              "title": "Worden soms verkocht door drugskartels 🔫",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "De meeste avocados komen uit Mexico, waar bos wordt gekapt om meer ruimte te creëren om ze te verbouwen. Ze vragen ook veel water en zelfs drugskartels mengen zich tegenwoordig in de avocado business.\n\nHet is een ingewikkeld product. Daarom hebben we onszelf een avocado budget van 1 per maand gegeven.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/avocado_-_land_use_NL.png?v=1756982039",
-            "infographicSourceURL": "https://www.blog.industrialecology.uni-freiburg.de/wp-content/uploads/2019/03/LCA_tropical_fruits_Julian_Egle_Tobias_Bahmer_Peiman_Hadjian.pdf",
+            "text": "Voor een vrucht hebben avocado’s een hoge waterfootprint, vooral omdat ze vaak worden geteeld in gebieden met waterschaarste. Maar de totale impact (als je ook naar andere factoren kijkt, niet alleen naar water) is veel lager dan die van rundvlees.\n\nToch is het een ingewikkeld product. Een ander probleem is dat de meeste avocado’s uit Mexico komen, waar drugskartels inmiddels ook actief zijn in de avocadohandel. Daarom hanteren we voor onszelf een avocado-budget van 1 per maand.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Avocado_water_use_2_NL.png?v=1784806679",
+            "infographicSourceURL": "https://www.pnas.org/doi/full/10.1073/pnas.2120584119",
             "blogURL": "https://www.forkranger.com/nl/is-it-possible-to-eat-sustainable-avocados/"
           }
         },
@@ -3056,24 +3034,24 @@
         {
           "id": 1,
           "type": "question",
-          "title": "Welk type spinazie heeft een hogere CO2 impact?",
-          "subtitle": "in Nederland",
+          "title": "Welk type sla heeft een HOGERE CO2-impact?",
+          "subtitle": "in Zwitserland",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Lokaal geteeld in een verwarmde kas 🏭",
+              "title": "Lokaal geteeld in een verwarmde kas 🔥",
               "correct": true
             },
             {
               "id": 1,
-              "title": "Geteeld in het seizoen, getransporteerd vanuit Spanje 🚚",
+              "title": "Geïmporteerd vanuit Spanje 🚚",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Seizoensgroente maakt een echt verschil vergeleken met het type dat niet in het seizoen, maar in een verwarmde kas wordt geteeld.\n\nDe locatie is minder belangrijk dan of het in het seizoen is geteeld. Dat komt omdat emissies van productie het grootste aandeel hebben, niet transport.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/spinach_seasonal_NL.png?v=1756980685",
-            "infographicSourceURL": "https://groenkennisnet.nl/zoeken/resultaat/milieueffecten-van-sperziebonen-en-spinazie-:-een-vergelijking-tussen-vers,-conserven-en-diepvries:-vanaf-de-teelt-tot-op-het-bord?id=424388",
+            "text": "Om sla te telen tijdens de koudere maanden moet je de kas verwarmen. Dat heeft een grotere klimaatimpact dan wanneer je sla importeert uit een warmer land zoals Spanje.\n\nMaar in de zomer heeft lokale en seizoensgebonden sla een lagere impact. Idealiter eten we groente en fruit dus vooral wanneer ze in het seizoen zijn.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Seasonal_lettuce_NL.png?v=1784809074",
+            "infographicSourceURL": "https://www.sciencedirect.com/science/article/pii/S2666916125000210",
             "blogURL": "https://www.forkranger.com/nl/blogs/food-feitjes/waarom-je-de-voordelen-van-seizoensgroente-niet-in-co2-kan-meten"
           }
         },
@@ -3081,7 +3059,7 @@
           "id": 2,
           "type": "recipe",
           "recipeID": 42,
-          "subtitle": "Een eenpanscurry met spinazie. Je kunt spinazie uit de diepvries kopen als het niet in het seizoen is."
+          "subtitle": "Voor sommige groente kun je ook de versie uit de diepvries kopen, zoals voor deze eenpanscurry met spinazie. Kies simpelweg spinazie uit de diepvries als het niet in het seizoen is."
         },
         {
           "id": 3,
@@ -4214,74 +4192,26 @@
     {
       "id": 48,
       "notificationTitle": "Vandaag: Wild Waste",
-      "notificationText": "Wat koffie ons over ‘the circle of life’ kan leren ☕️ - Recept van de dag: Fruitige Curry met Pinda’s",
+      "notificationText": "Telt gecomposteerd voedsel nog steeds als voedselverspilling?♻️ - Recept van de dag: Fruitige Curry met Pinda’s",
       "home": {
-        "title": "Wat koffie ons over ‘the circle of life’ kan leren",
+        "title": "Is composteren van voedsel verspilling?",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "In een eerdere story van Wild Waste zagen we dat er veel koffie wordt verspild ☕️"
+          "title": "Het eerste doel zou het verminderen van verspilling moeten zijn  🗑"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "Het proces van koffiezetten kan ons ook meer leren over verspilling in het algemeen 🗑"
+          "title": "Maar als dit niet mogelijk is, wat is dan de beste optie?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "Waarom zorgt het koffieproces voor veel verspilling?",
-          "subtitle": "",
-          "answerOptions": [
-            {
-              "id": 0,
-              "title": "Maar een klein deel van de vrucht wordt gebruikt",
-              "correct": true
-            },
-            {
-              "id": 1,
-              "title": "Veel van de koffievruchten verrotten tijdens het oogsten",
-              "correct": false
-            }
-          ],
-          "answerExplanation": {
-            "text": "Door voedsel te produceren halen we voedingsstoffen uit de bodem. En als we ze niet teruggeven via compost, verslechtert de bodem. Ons doel zou moeten zijn om een ‘circle of life’ te creëren, net als in de Lion King.\n\nGebruikt koffiedik bevat nog veel voedingsstoffen. Één klein ding dat je kunt doen, is koffiedik gebruiken als meststof. Strooi het gewoon over de bodem van één van je planten of tuin!",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/coffee_waste_NL_1.1.png?v=1781861317",
-            "infographicSourceURL": "https://www.sciencedirect.com/science/article/pii/S2949736125000478"
-          }
-        },
-        {
-          "id": 3,
-          "type": "recipe",
-          "recipeID": 5,
-          "subtitle": "Het schillen van groente of fruit is vaak niet nodig en levert afval op. Dit hoeft dus ook niet voor de wortelen en appels die je nodig hebt voor dit recept."
-        },
-        {
-          "id": 4,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "Er zijn veel manieren om een ‘circle of life’ te creëren ♻️ En sommige zijn efficiënter dan andere."
-        },
-        {
-          "id": 5,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "Bijvoorbeeld: soms passeert brood de houdbaarheidsdatum voordat het verkocht is 📆"
-        },
-        {
-          "id": 6,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "Het eerste doel zou het verminderen van deze verspilling moeten zijn. 🗑 Maar als dit niet mogelijk is, wat is dan de beste optie?"
-        },
-        {
-          "id": 7,
-          "supporterOnly": true,
-          "type": "question",
-          "title": "Wat is - na het voorkomen - de meest efficiënte manier om voedselverspilling aan te pakken?",
+          "title": "Wat is - na het voorkomen van verspilling - de meest efficiënte manier om voedselverspilling aan te pakken?",
           "subtitle": "",
           "answerOptions": [
             {
@@ -4301,10 +4231,46 @@
             }
           ],
           "answerExplanation": {
-            "text": "Overgebleven brood had energie, land en water nodig. Het is dus efficiënter om de calorieën in dat brood te gebruiken voor het voeren van dieren (die vervolgens voedsel worden) dan het composteren of recyclen van de voedingsstoffen in de bodem.\n\nMaar het is altijd veel beter om het brood zelf te eten. Al het andere is een grote verspilling.",
+            "text": "Overgebleven eten had energie, land en water nodig. Het is dus efficiënter om de calorieën in dat eten te gebruiken voor het voeren van dieren (die vervolgens voedsel worden) dan het composteren of recyclen van de voedingsstoffen in de bodem.\n\nMaar het is altijd veel beter om het zelf te eten. Al het andere is een grote verspilling.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_waste_hierarchy_NL.png?v=1756980886",
+            "infographicSourceURL": "https://www.sciencedirect.com/science/article/pii/S0301479723013427"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 5,
+          "subtitle": "Het schillen van groente of fruit is vaak niet nodig en levert afval op. Dit hoeft dus ook niet voor de wortelen en appels die je nodig hebt voor dit recept."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Het proces van koffiezetten kan ons meer leren over verspilling in het algemeen 🗑"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Waarom zorgt het koffieproces voor veel verspilling?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Maar een klein deel van de vrucht wordt gebruikt",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "Veel van de koffievruchten verrotten tijdens het oogsten",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "We plukken een vrucht en nemen alleen het zaadje. Die verbranden we en gieten er heet water overheen. Dat is ongeveer wat koffie is en het betekent dat veel van de vrucht niet wordt gebruikt.\n\nDoor voedsel te produceren halen we voedingsstoffen uit de bodem. En als we ze niet teruggeven via compost, degradeert de bodem. Ons doel zou moeten zijn om een ‘circle of life’ te creëren, net als in de Lion King.\n\nGebruikt koffiedik bevat nog veel voedingsstoffen. Één klein ding dat je kunt doen, is koffiedik gebruiken als meststof. Strooi het gewoon over de bodem van één van je planten of tuin!",
             "imageURL": "",
-            "title": "🐷",
-            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0301479723013427",
+            "title": "☕️",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S2949736125000478",
             "urlButtonText": "Bekijk de bron"
           }
         }
@@ -8641,19 +8607,19 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "Houtskool voor één BBQ-sessie (1,5 kg) 🔥",
+              "title": "Houtskool voor één BBQ-sessie (750 g) 🔥",
               "correct": false
             },
             {
               "id": 1,
-              "title": "20 Varkensworstjes (1 kg) 🌭",
+              "title": "8 Varkensworstjes (400 g) 🌭",
               "correct": true
             }
           ],
           "answerExplanation": {
             "text": "Een barbecue verbrandt hout (of fossiele brandstof) en is niet echt duurzaam in tijden van klimaatverandering, maar het is een luxe die we ons af en toe kunnen permitteren. Veel belangrijker is wat we op de BBQ leggen.\n\nNog een belangrijke opmerking: koop houtskool met het FSC-keurmerk voor duurzame bosbouw.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/bbq_NL.png?v=1756982165",
-            "infographicSourceURL": "https://www.sciencedirect.com/science/article/abs/pii/S0195925509000420",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/bbq_2_NL.png?v=1784806399",
+            "infographicSourceURL": "https://www.mdpi.com/2071-1050/16/3/1041",
             "blogURL": "https://www.forkranger.com/nl/blogs/nieuwe-gewoontes/hoe-barbecue-je-duurzaam-zonder-schuldgevoel"
           }
         },

@@ -1136,36 +1136,36 @@
           "id": 4,
           "supporterOnly": true,
           "type": "text",
-          "title": "At ‘Base camp’ we showed you an infographic about Project Drawdown. The conclusion: reduced food waste is the number 1 solution for the climate 🗑"
+          "title": "Throwing away food not only costs land and water, but also money 💸"
         },
         {
           "id": 5,
           "supporterOnly": true,
           "type": "question",
-          "title": "By how much do we need to reduce food waste to reach the Drawdown goal? ⬇️",
-          "subtitle": "",
+          "title": "The cost of food waste in Dutch households is equal to…",
+          "subtitle": "per person",
           "answerOptions": [
             {
               "id": 0,
-              "title": "50%",
-              "correct": true
+              "title": "1 Fork Ranger book (29€)",
+              "correct": false
             },
             {
               "id": 1,
-              "title": "70%",
+              "title": "ca. 2 Fork Ranger books ",
               "correct": false
             },
             {
               "id": 2,
-              "title": "90%",
-              "correct": false
+              "title": "ca. 5 Fork Ranger books",
+              "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "There will always be some food waste, but the goal in Project Drawdown (for Scenario 1) is to reduce food waste by 50%. We can do this!\n\nIt would save ten times more CO2 than switching 1/3 of all cars to electric.",
+            "text": "The food that people waste at home in the Netherlands is equal to 138€ per person per year. So for a family of four it’s over 500€!\n\nAnd if it would be the case that these 138€ don’t bother you, maybe you can consider buying Fork Ranger books as a gift for your family and friends 😉",
             "imageURL": "",
-            "title": "🗑",
-            "sourceURL": "https://drawdown.org/solutions/reduced-food-waste",
+            "title": "💸",
+            "sourceURL": "https://www.voedingscentrum.nl/Assets/Uploads/voedingscentrum/Documents/Professionals/Pers/Pers overig/Rapport Voedselverspilling 2022.pdf",
             "urlButtonText": "View source"
           }
         }
@@ -1363,9 +1363,9 @@
     {
       "id": 16,
       "notificationTitle": "Today: Wild Waste",
-      "notificationText": "What is the most wasted product? 🗑 - Recipe of the day: Pink Pasta",
+      "notificationText": "What causes the climate impact of food waste? 🗑 - Recipe of the day: Pink Pasta",
       "home": {
-        "title": "What is the most wasted product?",
+        "title": "What causes the climate impact of food waste?",
         "category": 5
       },
       "pages": [
@@ -1377,34 +1377,34 @@
         {
           "id": 1,
           "type": "text",
-          "title": "But what if we look at the ‘energy’ that is wasted? ⚡️"
+          "title": "But what if we look at the carbon footprint?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "What makes up more than half of all wasted calories?",
+          "title": "Half the climate impact of food waste comes from…",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Fruits and vegetables",
+              "title": "Bread, pasta, and rice 🍞",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Cereals (e.g. bread and pasta)",
+              "title": "Meat 🥩",
               "correct": true
             },
             {
               "id": 2,
-              "title": "Meat",
+              "title": "Dairy 🥛",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Worldwide, 53% of all wasted calories come from cereals. It takes a lot of land and fertilizer to grow cereals so wasting them is more harmful than wasting most fruits and veggies.\n\nEvery leftover pasta or stale bread you eat is a win for the climate.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_waste_in_calories.png?v=1756980886",
-            "infographicSourceURL": "https://www.fao.org/4/mb060e/mb060e.pdf",
+            "text": "We don’t waste a lot of meat in terms of weight, but the climate impact of that wasted meat is still much higher than other products.\n\nThis means that there is a bonus benefit of eating less meat: it also helps to reduce the climate problem of food waste.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Carbon_footprint_of_food_waste_EN.png?v=1784808020",
+            "infographicSourceURL": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129245",
             "blogURL": "https://www.forkranger.com/blogs/new-habits/the-solution-to-food-waste-starts-with-bread"
           }
         },
@@ -1417,32 +1417,32 @@
         {
           "id": 4,
           "supporterOnly": true,
-          "hometitle": "What is the best strategy to avoid wasting pasta?",
-          "type": "text",
-          "title": "So what if you always cook the right amount of pasta and if someone is still hungry, then you cook a bit extra 🔥 Would that be better? "
-        },
-        {
-          "id": 5,
-          "supporterOnly": true,
           "type": "question",
-          "title": "What has a lower carbon footprint?",
-          "subtitle": "",
+          "title": "What percentage of all meat is wasted?",
+          "subtitle": "globally",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Wasting 100g leftover pasta",
+              "title": "ca. 8%",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Boiling water 2nd time to cook extra pasta",
+              "title": "ca. 20%",
               "correct": true
+            },
+            {
+              "id": 2,
+              "title": "ca. 50%",
+              "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Let’s imagine two scenarios: in the first you cook 400 g of pasta but it’s too much and you throw away 100 g. In the second, you cook 300 g of pasta but it turns out it’s not enough, so you cook an extra 100 g.\n\nThe carbon footprint for boiling the water again in the second scenario is five times lower than the footprint of wasting pasta. So it’s better to cook exactly what you expect to eat, and if necessary cook some extra.",
+            "text": "About one fifth of all meat is wasted around the world. Researchers calculated that this equals about 18 billion farm animals.\n\nIn North America this comes down to wasting 7 animal lives per person, per year. In Europe it’s 3.6.",
             "imageURL": "",
-            "title": "🍝"
+            "title": "🙀",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S2352550923002579",
+            "urlButtonText": "View source"
           }
         }
       ]
@@ -2071,43 +2071,43 @@
     {
       "id": 24,
       "notificationTitle": "Today: Wild Waste",
-      "notificationText": "The surprising footprint of food waste at home 🏠 - Recipe of the day: Cheesy Penne with Arugula",
+      "notificationText": "What is the best strategy to avoid wasting pasta?🍝 - Recipe of the day: Cheesy Penne with Arugula",
       "home": {
-        "title": "The surprising footprint of food waste",
+        "title": "What is the best strategy to avoid wasting pasta?",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "One study from the UK looked at all the food that is thrown away at home 🏠"
+          "title": "A German study found that the biggest reason for wasting pasta is cooking too much of it 🍝"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "And then calculated the total footprint of all this waste."
+          "title": "So what if you always cook the right amount of pasta and if someone is still hungry, then you cook a bit extra 🔥 Would that be better? "
         },
         {
           "id": 2,
           "type": "question",
-          "title": "What has a higher footprint?",
-          "subtitle": "in households in the UK",
+          "title": "What has a lower carbon footprint?",
+          "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Wasted coffee ☕️",
-              "correct": true
+              "title": "Wasting 100g leftover pasta",
+              "correct": false
             },
             {
               "id": 1,
-              "title": "Wasted tomatoes 🍅",
-              "correct": false
+              "title": "Boiling water 2nd time to cook extra pasta",
+              "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "As you can see, drinks are part of food waste as well. Throwing milk or coffee down the drain also has a huge footprint. And again we can see that we are wasting a lot of bread and pasta.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/top_5_food_waste_carbon_footprint.png?v=1756980886",
-            "infographicSourceURL": "https://assets.wwf.org.uk/downloads/water_carbon_footprint_final_230311.pdf",
+            "text": "Let’s imagine two scenarios: in the first you cook 400 g of pasta but it’s too much and you throw away 100 g. In the second, you cook 300 g of pasta but it turns out it’s not enough, so you cook an extra 100 g.\n\nThe carbon footprint for boiling the water again in the second scenario is five times lower than the footprint of wasting pasta. So it’s better to cook exactly what you expect to eat, and if necessary cook some extra.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/wasting_pasta.png?v=1756980886",
+            "infographicSourceURL": "https://www.nature.com/articles/s43016-020-00200-w",
             "blogURL": "https://www.forkranger.com/blogs/new-habits/the-solution-to-food-waste-starts-with-bread"
           }
         },
@@ -2122,22 +2122,10 @@
           "supporterOnly": true,
           "hometitle": "Do potato peels count as food waste?",
           "type": "text",
-          "title": "The previous infographic only showed the carbon footprint of ‘avoidable’ food waste 🗑"
+          "title": "There is avoidable food waste (like wasted pasta) and unavoidable food waste (like egg shells)."
         },
         {
           "id": 5,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "That includes all waste where it’s obvious that it should have been eaten, like a piece of bread 🍞"
-        },
-        {
-          "id": 6,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "But there is also ‘unavoidable’ food waste like banana peels 🍌 And ‘possibly avoidable’ food waste."
-        },
-        {
-          "id": 7,
           "supporterOnly": true,
           "type": "question",
           "title": "Potato peels count as… 🥔",
@@ -2160,7 +2148,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Potato peels are the biggest category in the UK household list of ‘possibly avoided food waste’. Wasted potato peels still have a 3 times higher footprint than an entire season of Formula 1! So if you buy potatoes you don’t have to peel them. A win-win for the climate and you because it also saves time.\n\nOther fresh vegetables also contribute a lot to ‘possibly avoidable’ food waste, such as broccoli stems.",
+            "text": "Most food waste is avoidable, meaning it’s food that should have been eaten.\n\n‘Possibly avoidable food waste’ are parts that not everyone eats, but are also nutritious food. Potato peels or broccoli stems a great example of this.\n\nSo if you buy potatoes you don’t have to peel them. A win-win for the climate and you because it also saves time.",
             "imageURL": "",
             "title": "🥔"
           }
@@ -2252,55 +2240,57 @@
     {
       "id": 26,
       "notificationTitle": "Today: Wild Waste",
-      "notificationText": "Why we waste so much bread 🥖 - Recipe of the day: Easy Pesto Lasagne",
+      "notificationText": "Discover a magic pause button ⏸️ - Recipe of the day: Easy Pesto Lasagne",
       "home": {
-        "title": "Why do we waste so much bread?",
+        "title": "Fresh food waste vs frozen food waste",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "A German study looked at all the food that people waste at home 🗑"
+          "title": "In an Austrian survey, they compared the food waste of fresh products and their frozen version ❄️"
         },
         {
           "id": 1,
-          "type": "text",
-          "title": "And they also researched the reasons for throwing away food."
-        },
-        {
-          "id": 2,
           "type": "question",
-          "title": "What was the main reason for wasting bread? ",
+          "title": "Compared to fresh food, frozen food is wasted…",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Passed expiration date",
+              "title": "2x more ↗️",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Bought too much",
+              "title": "3x less ↘️",
               "correct": false
             },
             {
               "id": 2,
-              "title": "Didn’t feel like it",
+              "title": "6x less ⬇️",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Bread waste is about our attitude: do we feel too good to eat a bread crust? Or do we see it as valuable food?\n\nTo solve food waste, we have to remind ourselves that food is our first basic need. It is too valuable to throw away, even if our old bread has become a bit hard.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/reasons_for_bread_waste.png?v=1756980886",
+            "text": "Frozen food was wasted 6x less than fresh foods. The freezer is like a ‘magic pause button’ against the decay of food (we got that phrase from children’s book with that title). And good news: frozen foods has the same or sometimes even more nutrients!\n\nYou can freeze almost anything, even lettuce. Of course the texture will change after thawing but then you can add it to a sauce.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/frozen_food_waste_EN.png?v=1784806980",
+            "infographicSourceURL": "https://www.emerald.com/bfj/article/119/12/2510/65225",
             "blogURL": "https://www.forkranger.com/blogs/new-habits/the-solution-to-food-waste-starts-with-bread"
           }
         },
         {
-          "id": 3,
+          "id": 2,
           "type": "recipe",
           "recipeID": 51,
-          "subtitle": "Oven recipes are a great way to use old bread: just crumble it on top for a crunchy layer."
+          "subtitle": "Did you forget to keep bread in the freezer and it has become a bit old? Oven recipes are a great way to use old bread: just crumble it on top for a crunchy layer."
+        },
+        {
+          "id": 3,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "A lot food waste is related to how we store things (and the freezer can always help prevent that)"
         },
         {
           "id": 4,
@@ -2802,19 +2792,19 @@
             },
             {
               "id": 1,
-              "title": "Use a lot of land 🌎",
+              "title": "Require a lot of water 💦",
               "correct": false
             },
             {
               "id": 2,
-              "title": "Require a lot of water 💦",
+              "title": "Sometimes sold by drug cartels 🔫",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Most avocados come from Mexico, where forest is cut down to make space for them. They also use a lot of water and drug cartels are now also involved in the avocado business.\n\nIt’s a complicated product. That’s why we have given ourselves an avocado budget of 1 per month.\n",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/avocado_-_land_use.png?v=1756982039",
-            "infographicSourceURL": "https://www.blog.industrialecology.uni-freiburg.de/wp-content/uploads/2019/03/LCA_tropical_fruits_Julian_Egle_Tobias_Bahmer_Peiman_Hadjian.pdf",
+            "text": "For a fruit, avocados have a high water footprint, especially because they are often farmed in areas with water issues. But the overall environmental impact (when you also look at other factors, not just water) is much lower than beef.\n\nStill, it’s a complicated product. Another issue is that most avocados come from Mexico, where drug cartels are now also involved in the avocado business. That’s why we have given ourselves an avocado budget of 1 per month.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Avocado_water_use_2_EN.png?v=1784806679",
+            "infographicSourceURL": "https://www.pnas.org/doi/full/10.1073/pnas.2120584119",
             "blogURL": "https://www.forkranger.com/is-it-possible-to-eat-sustainable-avocados/"
           }
         },
@@ -3045,24 +3035,24 @@
         {
           "id": 1,
           "type": "question",
-          "title": "Which type of spinach has a higher footprint?",
-          "subtitle": "in the Netherlands",
+          "title": "Which type of lettuce has a HIGHER footprint?",
+          "subtitle": "in Switzerland",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Grown locally in heated greenhouse 🏭",
+              "title": "Grown locally in heated greenhouse 🔥",
               "correct": true
             },
             {
               "id": 1,
-              "title": "Grown in season, transported from Spain 🚚",
+              "title": "Imported from Spain 🚚",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Seasonal food can make a real difference compared to the non-seasonal version from a heated greenhouse.\n\nLocation matters less than whether it was grown in season. That’s because the bulk of emissions usually come from production, not transportation.\n",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/spinach_seasonal.png?v=1756980684",
-            "infographicSourceURL": "https://groenkennisnet.nl/zoeken/resultaat/milieueffecten-van-sperziebonen-en-spinazie-:-een-vergelijking-tussen-vers,-conserven-en-diepvries:-vanaf-de-teelt-tot-op-het-bord?id=424388",
+            "text": "To grow lettuce during colder months you need to heat up the greenhouse. That has a higher footprint than importing it from a warmer country like Spain.\n\nBut in summer, the local and seasonal lettuce has a lower footprint. So ideally, we mostly eat fruit and vegetables when they are in season.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Seasonal_lettuce_EN.png?v=1784809074",
+            "infographicSourceURL": "https://www.sciencedirect.com/science/article/pii/S2666916125000210",
             "blogURL": "https://www.forkranger.com/blogs/food-facts/why-the-benefits-of-seasonal-food-can-t-be-measured-in-co2"
           }
         },
@@ -3070,7 +3060,7 @@
           "id": 2,
           "type": "recipe",
           "recipeID": 42,
-          "subtitle": "A one-pot curry with spinach. You can buy frozen spinach if it’s not in season."
+          "subtitle": "For some vegetables it's easy to buy their frozen counterpart. For example for this one-pot curry with spinach. You can buy frozen spinach if it’s not in season."
         },
         {
           "id": 3,
@@ -4209,72 +4199,24 @@
     {
       "id": 48,
       "notificationTitle": "Today: Wild Waste",
-      "notificationText": "What coffee can teach us about the circle of life ☕️ - Recipe of the day: Peanut Fruit Rice",
+      "notificationText": "Does composting count as food waste? ♻️ - Recipe of the day: Peanut Fruit Rice",
       "home": {
-        "title": "What coffee can teach us about the circle of life",
+        "title": "Does composted food count as food waste?",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "In an earlier story of Wild Waste we saw that a lot of coffee is wasted ☕️"
+          "title": "Our first goal should be reducing food waste 🗑"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "The process of making coffee can also teach us a lesson about waste in general 🗑"
+          "title": "But if it happens, what is the next best option?"
         },
         {
           "id": 2,
-          "type": "question",
-          "title": "Why does the coffee process create a lot of waste?",
-          "subtitle": "",
-          "answerOptions": [
-            {
-              "id": 0,
-              "title": "Only a small part of the fruit is used",
-              "correct": true
-            },
-            {
-              "id": 1,
-              "title": "A lot of coffee fruits rot during harvest",
-              "correct": false
-            }
-          ],
-          "answerExplanation": {
-            "text": "Producing food means taking out nutrients from the soil. If we don’t give them back through compost, the soil degrades. Our goal should be to create a circle of life, just like in the Lion King.\n\nUsed coffee grounds still contain a lot of nutrients. A small thing you can do is using coffee grounds as fertilizer. Just sprinkle them over the soil of one of your plants or garden!",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/coffee_waste_EN_1.1.png?v=1781861303",
-            "infographicSourceURL": "https://www.sciencedirect.com/science/article/pii/S2949736125000478"
-          }
-        },
-        {
-          "id": 3,
-          "type": "recipe",
-          "recipeID": 5,
-          "subtitle": "Peeling vegetables or fruits is often unnecessary and creates waste. So it’s not needed in the case of carrots and apples you need for this recipe."
-        },
-        {
-          "id": 4,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "There are many ways to create a ‘circle of life’ ♻️ And some are more efficient than others."
-        },
-        {
-          "id": 5,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "For example: sometimes bread passes the expiration date before it's sold 📆"
-        },
-        {
-          "id": 6,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "The first goal should be reducing this waste 🗑 But if this isn't possible, what is the next best option?"
-        },
-        {
-          "id": 7,
-          "supporterOnly": true,
           "type": "question",
           "title": "What is - after prevention - the most efficient way to use food waste?",
           "subtitle": "",
@@ -4296,10 +4238,46 @@
             }
           ],
           "answerExplanation": {
-            "text": "Leftover bread required energy, land, and water. So using the calories in that bread for feeding animals (which then become food) is more efficient than composting or recycling the nutrients into the soil.\n\nBut it’s always much better to eat the bread ourselves. Anything else is a big waste.",
+            "text": "Leftover food required energy, land, and water. So using the calories in that food for feeding animals (which then become food) is more efficient than composting or recycling the nutrients into the soil.\n\nBut it’s always much better to eat the food ourselves. Anything else is a big waste.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_waste_hierarchy.png?v=1756980886",
+            "infographicSourceURL": "https://www.sciencedirect.com/science/article/pii/S0301479723013427"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 5,
+          "subtitle": "Peeling vegetables or fruits is often unnecessary and creates waste. So it’s not needed in the case of carrots and apples you need for this recipe."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "The process of making coffee can teach us a lesson about waste in general 🗑"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
+          "type": "question",
+          "title": "Why does the coffee process create a lot of waste?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Only a small part of the fruit is used",
+              "correct": true
+            },
+            {
+              "id": 1,
+              "title": "A lot of coffee fruits rot during harvest",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "We pick a fruit but only take the seed from it. Then we burn that seed and pour hot water on it. That’s kind of how coffee works and it means a lot of the fruit remains unused.\n\nProducing food means taking out nutrients from the soil. If we don’t give them back through compost, the soil degrades. Our goal should be to create a circle of life, just like in the Lion King.\n\nUsed coffee grounds still contain a lot of nutrients. A small thing you can do is using coffee grounds as fertilizer. Just sprinkle them over the soil of one of your plants or garden!",
             "imageURL": "",
-            "title": "🐷",
-            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0301479723013427",
+            "title": "☕️",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S2949736125000478",
             "urlButtonText": "View source"
           }
         }
@@ -8638,19 +8616,19 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "Charcoal for one BBQ session (1.5 kg) 🔥 ",
+              "title": "Charcoal for one BBQ session (750 g) 🔥 ",
               "correct": false
             },
             {
               "id": 1,
-              "title": "20 Pork sausages (1 kg) 🌭",
+              "title": "8 Pork sausages (400 g) 🌭",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "A barbecue burns wood (or fossil fuel) and is not really sustainable in the era of climate change, but it’s a luxury we can allow ourselves once in a while. Much more important is what we put on the BBQ.\n\nAnother important note: buy charcoal with the FSC mark for sustainable forestry.\n",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/bbq.png?v=1756982166",
-            "infographicSourceURL": "https://www.sciencedirect.com/science/article/abs/pii/S0195925509000420",
+            "text": "A barbecue burns wood (or fossil fuel) and is not really sustainable in the era of climate change, but it’s a luxury we can allow ourselves once in a while. Much more important is what we put on the BBQ.\n\nAnother important note: buy charcoal with the FSC mark for sustainable forestry.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/bbq_2_EN.png?v=1784806399",
+            "infographicSourceURL": "https://www.mdpi.com/2071-1050/16/3/1041",
             "blogURL": "https://www.forkranger.com/blogs/new-habits/how-to-have-a-sustainable-bbq-without-feeling-guilty"
           }
         },
@@ -9527,8 +9505,7 @@
           "recipeID": 12,
           "subtitle": "This was the first Fork Ranger recipe and it has become a favorite of dozens of people."
         }
-      ],
-      "infographicSourceURL": "https://www.nature.com/articles/s43016-021-00225-9"
+      ]
     },
     {
       "id": 1001,
@@ -9565,8 +9542,7 @@
           "recipeID": 4,
           "subtitle": "Most of us need to eat more veggies and this recipe makes that a lot easier."
         }
-      ],
-      "infographicSourceURL": "https://eatforum.org/wp-content/uploads/2026/04/EL_Summary-Report_2025_v1.pdf"
+      ]
     },
     {
       "id": 1002,
@@ -9608,8 +9584,7 @@
           "recipeID": 18,
           "subtitle": "One of our most simple recipes. So it’s to also set a small step on busy days."
         }
-      ],
-      "infographicSourceURL": "https://drawdown.org/explorer?sortCarbon=desc#chart"
+      ]
     }
   ]
 }
