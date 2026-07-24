@@ -1143,7 +1143,7 @@
           "supporterOnly": true,
           "type": "question",
           "title": "The cost of food waste in Dutch households is equal to…",
-          "subtitle": "per person",
+          "subtitle": "per person per year",
           "answerOptions": [
             {
               "id": 0,
@@ -2105,7 +2105,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Let’s imagine two scenarios: in the first you cook 400 g of pasta but it’s too much and you throw away 100 g. In the second, you cook 300 g of pasta but it turns out it’s not enough, so you cook an extra 100 g.\n\nThe carbon footprint for boiling the water again in the second scenario is five times lower than the footprint of wasting pasta. So it’s better to cook exactly what you expect to eat, and if necessary cook some extra.",
+            "text": "Let’s imagine two scenarios: in the first you cook 400 g of pasta but it’s too much and you throw away 100 g. In the second, you cook 300 g of pasta but it turns out it’s not enough, so you cook an extra 100 g.\n\nThe carbon footprint for boiling the water again in the second scenario is four to five times lower than the footprint of wasting pasta. So it’s better to cook exactly what you expect to eat, and if necessary cook some extra.",
             "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/wasting_pasta.png?v=1756980886",
             "infographicSourceURL": "https://www.nature.com/articles/s43016-020-00200-w",
             "blogURL": "https://www.forkranger.com/blogs/new-habits/the-solution-to-food-waste-starts-with-bread"
@@ -2290,7 +2290,7 @@
           "id": 3,
           "supporterOnly": true,
           "type": "text",
-          "title": "A lot food waste is related to how we store things (and the freezer can always help prevent that)"
+          "title": "A lot of food waste is related to how we store things (and the freezer can always help prevent waste)"
         },
         {
           "id": 4,

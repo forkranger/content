@@ -1141,7 +1141,7 @@
           "supporterOnly": true,
           "type": "question",
           "title": "Hoeveel Nederlandse huishoudens verspillen kost ongeveer evenveel als…",
-          "subtitle": "per persoon",
+          "subtitle": "per persoon per jaar",
           "answerOptions": [
             {
               "id": 0,
@@ -2102,7 +2102,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Laten we naar twee scenario's kijken: in het eerste kook je 400 g pasta en blijkt het te veel te zijn, waardoor je 100 g pasta weggooit. In het tweede scenario, kook je 300 g pasta maar blijkt het niet genoeg te zijn, waardoor je 100 g extra kookt.\n\nDe klimaatimpact van een tweede keer water koken is vijf keer lager dan de klimaatimpact van de pasta die je weggooit. Dus je kan beter precies koken wat je verwacht te eten, en zo nodig kook je gewoon wat extra.",
+            "text": "Laten we naar twee scenario's kijken: in het eerste kook je 400 g pasta en blijkt het te veel te zijn, waardoor je 100 g pasta weggooit. In het tweede scenario, kook je 300 g pasta maar blijkt het niet genoeg te zijn, waardoor je 100 g extra kookt.\n\nDe klimaatimpact van een tweede keer water koken is vier tot vijf keer lager dan de klimaatimpact van de pasta die je weggooit. Dus je kan beter precies koken wat je verwacht te eten, en zo nodig kook je gewoon wat extra.",
             "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/wasting_pasta_NL.png?v=1756980886",
             "infographicSourceURL": "https://www.nature.com/articles/s43016-020-00200-w",
             "blogURL": "https://www.forkranger.com/nl/blogs/nieuwe-gewoontes/the-solution-to-food-waste-starts-with-bread"
@@ -2119,10 +2119,10 @@
           "supporterOnly": true,
           "hometitle": "Tellen aardappelschillen als voedselverspilling?",
           "type": "text",
-          "title": "Er is 'vermijdbare' verspilling (zoals weggegooide pasta) en er is onvermijdbare verspilling (zoals eierschalen)."
+          "title": "Er is vermijdbare verspilling (zoals weggegooide pasta) en er is onvermijdbare verspilling (zoals eierschalen)."
         },
         {
-          "id": 7,
+          "id": 5,
           "supporterOnly": true,
           "type": "question",
           "title": "Aardappelschillen tellen als…🥔",
@@ -3059,7 +3059,7 @@
           "id": 2,
           "type": "recipe",
           "recipeID": 42,
-          "subtitle": "Voor sommige groente kun je ook de versie uit de diepvries kopen, zoals voor deze eenpanscurry met spinazie. Kies simpelweg spinazie uit de diepvries als het niet in het seizoen is."
+          "subtitle": "Voor sommige groente kun je ook de diepvriesversie kopen, zoals voor deze eenpanscurry. Kies simpelweg spinazie uit de diepvries als het niet in het seizoen is."
         },
         {
           "id": 3,
@@ -4231,7 +4231,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "Overgebleven eten had energie, land en water nodig. Het is dus efficiënter om de calorieën in dat eten te gebruiken voor het voeren van dieren (die vervolgens voedsel worden) dan het composteren of recyclen van de voedingsstoffen in de bodem.\n\nMaar het is altijd veel beter om het zelf te eten. Al het andere is een grote verspilling.",
+            "text": "Voor overgebleven eten is energie, land en water gebruikt. Het is dus efficiënter om de calorieën van dat eten te gebruiken voor het voeren van dieren (die vervolgens voedsel worden) dan het composteren of recyclen van de voedingsstoffen in de bodem.\n\nMaar het is altijd veel beter om het zelf te eten. Al het andere is een grote verspilling.",
             "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_waste_hierarchy_NL.png?v=1756980886",
             "infographicSourceURL": "https://www.sciencedirect.com/science/article/pii/S0301479723013427"
           }

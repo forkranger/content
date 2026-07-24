@@ -843,7 +843,7 @@
       "notificationTitle": "Heute: ",
       "notificationText": "Was verursacht die Klimaauswirkungen von Lebensmittelabfällen? 🗑 – Rezept des Tages: Pinke Pasta",
       "home": {
-        "title": "Was verursacht die Klimaauswirkungen von Lebensmittelabfällen?",
+        "title": "Essen wegwerfen: die Folgen für das Klima",
         "category": 5
       },
       "pages": [
@@ -1314,11 +1314,11 @@
             {
               "id": 1,
               "title": "Wasser ein zweites Mal aufkochen, um zusätzliche Nudeln zu kochen",
-              "correct": false
+              "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Stellen wir uns zwei Szenarien vor: Im ersten kochst du 400 g Nudeln, aber es ist zu viel, und du wirfst 100 g weg. Im zweiten kochst du 300 g Nudeln, aber es stellt sich heraus, dass es nicht reicht, also kochst du noch 100 g dazu.\n\nDer CO₂-Fußabdruck für das erneute Aufkochen des Wassers im zweiten Szenario ist fünfmal geringer als der Fußabdruck, der durch das Wegwerfen der Nudeln entsteht. Es ist also besser, genau die Menge zu kochen, die man voraussichtlich essen wird, und bei Bedarf etwas mehr zu kochen.",
+            "text": "Stellen wir uns zwei Szenarien vor: Im ersten kochst du 400 g Nudeln, aber es ist zu viel, und du wirfst 100 g weg. Im zweiten kochst du 300 g Nudeln, aber es stellt sich heraus, dass es nicht reicht, also kochst du noch 100 g dazu.\n\nDer CO₂-Fußabdruck für das erneute Aufkochen des Wassers im zweiten Szenario ist vier bis fünfmal geringer als der Fußabdruck, der durch das Wegwerfen der Nudeln entsteht. Es ist also besser, genau die Menge zu kochen, die man voraussichtlich essen wird, und bei Bedarf etwas mehr zu kochen.",
             "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/wasting_pasta_DE.png?v=1784813673",
             "infographicSourceURL": "https://www.nature.com/articles/s43016-020-00200-w"
           }
@@ -1391,7 +1391,7 @@
       "notificationTitle": "Heute: Wilder Waste",
       "notificationText": "Entdecke eine magische Pausetaste ⏸️ - Rezept des Tages: Einfache Pesto Lasagne",
       "home": {
-        "title": "Lebensmittelverschwendung: tiefgekühlt vs frisch",
+        "title": "Entdecke eine magische Pausetaste",
         "category": 5
       },
       "pages": [
@@ -1430,7 +1430,7 @@
           }
         },
         {
-          "id": 3,
+          "id": 2,
           "type": "recipe",
           "recipeID": 51,
           "subtitle": "Hast du vergessen, das Brot in den Gefrierschrank zu legen, und ist es jetzt alt? Ofenrezepte sind eine großartige Möglichkeit, altes Brot zu verwenden: einfach drüber bröseln, um eine knusprige Schicht zu erhalten."
