@@ -426,5 +426,22 @@
     "bodyDE": "Wir hatten einige Probleme damit, dass die App nicht geladen wurde, aber das sollte nun behoben sein. Falls das Problem weiterhin besteht, versuche bitte, die App vollständig zu schließen und sie erneut zu öffnen. Bitte teile uns mit, falls das Problem dadurch nicht behoben wird.",
     "buttonTextDE": "Kontaktiere uns",
     "buttonURLDE": "https://www.forkranger.com/de/policies/contact-information"
+  },
+  {
+    "id": 29,
+    "startDate": "25-07-2026",
+    "endDate": "08-08-2026",
+    "titleEN": "We fact-checked and updated all our sources again! 🔍",
+    "bodyEN": "In the past few months we went through all sources of the infographics and updated them to more recent research if that was necessary. The conclusion is still the same but some infographics got small updates and a few have been completely renewed. You can read more about this update and where we get our information in this blog post. \n\nP.S. We still need to update them in the blogs ;).",
+    "buttonTextEN": "Read more",
+    "buttonURLEN": "https://www.forkranger.com/blogs/news/we-ve-fact-checked-and-updated-all-our-sources-again",
+    "titleNL": "We hebben al onze bronnen opnieuw gecontroleerd en bijgewerkt! 🔍",
+    "bodyNL": "De afgelopen maanden hebben we alle bronnen van de infographics doorgenomen en waar nodig bijgewerkt met recenter onderzoek. De conclusie blijft hetzelfde, maar sommige infographics hebben kleine updates gekregen en een paar zijn volledig vernieuwd. Je kunt meer lezen over deze update en waar we onze informatie vandaan halen in deze blogpost.",
+    "buttonTextNL": "Lees meer",
+    "buttonURLNL": "https://www.forkranger.com/blogs/news/we-ve-fact-checked-and-updated-all-our-sources-again",
+    "titleDE": "Wir haben alle unsere Quellen erneut überprüft und aktualisiert! 🔍",
+    "bodyDE": "In den letzten Monaten haben wir alle Quellen der Infografiken durchgesehen und, wo nötig, mit aktuellerer Forschung aktualisiert. Das Fazit bleibt dasselbe, aber einige Infografiken haben kleine Updates erhalten und ein paar wurden komplett erneuert. Mehr über dieses Update und darüber, woher wir unsere Informationen beziehen, erfährst du in diesem Blogbeitrag (nur auf Englisch).",
+    "buttonTextDE": "Mehr erfahren",
+    "buttonURLDE": "https://www.forkranger.com/blogs/news/we-ve-fact-checked-and-updated-all-our-sources-again"
   }
 ]
