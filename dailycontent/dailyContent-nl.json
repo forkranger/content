@@ -1225,7 +1225,7 @@
         },
         {
           "id": 4,
-          "supportersOnly": true,
+          "supporterOnly": true,
           "hometitle": "Hoeveel kaas eten vegetariërs vergeleken met vleeseters?",
           "type": "question",
           "title": "Hoeveel kaas eten vegetariërs vergeleken met vleeseters?🧀",
