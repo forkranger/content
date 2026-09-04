@@ -1549,6 +1549,7 @@
         },
         {
           "id": 6,
+          "supporterOnly": true,
           "type": "question",
           "title": "Waar wordt tarwe zetmeel NIET voor gebruikt?",
           "subtitle": "",
@@ -1655,6 +1656,7 @@
         },
         {
           "id": 4,
+          "supporterOnly": true,
           "type": "question",
           "title": "Welk percentage van al het vlees wordt verspild?",
           "subtitle": "wereldwijd",
@@ -1755,6 +1757,7 @@
         },
         {
           "id": 5,
+          "supporterOnly": true,
           "type": "question",
           "title": "Wat heeft een hogere klimaatimpact?",
           "subtitle": "",
@@ -4115,6 +4118,7 @@
         },
         {
           "id": 6,
+          "supporterOnly": true,
           "type": "question",
           "title": "Wat is gezonder als je een hoog cholesterolgehalte hebt?",
           "subtitle": "",
@@ -4547,6 +4551,7 @@
         },
         {
           "id": 4,
+          "supporterOnly": true,
           "type": "question",
           "title": "Sinds 1990 is de totale hoeveelheid van in het wild gevangen vis…🎣",
           "subtitle": "",
@@ -6207,6 +6212,7 @@
         },
         {
           "id": 6,
+          "supporterOnly": true,
           "type": "question",
           "title": "Wat is een voordeel van tomaten uit blik?",
           "subtitle": "",
@@ -6316,6 +6322,7 @@
         },
         {
           "id": 5,
+          "supporterOnly": true,
           "type": "question",
           "title": "Hoe kunnen we het potentieel van peulvruchten vergroten? 🫘",
           "subtitle": "om stikstof in de bodem vast te leggen",
