@@ -9623,7 +9623,7 @@
         },
         {
           "id": 5,
-          "supporterONLY": true,
+          "supporterOnly": true,
           "type": "question",
           "title": "What makes the SMALLEST difference?",
           "subtitle": "for saving gas",
@@ -10074,6 +10074,7 @@
         },
         {
           "id": 6,
+          "supporterOnly": true,
           "type": "question",
           "title": "The acceptance of meat alternatives at a BBQ party is… 🍔",
           "subtitle": "compared to other dinner settings",
