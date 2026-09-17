@@ -1630,7 +1630,7 @@
           ],
           "answerExplanation": {
             "text": "We don’t waste a lot of meat in terms of weight, but the climate impact of that wasted meat is still much higher than other products.\n\nThis means that there is a bonus benefit of eating less meat: it also helps to reduce the climate problem of food waste.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Carbon_footprint_of_food_waste_EN.png?v=1784808020",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Carbon_footprint_of_food_waste_1.1_EN.png?v=1789644205",
             "infographicsTags": [
               "food waste",
               "carbon footprint",
@@ -3969,8 +3969,8 @@
             }
           ],
           "answerExplanation": {
-            "text": "Both pigs and chickens are mostly fed with grain and soy beans. The main reason why meat from chickens has a lower impact than from pigs is because they are more efficient at “converting” this feed into meat and eggs (even though this is of course a sad way to talk about animals…).\n\nThe aubergine in this curry creates a meaty texture while the chickpeas add some protein.\n",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/feed_conversion.png?v=1756981223",
+            "text": "Both pigs and chickens are mostly fed with grain and soy beans. The main reason why meat from chickens has a lower impact than from pigs is because they are more efficient at “converting” this feed into meat and eggs (even though this is of course a sad way to talk about animals…).",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/feed_conversion_2.1_EN.png?v=1789654140",
             "infographicsTags": [
               "animal feed",
               "feed conversion",
@@ -3985,7 +3985,7 @@
               "land use",
               "meat production"
             ],
-            "infographicSourceURL": "https://ourworldindata.org/grapher/feed-required-to-produce-one-kilogram-of-meat-or-dairy-product"
+            "infographicSourceURL": "https://www.sciencedirect.com/science/article/pii/S0160412019316770"
           }
         },
         {
@@ -10927,7 +10927,7 @@
           ],
           "answerExplanation": {
             "text": "An espresso has the lowest footprint but it’s also just 40 ml. French press also has a low footprint because it doesn’t use much electricy or create waste (it also contains the most caffeine).\n\nMore important than how you make your coffee is the coffee you buy: the espresso would have a much higher impact if we use the average coffee numbers from a big study that reviewed multiple coffees. The most sustainable coffee comes from agroforestry (see the infographic in ‘Fading Forest’).",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/coffee_machines.png?v=1756980722",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/coffee_machines_2_EN.png?v=1789656860",
             "infographicsTags": [
               "coffee",
               "coffee machine",
