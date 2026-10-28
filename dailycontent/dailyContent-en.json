@@ -4445,6 +4445,12 @@
         {
           "id": 5,
           "supporterOnly": true,
+          "type": "text",
+          "title": "So if fruits and veggies currently make up 4% of the CO2 footprint… how much would it be in a sustainable diet? 🥗"
+        },
+        {
+          "id": 6,
+          "supporterOnly": true,
           "type": "question",
           "title": "What percentage do fruits and vegetables contribute to the carbon footprint of the EAT Lancet diet? 🥦",
           "subtitle": "",
@@ -4471,12 +4477,6 @@
             "blogURL": "https://www.forkranger.com/blogs/food-facts/why-the-benefits-of-seasonal-food-can-t-be-measured-in-co2",
             "title": "🥦"
           }
-        },
-        {
-          "id": 5,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "So if fruits and veggies currently make up 4% of the CO2 footprint… how much would it be in a sustainable diet? 🥗"
         }
       ],
       "videoURL": "https://cdn.shopify.com/videos/c/o/v/ab95a3a795d44b91a0f1bbebdcbe1151.mp4",
