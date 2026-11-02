@@ -3210,7 +3210,7 @@
     {
       "id": 32,
       "notificationTitle": "Today: Fading Forest",
-      "notificationText": "The dark side of avocados 🥑 - Recipe of the day: Black Bean Fajitas",
+      "notificationText": "The dark side of avocados 🥑 - Recipe of the day: Black Bean Burritos",
       "home": {
         "title": "The dark side of avocados",
         "category": 3
@@ -3275,7 +3275,7 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 49,
-          "subtitle": "To keep avocados more special, we’ve decided to only use them for authentic Mexican recipes, like these fajitas."
+          "subtitle": "To keep avocados more special, we’ve decided to only use them for authentic Mexican recipes, like these burritos."
         },
         {
           "id": 4,

@@ -3205,7 +3205,7 @@
     {
       "id": 32,
       "notificationTitle": "Heute: Schwindender Wald",
-      "notificationText": "Die dunkle Seite der Avocados 🥑 – Rezept des Tages: Fajitas mit schwarzen Bohnen",
+      "notificationText": "Die dunkle Seite der Avocados 🥑 – Rezept des Tages: Burritos mit schwarzen Bohnen",
       "home": {
         "title": "Die dunkle Seite der Avocado",
         "category": 3
@@ -3270,7 +3270,7 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 49,
-          "subtitle": "Damit Avocados etwas Besonderes bleiben, haben wir beschlossen, sie nur für authentische mexikanische Rezepte zu verwenden, wie diese Fajitas."
+          "subtitle": "Damit Avocados etwas Besonderes bleiben, haben wir beschlossen, sie nur für authentische mexikanische Rezepte zu verwenden, wie diese Burritos."
         },
         {
           "id": 4,
