@@ -137,7 +137,7 @@
         },
         {
           "id": 4,
-          "supporterOnly": "verdadero",
+          "supporterOnly": true,
           "hometitle": "Los frutos secos pueden incluso tener un balance de carbono negativo. ¿Cómo?",
           "type": "text",
           "title": "Los frutos secos no solo tienen una baja huella de carbono, sino que incluso pueden absorber CO₂, por lo que llegan a tener un balance de carbono negativo ⬇️"
