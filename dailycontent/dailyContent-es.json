@@ -38,7 +38,7 @@
           ],
           "answerExplanation": {
             "text": "La carne de vacuno es, con diferencia, la que tiene la mayor huella de carbono. Sin reducir el consumo de carne, esta simple medida reduciría en una quinta parte la huella de carbono de la dieta occidental media. Por supuesto, sustituir la ternera por pollo (o cerdo) no es el objetivo final de una alimentación sostenible, pero es un primer paso sencillo que supone una gran diferencia.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2025/05/replacing-beef-vs-vegetarian-for-1-day.png"
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/replacing_beef_vs_vegetarian_for_1_day_ES_1.1.png?v=1781515886"
           }
         },
         {
@@ -115,17 +115,17 @@
             {
               "id": 0,
               "title": "Alta",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 1,
               "title": "Baja",
-              "correct": "verdadero"
+              "correct": true
             }
           ],
           "answerExplanation": {
             "text": "Los frutos secos son ricos en proteínas y tienen una huella ecológica muy baja, ya que se obtienen de los árboles. Gracias a sus grasas saludables, los frutos secos son una excelente fuente de proteínas y un buen sustituto de la carne.",
-            "imageURL": "https://www.forkranger.com/wp-content/uploads/2022/09/nuts-footprint-per-100-g-protein-1.png",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/nuts_footprint_per_100_g_protein_1.1_ES.png?v=1793617610",
             "blogURL": "https://www.forkranger.com/nuts-and-the-search-for-sustainable-protein/"
           }
         },
@@ -237,12 +237,12 @@
             {
               "id": 1,
               "title": "55 %",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 2,
               "title": "77 %",
-              "correct": "verdadero" 
+              "correct": true 
             }
           ],
           "answerExplanation": {
@@ -376,22 +376,22 @@
             {
               "id": 0,
               "title": "Judías",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 1,
               "title": "Quinoa",
-              "correct": "verdadero"
+              "correct": true
             },
             {
               "id": 2,
               "title": "Lentejas",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 3,
               "title": "Garbanzos",
-              "correct": "falso"
+              "correct": false
             }
           ],
           "answerExplanation": {
@@ -416,12 +416,12 @@
             {
               "id": 0,
               "title": "En conserva 🥫",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 1,
               "title": "Secas 🫘",
-              "correct": "verdadero"
+              "correct": true
             }
           ],
           "answerExplanation": {
@@ -461,17 +461,17 @@
             {
               "id": 0,
               "title": "1 persona que lleva una dieta vegana",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 1,
               "title": "2 personas que llevan una dieta vegetariana",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 2,
               "title": "3 personas que sustituyen la ternera por cerdo y pollo",
-              "correct": "verdadero"
+              "correct": true
             }
           ],
           "answerExplanation": {
@@ -496,22 +496,22 @@
             {
               "id": 0,
               "title": "Tener estudios superiores 🎓",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 1,
               "title": "Compartir piso con una persona vegetariana 🏠",
-              "correct": "verdadero"
+              "correct": true
             },
             {
               "id": 2,
               "title": "Ser joven 💁‍♂️",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 3,
               "title": "Ser mujer 💃",
-              "correct": "falso"
+              "correct": false
             }
           ],
           "answerExplanation": {
@@ -547,17 +547,17 @@
             {
               "id": 0,
               "title": "Durante el proceso de producción",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 1,
               "title": "En el supermercado",
-              "correct": "falso"
+              "correct": false
             },
             {
               "id": 2,
               "title": "En casa",
-              "correct": "verdadero"
+              "correct": true
             }
           ],
           "answerExplanation": {
