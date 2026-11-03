@@ -3,8 +3,8 @@
     {
       "id": 1,
       "type": "question",
-      "title": "Italian... How much does our food contribute to climate change?",
-      "subtitle": "Italian...yearly greenhouse gas emissions worldwide",
+      "title": "Quanto contribuisce il nostro cibo al cambiamento climatico?",
+      "subtitle": "emissioni annuali di gas serra a livello mondiale",
       "answerOptions": [
         {
           "id": 0,
@@ -23,64 +23,64 @@
         }
       ],
       "answerExplanation": {
-        "text": "Italian... Our global food system causes one-third of all emissions.\n\nOn your Fork Ranger journey, you’re going to explore the most important sources of these emissions and what we can do about it",
-        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_causes_one_third_of_climate_change.png?v=1756982213"
+        "text": "Il nostro sistema alimentare globale è responsabile di un terzo di tutte le emissioni. \n\nNel tuo viaggio con Fork Ranger esplorerai le fonti più importanti di queste emissioni e cosa possiamo fare al riguardo.",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_causes_one_third_of_climate_change_IT.png?v=1793637341"
       },
       "recipe": 12,
-      "recipeSubtitle" : "This was the first Fork Ranger recipe and it has become a favorite of dozens of people."
+      "recipeSubtitle" : "Questa è stata la prima ricetta di Fork Ranger ed è diventata la preferita di decine di persone."
     },
     {
       "id": 2,
       "type": "question",
-      "title": "What can save more CO2 emissions?",
+      "title": "Cosa può ridurre maggiormente le emissioni di CO2?",
       "subtitle": "",
       "answerOptions": [
         {
           "id": 1,
-          "title": "Changing what we eat",
+          "title": "Cambiare ciò che mangiamo",
           "correct": true
         },
         {
           "id": 0,
-          "title": "Making farms more sustainable",
+          "title": "Rendere le aziende agricole più sostenibili",
           "correct": false
         }
       ],
       "answerExplanation": {
-        "text": "The most effective way to reduce the footprint of our food is to eat less meat and dairy.\n\nYou don’t have to become a vegetarian to be part of the solution. A few simple changes can make a massive difference.",
-        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/sustainable_diet.png?v=1756982213"
+        "text": "Il modo più efficace per ridurre l'impatto ambientale del nostro cibo è mangiare meno carne e latticini.\n\nNon è necessario diventare vegetariani per far parte della soluzione. Bastano pochi semplici cambiamenti per fare un'enorme differenza.",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/sustainable_diet_IT_2.png?v=1793717800"
       },
       "recipe": 4,
-      "recipeSubtitle" : "Most of us need to eat more veggies and this recipe makes that a lot easier."
+      "recipeSubtitle" : "Molti di noi dovrebbero mangiare più verdura e questa ricetta rende tutto molto più semplice."
     },
     {
       "id": 3,
       "type": "question",
-      "title": "Which solution can save the most CO2?",
-      "subtitle": "according to the calculations of Project Drawdown",
+      "title": "Quale soluzione può far risparmiare più CO2?",
+      "subtitle": "riduzione globale di CO₂e secondo Project Drawdown",
       "answerOptions": [
         {
           "id": 0,
-          "title": "Electric cars 🚗",
+          "title": "🚗 Rendere l'80% di tutte le auto elettriche",
           "correct": false
         },
         {
           "id": 1,
-          "title": "Reduced food waste 🗑",
+          "title": "🗑 Riduci gli sprechi alimentari del 50%",
           "correct": true
         },
         {
           "id": 2,
-          "title": "Plant-rich diets 🥦",
+          "title": "🥩 Mangia il 53% in meno di carne di manzo",
           "correct": false
         }
       ],
       "answerExplanation": {
-        "text": "At Fork Ranger, we are inspired by the fact that there are some very human solutions that can save a lot more CO2 than technology.\n\nIt’s all about finding a new way of living that is in harmony with nature:\n- less meat, more plants\n- less flying, more local adventures\n- less stuff, more memories",
-        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/drawdown_solutions.png?v=1756982212"
+        "text": "Noi di Fork Ranger siamo ispirati dal fatto che esistono soluzioni molto umane in grado di far risparmiare molta più CO2 rispetto alla tecnologia.\n\nSi tratta di trovare un nuovo modo di vivere in armonia con la natura:\n- meno carne, più vegetali\n- meno voli, più avventure locali\n- meno cose materiali, più ricordi",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Top_climate_solutions_Drawdown_IT.png?v=1793717998"
       },
       "recipe": 69,
-      "recipeSubtitle" : "Curry recipes like this one are one of the easiest ways to eat more plant-based meals."
+      "recipeSubtitle" : "Ricette veloci come questa sono uno dei modi più semplici per mangiare più vegetali."
     }
   ]
 }
