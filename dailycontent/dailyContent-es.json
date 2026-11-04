@@ -242,7 +242,7 @@
             {
               "id": 2,
               "title": "77 %",
-              "correct": true 
+              "correct": true
             }
           ],
           "answerExplanation": {
@@ -1109,36 +1109,36 @@
           "id": 4,
           "supporterOnly": true,
           "type": "text",
-          "title": "En el Campamento Base vimos que reducir el desperdicio de alimentos es la solución número uno para el clima 🗑"
+          "title": "El desperdicio alimentario no solo supone la pérdida de tierra y agua, sino también de dinero 💸"
         },
         {
           "id": 5,
           "supporterOnly": true,
           "type": "question",
-          "title": "¿Cuánto debemos reducir el desperdicio de alimentos para alcanzar el objetivo del proyecto Drawdown? ⬇️",
-          "subtitle": "",
+          "title": "El coste del desperdicio alimentario en los hogares de Países Bajos equivale a:",
+          "subtitle": "por persona cada año",
           "answerOptions": [
             {
               "id": 0,
-              "title": "50 %",
-              "correct": true
+              "title": "1 libro de Fork Ranger (29 €)",
+              "correct": false
             },
             {
               "id": 1,
-              "title": "70 %",
+              "title": "aprox. 2 libros de Fork Ranger",
               "correct": false
             },
             {
               "id": 2,
-              "title": "90 %",
-              "correct": false
+              "title": "aprox. 5 libros de Fork Ranger",
+              "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Siempre se desperdiciarán algunos alimentos, pero el objetivo del Proyecto Drawdown (en el escenario 1) es reducirlo en un 50 %. ¡Podemos lograrlo! Esto permitiría evitar diez veces más CO₂ que si un tercio de todos los coches fueran eléctricos.",
+            "text": "La comida que se desperdicia en los hogares de Países Bajos equivale a 138 € por persona cada año. Para una familia de cuatro miembros, esto supone ¡más de 500 €! Si estos 138 € no te incomodan, puedes plantearte comprar libros de Fork Ranger para regalárselos a tus familiares y amistades 😉",
             "imageURL": "",
-            "title": "🗑",
-            "sourceURL": "https://drawdown.org/solutions/reduced-food-waste",
+            "title": "💸",
+            "sourceURL": "https://www.voedingscentrum.nl/Assets/Uploads/voedingscentrum/Documents/Professionals/Pers/Pers overig/Rapport Voedselverspilling 2022.pdf",
             "urlButtonText": "Ver la fuente"
           }
         }
@@ -1329,9 +1329,9 @@
     {
       "id": 16,
       "notificationTitle": "Hoy visitamos la Llanura de los Residuos",
-      "notificationText": "¿Cuál es el producto que más se desperdicia? 🗑 - Receta del día: pasta rosa",
+      "notificationText": "¿Cuál es el origen del impacto climático del desperdicio alimentario? 🗑 - Receta del día: pasta rosa",
       "home": {
-        "title": "¿Cuál es el producto que más se desperdicia? 🗑 ",
+        "title": "¿Cuál es el origen del impacto climático del desperdicio alimentario?",
         "category": 5
       },
       "pages": [
@@ -1343,32 +1343,32 @@
         {
           "id": 1,
           "type": "text",
-          "title": "Pero, ¿y si nos fijamos en la «energía» que se desperdicia? ⚡️"
+          "title": "¿Y si nos fijamos en la huella de carbono?"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "¿Qué supone más de la mitad de todas las calorías que se desperdician?",
+          "title": "La mitad del impacto climático del desperdicio alimentario procede de:",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": " Frutas y verduras",
+              "title": "Pan, pasta y arroz 🍞",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Cereales (como pan y pasta)",
+              "title": "Carne 🥩",
               "correct": true
             },
             {
               "id": 2,
-              "title": "Carne",
+              "title": "Lácteos 🥛",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "A nivel mundial, el 53 % de todas las calorías desperdiciadas provienen de los cereales. Su cultivo requiere mucha tierra y fertilizantes, por lo que su desperdicio es más perjudicial que el de la mayoría de las frutas y verduras. Cada resto de pasta o pan duro que te comas supone un beneficio para el clima.",
+            "text": "No desperdiciamos mucha carne en términos de peso, pero, aun así, el impacto climático de la carne desperdiciada sigue siendo mucho mayor que el de otros productos. Por eso comer menos carne tiene un beneficio adicional: también ayuda a reducir el impacto climático del desperdicio alimentario.",
             "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Carbon_footprint_of_food_waste_1.1_ES.png?v=1793620238",
             "blogURL": "https://www.forkranger.com/the-solution-to-food-waste-starts-with-bread/"
           }
@@ -1382,32 +1382,32 @@
         {
           "id": 4,
           "supporterOnly": true,
-          "hometitle": "¿Cuál es la mejor estrategia para no desperdiciar pasta?",
-          "type": "text",
-          "title": "¿No sería mejor preparar siempre la cantidad justa de pasta y, si alguien se queda con hambre, cocinar un poco más? 🔥"
-        },
-        {
-          "id": 5,
-          "supporterOnly": true,
           "type": "question",
-          "title": "¿Qué tiene una menor huella de carbono?",
-          "subtitle": "",
+          "title": "¿Qué porcentaje se desperdicia de toda la carne?",
+          "subtitle": "a nivel mundial",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Tirar 100 g de pasta que sobra",
+              "title": "aprox. el 8 %",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Hervir agua de nuevo para cocinar más",
+              "title": "aprox. el 20 %",
+              "correct": false
+            },
+            {
+              "id": 2,
+              "title": "aprox. el 50 %",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Imaginemos dos situaciones: en la primera, cocinas 400 g de pasta, pero es demasiada y acabas tirando 100 g. En la segunda, cocinas 300 g de pasta, pero no es suficiente, y cocinas 100 g más. La huella de carbono que supone volver a hervir agua es cinco veces menor que la de tirar la pasta que sobra. Por lo tanto, es mejor cocinar solo lo que vas comer y, si es necesario, cocinar un poco más después.",
+            "text": "Aproximadamente un quinto de toda la carne se desperdicia en todo el mundo. Investigadores han calculado que esto equivale a unos 18 000 millones de animales de granja. En Norteamérica, equivale a 7 animales por persona cada año. En Europa, serían 3,6.",
             "imageURL": "",
-            "title": "🍝"
+            "title": "🙀",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S2352550923002579",
+            "urlButtonText": "Ver la fuente"
           }
         }
       ]
@@ -1444,7 +1444,7 @@
             },
             {
               "id": 1,
-              "title":  "La misma cantidad de tierra",
+              "title": "La misma cantidad de tierra",
               "correct": false
             }
           ],
@@ -2020,41 +2020,41 @@
     {
       "id": 24,
       "notificationTitle": "Hoy visitamos la Llanura de los Residuos",
-      "notificationText": "El sorprendente impacto del desperdicio de alimentos en casa 🏠 - Receta del día: macarrones con queso y rúcula",
+      "notificationText": "¿Cuál es la mejor forma de evitar el desperdicio de pasta? 🍝 - Receta del día: macarrones con queso y rúcula",
       "home": {
-        "title": "El sorprendente impacto del desperdicio de alimentos",
+        "title": "¿Cuál es la mejor forma de evitar el desperdicio de pasta?",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Un estudio realizado en Reino Unido analizó toda la comida que se tira en los hogares 🏠"
+          "title": "Un estudio alemán reveló que el principal motivo para desperdiciar pasta era cocinar demasiada cantidad 🍝"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "Y calcularon la huella ecológica total de lo desperdiciado."
+          "title": "¿No sería mejor cocinar la cantidad justa y preparar un poco más si alguien se queda con hambre? 🔥"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "¿Qué tiene una mayor huella ecológica?",
-          "subtitle": "En los hogares de Reino Unido",
+          "title": "¿Qué tiene una menor huella de carbono?",
+          "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Café desperdiciado ☕️",
-              "correct": true
+              "title": "Desperdiciar 100 g de pasta que sobre",
+              "correct": false
             },
             {
               "id": 1,
-              "title": "Tomates desperdiciados 🍅",
-              "correct": false
+              "title": "Hervir agua por segunda vez para cocinar más pasta",
+              "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "Como puedes ver, las bebidas también forman parte del desperdicio de alimentos. Tirar leche o café por el desagüe también tiene un gran impacto. Y, una vez más, vemos que desperdiciamos mucho pan y pasta.",
+            "text": "Imaginemos dos escenarios: en el primero, cocinas 400 g de pasta, pero es demasiada y tiras 100 g. En el segundo, cocinas 300 g de pasta, pero no es suficiente y cocinas 100 g más. La huella de carbono de hervir más agua en el segundo escenario es cuatro veces menor que la de desperdiciar pasta.",
             "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/wasting_pasta_ES.png?v=1793621196"
           }
         },
@@ -2067,24 +2067,12 @@
         {
           "id": 4,
           "supporterOnly": true,
-          "hometitle": "¿La piel de las patatas cuenta como desperdicio alimentario?",
+          "hometitle": "Hay desperdicio alimentario evitable (como tirar la pasta que sobra) e inevitable (como las cáscaras de los huevos).",
           "type": "text",
-          "title": "La infografía anterior solo mostraba la huella de carbono del desperdicio de alimentos «evitable» 🗑"
+          "title": "Hay desperdicio alimentario evitable (como tirar la pasta que sobra) e inevitable (como las cáscaras de los huevos)."
         },
         {
           "id": 5,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "Esto incluye todos los desperdicios que es evidente que deberían haberse comido, como un trozo de pan 🍞"
-        },
-        {
-          "id": 6,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "Pero también hay desperdicio alimentario «inevitable», como las cáscaras de los plátanos 🍌, y desperdicio alimentario que se podría evitar."
-        },
-        {
-          "id": 7,
           "supporterOnly": true,
           "type": "question",
           "title": "La piel de las patatas 🥔 cuentan como:",
@@ -2107,7 +2095,7 @@
             }
           ],
           "answerExplanation": {
-            "text": "La piel de las patatas constituyen la categoría más importante de la lista de «desperdicio alimentario que se podría evitar» de los hogares de Reino Unido. ¡La piel de las patatas que se tiran tienen una huella ecológica tres veces mayor que toda una temporada de Fórmula 1! Así que, si compras patatas, no hace falta que las peles. Es beneficioso tanto para el clima como para ti, ya que la piel contiene minerales, vitaminas y fibra, y además ¡ahorras tiempo! Otras verduras frescas también contribuyen en gran medida al desperdicio de alimentos evitable, como los tallos del brócoli.",
+            "text": "La mayoría del desperdicio alimentario es evitable, ya que se podría haber comido. El «desperdicio alimentario que se podría evitar» es el de las partes que son nutritivas, aunque no todo el mundo se las coma. Por ejemplo, la piel de las patatas y los tallos del brócoli. Si no pelas las patatas, tienes un doble beneficio: es bueno para el clima y ahorras tiempo.",
             "imageURL": "",
             "title": "🥔"
           }
@@ -2194,46 +2182,41 @@
     {
       "id": 26,
       "notificationTitle": "Hoy visitamos la Llanura de los Residuos",
-      "notificationText": "¿Por qué desperdiciamos tanto pan? 🥖 - Receta del día: lasaña fácil al pesto",
+      "notificationText": "Descubre un botón mágico de pausa ⏸️ - Receta del día: lasaña fácil al pesto",
       "home": {
-        "title": "¿Por qué desperdiciamos tanto pan?",
+        "title": "Desperdicio de comida fresca y congelada",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "Un estudio alemán analizó toda la comida que la gente desperdicia en casa 🗑"
-        },
-        {
-          "id": 1,
-          "type": "text",
-          "title": "Además, investigaron los motivos por los que se tira la comida."
+          "title": "En un estudio austriaco compararon el desperdicio de productos frescos con el de sus versiones congeladas ❄️"
         },
         {
           "id": 2,
           "type": "question",
-          "title": "¿Cuál era la razón principal por la que se desperdiciaba el pan?",
+          "title": "En comparación con la comida fresca, la congelada se desperdicia:",
           "subtitle": "",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Venció la fecha de caducidad",
+              "title": "2 veces más  ↗️",
               "correct": false
             },
             {
               "id": 1,
-              "title": "Compré demasiado pan",
+              "title": "3 veces menos ↘️",
               "correct": false
             },
             {
               "id": 2,
-              "title": "No me apetecía comérmelo",
+              "title": "6 veces menos ⬇️",
               "correct": true
             }
           ],
           "answerExplanation": {
-            "text": "El desperdicio de pan tiene que ver con nuestra actitud: ¿descartamos la corteza del pan o la consideramos un alimento valioso? Para acabar con el desperdicio de alimentos, debemos recordar que la comida es nuestra primera necesidad básica. Es demasiado valiosa como para tirarla, aunque el pan no esté tan tierno.",
+            "text": "La comida congelada se desperdicia 6 veces menos que la fresca. El congelador es como un «botón mágico de pausa» contra el deterioro de la comida (según Kate Hall). Además, la comida congelada tiene los mismos nutrientes e, incluso, ¡a veces más! Puedes congelar prácticamente todo, incluso lechuga. Por supuesto, la textura cambiará al descongelarla, pero puedes añadirla a una salsa.",
             "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/frozen_food_waste_ES.png?v=1793621605",
             "blogURL": "https://www.forkranger.com/the-solution-to-food-waste-starts-with-bread/"
           }
@@ -2242,10 +2225,16 @@
           "id": 3,
           "type": "recipe",
           "recipeID": 51,
-          "subtitle": "Las recetas al horno son una forma estupenda de aprovechar el pan duro: basta con desmenuzarlo por encima para conseguir una capa crujiente."
+          "subtitle": "¿Se te a olvidado meter el pan en el congelador y se ha quedado duro? Las recetas al horno son perfectas para aprovecharlo: solo tienes que desmenuzarlo por encima y tendrás una capa crujiente."
         },
         {
           "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "Gran parte del desperdicio alimentario se debe al almacenamiento (y el congelador siempre ayuda a evitar el desperdicio)"
+        },
+        {
+          "id": 5,
           "supporterOnly": true,
           "type": "question",
           "title": "¿Qué alimentos se desperdician más por almacenarlos de forma incorrecta?",
@@ -2732,17 +2721,17 @@
             },
             {
               "id": 1,
-              "title": "Necesitan mucha tierra 🌎",
+              "title": "Su cultivo requiere mucha agua 💦",
               "correct": false
             },
             {
               "id": 2,
-              "title": "Su cultivo requiere mucha agua 💦",
+              "title": "A veces los comercializan los cárteles de la droga 🔫",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "La mayoría de los aguacates proceden de México, donde se talan bosques para dejarles espacio. Además, consumen mucha agua y, actualmente, los cárteles de la droga se han metido en el negocio del aguacate. Es un producto complicado. Por eso nos hemos fijado un límite de un aguacate al mes.",
+            "text": "Para ser una fruta, los aguacates tienen una gran huella hídrica, sobre todo porque se suelen cultivar en zonas con problemas de sequía. Pero el impacto ecológico general (si nos fijamos en otros factores, no solo en el agua) es mucho menor que la ternera.\n\nAun así, es un producto complicado. La mayoría de los aguacates proceden de México, donde los cárteles de la droga se han metido en el negocio del aguacate. Por eso nos hemos fijado un límite de un aguacate al mes.",
             "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Avocado_water_use_ES.png?v=1793623150",
             "blogURL": "https://www.forkranger.com/is-it-possible-to-eat-sustainable-avocados/"
           }
@@ -2969,22 +2958,22 @@
         {
           "id": 1,
           "type": "question",
-          "title": "¿Qué tipo de espinacas tiene una mayor huella ecológica?",
-          "subtitle": "En Países Bajos",
+          "title": "¿Qué tipo de lechuga tiene un impacto MAYOR?",
+          "subtitle": "en Suiza",
           "answerOptions": [
             {
               "id": 0,
-              "title": "Cultivadas en un invernadero local climatizado 🏭",
+              "title": "Cultivadas en un invernadero local climatizado 🔥",
               "correct": true
             },
             {
               "id": 1,
-              "title": "Cultivadas en temporada en España 🚚",
+              "title": "Importadas de España 🚚",
               "correct": false
             }
           ],
           "answerExplanation": {
-            "text": "Tomar alimentos de temporada puede marcar una gran diferencia en comparación con los procedentes de invernaderos climatizados. El origen importa menos que el hecho de que se hayan cultivado en temporada. Esto se debe a que la mayor parte de las emisiones suele proceder de la producción, no del transporte.",
+            "text": "Solo se pueden cultivar lechugas en el exterior durante los meses fríos del año en un país cálido, como España. Pero en verano, una lechuga local de temporada tiene un impacto menor. Siempre que puedas, consume fruta y vegetales de temporada.",
             "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/Seasonal_lettuce_ES.png?v=1793623666",
             "blogURL": "https://www.forkranger.com/why-the-benefits-of-seasonal-food-cant-be-measured-in-co2/"
           }
@@ -2993,7 +2982,7 @@
           "id": 2,
           "type": "recipe",
           "recipeID": 42,
-          "subtitle": "Un curry de espinacas que se prepara en una sola olla. Si no es temporada, puedes comprar las espinacas congeladas."
+          "subtitle": "En el caso de algunos vegetales, es fácil encontrar la versión congelada. Por ejemplo, para este curry con espinacas. Puedes comprarlas congeladas si no están de temporada."
         },
         {
           "id": 3,
@@ -4102,24 +4091,64 @@
     {
       "id": 48,
       "notificationTitle": "Hoy visitamos la Llanura de los Residuos",
-      "notificationText": "Lo que el café nos puede enseñar sobre el ciclo de la vida ☕️ - Receta del día: arroz con fruta y cacahuetes",
+      "notificationText": "¿El compostaje cuenta como desperdicio alimentario? ♻️ - Receta del día: arroz con fruta y cacahuetes",
       "home": {
-        "title": "Lo que el café nos puede enseñar sobre el ciclo de la vida",
+        "title": "¿La comida compostada cuenta como desperdicio alimentario?",
         "category": 5
       },
       "pages": [
         {
           "id": 0,
           "type": "text",
-          "title": "En una historia anterior desde la Llanura de los Residuos vimos que se desperdicia mucho café ☕️"
+          "title": "Nuestro principal objetivo debe ser reducir la comida que desechamos 🗑"
         },
         {
           "id": 1,
           "type": "text",
-          "title": "El proceso de producción del café también puede enseñarnos una lección sobre los residuos en general 🗑"
+          "title": "¿Pero cuál es la siguiente mejor opción?"
         },
         {
           "id": 2,
+          "type": "question",
+          "title": "¿Cuál es la forma más eficaz de aprovechar la comida desechada después de evitarla?",
+          "subtitle": "",
+          "answerOptions": [
+            {
+              "id": 0,
+              "title": "Compostarla 🌱",
+              "correct": false
+            },
+            {
+              "id": 1,
+              "title": "Utilizarla para alimentar animales 🐷",
+              "correct": true
+            },
+            {
+              "id": 2,
+              "title": "Incinerarla para producir energía ⚡️",
+              "correct": false
+            }
+          ],
+          "answerExplanation": {
+            "text": "La comida desechada ha requerido energía, tierra y agua. Por lo que aprovechar sus calorías para alimentar animales (que luego nos comemos) es más eficiente que compostarla o reciclar sus nutrientes en el suelo. Pero siempre es mucho mejor que nos la comamos en vez de desecharla.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_waste_hierarchy_ES.png?v=1793626738"
+          }
+        },
+        {
+          "id": 3,
+          "type": "recipe",
+          "recipeID": 5,
+          "subtitle": "A menudo, pelar las verduras o las frutas es innecesario y genera residuos. Para esta receta, no hace falta pelar las zanahorias ni las manzanas."
+        },
+        {
+          "id": 4,
+          "supporterOnly": true,
+          "type": "text",
+          "title": "El proceso de producción del café también puede enseñarnos una lección sobre los residuos en general 🗑"
+        },
+        {
+          "id": 5,
+          "supporterOnly": true,
           "type": "question",
           "title": "¿Por qué el proceso de producción del café genera tantos residuos?",
           "subtitle": "",
@@ -4136,62 +4165,10 @@
             }
           ],
           "answerExplanation": {
-            "text": "Producir alimentos implica extraer nutrientes del suelo. Si no se los devolvemos a través del compost, el suelo se degrada. Nuestro objetivo debería ser crear un ciclo de vida, igual que en «El rey león». Los posos de café usados siguen conteniendo muchos nutrientes. Un pequeño gesto que puedes hacer es utilizarlos como abono. ¡Solo tienes que esparcirlos sobre la tierra de una de tus plantas o de tu huerto!",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/food_waste_hierarchy_ES.png?v=1793626738"
-          }
-        },
-        {
-          "id": 3,
-          "type": "recipe",
-          "recipeID": 5,
-          "subtitle": "A menudo, pelar las verduras o las frutas es innecesario y genera residuos. Para esta receta, no hace falta pelar las zanahorias ni las manzanas."
-        },
-        {
-          "id": 4,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "Hay muchas formas de crear un «ciclo de la vida» ♻️. Y algunas son más eficientes que otras."
-        },
-        {
-          "id": 5,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "Por ejemplo: a veces, el pan caduca antes de venderse 📆"
-        },
-        {
-          "id": 6,
-          "supporterOnly": true,
-          "type": "text",
-          "title": "El primer objetivo debería ser reducir estos residuos 🗑 Pero si no es posible, ¿cuál es la mejor alternativa?"
-        },
-        {
-          "id": 7,
-          "supporterOnly": true,
-          "type": "question",
-          "title": "Cuando no se pueden evitar, ¿cuál es la forma más eficaz de aprovechar los residuos alimentarios?",
-          "subtitle": "",
-          "answerOptions": [
-            {
-              "id": 0,
-              "title": "Compostarlos 🌱",
-              "correct": false
-            },
-            {
-              "id": 1,
-              "title": "Utilizarlos para alimentar animales 🐷",
-              "correct": true
-            },
-            {
-              "id": 2,
-              "title": "Quemarlos para obtener energía ⚡️",
-              "correct": false
-            }
-          ],
-          "answerExplanation": {
-            "text": "El pan que sobra ha requerido energía, tierra y agua. Por eso, aprovechar sus calorías para alimentar animales (que luego nos comemos) es más eficiente que convertirlo en abono o reciclar sus nutrientes en el suelo. Pero siempre es mucho mejor que no desperdiciemos el pan.",
+            "text": "Recolectamos el fruto, pero solo utilizamos la semilla. Después, tostamos la semilla y vertemos agua caliente sobre ella. Así es como utilizamos el café, por lo que se desperdicia gran parte del fruto. Producir alimentos implica extraer nutrientes del suelo. Si no se los devolvemos a través del compost, el suelo se degrada. Nuestro objetivo debería ser crear un ciclo de vida, igual que en «El rey león». Los posos de café usados siguen conteniendo muchos nutrientes. Un pequeño gesto que puedes hacer es utilizarlos como abono. ¡Solo tienes que esparcirlos sobre la tierra de una de tus plantas o de tu huerto!",
             "imageURL": "",
-            "title": "🐷",
-            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S0301479723013427",
+            "title": "☕️",
+            "sourceURL": "https://www.sciencedirect.com/science/article/pii/S2949736125000478",
             "urlButtonText": "Ver la fuente"
           }
         }
@@ -4276,7 +4253,6 @@
       ]
     },
     {
- 
       "id": 50,
       "notificationTitle": "Hoy visitamos los Ecosistemas Escondidos",
       "notificationText": "El poder infravalorado del suelo 🪱 - Receta del día: patatas asadas con salsa de mostaza",
@@ -4578,7 +4554,7 @@
           ],
           "answerExplanation": {
             "text": "La huella de carbono del pescado es similar a la del pollo, pero los pescados más pequeños, como anchoas o arenque, son una mejor opción.\n\nPuede resultar engañoso fijarse únicamente en las emisiones de CO₂, porque hay otros problemas como la sobrepesca. En este sentido, los pescados más pequeños o los mejillones son una mejor opción.",
-            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/co2_of_fish_3_ES.png?v=1793627042g"
+            "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/co2_of_fish_3_ES.png?v=1793785873"
           }
         },
         {
@@ -5758,7 +5734,7 @@
             },
             {
               "id": 1,
-              "title": "Son animales domesticados",
+              "title": "Los animales que se escapan ponen en peligro a las especies silvestres",
               "correct": false
             },
             {
@@ -5889,7 +5865,7 @@
       ]
     },
     {
-      "id": 68,  
+      "id": 68,
       "notificationTitle": "Hoy visitamos las Praderas Muuu",
       "notificationText": "¿Qué consecuencias tiene cocinar con nata de soja? 🐄 - Receta del día: pasta cremosa con pera",
       "home": {
@@ -8461,12 +8437,12 @@
           "answerOptions": [
             {
               "id": 0,
-              "title": "Carbón para una barbacoa (1,5 kg) 🔥",
+              "title": "Carbón para una barbacoa (750 g) 🔥",
               "correct": false
             },
             {
               "id": 1,
-              "title": "20 salchichas de cerdo (1 kg) 🌭",
+              "title": "8 salchichas de cerdo (400 g) 🌭",
               "correct": true
             }
           ],
