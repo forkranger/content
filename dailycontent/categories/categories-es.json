@@ -3,7 +3,7 @@
     {
       "id": 0,
       "title": "campamento base",
-      "subtitle": "Spanish Introduction",
+      "subtitle": "introducción",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/BASE_CAMP_dd8338c8-acf7-4719-9113-a6bcfbd57b2b.png?v=1781535052",
       "backgroundColor": "a77c39",
       "buttonColor": "4f4019",
@@ -12,7 +12,7 @@
     {
       "id": 1,
       "title": "la gran granja",
-      "subtitle": "Spanish Meat",
+      "subtitle": "carne",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/THE_BIG_RANCH.png?v=1781535053",
       "backgroundColor": "d8c363",
       "buttonColor": "6b5f24",
@@ -21,7 +21,7 @@
     {
       "id": 2,
       "title": "valle de la fuerza",
-      "subtitle": "Nuts & Legumes",
+      "subtitle": "frutos secos y legumbres",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/POWER_VALLEY_a9864644-d535-4dd3-8d2e-ee28d31d11e5.png?v=1781535052",
       "backgroundColor": "bc5543",
       "buttonColor": "592a16",
@@ -30,7 +30,7 @@
     {
       "id": 3,
       "title": "bosque amenazado",
-      "subtitle": "Deforestation",
+      "subtitle": "deforestación",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/FADING_FOREST_66fb8330-8c08-4b9b-a469-89ed5501dcf1.png?v=1781535052",
       "backgroundColor": "2d936b",
       "buttonColor": "134c32",
@@ -39,7 +39,7 @@
     {
       "id": 4,
       "title": "la communidad del tenedor",
-      "subtitle": "Community",
+      "subtitle": "comunidad",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/FELLOWSHIP_OF_THE_FORKS_a2d18535-a44e-4cdb-b884-4e9d8041d224.png?v=1781535052",
       "backgroundColor": "33787c",
       "buttonColor": "124948",
@@ -49,7 +49,7 @@
     {
       "id": 5,
       "title": "llanura de los residuos",
-      "subtitle": "Food Waste",
+      "subtitle": "desperdicio de alimentos",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/WILD_WASTE_d0c3358e-4872-4fb4-99fa-841683b88c3c.png?v=1781535051",
       "backgroundColor": "f4a26d",
       "buttonColor": "86512b",
@@ -59,7 +59,7 @@
     {
       "id": 6,
       "title": "montaña de la fuerza",
-      "subtitle": "Protein",
+      "subtitle": "proteína",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/MUSCLE_MOUNTAIN_5e496d37-44f7-4d4d-8adc-8213e5b42f8a.png?v=1781535052",
       "backgroundColor": "707070",
       "buttonColor": "2a4551",
@@ -69,7 +69,7 @@
     {
       "id": 7,
       "title": "praderas muuu",
-      "subtitle": "Dairy",
+      "subtitle": "lácteos",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/MOO_MOO_MEADOWS.png?v=1781535052",
       "backgroundColor": "67a270",
       "buttonColor": "3d593d",
@@ -79,7 +79,7 @@
     {
       "id": 8,
       "title": "el puerto",
-      "subtitle": "Transport & Packaging",
+      "subtitle": "transporte y embalaje",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/HARBOUR.png?v=1781535052",
       "backgroundColor": "8fa9b4",
       "buttonColor": "2a4349",
@@ -89,7 +89,7 @@
     {
       "id": 9,
       "title": "campos dorados",
-      "subtitle": "Grains",
+      "subtitle": "granos",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/GOLDEN_FIELDS_1a8fd7f7-4df2-4a00-a84b-49649da3b0b6.png?v=1781535052",
       "backgroundColor": "f2bc75",
       "buttonColor": "754f13",
@@ -99,7 +99,7 @@
     {
       "id": 10,
       "title": "la huerta",
-      "subtitle": "Seasonal & Local",
+      "subtitle": "de temporada y local",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/VEGETABLE_GARDEN_0d450a98-8937-4130-ae06-a415244fad8c.png?v=1781535053",
       "backgroundColor": "326b3e",
       "buttonColor": "0f3a0f",
@@ -109,7 +109,7 @@
     {
       "id": 11,
       "title": "océano",
-      "subtitle": "Fish & Seafood",
+      "subtitle": "pescado y marisco",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/THE_OCEAN.png?v=1781535052",
       "backgroundColor": "154b7c",
       "buttonColor": "0a283a",
@@ -119,7 +119,7 @@
     {
       "id": 12,
       "title": "vida oculta",
-      "subtitle": "Soil & Biodiversity",
+      "subtitle": "suelo y biodiversidad",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/UNDERGROUND_JUNGLE.png?v=1781535052",
       "backgroundColor": "58432e",
       "buttonColor": "3f2812",
@@ -129,7 +129,7 @@
     {
       "id": 13,
       "title": "el lago seco",
-      "subtitle": "Water",
+      "subtitle": "agua",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/DRY_LAKE.png?v=1781535052",
       "backgroundColor": "c68a61",
       "buttonColor": "6d5341",
@@ -139,7 +139,7 @@
     {
       "id": 14,
       "title": "campos de comercio justo",
-      "subtitle": "Working conditions",
+      "subtitle": "condiciones de trabajo",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/FAIR_FIELDS.png?v=1781535052",
       "backgroundColor": "b8c470",
       "buttonColor": "484A11",
@@ -149,7 +149,7 @@
     {
       "id": 15,
       "title": "la granja sostenible",
-      "subtitle": "Sustainable Meat",
+      "subtitle": "carne sostenible",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/THE_GOOD_RANCH_dd691e51-609b-442a-a91e-fe4bcafc2938.png?v=1781535052",
       "backgroundColor": "d6b116",
       "buttonColor": "7c6814",
@@ -159,7 +159,7 @@
     {
       "id": 16,
       "title": "tierra de molinos",
-      "subtitle": "Energy Use",
+      "subtitle": "consumo de energía",
       "imageURL": "https://cdn.shopify.com/s/files/1/0907/3904/8792/files/WINDMILL_LAND_2abd6a75-39f5-41d1-8feb-7647c5d6e2c7.png?v=1781535052",
       "backgroundColor": "8eafb2",
       "buttonColor": "065e60",

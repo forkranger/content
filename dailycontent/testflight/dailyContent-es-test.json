@@ -3,7 +3,7 @@
     {
       "id": 1,
       "notificationTitle": "Hoy visitamos la Gran Granja",
-      "notificationText": "¿Qué marca una mayor diferencia: una alimentación vegetariana o cambiar la carne que comes?🌍 - La receta del día: chili ahumado",
+      "notificationText": "¿Qué marca una mayor diferencia: una alimentación vegetariana o cambiar la carne que comes?🌍 - La receta del día: Chili ahumado",
       "home": {
         "title": "Un pequeño cambio con un gran impacto",
         "category": 1
@@ -90,7 +90,7 @@
     {
       "id": 2,
       "notificationTitle": "Hoy visitamos el Valle de la Fuerza",
-      "notificationText": "¿Qué impacto tienen los frutos secos en el clima? 🥜 - Receta del día: tagliatelle con champiñones al vino blanco",
+      "notificationText": "¿Qué impacto tienen los frutos secos en el clima? 🥜 - Receta del día: Tagliatelle con champiñones al vino blanco",
       "home": {
         "title": "¿Qué impacto tienen los frutos secos en el clima?",
         "category": 2
@@ -178,7 +178,7 @@
     {
       "id": 3,
       "notificationTitle": "Hoy visitamos la Gran Granja",
-      "notificationText": "¿Por qué los alimentos tienen una huella ecológica tan elevada? 🤔 - Receta del día: wraps con berenjena a la menta",
+      "notificationText": "¿Por qué los alimentos tienen una huella ecológica tan elevada? 🤔 - Receta del día: Wraps con berenjena a la menta",
       "home": {
         "title": "¿Por qué los alimentos tienen una huella ecológica tan elevada?",
         "category": 1
@@ -258,7 +258,7 @@
     {
       "id": 4,
       "notificationTitle": "Hoy visitamos el Bosque Amenazado",
-      "notificationText": "¿Sabes cuál es la principal causa de la deforestación? 🪓 - Receta del día: espaguetis con limón y pesto verde",
+      "notificationText": "¿Sabes cuál es la principal causa de la deforestación? 🪓 - Receta del día: Espaguetis con limón y pesto verde",
       "home": {
         "title": "¿Cuál es la principal causa de la deforestación?",
         "category": 3
@@ -351,7 +351,7 @@
     {
       "id": 5,
       "notificationTitle": "Hoy visitamos el Valle de la Fuerza",
-      "notificationText": "Come más de este superalimento para el clima 🤩 - Receta del día: dahl de coco (es una de nuestras favoritas)",
+      "notificationText": "Come más de este superalimento para el clima 🤩 - Receta del día: Dahl de coco (es una de nuestras favoritas)",
       "home": {
         "title": "Come más de este superalimento para el clima",
         "category": 2
@@ -436,7 +436,7 @@
     {
       "id": 6,
       "notificationTitle": "Hoy visitamos la Comunidad del Tenedor",
-      "notificationText": "¿En qué se diferencia un vegano de dos vegetarianos? 🍽 - Receta del día: arroz con verduras",
+      "notificationText": "¿En qué se diferencia un vegano de dos vegetarianos? 🍽 - Receta del día: Arroz con verduras",
       "home": {
         "title": "Organicemos más cenas en buena compañía",
         "category": 4
@@ -527,7 +527,7 @@
     {
       "id": 7,
       "notificationTitle": "Hoy visitamos la Llanura de los Residuos",
-      "notificationText": "¿Sabes dónde se desperdicia la mayor parte de los alimentos? 😊 - Receta del día: sopa africana de cacahuete",
+      "notificationText": "¿Sabes dónde se desperdicia la mayor parte de los alimentos? 😊 - Receta del día: Sopa africana de cacahuete",
       "home": {
         "title": "¿Dónde se desperdicia la mayor parte de los alimentos?",
         "category": 5
@@ -608,7 +608,7 @@
     {
       "id": 8,
       "notificationTitle": "Hoy visitamos la Gran Granja",
-      "notificationText": "El peso total de todos los seres humanos y sus animales de granja ⚖️ - Receta del día: pasta cremosa con champiñones",
+      "notificationText": "El peso total de todos los seres humanos y sus animales de granja ⚖️ - Receta del día: Pasta cremosa con champiñones",
       "home": {
         "title": "El peso de la humanidad",
         "category": 1
@@ -704,7 +704,7 @@
     {
       "id": 9,
       "notificationTitle": "Hoy visitamos el Valle de la Fuerza",
-      "notificationText": "¿Deberíamos comer más frutos secos? 🥜 - Receta del día: arroz con fruta y cacahuetes",
+      "notificationText": "¿Deberíamos comer más frutos secos? 🥜 - Receta del día: Arroz con fruta y cacahuetes",
       "home": {
         "title": "¿Deberíamos comer más frutos secos?",
         "category": 2
@@ -794,7 +794,7 @@
     {
       "id": 10,
       "notificationTitle": "Hoy visitamos la Montaña Musculitos",
-      "notificationText": "¡Este es ya tu décimo día! Cuatro fuentes de proteína 💪 - Receta del día: farfalle primavera",
+      "notificationText": "¡Este es ya tu décimo día! Cuatro fuentes de proteína 💪 - Receta del día: Farfalle primavera",
       "home": {
         "title": "¿De dónde obtenemos la proteína?",
         "category": 6
@@ -879,7 +879,7 @@
     {
       "id": 11,
       "notificationTitle": "Hoy visitamos el Bosque Amenazado",
-      "notificationText": "Lo más importante que hay que saber sobre la soja 📊 - Receta del día: strogonoff brasileño",
+      "notificationText": "Lo más importante que hay que saber sobre la soja 📊 - Receta del día: Strogonoff brasileño",
       "home": {
         "title": "Lo más importante que hay que saber sobre la soja",
         "category": 3
@@ -966,7 +966,7 @@
     {
       "id": 12,
       "notificationTitle": "Hoy visitamos la Gran Granja",
-      "notificationText": "¿Por qué la ternera tiene una huella ecológica tan elevada? 🐮 - Receta del día: arroz con champiñones y coco",
+      "notificationText": "¿Por qué la ternera tiene una huella ecológica tan elevada? 🐮 - Receta del día: Arroz con champiñones y coco",
       "home": {
         "title": "¿Por qué la ternera tiene una huella ecológica tan elevada?",
         "category": 1
@@ -1056,7 +1056,7 @@
     {
       "id": 13,
       "notificationTitle": "Hoy visitamos la Llanura de los Residuos",
-      "notificationText": "¿Qué pasa si no te acabas todo lo que hay en el plato? 🤭 - Receta del día: patatas al horno con pesto",
+      "notificationText": "¿Qué pasa si no te acabas todo lo que hay en el plato? 🤭 - Receta del día: Patatas al horno con pesto",
       "home": {
         "title": "El impacto del desperdicio alimentario",
         "category": 5
@@ -1147,7 +1147,7 @@
     {
       "id": 14,
       "notificationTitle": "Hoy visitamos las Praderas Muuu",
-      "notificationText": "¿Cuál es el impacto del queso en comparación con el de la carne? 🧀 - Receta del día: tallarines crujientes",
+      "notificationText": "¿Cuál es el impacto del queso en comparación con el de la carne? 🧀 - Receta del día: Tallarines crujientes",
       "home": {
         "title": "¿Cuál es el impacto del queso en comparación con el de la carne?",
         "category": 7
@@ -1233,7 +1233,7 @@
     {
       "id": 15,
       "notificationTitle": "Hoy visitamos la Gran Granja",
-      "notificationText": "¿Para qué sirven todos esos campos de maíz? 🌽 - Receta del día: arroz con ciruelas pasas y naranja",
+      "notificationText": "¿Para qué sirven todos esos campos de maíz? 🌽 - Receta del día: Arroz con ciruelas pasas y naranja",
       "home": {
         "title": "¿Para qué sirven todos esos campos de maíz?",
         "category": 1
@@ -1329,7 +1329,7 @@
     {
       "id": 16,
       "notificationTitle": "Hoy visitamos la Llanura de los Residuos",
-      "notificationText": "¿Cuál es el origen del impacto climático del desperdicio alimentario? 🗑 - Receta del día: pasta rosa",
+      "notificationText": "¿Cuál es el origen del impacto climático del desperdicio alimentario? 🗑 - Receta del día: Pasta rosa",
       "home": {
         "title": "¿Cuál es el origen del impacto climático del desperdicio alimentario?",
         "category": 5
@@ -1415,7 +1415,7 @@
     {
       "id": 17,
       "notificationTitle": "Hoy visitamos el Bosque Amenazado",
-      "notificationText": "¿Deberías evitar el aceite de palma? 🌴 - Receta del día: col al estilo indonesio picante",
+      "notificationText": "¿Deberías evitar el aceite de palma? 🌴 - Receta del día: Col al estilo indonesio picante",
       "home": {
         "title": "¿Deberías evitar el aceite de palma?",
         "category": 3
@@ -1497,7 +1497,7 @@
     {
       "id": 18,
       "notificationTitle": "Hoy visitamos la Gran Granja",
-      "notificationText": "Un truco ecológico para quienes aman la carne 🍖 - Receta del día: patatas asadas con salsa de mostaza",
+      "notificationText": "Un truco ecológico para quienes aman la carne 🍖 - Receta del día: Patatas asadas con salsa de mostaza",
       "home": {
         "title": "Un truco ecológico para quienes aman la carne",
         "category": 1
@@ -1589,7 +1589,7 @@
     {
       "id": 19,
       "notificationTitle": "Hoy visitamos el Puerto",
-      "notificationText": "¿Hasta qué punto contamina el transporte de los alimentos? 🛣 - Receta del día: curry de plátano",
+      "notificationText": "¿Hasta qué punto contamina el transporte de los alimentos? 🛣 - Receta del día: Curry de plátano",
       "home": {
         "title": "¿Cuánto contamina el transporte de los alimentos?",
         "category": 8
@@ -1676,7 +1676,7 @@
     {
       "id": 20,
       "notificationTitle": "Hoy visitamos la Montaña Musculitos",
-      "notificationText": "[Día número 2️⃣0️⃣ ¡Yuhuuuuu!] ¿Tomas suficiente proteína? 💪 Receta del día: chili caribeño",
+      "notificationText": "[Día número 2️⃣0️⃣ ¡Yuhuuuuu!] ¿Tomas suficiente proteína? 💪 Receta del día: Chili caribeño",
       "home": {
         "title": "¿Tomas suficiente proteína?",
         "category": 6
@@ -1752,7 +1752,7 @@
     {
       "id": 21,
       "notificationTitle": "Hoy visitamos el Puerto",
-      "notificationText": "¿Cuántos alimentos se transportan por vía aérea? ✈️ - Receta del día: curry de piña",
+      "notificationText": "¿Cuántos alimentos se transportan por vía aérea? ✈️ - Receta del día: Curry de piña",
       "home": {
         "title": "¿Cuántos alimentos se transportan por vía aérea?",
         "category": 8
@@ -1844,7 +1844,7 @@
     {
       "id": 22,
       "notificationTitle": "Hoy visitamos la Comunidad del Tenedor",
-      "notificationText": "¿Cuál es la principal razón por la que la gente no come menos carne? 😵‍💫 - Receta del día: espaguetis a la naranja ligeramente picantes",
+      "notificationText": "¿Cuál es la principal razón por la que la gente no come menos carne? 😵‍💫 - Receta del día: Espaguetis a la naranja ligeramente picantes",
       "home": {
         "title": "Por qué la gente no cambia",
         "category": 4
@@ -2020,7 +2020,7 @@
     {
       "id": 24,
       "notificationTitle": "Hoy visitamos la Llanura de los Residuos",
-      "notificationText": "¿Cuál es la mejor forma de evitar el desperdicio de pasta? 🍝 - Receta del día: macarrones con queso y rúcula",
+      "notificationText": "¿Cuál es la mejor forma de evitar el desperdicio de pasta? 🍝 - Receta del día: Macarrones con queso y rúcula",
       "home": {
         "title": "¿Cuál es la mejor forma de evitar el desperdicio de pasta?",
         "category": 5
@@ -2105,7 +2105,7 @@
     {
       "id": 25,
       "notificationTitle": "Hoy visitamos las Praderas Muuu",
-      "notificationText": "¿Por qué el queso tiene una huella ecológica tan elevada? 🥸 - Receta del día: arroz al limón con hummus",
+      "notificationText": "¿Por qué el queso tiene una huella ecológica tan elevada? 🥸 - Receta del día: Arroz al limón con hummus",
       "home": {
         "title": "¿Por qué el queso tiene una huella ecológica tan elevada?",
         "category": 7
@@ -2182,7 +2182,7 @@
     {
       "id": 26,
       "notificationTitle": "Hoy visitamos la Llanura de los Residuos",
-      "notificationText": "Descubre un botón mágico de pausa ⏸️ - Receta del día: lasaña fácil al pesto",
+      "notificationText": "Descubre un botón mágico de pausa ⏸️ - Receta del día: Lasaña fácil al pesto",
       "home": {
         "title": "Desperdicio de comida fresca y congelada",
         "category": 5
@@ -2267,7 +2267,7 @@
     {
       "id": 27,
       "notificationTitle": "Hoy visitamos las Praderas Muuu",
-      "notificationText": "Un consejo ecológico para quienes aman el queso 🧀 - Receta del día: pimientos rellenos",
+      "notificationText": "Un consejo ecológico para quienes aman el queso 🧀 - Receta del día: Pimientos rellenos",
       "home": {
         "title": "Un consejo ecológico para quienes aman el queso",
         "category": 7
@@ -2347,7 +2347,7 @@
     {
       "id": 28,
       "notificationTitle": "Hoy visitamos el Puerto",
-      "notificationText": "¿Qué impacto tiene el embalaje? 📦 - Receta del día: chili dulce",
+      "notificationText": "¿Qué impacto tiene el embalaje? 📦 - Receta del día: Chili dulce",
       "home": {
         "title": "¿Qué impacto tiene el embalaje? 📦",
         "category": 8
@@ -2424,7 +2424,7 @@
     {
       "id": 29,
       "notificationTitle": "Hoy visitamos la Gran Granja",
-      "notificationText": "Presentamos un menú económico a base de carne roja 🍔 - Receta del día: pan de pita con champiñones",
+      "notificationText": "Presentamos un menú económico a base de carne roja 🍔 - Receta del día: Pan de pita con champiñones",
       "home": {
         "title": "¿Cómo calcular un límite para la carne roja?",
         "category": 1
@@ -2517,7 +2517,7 @@
     {
       "id": 30,
       "notificationTitle": "Hoy visitamos la Comunidad del Tenedor",
-      "notificationText": "[Este es tu día 3️⃣0️⃣] ¿Qué es lo que mejor funciona para animar a la gente a empezar un nuevo hábito? - Receta del día: raviolis al vinagre balsámico",
+      "notificationText": "[Este es tu día 3️⃣0️⃣] ¿Qué es lo que mejor funciona para animar a la gente a empezar un nuevo hábito? - Receta del día: Raviolis al vinagre balsámico",
       "home": {
         "title": "Cómo convencer a otras personas",
         "category": 4
@@ -2609,7 +2609,7 @@
     {
       "id": 31,
       "notificationTitle": "Hoy visitamos los Campos Dorados",
-      "notificationText": "¿Tomas los carbohidratos adecuados? 🌾  - Receta del día: pasta con ajo y lima",
+      "notificationText": "¿Tomas los carbohidratos adecuados? 🌾  - Receta del día: Pasta con ajo y lima",
       "home": {
         "title": "¿Tomas los carbohidratos adecuados?",
         "category": 9
@@ -2692,7 +2692,7 @@
     {
       "id": 32,
       "notificationTitle": "Hoy visitamos el Bosque Amenazado",
-      "notificationText": "El lado oscuro de los aguacates 🥑 - Receta del día: fajitas de alubias negras",
+      "notificationText": "El lado oscuro de los aguacates 🥑 - Receta del día: Fajitas de alubias negras",
       "home": {
         "title": "El lado oscuro de los aguacates",
         "category": 3
@@ -2773,7 +2773,7 @@
     {
       "id": 33,
       "notificationTitle": "Hoy visitamos los Campos Dorados",
-      "notificationText": "Los beneficios de los cereales integrales 🌾 - Receta del día: wraps con calabacín y melocotón",
+      "notificationText": "Los beneficios de los cereales integrales 🌾 - Receta del día: Wraps con calabacín y melocotón",
       "home": {
         "title": "Los beneficios de los cereales integrales ",
         "category": 9
@@ -2857,7 +2857,7 @@
     {
       "id": 34,
       "notificationTitle": "Hoy visitamos las Praderas Muuu",
-      "notificationText": "La huella de carbono total de los lácteos 🥛 – Receta del día: tortellini fáciles",
+      "notificationText": "La huella de carbono total de los lácteos 🥛 – Receta del día: Tortellini fáciles",
       "home": {
         "title": "La huella de carbono total de los lácteos",
         "category": 7
@@ -2944,7 +2944,7 @@
     {
       "id": 35,
       "notificationTitle": "Hoy visitamos la Huerta",
-      "notificationText": "El impacto de los alimentos de temporada 🌱 - Receta del día: curry de boniato y lentejas",
+      "notificationText": "El impacto de los alimentos de temporada 🌱 - Receta del día: Curry de boniato y lentejas",
       "home": {
         "title": "El impacto de los alimentos de temporada",
         "category": 10
@@ -3027,7 +3027,7 @@
     {
       "id": 36,
       "notificationTitle": "Hoy visitamos el Bosque Amenazado",
-      "notificationText": "¿El chocolate es malo para el clima? 🍫 - Receta del día: chili caribeño",
+      "notificationText": "¿El chocolate es malo para el clima? 🍫 - Receta del día: Chili caribeño",
       "home": {
         "title": "¿El chocolate es malo para el clima?",
         "category": 3
@@ -3118,7 +3118,7 @@
     {
       "id": 37,
       "notificationTitle": "Hoy visitamos las Praderas Muuu",
-      "notificationText": "¿Adónde va a parar toda la leche? 🐄 - Receta del día: espaguetis picantes.",
+      "notificationText": "¿Adónde va a parar toda la leche? 🐄 - Receta del día: Espaguetis picantes.",
       "home": {
         "title": "¿Adónde va a parar toda la leche?",
         "category": 7
@@ -3208,7 +3208,7 @@
     {
       "id": 38,
       "notificationTitle": "Hoy visitamos los Campos Dorados",
-      "notificationText": "El poder proteico de los hidratos de carbono 💪 - Receta del día: cuscús con hinojo y naranja",
+      "notificationText": "El poder proteico de los hidratos de carbono 💪 - Receta del día: Cuscús con hinojo y naranja",
       "home": {
         "title": "El poder protéico de los carbohidratos",
         "category": 9
@@ -3284,7 +3284,7 @@
     {
       "id": 39,
       "notificationTitle": "Hoy visitamos la Gran Granja",
-      "notificationText": "Por qué los pollos son más sostenibles que los cerdos 🐓 - Receta del día: curry de berenjena y tomate",
+      "notificationText": "Por qué los pollos son más sostenibles que los cerdos 🐓 - Receta del día: Curry de berenjena y tomate",
       "home": {
         "title": "Por qué los pollos son más sostenibles que los cerdos",
         "category": 1
@@ -3376,7 +3376,7 @@
     {
       "id": 40,
       "notificationTitle": "Hoy visitamos las Praderas Muuu",
-      "notificationText": "¿Es la margarina más sostenible que la mantequilla? 🧈 - Receta del día: risotto de hinojo",
+      "notificationText": "¿Es la margarina más sostenible que la mantequilla? 🧈 - Receta del día: Risotto de hinojo",
       "home": {
         "title": "Mantequilla frente a margarina",
         "category": 7
@@ -3474,7 +3474,7 @@
     {
       "id": 41,
       "notificationTitle": "Hoy visitamos el Bosque Amenazado",
-      "notificationText": "Té frente a café ☕️ - Receta del día: chili ahumado",
+      "notificationText": "Té frente a café ☕️ - Receta del día: Chili ahumado",
       "home": {
         "title": "Té frente a café",
         "category": 3
@@ -3553,7 +3553,7 @@
     {
       "id": 42,
       "notificationTitle": "Hoy visitamos el Océano",
-      "notificationText": "Cómo los mejillones devuelven la vida 🌟 - Receta del día: guiso de garbanzos",
+      "notificationText": "Cómo los mejillones devuelven la vida 🌟 - Receta del día: Guiso de garbanzos",
       "home": {
         "title": "Cómo los mejillones devuelven la vida",
         "category": 11
@@ -3657,7 +3657,7 @@
     {
       "id": 43,
       "notificationTitle": "Hoy visitamos la Huerta",
-      "notificationText": "La comida de temporada es estupenda, pero… - Receta del día: ñoquis cremosos",
+      "notificationText": "La comida de temporada es estupenda, pero… - Receta del día: Ñoquis cremosos",
       "home": {
         "title": "La comida de temporada es estupenda, pero…",
         "category": 10
@@ -3754,7 +3754,7 @@
     {
       "id": 44,
       "notificationTitle": "Hoy visitamos el Océano",
-      "notificationText": "Lo que debes saber sobre el salmón y el atún 🦈 - Receta del día: pasta al azafrán",
+      "notificationText": "Lo que debes saber sobre el salmón y el atún 🦈 - Receta del día: Pasta al azafrán",
       "home": {
         "title": "Lo que debes saber sobre el salmón y el atún",
         "category": 11
@@ -3839,7 +3839,7 @@
     {
       "id": 45,
       "notificationTitle": "Hoy visitamos la Huerta",
-      "notificationText": "Las ventajas de los alimentos de temporada 🍁 - Receta del día: puré de boniato con chucrut",
+      "notificationText": "Las ventajas de los alimentos de temporada 🍁 - Receta del día: Puré de boniato con chucrut",
       "home": {
         "title": "Las ventajas de los alimentos de temporada",
         "category": 10
@@ -3925,7 +3925,7 @@
     {
       "id": 46,
       "notificationTitle": "Hoy visitamos la Gran Granja",
-      "notificationText": "El impacto de un huevo 🥚 - Receta del día: nasi goreng",
+      "notificationText": "El impacto de un huevo 🥚 - Receta del día: Nasi goreng",
       "home": {
         "title": "El impacto de un huevo",
         "category": 1
@@ -4006,7 +4006,7 @@
     {
       "id": 47,
       "notificationTitle": "Hoy visitamos las Praderas Muuu",
-      "notificationText": "¿Cuál es la leche más sostenible? 🥛 - Receta del día: tagliatelle con pesto rojo",
+      "notificationText": "¿Cuál es la leche más sostenible? 🥛 - Receta del día: Tagliatelle con pesto rojo",
       "home": {
         "title": "¿Cuál es la leche más sostenible?",
         "category": 7
@@ -4091,7 +4091,7 @@
     {
       "id": 48,
       "notificationTitle": "Hoy visitamos la Llanura de los Residuos",
-      "notificationText": "¿El compostaje cuenta como desperdicio alimentario? ♻️ - Receta del día: arroz con fruta y cacahuetes",
+      "notificationText": "¿El compostaje cuenta como desperdicio alimentario? ♻️ - Receta del día: Arroz con fruta y cacahuetes",
       "home": {
         "title": "¿La comida compostada cuenta como desperdicio alimentario?",
         "category": 5
@@ -4177,7 +4177,7 @@
     {
       "id": 49,
       "notificationTitle": "Hoy visitamos los Campos Dorados",
-      "notificationText": "La huella ecológica sorprendentemente elevada del arroz 🍚 - Receta del día: curry de berenjena y tomate",
+      "notificationText": "La huella ecológica sorprendentemente elevada del arroz 🍚 - Receta del día: Curry de berenjena y tomate",
       "home": {
         "title": "La huella ecológica sorprendentemente elevada del arroz",
         "category": 9
@@ -4255,7 +4255,7 @@
     {
       "id": 50,
       "notificationTitle": "Hoy visitamos los Ecosistemas Escondidos",
-      "notificationText": "El poder infravalorado del suelo 🪱 - Receta del día: patatas asadas con salsa de mostaza",
+      "notificationText": "El poder infravalorado del suelo 🪱 - Receta del día: Patatas asadas con salsa de mostaza",
       "home": {
         "title": "El poder infravalorado del suelo",
         "category": 12
@@ -4345,7 +4345,7 @@
     {
       "id": 51,
       "notificationTitle": "Hoy visitamos las Praderas Muuu",
-      "notificationText": "Descubre por qué no todo el pasto es igual 🌱 - Receta del día: polenta al horno",
+      "notificationText": "Descubre por qué no todo el pasto es igual 🌱 - Receta del día: Polenta al horno",
       "home": {
         "title": "No todo el pasto es igual",
         "category": 7
@@ -4430,7 +4430,7 @@
     {
       "id": 52,
       "notificationTitle": "Hoy visitamos la Huerta",
-      "notificationText": "La verdadera razón de la importancia de los alimentos de proximidad 📍 - Receta del día: coles de Bruselas con manzana",
+      "notificationText": "La verdadera razón de la importancia de los alimentos de proximidad 📍 - Receta del día: Coles de Bruselas con manzana",
       "home": {
         "title": "La verdadera razón de la importancia de los alimentos de proximidad",
         "category": 10
@@ -4519,7 +4519,7 @@
     {
       "id": 53,
       "notificationTitle": "Hoy visitamos el Océano",
-      "notificationText": "¿En qué se diferencia el pescado de la carne? 🐟 - Receta del día: arroz con verduras",
+      "notificationText": "¿En qué se diferencia el pescado de la carne? 🐟 - Receta del día: Arroz con verduras",
       "home": {
         "title": "¿En qué se diferencia el pescado de la carne?",
         "category": 11
@@ -4612,7 +4612,7 @@
     {
       "id": 54,
       "notificationTitle": "Hoy visitamos las Praderas Muuu",
-      "notificationText": "Lo que debes saber sobre el yogur 🥛 - Receta del día: biryani de zanahoria y coliflor",
+      "notificationText": "Lo que debes saber sobre el yogur 🥛 - Receta del día: Biryani de zanahoria y coliflor",
       "home": {
         "title": "Lo que debes saber sobre el yogur",
         "category": 7
@@ -4694,7 +4694,7 @@
     {
       "id": 55,
       "notificationTitle": "Hoy visitamos la Gran Granja",
-      "notificationText": "¿Cuánta carne comían nuestros abuelos? 🥩 - Receta del día: quiche de puerros y lentejas",
+      "notificationText": "¿Cuánta carne comían nuestros abuelos? 🥩 - Receta del día: Quiche de puerros y lentejas",
       "home": {
         "title": "¿Cuánta carne comían nuestros abuelos?",
         "category": 1
@@ -4774,7 +4774,7 @@
     {
       "id": 56,
       "notificationTitle": "Hoy visitamos el Lago Seco",
-      "notificationText": "¿Sabes dónde se consume la mayor parte de nuestra agua? 💦 - Receta del día: patatas con pesto al horno",
+      "notificationText": "¿Sabes dónde se consume la mayor parte de nuestra agua? 💦 - Receta del día: Gratinado de patatas al pesto",
       "home": {
         "title": "La mayor parte del agua se utiliza para…",
         "category": 13
@@ -4861,7 +4861,7 @@
     {
       "id": 57,
       "notificationTitle": "Hoy visitamos la Huerta",
-      "notificationText": "La biodiversidad es importante. Pero, ¿por qué? 🌼 - Receta del día: curry de remolacha y calabaza",
+      "notificationText": "La biodiversidad es importante. Pero, ¿por qué? 🌼 - Receta del día: Curry de remolacha y calabaza",
       "home": {
         "title": "La belleza de la diversidad",
         "category": 10
@@ -4949,7 +4949,7 @@
     {
       "id": 58,
       "notificationTitle": "Hoy visitamos los Ecosistemas Escondidos",
-      "notificationText": "Los efectos nocivos de los fertilizantes químicos ☠️ - Receta del día: tarta salada de boniato y remolacha",
+      "notificationText": "Los efectos nocivos de los fertilizantes químicos ☠️ - Receta del día: Tarta salada de boniato y remolacha",
       "home": {
         "title": "Los efectos nocivos de los fertilizantes químicos",
         "category": 12
@@ -5048,7 +5048,7 @@
     {
       "id": 59,
       "notificationTitle": "Hoy visitamos el Lago Seco",
-      "notificationText": "¿Cómo funciona la huella hídrica? 💦 - Receta del día: tortillas de trigo con berenjena a la menta",
+      "notificationText": "¿Cómo funciona la huella hídrica? 💦 - Receta del día: Wraps con berenjena a la menta",
       "home": {
         "title": "¿Cómo funciona la huella hídrica?",
         "category": 13
@@ -5138,7 +5138,7 @@
     {
       "id": 60,
       "notificationTitle": "Hoy visitamos el Puerto",
-      "notificationText": "La huella ecológica de los tomates en invierno 🍅 - Receta del día: tajín de garbanzos con melocotón",
+      "notificationText": "La huella ecológica de los tomates en invierno 🍅 - Receta del día: Tajín de garbanzos con melocotón",
       "home": {
         "title": "La huella ecológica de los tomates en invierno",
         "category": 8
@@ -5236,7 +5236,7 @@
     {
       "id": 61,
       "notificationTitle": "Hoy visitamos los Ecosistemas Escondidos",
-      "notificationText": "Las legumbres mejoran el suelo 🫘 - Receta del día: curry de boniato y lentejas",
+      "notificationText": "Las legumbres mejoran el suelo 🫘 - Receta del día: Curry de boniato y lentejas",
       "home": {
         "title": "Las legumbres mejoran el suelo",
         "category": 12
@@ -5324,7 +5324,7 @@
     {
       "id": 62,
       "notificationTitle": "Hoy visitamos la Gran Granja",
-      "notificationText": "En los Países Bajos hay millones de cerdos. ¿Dónde están? 🐷 - Receta del día: jambalaya de verduras",
+      "notificationText": "En los Países Bajos hay millones de cerdos. ¿Dónde están? 🐷 - Receta del día: Jambalaya de verduras",
       "home": {
         "title": "Cerdos escondidos",
         "category": 1
@@ -5410,7 +5410,7 @@
     {
       "id": 63,
       "notificationTitle": "Hoy visitamos los Ecosistemas Escondidos",
-      "notificationText": "¿Qué es la agricultura ecológica? 👩‍🌾 - Receta del día: salteado de lombarda con manzana",
+      "notificationText": "¿Qué es la agricultura ecológica? 👩‍🌾 - Receta del día: Salteado de col lombarda con manzana",
       "home": {
         "title": "¿Qué es la agricultura ecológica?",
         "category": 12
@@ -5507,7 +5507,7 @@
     {
       "id": 64,
       "notificationTitle": "Hoy visitamos el Bosque Amenazado",
-      "notificationText": "¿Cómo es el café sostenible? ☕️ - Receta del día: tagliatelle con champiñones al vino blanco",
+      "notificationText": "¿Cómo es el café sostenible? ☕️ - Receta del día: Tagliatelle con champiñones al vino blanco",
       "home": {
         "title": "¿Cómo es el café sostenible?",
         "category": 3
@@ -5609,7 +5609,7 @@
     {
       "id": 65,
       "notificationTitle": "Hoy visitamos la Montaña Musculitos",
-      "notificationText": "Aquí tienes algunas formas sencillas de añadir más proteínas 💪 - Receta del día: puré de apionabo y boniato",
+      "notificationText": "Aquí tienes algunas formas sencillas de añadir más proteínas 💪 - Receta del día: Puré de apionabo y boniato",
       "home": {
         "title": "La forma más fácil de aumentar la ingesta de proteínas",
         "category": 6
@@ -5705,7 +5705,7 @@
     {
       "id": 66,
       "notificationTitle": "Hoy visitamos el Océano",
-      "notificationText": "La historia del pescado de piscifactoría 🐟 - Receta del día: sopa de tallarines con champiñones y jengibre",
+      "notificationText": "La historia del pescado de piscifactoría 🐟 - Receta del día: Sopa de tallarines con champiñones y jengibre",
       "home": {
         "title": "La historia del pescado de piscifactoría",
         "category": 11
@@ -5786,7 +5786,7 @@
     {
       "id": 67,
       "notificationTitle": "Hoy visitamos los Ecosistemas Escondidos",
-      "notificationText": "El impacto de los alimentos ecológicos 🌱 - Receta del día: caponata",
+      "notificationText": "El impacto de los alimentos ecológicos 🌱 - Receta del día: Caponata",
       "home": {
         "title": "El impacto de los alimentos ecológicos",
         "category": 12
@@ -5867,7 +5867,7 @@
     {
       "id": 68,
       "notificationTitle": "Hoy visitamos las Praderas Muuu",
-      "notificationText": "¿Qué consecuencias tiene cocinar con nata de soja? 🐄 - Receta del día: pasta cremosa con pera",
+      "notificationText": "¿Qué consecuencias tiene cocinar con nata de soja? 🐄 - Receta del día: Pasta cremosa con pera",
       "home": {
         "title": "¿Qué consecuencias tiene cocinar con nata de soja?",
         "category": 7
@@ -5952,7 +5952,7 @@
     {
       "id": 69,
       "notificationTitle": "Hoy visitamos el Bosque Amenazado",
-      "notificationText": "¿Qué debe hacer Europa con respecto al aceite de palma? 🌴 - Receta del día: col picante a la indonesia",
+      "notificationText": "¿Qué debe hacer Europa con respecto al aceite de palma? 🌴 - Receta del día: Col al estilo indonesio picante",
       "home": {
         "title": "¿Qué debe hacer Europa con respecto al aceite de palma?",
         "category": 3
@@ -6048,7 +6048,7 @@
     {
       "id": 70,
       "notificationTitle": "Hoy visitamos el Océano",
-      "notificationText": "Lo que debes saber sobre la contaminación del agua ☠️ - Receta del día: curry tailandés de cacahuete",
+      "notificationText": "Lo que debes saber sobre la contaminación del agua ☠️ - Receta del día: Curry tailandés de cacahuete",
       "home": {
         "title": "Zonas muertas en el agua",
         "category": 11
@@ -6145,7 +6145,7 @@
     {
       "id": 71,
       "notificationTitle": "Hoy visitamos los Campos de Comercio Justo",
-      "notificationText": "El precio injusto del arroz 🍚 - Receta del día: risotto de hinojo",
+      "notificationText": "El precio injusto del arroz 🍚 - Receta del día: Risotto de hinojo",
       "home": {
         "title": "El precio injusto del arroz",
         "category": 14
@@ -6245,7 +6245,7 @@
     {
       "id": 72,
       "notificationTitle": "Hoy visitamos los Ecosistemas Escondidos",
-      "notificationText": "¿Qué alimento no existiría sin los polinizadores? 🌼 - Receta del día: curry de remolacha y calabaza",
+      "notificationText": "¿Qué alimento no existiría sin los polinizadores? 🌼 - Receta del día: Curry de remolacha y calabaza",
       "home": {
         "title": "El equipo polinizador",
         "category": 12
@@ -6343,7 +6343,7 @@
     {
       "id": 73,
       "notificationTitle": "Hoy visitamos el Lago Seco",
-      "notificationText": "El único inconveniente de los frutos secos 🥜 - Receta del día: pasta con ajo y lima",
+      "notificationText": "El único inconveniente de los frutos secos 🥜 - Receta del día: Pasta con ajo y lima",
       "home": {
         "title": "El único inconveniente de los frutos secos",
         "category": 13
@@ -6441,7 +6441,7 @@
     {
       "id": 74,
       "notificationTitle": "Hoy visitamos el Puerto",
-      "notificationText": "La huella ecológica del reparto a domicilio 🏠 - Receta del día: puré cremoso de col y patata",
+      "notificationText": "La huella ecológica del reparto a domicilio 🏠 - Receta del día: Puré cremoso de col y patata",
       "home": {
         "title": "La huella ecológica del reparto a domicilio",
         "category": 8
@@ -6529,7 +6529,7 @@
     {
       "id": 75,
       "notificationTitle": "Hoy visitamos la Montaña Musculitos",
-      "notificationText": "Obtener la cantidad necesaria de vitamina B12 ✨ - Receta del día: biryani de zanahoria y coliflor",
+      "notificationText": "Obtener la cantidad necesaria de vitamina B12 ✨ - Receta del día: Biryani de zanahoria y coliflor",
       "home": {
         "title": "Obtener la cantidad necesaria de vitamina B12",
         "category": 6
@@ -6630,7 +6630,7 @@
     {
       "id": 76,
       "notificationTitle": "Hoy visitamos el Puerto",
-      "notificationText": "El dilema del plástico: ¿puedes hacer algo al respecto? 🥤 - Receta del día: cuscús de hinojo y naranja",
+      "notificationText": "El dilema del plástico: ¿puedes hacer algo al respecto? 🥤 - Receta del día: Cuscús con hinojo y naranja",
       "home": {
         "title": "El dilema del plástico",
         "category": 8
@@ -6733,7 +6733,7 @@
     {
       "id": 77,
       "notificationTitle": "Hoy visitamos la Montaña Musculitos",
-      "notificationText": "¿Qué alimento aporta más vitamina B12? 💊 - Receta del día: nasi goreng",
+      "notificationText": "¿Qué alimento aporta más vitamina B12? 💊 - Receta del día: Nasi goreng",
       "home": {
         "title": "¿Qué alimento aporta más vitamina B12?",
         "category": 6
@@ -6827,7 +6827,7 @@
     {
       "id": 78,
       "notificationTitle": "Hoy visitamos la Granja Sostenible",
-      "notificationText": "¿Cómo puede ser sostenible la alimentación animal? 🐷 - Receta del día: lasaña fácil al pesto",
+      "notificationText": "¿Cómo puede ser sostenible la alimentación animal? 🐷 - Receta del día: Lasaña fácil al pesto",
       "home": {
         "title": "¿Cómo puede ser sostenible la alimentación animal?",
         "category": 15
@@ -6913,7 +6913,7 @@
     {
       "id": 79,
       "notificationTitle": "Hoy visitamos los Campos de Comercio Justo",
-      "notificationText": "¿Quién se queda la mayor parte del dinero? 💰 - Receta del día: pasta al horno con coliflor",
+      "notificationText": "¿Quién se queda la mayor parte del dinero? 💰 - Receta del día: Pasta al horno con coliflor",
       "home": {
         "title": "¿ Quién se queda la mayor parte del dinero?",
         "category": 14
@@ -7001,7 +7001,7 @@
     {
       "id": 80,
       "notificationTitle": "Hoy visitamos la Granja Sostenible",
-      "notificationText": "La huella ecológica de la carne de origen vegetal 🍔 - Receta del día: pan de pita con champiñones",
+      "notificationText": "La huella ecológica de la carne de origen vegetal 🍔 - Receta del día: Pan de pita con champiñones",
       "home": {
         "title": "La huella ecológica de la carne de origen vegetal",
         "category": 15
@@ -7099,7 +7099,7 @@
     {
       "id": 81,
       "notificationTitle": "Hoy visitamos los Ecosistemas Escondidos",
-      "notificationText": "La nueva realidad de los insectos voladores 🐝 - Receta del día: cazuela de arroz y lentejas",
+      "notificationText": "La nueva realidad de los insectos voladores 🐝 - Receta del día: Arroz con lentejas",
       "home": {
         "title": "La nueva realidad de los insectos voladores",
         "category": 12
@@ -7208,7 +7208,7 @@
     {
       "id": 82,
       "notificationTitle": "Hoy visitamos la Granja Sostenible",
-      "notificationText": "Vacas con dos «vidas» 🐄 - Receta del día: puré de boniato con chucrut",
+      "notificationText": "Vacas con dos «vidas» 🐄 - Receta del día: Puré de boniato con chucrut",
       "home": {
         "title": "Vacas con dos «vidas»",
         "category": 15
@@ -7306,7 +7306,7 @@
     {
       "id": 83,
       "notificationTitle": "Hoy visitamos la Tierra de Molinos",
-      "notificationText": "Cocinas de gas o de inducción 🍳 - Receta del día: tortillas de trigo con calabacín y melocotón",
+      "notificationText": "Cocinas de gas o de inducción 🍳 - Receta del día: Wraps con calabacín y melocotón",
       "home": {
         "title": "Cocinas de gas o de inducción",
         "category": 16
@@ -7388,7 +7388,7 @@
     {
       "id": 84,
       "notificationTitle": "Hoy visitamos las Praderas Muuu",
-      "notificationText": "¿Qué cantidad de productos lácteos es sostenible? 🥛 - Receta del día: arroz cremoso con remolacha",
+      "notificationText": "¿Qué cantidad de productos lácteos es sostenible? 🥛 - Receta del día: Arroz cremoso con remolacha",
       "home": {
         "title": "¿Qué cantidad de productos lácteos es sostenible?",
         "category": 7
@@ -7480,7 +7480,7 @@
     {
       "id": 85,
       "notificationTitle": "Hoy visitamos los Campos Dorados",
-      "notificationText": "¿Cuál es el impacto de tu bebida favorita? 🍺 - Receta del día: tallarines con zumo de naranja",
+      "notificationText": "¿Cuál es el impacto de tu bebida favorita? 🍺 - Receta del día: Fideos con zumo de naranja",
       "home": {
         "title": "¿Cuál es el impacto de tu bebida favorita?",
         "category": 9
@@ -7577,7 +7577,7 @@
     {
       "id": 86,
       "notificationTitle": "Hoy visitamos la Granja Sostenible",
-      "notificationText": "¿Es más sostenible la carne de vacuno alimentado con pasto? 🥩 - Receta del día: pasta con espinacas y pesto",
+      "notificationText": "¿Es más sostenible la carne de vacuno alimentado con pasto? 🥩 - Receta del día: Pasta con pesto de espinacas",
       "home": {
         "title": "¿Es más sostenible la carne de vacuno alimentado con pasto?",
         "category": 15
@@ -7673,7 +7673,7 @@
     {
       "id": 87,
       "notificationTitle": "Hoy visitamos los Campos de Comercio Justo",
-      "notificationText": "¿Cuánto gastas en comida? 🤑 - Receta del día: dahl de coco",
+      "notificationText": "¿Cuánto gastas en comida? 🤑 - Receta del día: Dahl de coco",
       "home": {
         "title": "¿Cuánto gastas en comida?",
         "category": 14
@@ -7765,7 +7765,7 @@
     {
       "id": 88,
       "notificationTitle": "Hoy visitamos los Ecosistemas Escondidos",
-      "notificationText": "¿Es la miel un producto sostenible? 🍯 - Receta del día: puré de apionabo y boniato",
+      "notificationText": "¿Es la miel un producto sostenible? 🍯 - Receta del día: Puré de apionabo y boniato",
       "home": {
         "title": "¿Es la miel un producto sostenible?",
         "category": 12
@@ -7858,7 +7858,7 @@
     {
       "id": 89,
       "notificationTitle": "Hoy visitamos la Montaña Musculitos",
-      "notificationText": "¿Se pueden obtener proteínas «completas» de los vegetales? 🥦 - Receta del día: chili caribeño",
+      "notificationText": "¿Se pueden obtener proteínas «completas» de los vegetales? 🥦 - Receta del día: Chili caribeño",
       "home": {
         "title": "¿Se pueden obtener proteínas «completas» de los vegetales?",
         "category": 6
@@ -7956,7 +7956,7 @@
     {
       "id": 90,
       "notificationTitle": "Hoy visitamos los Campos de Comercio Justo",
-      "notificationText": "Funcionamiento del certificado Fairtrade 👨🏾‍🌾 - Receta del día: curry de plátano",
+      "notificationText": "Funcionamiento del certificado Fairtrade 👨🏾‍🌾 - Receta del día: Curry de plátano",
       "home": {
         "title": "Funcionamiento del certificado Fairtrade",
         "category": 14
@@ -8041,7 +8041,7 @@
     {
       "id": 91,
       "notificationTitle": "Hoy visitamos la Tierra de Molinos",
-      "notificationText": "¿Se ahorra energía si se tapa la olla? 🔥 - Receta del día: macarrones picantes",
+      "notificationText": "¿Se ahorra energía si se tapa la olla? 🔥 - Receta del día: Macarrones con verduras picantes",
       "home": {
         "title": "¿Se ahorra energía si se tapa la olla?",
         "category": 16
@@ -8131,7 +8131,7 @@
     {
       "id": 92,
       "notificationTitle": "Hoy visitamos el Océano",
-      "notificationText": "Verduras del mar 🌊 - Receta del día: sopa de tallarines con champiñones y jengibre",
+      "notificationText": "Verduras del mar 🌊 - Receta del día: Sopa de tallarines con champiñones y jengibre",
       "home": {
         "title": "Verduras del mar",
         "category": 11
@@ -8228,7 +8228,7 @@
     {
       "id": 93,
       "notificationTitle": "Hoy visitamos los Campos de Comercio Justo",
-      "notificationText": "¿Te puedes permitir comprar productos de comercio justo y ecológicos? 💰 - Receta del día: macarrones cremosos con tomate y avellanas",
+      "notificationText": "¿Te puedes permitir comprar productos de comercio justo y ecológicos? 💰 - Receta del día: Macarrones cremosos con tomate y avellanas",
       "home": {
         "title": "¿Te puedes permitir comprar productos de comercio justo y ecológicos?",
         "category": 14
@@ -8321,7 +8321,7 @@
     {
       "id": 94,
       "notificationTitle": "Hoy visitamos los Campos Dorados",
-      "notificationText": "El alimento más cultivado en el mundo 🥇 - Receta del día: espaguetis picantes",
+      "notificationText": "El alimento más cultivado en el mundo 🥇 - Receta del día: Espaguetis picantes",
       "home": {
         "title": "El alimento más cultivado en el mundo",
         "category": 9
@@ -8413,7 +8413,7 @@
     {
       "id": 95,
       "notificationTitle": "Hoy visitamos la Tierra de Molinos",
-      "notificationText": "¿Hasta qué punto es sostenible hacer una barbacoa? 🔥 - Receta del día: barbacoa vegetal rápida",
+      "notificationText": "¿Hasta qué punto es sostenible hacer una barbacoa? 🔥 - Receta del día: Barbacoa vegetal rápida",
       "home": {
         "title": "¿Hasta qué punto es sostenible hacer una barbacoa?",
         "category": 16
@@ -8500,7 +8500,7 @@
     {
       "id": 96,
       "notificationTitle": "Hoy visitamos los Ecosistemas Escondidos",
-      "notificationText": "¿Qué es la agricultura regenerativa? 🧑‍🌾 - Receta del día: sopa de judías con salsa",
+      "notificationText": "¿Qué es la agricultura regenerativa? 🧑‍🌾 - Receta del día: Sopa de judías con salsa",
       "home": {
         "title": "¿Qué es la agricultura regenerativa?",
         "category": 12
@@ -8608,7 +8608,7 @@
     {
       "id": 97,
       "notificationTitle": "Hoy visitamos la Comunidad del Tenedor",
-      "notificationText": "¿Cuánta gente está realmente sensibilizada por el cambio climático? 🧐 - Receta del día: lasaña con nueces",
+      "notificationText": "¿Cuánta gente está realmente sensibilizada por el cambio climático? 🧐 - Receta del día: Lasaña con nueces",
       "home": {
         "title": "¿Cuánta gente está realmente sensibilizada por el cambio climatico?",
         "category": 4
@@ -8700,7 +8700,7 @@
     {
       "id": 98,
       "notificationTitle": "Hoy visitamos los Campos de Comercio Justo",
-      "notificationText": "El coste del comercio justo 💸 - Receta del día: verduras picantes con salsa de cacahuete",
+      "notificationText": "El coste del comercio justo 💸 - Receta del día: Verduras picantes con crema de cacahuete",
       "home": {
         "title": "El coste del comercio justo",
         "category": 14
@@ -8803,7 +8803,7 @@
     {
       "id": 99,
       "notificationTitle": "Hoy visitamos la Granja Sostenible",
-      "notificationText": "¿Cuáles son las ventajas de alimentar a las vacas únicamente con pasto? - Receta del día: remolacha y zanahorias asadas",
+      "notificationText": "¿Cuáles son las ventajas de alimentar a las vacas únicamente con pasto? - Receta del día: Remolacha y zanahorias asadas",
       "home": {
         "title": "¿Cuáles son las ventajas de alimentar a las vacas únicamente con pasto?",
         "category": 15
@@ -8893,7 +8893,7 @@
     {
       "id": 100,
       "notificationTitle": "Hoy visitamos la Tierra de Molinos",
-      "notificationText": "El impacto climático de tu horno 🔥 - Receta del día: coles de Bruselas y coliflor asadas",
+      "notificationText": "El impacto climático de tu horno 🔥 - Receta del día: Coles de Bruselas y coliflor asadas",
       "home": {
         "title": "El impacto climático de tu horno",
         "category": 16
@@ -8983,7 +8983,7 @@
     {
       "id": 101,
       "notificationTitle": "Hoy visitamos la Granja Sostenible",
-      "notificationText": "¿Es la caza sostenible? 🏹 - Receta del día: curry de espinacas y patatas",
+      "notificationText": "¿Es la caza sostenible? 🏹 - Receta del día: Curry de espinacas y patatas",
       "home": {
         "title": "¿Es la caza sostenible?",
         "category": 15
@@ -9080,7 +9080,7 @@
     {
       "id": 102,
       "notificationTitle": "Hoy visitamos la Granja Sostenible",
-      "notificationText": "El impacto de la carne cultivada 🍖 - Receta del día: tallarines con brócoli al balsámico",
+      "notificationText": "El impacto de la carne cultivada 🍖 - Receta del día: Tallarines con brócoli al balsámico",
       "home": {
         "title": "El impacto de la carne cultivada",
         "category": 15
@@ -9178,7 +9178,7 @@
     {
       "id": 103,
       "notificationTitle": "Hoy visitamos la Tierra de Molinos",
-      "notificationText": "¿Cuál es el café más sostenible? ☕️ - Receta del día: tortillas de trigo con garbanzos al limón",
+      "notificationText": "¿Cuál es el café más sostenible? ☕️ - Receta del día: Wraps con garbanzos al limón",
       "home": {
         "title": "¿Cuál es el café más sostenible?",
         "category": 16

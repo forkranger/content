@@ -2,8 +2,8 @@
   "dailyContent": [
     {
       "id": 1,
-      "notificationTitle": "Today: The Big Ranch",
-      "notificationText": "”Cosa fa veramente la differenza: mangiare vegetariano o mangiare diversi tipi di carne ? Ricetta del giorno: Chilli Affumicato”",
+      "notificationTitle": "Oggi: La Grande Fattoria",
+      "notificationText": "”Cosa fa veramente la differenza: mangiare vegetariano o mangiare diversi tipi di carne ? Ricetta del giorno: Chili affumicato”",
       "home": {
         "title": "Un piccolo passo con un grande impatto",
         "category": 1
@@ -89,8 +89,8 @@
     },
     {
       "id": 2,
-      "notificationTitle": "Today: Power Valley",
-      "notificationText": "Qual è l'impatto climatico della frutta secca? 🥜 - Ricetta del giorno: Tagliatelle ai funghi e vino bianco",
+      "notificationTitle": "Oggi: La Valle dei Superpoteri",
+      "notificationText": "Qual è l'impatto climatico della frutta secca? 🥜 - Ricetta del giorno: Tagliatelle ai Funghi e Vino Bianco",
       "home": {
         "title": "Qual è l'impatto climatico della frutta secca?",
         "category": 2
@@ -177,8 +177,8 @@
     },
     {
       "id": 3,
-      "notificationTitle": "Today: The Big Ranch",
-      "notificationText": "Perché il cibo ha un'impronta ambientale elevata? 🤔 - Ricetta del giorno: Wrap alle melanzane e menta",
+      "notificationTitle": "Oggi: La Grande Fattoria",
+      "notificationText": "Perché il cibo ha un'impronta ambientale elevata? 🤔 - Ricetta del giorno: Wrap di melanzane alla menta",
       "home": {
         "title": "Perché il cibo ha un'impronta ambientale così elevata?",
         "category": 1
@@ -257,8 +257,8 @@
     },
     {
       "id": 4,
-      "notificationTitle": "Today: Fading Forest",
-      "notificationText": "Sai qual è la causa principale della deforestazione? 🪓 -Ricetta del giorno: Spaghetti al limone verde",
+      "notificationTitle": "Oggi: La (De)Foresta",
+      "notificationText": "Sai qual è la causa principale della deforestazione? 🪓 -Ricetta del giorno: Spaghetti Verdi al Limone",
       "home": {
         "title": "Qual è la principale causa della deforestazione?",
         "category": 3
@@ -350,8 +350,8 @@
     },
     {
       "id": 5,
-      "notificationTitle": "Today: Power Valley",
-      "notificationText": "Mangia più di questo super food alleato del clima. 🤩 - Ricetta del giorno: Dahl di cocco (questo è uno dei nostri preferiti)",
+      "notificationTitle": "Oggi: La Valle dei Superpoteri",
+      "notificationText": "Mangia più di questo super food alleato del clima. 🤩 - Ricetta del giorno: Dahl al Cocco (questo è uno dei nostri preferiti)",
       "home": {
         "title": "Mangia più di questo super food amico del clima.",
         "category": 2
@@ -435,7 +435,7 @@
     },
     {
       "id": 6,
-      "notificationTitle": "Today: Fellowship of the Forks",
+      "notificationTitle": "Oggi: La Compagnia della Forchetta",
       "notificationText": "Qual’è l’impatto di 1 vegano rispetto a 2 vegetariani? 🍽 - Ricetta del giorno: Riso alla spagnola",
       "home": {
         "title": "Organizziamo più cene",
@@ -526,8 +526,8 @@
     },
     {
       "id": 7,
-      "notificationTitle": "Today: Wild Waste",
-      "notificationText": "Sai dove viene sprecato più cibo? 🗑 - Ricetta del giorno: Zuppa africana di arachidi",
+      "notificationTitle": "Oggi: Il Deserto dello Spreco",
+      "notificationText": "Sai dove viene sprecato più cibo? 🗑 - Ricetta del giorno: Zuppa Africana di Arachidi",
       "home": {
         "title": "Dove viene sprecato più cibo?",
         "category": 5
@@ -607,8 +607,8 @@
     },
     {
       "id": 8,
-      "notificationTitle": "Today: The Big Ranch",
-      "notificationText": "Il peso di tutti gli esseri umani e dei loro animali da allevamento ⚖️ - Pasta cremosa ai funghi",
+      "notificationTitle": "Oggi: La Grande Fattoria",
+      "notificationText": "Il peso di tutti gli esseri umani e dei loro animali da allevamento ⚖️ - Ricetta del giorno: Pasta cremosa ai funghi",
       "home": {
         "title": "Il peso dell'umanità",
         "category": 1
@@ -703,8 +703,8 @@
     },
     {
       "id": 9,
-      "notificationTitle": "Today: Power Valley",
-      "notificationText": "Dovresti mangiare più frutta secca? 🥜 - Ricetta del giorno: Curry di frutta e arachidi",
+      "notificationTitle": "Oggi: La Valle dei Superpoteri",
+      "notificationText": "Dovresti mangiare più frutta secca? 🥜 - Ricetta del giorno: Riso con Frutta e Arachidi",
       "home": {
         "title": "Dovresti mangiare più frutta secca?",
         "category": 2
@@ -793,7 +793,7 @@
     },
     {
       "id": 10,
-      "notificationTitle": "Today: Muscle Mountain",
+      "notificationTitle": "Oggi: La Montagna di Muscoli",
       "notificationText": "[Questo è già il tuo 🔟° giorno!] Quattro fonti di proteine 💪 - Ricetta del giorno: Farfalle Primavera",
       "home": {
         "title": "Da dove otteniamo le proteine?",
@@ -878,7 +878,7 @@
     },
     {
       "id": 11,
-      "notificationTitle": "Today: Fading Forest",
+      "notificationTitle": "Oggi: La (De)Foresta",
       "notificationText": "Il fatto più importante sulla soia 📊 - Ricetta del giorno: Strogonoff brasiliano",
       "home": {
         "title": "Il fatto più importante sulla soia",
@@ -965,8 +965,8 @@
     },
     {
       "id": 12,
-      "notificationTitle": "Today: The Big Ranch",
-      "notificationText": "Perché la carne bovina ha un'impronta ambientale così elevata? 🐮 - Ricetta del giorno: Riso al cocco e funghi",
+      "notificationTitle": "Oggi: La Grande Fattoria",
+      "notificationText": "Perché la carne bovina ha un'impronta ambientale così elevata? 🐮 - Ricetta del giorno: Riso al cocco con funghi",
       "home": {
         "title": "Perché la carne bovina ha un'impronta ambientale così elevata?",
         "category": 1
@@ -1055,8 +1055,8 @@
     },
     {
       "id": 13,
-      "notificationTitle": "Today: Wild Waste",
-      "notificationText": "Cosa succede quando non finisci il piatto? 🤭 - Ricetta del giorno: Patate al forno con pesto",
+      "notificationTitle": "Oggi: Il Deserto dello Spreco",
+      "notificationText": "Cosa succede quando non finisci il piatto? 🤭 - Ricetta del giorno: Patate al Forno con Pesto",
       "home": {
         "title": "L'impatto dello spreco alimentare",
         "category": 5
@@ -1146,7 +1146,7 @@
     },
     {
       "id": 14,
-      "notificationTitle": "Today: la Prateria Verde",
+      "notificationTitle": "Oggi: La Prateria Verde",
       "notificationText": "Qual’è l’impatto del formaggio rispetto alla carne? 🧀 - Ricetta del giorno: Noodles croccanti",
       "home": {
         "title": "Qual è l’impatto del formaggio rispetto alla carne? ",
@@ -1232,7 +1232,7 @@
     },
     {
       "id": 15,
-      "notificationTitle": "Today: The Big Ranch",
+      "notificationTitle": "Oggi: La Grande Fattoria",
       "notificationText": "A cosa servono tutti quei campi di mais? 🌽 - Ricetta del giorno: Riso all'arancia e prugne",
       "home": {
         "title": "A cosa servono tutti quei campi di mais?",
@@ -1328,7 +1328,7 @@
     },
     {
       "id": 16,
-      "notificationTitle": "Today: Wild Waste",
+      "notificationTitle": "Oggi: Il Deserto dello Spreco",
       "notificationText": "What causes the climate impact of food waste? 🗑 - Ricetta del giorno: Pasta Rosa",
       "home": {
         "title": "What causes the climate impact of food waste?",
@@ -1414,8 +1414,8 @@
     },
     {
       "id": 17,
-      "notificationTitle": "Today: Fading Forest",
-      "notificationText": "Dovresti cercare di evitare l'olio di palma? 🌴 - Ricetta del giorno: Cavolo piccante indonesiano",
+      "notificationTitle": "Oggi: La (De)Foresta",
+      "notificationText": "Dovresti cercare di evitare l'olio di palma? 🌴 - Ricetta del giorno: Cavolo Piccante Indonesiano",
       "home": {
         "title": "Dovresti cercare di evitare l'olio di palma?",
         "category": 3
@@ -1496,8 +1496,8 @@
     },
     {
       "id": 18,
-      "notificationTitle": "Today: The Big Ranch",
-      "notificationText": "Un consiglio sul clima per gli amanti della carne nella tua vita 🍖 - Ricetta del giorno: Patate arrosto con senape",
+      "notificationTitle": "Oggi: La Grande Fattoria",
+      "notificationText": "Un consiglio sul clima per gli amanti della carne nella tua vita 🍖 - Ricetta del giorno: Verdure arrosto con salsa alla senape",
       "home": {
         "title": "Un consiglio sul clima per gli amanti della carne",
         "category": 1
@@ -1588,8 +1588,8 @@
     },
     {
       "id": 19,
-      "notificationTitle": "Today: The Harbor",
-      "notificationText": "Quanto inquinano le food miles?🛣 - Ricetta del giorno: Curry di banana",
+      "notificationTitle": "Oggi: Il Porto",
+      "notificationText": "Quanto inquinano le food miles?🛣 - Ricetta del giorno: Curry di banane",
       "home": {
         "title": "Quanto inquinano le “food miles”?",
         "category": 8
@@ -1675,7 +1675,7 @@
     },
     {
       "id": 20,
-      "notificationTitle": "Today: Muscle Mountain",
+      "notificationTitle": "Oggi: La Montagna di Muscoli",
       "notificationText": "[Giorno numero 2️⃣0️⃣ Woohoo!] Stai mangiando abbastanza proteine? 💪 - Ricetta del giorno: Chili caraibico",
       "home": {
         "title": "Stai mangiando abbastanza proteine?",
@@ -1751,8 +1751,8 @@
     },
     {
       "id": 21,
-      "notificationTitle": "Today: The Harbor",
-      "notificationText": "Quanto del nostro cibo viaggia in aereo? ✈️ - Recipe of the day: Curry di ananas",
+      "notificationTitle": "Oggi: Il Porto",
+      "notificationText": "Quanto del nostro cibo viaggia in aereo? ✈️ - Ricetta del giorno: Curry all'ananas",
       "home": {
         "title": "Quanto del nostro cibo viaggia in aereo?",
         "category": 8
@@ -1843,8 +1843,8 @@
     },
     {
       "id": 22,
-      "notificationTitle": "Today: Fellowship of the Forks",
-      "notificationText": "Qual è il motivo principale che impedisce alle persone di mangiare meno carne? 😵‍💫 - Recipe of the day: Spaghetti con chili all’arancia",
+      "notificationTitle": "Oggi: La Compagnia della Forchetta",
+      "notificationText": "Qual è il motivo principale che impedisce alle persone di mangiare meno carne? 😵‍💫 - Ricetta del giorno: Spaghetti al Peperoncino e Arancia",
       "home": {
         "title": "Perché le persone non cambiano",
         "category": 4
@@ -1936,8 +1936,8 @@
     },
     {
       "id": 23,
-      "notificationTitle": "Today: Muscle Mountain",
-      "notificationText": "Quante proteine ci sono in una scatoletta di fagioli? 🏋️ - Recipe of the day: Jambalaya alle verdure",
+      "notificationTitle": "Oggi: La Montagna di Muscoli",
+      "notificationText": "Quante proteine ci sono in una scatoletta di fagioli? 🏋️ - Ricetta del giorno: Jambalaya di Verdure",
       "home": {
         "title": "Quante proteine ci sono in una scatoletta di fagioli?",
         "category": 6
@@ -2019,8 +2019,8 @@
     },
     {
       "id": 24,
-      "notificationTitle": "Today: Wild Waste",
-      "notificationText": "Qual è la migliore strategia per evitare di sprecare la pasta?🍝 - Ricetta del giorno: penne al formaggio con rucola ",
+      "notificationTitle": "Oggi: Il Deserto dello Spreco",
+      "notificationText": "Qual è la migliore strategia per evitare di sprecare la pasta?🍝 - Ricetta del giorno: Penne con Mozzarella e Rucola",
       "home": {
         "title": "Qual è la migliore strategia per evitare di sprecare la pasta?",
         "category": 5
@@ -2104,8 +2104,8 @@
     },
     {
       "id": 25,
-      "notificationTitle": "Today: la Prateria Verde",
-      "notificationText": "Perché il formaggio ha una impronta carbonica così alta?🥸 - Ricetta del giorno: riso al limone con hummus",
+      "notificationTitle": "Oggi: La Prateria Verde",
+      "notificationText": "Perché il formaggio ha una impronta carbonica così alta?🥸 - Ricetta del giorno: Riso al Limone con Hummus",
       "home": {
         "title": "Perché il formaggio ha una elevata impronta ambientale?",
         "category": 7
@@ -2181,8 +2181,8 @@
     },
     {
       "id": 26,
-      "notificationTitle": "Today: Wild Waste",
-      "notificationText": "Scopri un tasto magico per mettere in pausa ⏸️ - Ricetta del giorno: lasagne al pesto",
+      "notificationTitle": "Oggi: Il Deserto dello Spreco",
+      "notificationText": "Scopri un tasto magico per mettere in pausa ⏸️ - Ricetta del giorno: Lasagne al Pesto Facile",
       "home": {
         "title": "Lo spreco del cibo fresco vs lo spreco del cibo surgelato",
         "category": 5
@@ -2266,8 +2266,8 @@
     },
     {
       "id": 27,
-      "notificationTitle": "Today: la Prateria Verde",
-      "notificationText": "Un consiglio “sostenibile” per amanti dei formaggi 🧀 - Ricetta del giorno: peperoni ripieni",
+      "notificationTitle": "Oggi: La Prateria Verde",
+      "notificationText": "Un consiglio “sostenibile” per amanti dei formaggi 🧀 - Ricetta del giorno: Peperoni Ripieni",
       "home": {
         "title": "Un consiglio “sostenibile” per amanti dei formaggi ",
         "category": 7
@@ -2346,8 +2346,8 @@
     },
     {
       "id": 28,
-      "notificationTitle": "Today: The Harbor",
-      "notificationText": "Qual è l’impatto delle confezioni? 📦 - Recipe of the day: Sweet Chilli",
+      "notificationTitle": "Oggi: Il Porto",
+      "notificationText": "Qual è l’impatto delle confezioni? 📦 - Ricetta del giorno: Chili Dolce",
       "home": {
         "title": "Qual è l’impatto delle confezioni?",
         "category": 8
@@ -2423,8 +2423,8 @@
     },
     {
       "id": 29,
-      "notificationTitle": "Today: The Big Ranch",
-      "notificationText": "Presentiamo il budget della carne rossa🍔 - Ricetta del giorno: Pane Pita con funghi",
+      "notificationTitle": "Oggi: La Grande Fattoria",
+      "notificationText": "Presentiamo il budget della carne rossa🍔 - Ricetta del giorno: Pita con Funghi",
       "home": {
         "title": "Presentiamo il budget della carne rossa",
         "category": 1
@@ -2516,8 +2516,8 @@
     },
     {
       "id": 30,
-      "notificationTitle": "Today: Fellowship of the Forks",
-      "notificationText": "[Queso è il tuo 3️⃣0️⃣esimo giorno] Cosa funziona meglio per ispirare le persone ad iniziare una nuova abitudine? - Ricetta del giorno: Ravioli Balsamici",
+      "notificationTitle": "Oggi: La Compagnia della Forchetta",
+      "notificationText": "[Queso è il tuo 3️⃣0️⃣esimo giorno] Cosa funziona meglio per ispirare le persone ad iniziare una nuova abitudine? - Ricetta del giorno: Ravioli al balsamico",
       "home": {
         "title": "Come convincere altre persone",
         "category": 4
@@ -2608,8 +2608,8 @@
     },
     {
       "id": 31,
-      "notificationTitle": "Today: Golden Fields",
-      "notificationText": "Stai mangiando i carboidrati giusti? 🌾  - Recipe of the day: Spaghetti all'aglio e lime",
+      "notificationTitle": "Oggi: Campi dorati",
+      "notificationText": "Stai mangiando i carboidrati giusti? 🌾  - Ricetta del giorno: Pasta Aglio e Lime",
       "home": {
         "title": "Stai mangiando i carboidrati giusti? ",
         "category": 9
@@ -2691,8 +2691,8 @@
     },
     {
       "id": 32,
-      "notificationTitle": "Today: Fading Forest",
-      "notificationText": "Il lato oscuro degli Avocado 🥑 - Recipe of the day: Fajitas di fagioli neri",
+      "notificationTitle": "Oggi: La (De)Foresta",
+      "notificationText": "Il lato oscuro degli Avocado 🥑 - Ricetta del giorno: Burritos con Fagioli Neri",
       "home": {
         "title": "Il lato oscuro degli Avocado",
         "category": 3
@@ -2772,8 +2772,8 @@
     },
     {
       "id": 33,
-      "notificationTitle": "Today: Golden Fields",
-      "notificationText": "I benefici del grano integrale🌾 - Ricetta del giorno: Involtini di zucchine e pesche",
+      "notificationTitle": "Oggi: Campi dorati",
+      "notificationText": "I benefici del grano integrale🌾 - Ricetta del giorno: Wraps con Zucchine e Pesche",
       "home": {
         "title": "I benefici del grano integrale",
         "category": 9
@@ -2856,8 +2856,8 @@
     },
     {
       "id": 34,
-      "notificationTitle": "Oggi: la Prateria Verde",
-      "notificationText": "L'impronta ambientale complessiva dei latticini🥛 - Ricetta del giorno: Tortellini pigri",
+      "notificationTitle": "Oggi: La Prateria Verde",
+      "notificationText": "L'impronta ambientale complessiva dei latticini🥛 - Ricetta del giorno: Lazy Tortellini",
       "home": {
         "title": "L'impronta ambientale totale dei latticini",
         "category": 7
@@ -2943,8 +2943,8 @@
     },
     {
       "id": 35,
-      "notificationTitle": "Today: Vegetable Garden",
-      "notificationText": "L'impatto del cibo di stagione🌱 - Recipe of the day: Curry di lenticchie e patata dolce",
+      "notificationTitle": "Oggi: L'Orto",
+      "notificationText": "L'impatto del cibo di stagione🌱 - Ricetta del giorno: Curry di Patate Dolci e Lenticchie",
       "home": {
         "title": "L'impatto del cibo di stagione",
         "category": 10
@@ -3026,8 +3026,8 @@
     },
     {
       "id": 36,
-      "notificationTitle": "Oggi: Fading Forest",
-      "notificationText": "Il cioccolato fa male al clima? 🍫 - Recipe of the day: Caribbean Chilli",
+      "notificationTitle": "Oggi: La (De)Foresta",
+      "notificationText": "Il cioccolato fa male al clima? 🍫 - Ricetta del giorno: Chili caraibico",
       "home": {
         "title": "Il cioccolato fa male al clima?",
         "category": 3
@@ -3117,8 +3117,8 @@
     },
     {
       "id": 37,
-      "notificationTitle": "Today: la Prateria Verde",
-      "notificationText": "Dove va a finire tutto il latte? 🐄 - Recipe of the day: Chilli Spaghetti",
+      "notificationTitle": "Oggi: La Prateria Verde",
+      "notificationText": "Dove va a finire tutto il latte? 🐄 - Ricetta del giorno: Spaghetti al peperoncino",
       "home": {
         "title": "Dove va a finire tutto il latte?",
         "category": 7
@@ -3207,8 +3207,8 @@
     },
     {
       "id": 38,
-      "notificationTitle": "Today: Golden Fields",
-      "notificationText": "Il potere proteico dei carboidrati💪 - Recipe of the day: Couscous di finocchi ed arancia",
+      "notificationTitle": "Oggi: Campi dorati",
+      "notificationText": "Il potere proteico dei carboidrati💪 - Ricetta del giorno: Couscous con Finocchio e Arancia",
       "home": {
         "title": "Il potere proteico dei carboidrati",
         "category": 9
@@ -3283,8 +3283,8 @@
     },
     {
       "id": 39,
-      "notificationTitle": "Today: The Big Ranch",
-      "notificationText": "Perchè il pollo è più sostenibile del maiale🐓 - Recipe of the day: Curry di melanzane e pomodori",
+      "notificationTitle": "Oggi: La Grande Fattoria",
+      "notificationText": "Perchè il pollo è più sostenibile del maiale🐓 - Ricetta del giorno: Curry di Melanzane e Pomodori",
       "home": {
         "title": "Perchè il pollo è più sostenibile del maiale",
         "category": 1
@@ -3375,8 +3375,8 @@
     },
     {
       "id": 40,
-      "notificationTitle": "Oggi: la Prateria Verde",
-      "notificationText": "La margarina è più sostenibile del burro? 🧈 - Recipe of the day: Risotto al finocchio",
+      "notificationTitle": "Oggi: La Prateria Verde",
+      "notificationText": "La margarina è più sostenibile del burro? 🧈 - Ricetta del giorno: Risotto al finocchio",
       "home": {
         "title": "Burro vs Margarina",
         "category": 7
@@ -3473,8 +3473,8 @@
     },
     {
       "id": 41,
-      "notificationTitle": "Today: Fading Forest",
-      "notificationText": "Tè vs Caffè ☕️ - Recipe of the day: Chilli Affumicato",
+      "notificationTitle": "Oggi: La (De)Foresta",
+      "notificationText": "Tè vs Caffè ☕️ - Ricetta del giorno: Chili affumicato",
       "home": {
         "title": "Tè vs Caffè",
         "category": 3
@@ -3552,8 +3552,8 @@
     },
     {
       "id": 42,
-      "notificationTitle": "Today: Ocean",
-      "notificationText": "Come le cozze possono ripristinare la vita🌟 - Recipe of the day: Chickpea Wat",
+      "notificationTitle": "Oggi: L'Oceano",
+      "notificationText": "Come le cozze possono ripristinare la vita🌟 - Ricetta del giorno: Chickpea Wat",
       "home": {
         "title": "Come le cozze ripristinano la vita",
         "category": 11
@@ -3656,8 +3656,8 @@
     },
     {
       "id": 43,
-      "notificationTitle": "Today: Vegetable Garden",
-      "notificationText": "Il cibo di stagione è ottimo. Ma…- Recipe of the day: Gnocchi cremosi",
+      "notificationTitle": "Oggi: L'Orto",
+      "notificationText": "Il cibo di stagione è ottimo. Ma…- Ricetta del giorno: Gnocchi cremosi",
       "home": {
         "title": "Il cibo di stagione è ottimo. Ma…",
         "category": 10
@@ -3753,8 +3753,8 @@
     },
     {
       "id": 44,
-      "notificationTitle": "Today: Ocean",
-      "notificationText": "Cosa dovresti sapere a proposito di salmone e tonno🦈 - Recipe of the day: Pasta allo zafferano",
+      "notificationTitle": "Oggi: L'Oceano",
+      "notificationText": "Cosa dovresti sapere a proposito di salmone e tonno🦈 - Ricetta del giorno: Pasta allo zafferano",
       "home": {
         "title": "Cosa dovresti sapere a proposito di salmone e tonno",
         "category": 11
@@ -3838,8 +3838,8 @@
     },
     {
       "id": 45,
-      "notificationTitle": "Today: Vegetable Garden",
-      "notificationText": "I benefici del cibo di stagione🍁 - Recipe of the day: Purè di patate dolci con crauti",
+      "notificationTitle": "Oggi: L'Orto",
+      "notificationText": "I benefici del cibo di stagione🍁 - Ricetta del giorno: Purè di Patate Dolci con Crauti",
       "home": {
         "title": "The benefits of seasonal food",
         "category": 10
@@ -3924,8 +3924,8 @@
     },
     {
       "id": 46,
-      "notificationTitle": "Today: The Big Ranch",
-      "notificationText": "L’impatto di un uovo 🥚 - Recipe of the day: Nasi Goreng",
+      "notificationTitle": "Oggi: La Grande Fattoria",
+      "notificationText": "L’impatto di un uovo 🥚 - Ricetta del giorno: Nasi Goreng",
       "home": {
         "title": "L’impatto di un uovo",
         "category": 1
@@ -4005,8 +4005,8 @@
     },
     {
       "id": 47,
-      "notificationTitle": "Today: la Prateria Verde",
-      "notificationText": "Qual è il tipo di latte più sostenibile? 🥛 - Recipe of the day: Tagliatelle con pesto rosso",
+      "notificationTitle": "Oggi: La Prateria Verde",
+      "notificationText": "Qual è il tipo di latte più sostenibile? 🥛 - Ricetta del giorno: Tagliatelle con Pesto Rosso",
       "home": {
         "title": "Qual è il tipo di latte più sostenibile? ",
         "category": 7
@@ -4090,8 +4090,8 @@
     },
     {
       "id": 48,
-      "notificationTitle": "Today: Wild Waste",
-      "notificationText": "Does composting count as food waste? ♻️ - Recipe of the day: Peanut Fruit Rice",
+      "notificationTitle": "Oggi: Il Deserto dello Spreco",
+      "notificationText": "Does composting count as food waste? ♻️ - Ricetta del giorno: Riso con Frutta e Arachidi",
       "home": {
         "title": "Does composted food count as food waste?",
         "category": 5
@@ -4176,8 +4176,8 @@
     },
     {
       "id": 49,
-      "notificationTitle": "Today: Golden Fields",
-      "notificationText": "L'impronta sorprendentemente elevata del riso 🍚 - Recipe of the day: Curry di melanzane e pomodori",
+      "notificationTitle": "Oggi: Campi dorati",
+      "notificationText": "L'impronta sorprendentemente elevata del riso 🍚 - Ricetta del giorno: Curry di Melanzane e Pomodori",
       "home": {
         "title": "L'impronta sorprendentemente elevata del riso",
         "category": 9
@@ -4254,8 +4254,8 @@
     },
     {
       "id": 50,
-      "notificationTitle": "Today: Underground Jungle",
-      "notificationText": "Il potere sottovalutato del suolo🪱 - Recipe of the day: Patate arrosto con senape",
+      "notificationTitle": "Oggi: La Giungla Sotterranea",
+      "notificationText": "Il potere sottovalutato del suolo🪱 - Ricetta del giorno: Verdure arrosto con salsa alla senape",
       "home": {
         "title": "Il potere sottovalutato del suolo",
         "category": 12
@@ -4344,8 +4344,8 @@
     },
     {
       "id": 51,
-      "notificationTitle": "Today: la Prateria Verde",
-      "notificationText": "Scopri perché non tutta l'erba è uguale🌱 - Recipe of the day: Polenta al forno",
+      "notificationTitle": "Oggi: La Prateria Verde",
+      "notificationText": "Scopri perché non tutta l'erba è uguale🌱 - Ricetta del giorno: Polenta al forno",
       "home": {
         "title": "Non facciamo di tutta l'erba un fascio",
         "category": 7
@@ -4429,8 +4429,8 @@
     },
     {
       "id": 52,
-      "notificationTitle": "Today: Vegetable Garden",
-      "notificationText": "Il vero motivo per cui il cibo locale è importante 📍 - Recipe of the day: Cavoletti di Bruxelles con mela",
+      "notificationTitle": "Oggi: L'Orto",
+      "notificationText": "Il vero motivo per cui il cibo locale è importante 📍 - Ricetta del giorno: Cavoletti di Bruxelles con mele",
       "home": {
         "title": "Il vero motivo per cui il cibo locale è importante",
         "category": 10
@@ -4518,8 +4518,8 @@
     },
     {
       "id": 53,
-      "notificationTitle": "Today: Ocean",
-      "notificationText": "Com’è il pesce in confronto alle altre carni? 🐟 - Recipe of the day: Riso spagnolo",
+      "notificationTitle": "Oggi: L'Oceano",
+      "notificationText": "Com’è il pesce in confronto alle altre carni? 🐟 - Ricetta del giorno: Riso alla spagnola",
       "home": {
         "title": "Com’è il pesce in confronto alle altre carni?",
         "category": 11
@@ -4611,8 +4611,8 @@
     },
     {
       "id": 54,
-      "notificationTitle": "Oggi: la Prateria Verde",
-      "notificationText": "Cosa dovresti sapere a proposito dello yoghurt 🥛 - Recipe of the day: Carrot Cauliflower Biryani",
+      "notificationTitle": "Oggi: La Prateria Verde",
+      "notificationText": "Cosa dovresti sapere a proposito dello yoghurt 🥛 - Ricetta del giorno: Biryani di Carote e Cavolfiore",
       "home": {
         "title": "Cosa dovresti sapere a proposito dello yoghurt",
         "category": 7
@@ -4693,8 +4693,8 @@
     },
     {
       "id": 55,
-      "notificationTitle": "Today: The Big Ranch",
-      "notificationText": "Quanta carne mangiavano i nostri nonni? 🥩 - Recipe of the day: Quiche con porri e lenticchie",
+      "notificationTitle": "Oggi: La Grande Fattoria",
+      "notificationText": "Quanta carne mangiavano i nostri nonni? 🥩 - Ricetta del giorno: Quiche di Porri e Lenticchie",
       "home": {
         "title": "Quanta carne mangiavano i nostri nonni?",
         "category": 1
@@ -4773,8 +4773,8 @@
     },
     {
       "id": 56,
-      "notificationTitle": "Today: The Dry Lake",
-      "notificationText": "Sai dove viene utilizzata la maggior parte della nostra acqua? 💦 - Recipe of the day: Patate e pesto al forno",
+      "notificationTitle": "Oggi: Il Lago Prosciugato",
+      "notificationText": "Sai dove viene utilizzata la maggior parte della nostra acqua? 💦 - Ricetta del giorno: Patate al Forno con Pesto",
       "home": {
         "title": "la maggior parte dell’acqua viene usata per…",
         "category": 13
@@ -4860,8 +4860,8 @@
     },
     {
       "id": 57,
-      "notificationTitle": "Today: Vegetable Garden",
-      "notificationText": "La biodiversità è importante. Ma perché?? 🌼 - Recipe of the day: Curry alla zucca e barbabietola",
+      "notificationTitle": "Oggi: L'Orto",
+      "notificationText": "La biodiversità è importante. Ma perché?? 🌼 - Ricetta del giorno: Curry di Barbabietola e Zucca",
       "home": {
         "title": "Il fascino della diversità",
         "category": 10
@@ -4948,8 +4948,8 @@
     },
     {
       "id": 58,
-      "notificationTitle": "Today: Underground Jungle",
-      "notificationText": "I danni dei fertilizzanti chimici ☠️ - Recipe of the day: Crostatina di patate dolci e barbabietola",
+      "notificationTitle": "Oggi: La Giungla Sotterranea",
+      "notificationText": "I danni dei fertilizzanti chimici ☠️ - Ricetta del giorno: Torta Salata con Patate Dolci e Barbabietola",
       "home": {
         "title": "I danni dei fertilizzanti chimici ",
         "category": 12
@@ -5047,8 +5047,8 @@
     },
     {
       "id": 59,
-      "notificationTitle": "Today: The Dry Lake",
-      "notificationText": "Come funziona l'impronta idrica 💦 - Recipe of the day: Wraps alle zucchine e menta",
+      "notificationTitle": "Oggi: Il Lago Prosciugato",
+      "notificationText": "Come funziona l'impronta idrica 💦 - Ricetta del giorno: Wrap di melanzane alla menta",
       "home": {
         "title": "Come funziona l'impronta idrica ",
         "category": 13
@@ -5137,8 +5137,8 @@
     },
     {
       "id": 60,
-      "notificationTitle": "Today: The Harbor",
-      "notificationText": "L'impronta dei pomodori in inverno 🍅 - Recipe of the day: Tajine di ceci con pesche",
+      "notificationTitle": "Oggi: Il Porto",
+      "notificationText": "L'impronta dei pomodori in inverno 🍅 - Ricetta del giorno: Tajine di Ceci con Pesche",
       "home": {
         "title": "L'impronta dei pomodori in inverno ",
         "category": 8
@@ -5235,8 +5235,8 @@
     },
     {
       "id": 61,
-      "notificationTitle": "Today: Underground Jungle",
-      "notificationText": "Come i legumi migliorano il terreno🫘 - Recipe of the day: Curry di patate dolci e lenticchie",
+      "notificationTitle": "Oggi: La Giungla Sotterranea",
+      "notificationText": "Come i legumi migliorano il terreno🫘 - Ricetta del giorno: Curry di Patate Dolci e Lenticchie",
       "home": {
         "title": "Come i legumi migliorano il terreno",
         "category": 12
@@ -5323,8 +5323,8 @@
     },
     {
       "id": 62,
-      "notificationTitle": "Today: The Big Ranch",
-      "notificationText": "Ci sono milioni di maiali nei Paesi Bassi. Dove sono?? 🐷 - Recipe of the day: Vegetable Jambalaya",
+      "notificationTitle": "Oggi: La Grande Fattoria",
+      "notificationText": "Ci sono milioni di maiali nei Paesi Bassi. Dove sono?? 🐷 - Ricetta del giorno: Jambalaya di Verdure",
       "home": {
         "title": "Hidden pigs",
         "category": 1
@@ -5409,8 +5409,8 @@
     },
     {
       "id": 63,
-      "notificationTitle": "Today: Underground Jungle",
-      "notificationText": "Che cos'è l'agricoltura organica? 👩‍🌾 - Recipe of the day: Cavolo rosso saltato",
+      "notificationTitle": "Oggi: La Giungla Sotterranea",
+      "notificationText": "Che cos'è l'agricoltura organica? 👩‍🌾 - Ricetta del giorno: Cavolo Rosso in Padella con Mela",
       "home": {
         "title": "Che cos'è l'agricoltura organica?",
         "category": 12
@@ -5506,8 +5506,8 @@
     },
     {
       "id": 64,
-      "notificationTitle": "Today: Fading Forest",
-      "notificationText": "Che aspetto ha il caffè sostenibile? ☕️ - Recipe of the day: Tagliatelle ai funghi con vino bianco",
+      "notificationTitle": "Oggi: La (De)Foresta",
+      "notificationText": "Che aspetto ha il caffè sostenibile? ☕️ - Ricetta del giorno: Tagliatelle ai Funghi e Vino Bianco",
       "home": {
         "title": "Che aspetto ha il caffè sostenibile?",
         "category": 3
@@ -5608,8 +5608,8 @@
     },
     {
       "id": 65,
-      "notificationTitle": "Today: Muscle Mountain",
-      "notificationText": "Ecco alcuni modi semplici per aggiungere proteine extra 💪 - Recipe of the day: Purè di sedano rapa e patate dolci",
+      "notificationTitle": "Oggi: La Montagna di Muscoli",
+      "notificationText": "Ecco alcuni modi semplici per aggiungere proteine extra 💪 - Ricetta del giorno: Purè di Sedano Rapa e Patate Dolci",
       "home": {
         "title": "Il modo più semplice per aggiungere più proteine",
         "category": 6
@@ -5704,8 +5704,8 @@
     },
     {
       "id": 66,
-      "notificationTitle": "Oggi: Oceano",
-      "notificationText": "La storia del pesce d'allevamento 🐟 - Ricetta del giorno: Zuppa di noodle con funghi e zenzero",
+      "notificationTitle": "Oggi: L'Oceano",
+      "notificationText": "La storia del pesce d'allevamento 🐟 - Ricetta del giorno: Zuppa di Noodle con Funghi e Zenzero",
       "home": {
         "title": "La storia del pesce d'allevamento",
         "category": 11
@@ -5785,7 +5785,7 @@
     },
     {
       "id": 67,
-      "notificationTitle": "Today: Underground Jungle",
+      "notificationTitle": "Oggi: La Giungla Sotterranea",
       "notificationText": "L'impatto del cibo organico 🌱 - Ricetta del giorno: Caponata",
       "home": {
         "title": "L'impatto del cibo organico",
@@ -5866,8 +5866,8 @@
     },
     {
       "id": 68,
-      "notificationTitle": "Today: la Prateria Verde",
-      "notificationText": "Qual è l'impatto dell’utilizzo della panna di soia? 🐄 - Ricetta del giorno: Pasta cremosa alle pere",
+      "notificationTitle": "Oggi: La Prateria Verde",
+      "notificationText": "Qual è l'impatto dell’utilizzo della panna di soia? 🐄 - Ricetta del giorno: Pasta Cremosa con Pere",
       "home": {
         "title": "Qual è l'impatto dell’utilizzo della panna di soia?",
         "category": 7
@@ -5951,8 +5951,8 @@
     },
     {
       "id": 69,
-      "notificationTitle": "Today: Fading Forest",
-      "notificationText": "Cosa deve fare l'Europa riguardo all'olio di palma  🌴 - Recipe of the day: Cavolo piccante Indonesiano",
+      "notificationTitle": "Oggi: La (De)Foresta",
+      "notificationText": "Cosa deve fare l'Europa riguardo all'olio di palma  🌴 - Ricetta del giorno: Cavolo Piccante Indonesiano",
       "home": {
         "title": "Cosa deve fare l'Europa riguardo all'olio di palma",
         "category": 3
@@ -6047,8 +6047,8 @@
     },
     {
       "id": 70,
-      "notificationTitle": "Today: Ocean",
-      "notificationText": "Cosa dovresti sapere sull'inquinamento idrico ☠️ - Recipe of the day: Curry di arachidi thailandese",
+      "notificationTitle": "Oggi: L'Oceano",
+      "notificationText": "Cosa dovresti sapere sull'inquinamento idrico ☠️ - Ricetta del giorno: Curry Thai alle Arachidi",
       "home": {
         "title": "Zone morte nell'acqua",
         "category": 11
@@ -6144,8 +6144,8 @@
     },
     {
       "id": 71,
-      "notificationTitle": "Today: Fair Fields",
-      "notificationText": "Il prezzo ingiusto del riso 🍚 - Recipe of the day: Risotto al finocchio\n",
+      "notificationTitle": "Oggi: I Campi Equi",
+      "notificationText": "Il prezzo ingiusto del riso 🍚 - Ricetta del giorno: Risotto al finocchio",
       "home": {
         "title": "Il prezzo ingiusto del riso ",
         "category": 14
@@ -6244,8 +6244,8 @@
     },
     {
       "id": 72,
-      "notificationTitle": "Today: Underground Jungle",
-      "notificationText": "Quale alimento non esisterebbe senza gli impollinatori? 🌼 - Recipe of the day: Curry di barbabietola e zucca",
+      "notificationTitle": "Oggi: La Giungla Sotterranea",
+      "notificationText": "Quale alimento non esisterebbe senza gli impollinatori? 🌼 - Ricetta del giorno: Curry di Barbabietola e Zucca",
       "home": {
         "title": "Il team degli impollinatori",
         "category": 12
@@ -6342,8 +6342,8 @@
     },
     {
       "id": 73,
-      "notificationTitle": "Today: The Dry Lake ",
-      "notificationText": "L'unico svantaggio della frutta secca 🥜 - Recipe of the day: Spaghetti all'aglio e lime",
+      "notificationTitle": "Oggi: Il Lago Prosciugato",
+      "notificationText": "L'unico svantaggio della frutta secca 🥜 - Ricetta del giorno: Pasta Aglio e Lime",
       "home": {
         "title": "L'unico svantaggio della frutta secca",
         "category": 13
@@ -6440,8 +6440,8 @@
     },
     {
       "id": 74,
-      "notificationTitle": "Today: The Harbor",
-      "notificationText": "L'impronta ambientale della consegna a domicilio 🏠 - Ricetta del giorno: Purè cremoso di cavolo e patate",
+      "notificationTitle": "Oggi: Il Porto",
+      "notificationText": "L'impronta ambientale della consegna a domicilio 🏠 - Ricetta del giorno: Purè di Patate e Cavolo Cremoso",
       "home": {
         "title": "L'impronta della consegna a domicilio ",
         "category": 8
@@ -6528,8 +6528,8 @@
     },
     {
       "id": 75,
-      "notificationTitle": "Today: Muscle Mountain",
-      "notificationText": "Come assumere abbastanza vitaminaB12 ✨ - Recipe of the day: Biryani di carote e cavolfiore",
+      "notificationTitle": "Oggi: La Montagna di Muscoli",
+      "notificationText": "Come assumere abbastanza vitaminaB12 ✨ - Ricetta del giorno: Biryani di Carote e Cavolfiore",
       "home": {
         "title": "Come assumere abbastanza vitaminaB12",
         "category": 6
@@ -6629,8 +6629,8 @@
     },
     {
       "id": 76,
-      "notificationTitle": "Today: The Harbor",
-      "notificationText": "Il dilemma della plastica, puoi fare qualcosa al riguardo? 🥤 - Ricetta del giorno: Couscous all'arancia e finocchio",
+      "notificationTitle": "Oggi: Il Porto",
+      "notificationText": "Il dilemma della plastica, puoi fare qualcosa al riguardo? 🥤 - Ricetta del giorno: Couscous con Finocchio e Arancia",
       "home": {
         "title": "The plastic dilemma",
         "category": 8
@@ -6732,8 +6732,8 @@
     },
     {
       "id": 77,
-      "notificationTitle": "Today: Muscle Mountain",
-      "notificationText": "Quale alimento fornisce più vitamina B12? 💊 - Recipe of the day: Nasi Goreng",
+      "notificationTitle": "Oggi: La Montagna di Muscoli",
+      "notificationText": "Quale alimento fornisce più vitamina B12? 💊 - Ricetta del giorno: Nasi Goreng",
       "home": {
         "title": "Quale alimento fornisce più vitamina B12?",
         "category": 6
@@ -6826,8 +6826,8 @@
     },
     {
       "id": 78,
-      "notificationTitle": "Today: The Good Ranch",
-      "notificationText": "Come il mangime animale può essere sostenibile 🐷 - Recipe of the day: Lasagne al pesto facili",
+      "notificationTitle": "Oggi: La Bella Fattoria",
+      "notificationText": "Come il mangime animale può essere sostenibile 🐷 - Ricetta del giorno: Lasagne al Pesto Facile",
       "home": {
         "title": "How animal feed can be sustainable",
         "category": 15
@@ -6912,8 +6912,8 @@
     },
     {
       "id": 79,
-      "notificationTitle": "Today: Fair Fields",
-      "notificationText": "Dove va a finire la maggior parte dei soldi? 💰 - Recipe of the day: Pasta al forno con cavolfiore",
+      "notificationTitle": "Oggi: I Campi Equi",
+      "notificationText": "Dove va a finire la maggior parte dei soldi? 💰 - Ricetta del giorno: Pasta al forno con cavolfiore",
       "home": {
         "title": "Dove va a finire la maggior parte dei soldi?",
         "category": 14
@@ -7000,8 +7000,8 @@
     },
     {
       "id": 80,
-      "notificationTitle": "Today: The Good Ranch",
-      "notificationText": "L'impatto ambientale dei sostituti vegetali della carne 🍔 - Recipe of the day: Pane pita con funghi",
+      "notificationTitle": "Oggi: La Bella Fattoria",
+      "notificationText": "L'impatto ambientale dei sostituti vegetali della carne 🍔 - Ricetta del giorno: Pita con Funghi",
       "home": {
         "title": "L'impronta ecologica delle alternative vegetali alla carne",
         "category": 15
@@ -7098,8 +7098,8 @@
     },
     {
       "id": 81,
-      "notificationTitle": "Today: Underground Jungle",
-      "notificationText": "La nuova normalità‘’ degli insetti volanti🐝 - Recipe of the day: One-pot Lentil Rice",
+      "notificationTitle": "Oggi: La Giungla Sotterranea",
+      "notificationText": "La nuova normalità‘’ degli insetti volanti🐝 - Ricetta del giorno: Riso e Lenticchie in Pentola Unica",
       "home": {
         "title": "La ‘nuova normalità' degli insetti volanti",
         "category": 12
@@ -7207,8 +7207,8 @@
     },
     {
       "id": 82,
-      "notificationTitle": "Today: The Good Ranch",
-      "notificationText": "Mucche con due 'vite'🐄 - Recipe of the day: Purè di patate dolci con crauti",
+      "notificationTitle": "Oggi: La Bella Fattoria",
+      "notificationText": "Mucche con due 'vite'🐄 - Ricetta del giorno: Purè di Patate Dolci con Crauti",
       "home": {
         "title": "Mucche con due 'vite'",
         "category": 15
@@ -7305,8 +7305,8 @@
     },
     {
       "id": 83,
-      "notificationTitle": "Today: Windmill Land",
-      "notificationText": "Gas vs. induzione🍳 - Recipe of the day: involtini di zucchine e pesche",
+      "notificationTitle": "Oggi: La Terra dei Mulini",
+      "notificationText": "Gas vs. induzione🍳 - Ricetta del giorno: Wraps con Zucchine e Pesche",
       "home": {
         "title": "Gas vs. induzione",
         "category": 16
@@ -7387,8 +7387,8 @@
     },
     {
       "id": 84,
-      "notificationTitle": "Today: la Prateria Verde",
-      "notificationText": "Qual è una quantità sostenibile di latticini? 🥛 - Recipe of the day: Risotto cremoso alla barbabietola",
+      "notificationTitle": "Oggi: La Prateria Verde",
+      "notificationText": "Qual è una quantità sostenibile di latticini? 🥛 - Ricetta del giorno: Riso Cremoso alla Barbabietola",
       "home": {
         "title": "Qual è una quantità sostenibile di latticini?",
         "category": 7
@@ -7479,8 +7479,8 @@
     },
     {
       "id": 85,
-      "notificationTitle": "Today: Golden Fields",
-      "notificationText": "Qual è l'impatto del tuo drink preferito? 🍺 - Recipe of the day: Noodles con succo d'arancia",
+      "notificationTitle": "Oggi: Campi dorati",
+      "notificationText": "Qual è l'impatto del tuo drink preferito? 🍺 - Ricetta del giorno: Noodles al Succo d'Arancia",
       "home": {
         "title": "Qual è l'impatto del tuo drink preferito?",
         "category": 9
@@ -7576,8 +7576,8 @@
     },
     {
       "id": 86,
-      "notificationTitle": "Today: The Good Ranch",
-      "notificationText": "La carne di mucche allevate al pascolo è più sostenibile? 🥩 - Recipe of the day: Pesto di spinaci",
+      "notificationTitle": "Oggi: La Bella Fattoria",
+      "notificationText": "La carne di mucche allevate al pascolo è più sostenibile? 🥩 - Ricetta del giorno: Italian Test Spinach Pasta Pesto",
       "home": {
         "title": "La carne di mucche allevate al pascolo è più sostenibile?",
         "category": 15
@@ -7676,8 +7676,8 @@
     },
     {
       "id": 87,
-      "notificationTitle": "Today: Fair Fields",
-      "notificationText": "Quanto spendi per il cibo? 🤑 - Recipe of the day: Dahl al cocco",
+      "notificationTitle": "Oggi: I Campi Equi",
+      "notificationText": "Quanto spendi per il cibo? 🤑 - Ricetta del giorno: Dahl al Cocco",
       "home": {
         "title": "Quanto spendi per il cibo?",
         "category": 14
@@ -7768,8 +7768,8 @@
     },
     {
       "id": 88,
-      "notificationTitle": "Today: Underground Jungle",
-      "notificationText": "Il miele è sostenibile? 🍯 - Recipe of the day: Purè di sedano rapa e patate dolci",
+      "notificationTitle": "Oggi: La Giungla Sotterranea",
+      "notificationText": "Il miele è sostenibile? 🍯 - Ricetta del giorno: Purè di Sedano Rapa e Patate Dolci",
       "home": {
         "title": "Il miele è sostenibile?",
         "category": 12
@@ -7867,8 +7867,8 @@
     },
     {
       "id": 89,
-      "notificationTitle": "Today: Muscle Mountain",
-      "notificationText": "È possibile ottenere proteine ​​'complete' dalle piante? 🥦 - Recipe of the day: Chili caraibico",
+      "notificationTitle": "Oggi: La Montagna di Muscoli",
+      "notificationText": "È possibile ottenere proteine ​​'complete' dalle piante? 🥦 - Ricetta del giorno: Chili caraibico",
       "home": {
         "title": "È possibile ottenere proteine ​​'complete' dalle piante?",
         "category": 6
@@ -7977,8 +7977,8 @@
     },
     {
       "id": 90,
-      "notificationTitle": "Today: Fair Fields",
-      "notificationText": "Come funziona il commercio equo e solidale  👨🏾‍🌾 - Recipe of the day: Curry di banana",
+      "notificationTitle": "Oggi: I Campi Equi",
+      "notificationText": "Come funziona il commercio equo e solidale  👨🏾‍🌾 - Ricetta del giorno: Curry di banane",
       "home": {
         "title": "Come funziona il commercio equo e solidale ",
         "category": 14
@@ -8069,8 +8069,8 @@
     },
     {
       "id": 91,
-      "notificationTitle": "Today: Windmill Land",
-      "notificationText": "Mettere un coperchio sulla padella fa risparmiare energia? 🔥 - Recipe of the day: Penne verdi piccanti",
+      "notificationTitle": "Oggi: La Terra dei Mulini",
+      "notificationText": "Mettere un coperchio sulla padella fa risparmiare energia? 🔥 - Ricetta del giorno: Penne Verdi Piccanti",
       "home": {
         "title": "Mettere un coperchio sulla padella fa risparmiare energia?",
         "category": 16
@@ -8167,8 +8167,8 @@
     },
     {
       "id": 92,
-      "notificationTitle": "Today: Ocean",
-      "notificationText": "Alghe marine 🌊 - Recipe of the day: Zuppa di noodle con funghi e zenzero",
+      "notificationTitle": "Oggi: L'Oceano",
+      "notificationText": "Alghe marine 🌊 - Ricetta del giorno: Zuppa di Noodle con Funghi e Zenzero",
       "home": {
         "title": "Alghe marine",
         "category": 11
@@ -8273,8 +8273,8 @@
     },
     {
       "id": 93,
-      "notificationTitle": "Today: Fair Fields",
-      "notificationText": "Puoi permetterti prodotti organici e del commercio equo e solidale ? 💰 - Recipe of the day: Cremosa pasta al pomodoro con nocciole",
+      "notificationTitle": "Oggi: I Campi Equi",
+      "notificationText": "Puoi permetterti prodotti organici e del commercio equo e solidale ? 💰 - Ricetta del giorno: Pasta Cremosa al Pomodoro con Nocciole",
       "home": {
         "title": "Puoi permetterti prodotti organici e del commercio equo e solidale?",
         "category": 14
@@ -8373,8 +8373,8 @@
     },
     {
       "id": 94,
-      "notificationTitle": "Today: Golden Fields",
-      "notificationText": "La coltura più prodotta al mondo 🥇 - Recipe of the day: Spaghetti al peperoncino",
+      "notificationTitle": "Oggi: Campi dorati",
+      "notificationText": "La coltura più prodotta al mondo 🥇 - Ricetta del giorno: Spaghetti al peperoncino",
       "home": {
         "title": "La coltura più prodotta al mondo",
         "category": 9
@@ -8471,8 +8471,8 @@
     },
     {
       "id": 95,
-      "notificationTitle": "Today: Windmill Land",
-      "notificationText": "Quanto è sostenibile un barbecue? 🔥 - Recipe of the day: Barbecue a basso impatto ambientale",
+      "notificationTitle": "Oggi: La Terra dei Mulini",
+      "notificationText": "Quanto è sostenibile un barbecue? 🔥 - Ricetta del giorno: BBQ a basso impatto",
       "home": {
         "title": "Quanto è sostenibile un barbecue?",
         "category": 16
@@ -8567,8 +8567,8 @@
     },
     {
       "id": 96,
-      "notificationTitle": "Today: Underground Jungle",
-      "notificationText": "Cos'è l'agricoltura rigenerativa? 🧑‍🌾 - Recipe of the day: Zuppa di fagioli con salsa",
+      "notificationTitle": "Oggi: La Giungla Sotterranea",
+      "notificationText": "Cos'è l'agricoltura rigenerativa? 🧑‍🌾 - Ricetta del giorno: Zuppa di Fagioli con Salsa",
       "home": {
         "title": "Cos'è l'agricoltura rigenerativa?",
         "category": 12
@@ -8689,8 +8689,8 @@
     },
     {
       "id": 97,
-      "notificationTitle": "Today: Fellowship of the Forks",
-      "notificationText": "Quante persone si preoccupano davvero del clima? 🧐 - Recipe of the day: Lasagne con noci",
+      "notificationTitle": "Oggi: La Compagnia della Forchetta",
+      "notificationText": "Quante persone si preoccupano davvero del clima? 🧐 - Ricetta del giorno: Lasagne con Noci",
       "home": {
         "title": "Quante persone si preoccupano davvero del clima? ?",
         "category": 4
@@ -8790,8 +8790,8 @@
     },
     {
       "id": 98,
-      "notificationTitle": "Today: Fair Fields",
-      "notificationText": "Il costo del commercio equo e solidale💸 - Recipe of the day: verdure piccanti con salsa di arachidi",
+      "notificationTitle": "Oggi: I Campi Equi",
+      "notificationText": "Il costo del commercio equo e solidale💸 - Ricetta del giorno: Verdure Piccanti con Salsa di Arachidi",
       "home": {
         "title": "Il costo del commercio equo e solidale",
         "category": 14
@@ -8904,8 +8904,8 @@
     },
     {
       "id": 99,
-      "notificationTitle": "Today: The Good Ranch",
-      "notificationText": "Quali sono i vantaggi di nutrire le mucche solo con erba? - Recipe of the day: Barbabietole e carote arrosto",
+      "notificationTitle": "Oggi: La Bella Fattoria",
+      "notificationText": "Quali sono i vantaggi di nutrire le mucche solo con erba? - Ricetta del giorno: Barbabietole e Carote al Forno",
       "home": {
         "title": "Quali sono i vantaggi di nutrire le mucche solo con erba?",
         "category": 15
@@ -9001,8 +9001,8 @@
     },
     {
       "id": 100,
-      "notificationTitle": "Today: Windmill Land",
-      "notificationText": "L'impatto climatico del tuo forno 🔥 - Recipe of the day: Cavolini di Bruxelles e cavolfiore arrosto",
+      "notificationTitle": "Oggi: La Terra dei Mulini",
+      "notificationText": "L'impatto climatico del tuo forno 🔥 - Ricetta del giorno: Cavoletti di Bruxelles e Cavolfiore al Forno",
       "home": {
         "title": "L'impatto climatico del tuo forno ",
         "category": 16
@@ -9097,8 +9097,8 @@
     },
     {
       "id": 101,
-      "notificationTitle": "Today: The Good Ranch",
-      "notificationText": "La caccia è sostenibile? 🏹 - Recipe of the day: Curry di spinaci e patate",
+      "notificationTitle": "Oggi: La Bella Fattoria",
+      "notificationText": "La caccia è sostenibile? 🏹 - Ricetta del giorno: Curry di Spinaci e Patate",
       "home": {
         "title": "La caccia è sostenibileI?",
         "category": 15
@@ -9201,8 +9201,8 @@
     },
     {
       "id": 102,
-      "notificationTitle": "Today: The Good Ranch",
-      "notificationText": "L'impatto della carne coltivata 🍖 - Recipe of the day: Noodles di broccoli al balsamico",
+      "notificationTitle": "Oggi: La Bella Fattoria",
+      "notificationText": "L'impatto della carne coltivata 🍖 - Ricetta del giorno: Noodles al Balsamico con Broccoli",
       "home": {
         "title": "L'impatto della carne coltivata ",
         "category": 15
@@ -9308,8 +9308,8 @@
     },
     {
       "id": 103,
-      "notificationTitle": "Today: Windmill Land",
-      "notificationText": "Qual è il caffè più sostenibile? ☕️ - Recipe of the day: Piadine con ceci e limone",
+      "notificationTitle": "Oggi: La Terra dei Mulini",
+      "notificationText": "Qual è il caffè più sostenibile? ☕️ - Ricetta del giorno: Wrap con Ceci e Limone",
       "home": {
         "title": "Qual è il caffè più sostenibile?",
         "category": 16
