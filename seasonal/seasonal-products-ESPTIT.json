@@ -4,6 +4,8 @@
     "nameNL": "Aardappel",
     "nameEN": "Potato",
     "nameDE": "Kartoffel",
+    "nameES": "Patatas",
+    "nameIT": "Patate",
     "image": "potato",
     "LC": [],
     "GFS": [
@@ -30,6 +32,8 @@
     "nameNL": "Aardbei",
     "nameEN": "Strawberry",
     "nameDE": "Erdbeere",
+    "nameES": "Fresa",
+    "nameIT": "Fragola",
     "image": "strawberry",
     "LC": [
       8
@@ -49,6 +53,8 @@
     "nameNL": "Andijvie",
     "nameEN": "Endive",
     "nameDE": "Endivie",
+    "nameES": "Escarola",
+    "nameIT": "Indivia",
     "image": "endive",
     "LC": [
       4
@@ -70,6 +76,8 @@
     "nameNL": "Appel",
     "nameEN": "Apple",
     "nameDE": "Apfel",
+    "nameES": "Manzana",
+    "nameIT": "Mela",
     "image": "apple",
     "LC": [
       3
@@ -93,6 +101,8 @@
     "nameNL": "Asperge",
     "nameEN": "Asparagus",
     "nameDE": "Spargel",
+    "nameES": "Espárragos",
+    "nameIT": "Asparagi",
     "image": "asparagus",
     "LC": [
       5
@@ -111,6 +121,8 @@
     "nameNL": "Aubergine",
     "nameEN": "Aubergine",
     "nameDE": "Aubergine",
+    "nameES": "Berenjena",
+    "nameIT": "Melanzana",
     "image": "aubergine",
     "LC": [
       10
@@ -130,6 +142,8 @@
     "nameNL": "Blauwe bes",
     "nameEN": "Blueberry",
     "nameDE": "Blaubeere",
+    "nameES": "Arándano",
+    "nameIT": "Mirtillo",
     "image": "blueberries",
     "LC": [
       9
@@ -148,6 +162,8 @@
     "nameNL": "Bleekselderij",
     "nameEN": "Celery",
     "nameDE": "Sellerie",
+    "nameES": "Apio",
+    "nameIT": "Sedano",
     "image": "celery",
     "LC": [
       5
@@ -170,6 +186,8 @@
     "nameNL": "Bloemkool",
     "nameEN": "Cauliflower",
     "nameDE": "Blumenkohl",
+    "nameES": "Coliflor",
+    "nameIT": "Cavolfiore",
     "image": "cauliflower",
     "LC": [
       4
@@ -192,6 +210,8 @@
     "nameNL": "Boerenkool",
     "nameEN": "Kale",
     "nameDE": "Grünkohl",
+    "nameES": "Col rizada",
+    "nameIT": "Cavolo nero",
     "image": "kale",
     "LC": [
       5
@@ -215,6 +235,8 @@
     "nameNL": "Braam",
     "nameEN": "Blackberry",
     "nameDE": "Brombeere",
+    "nameES": "Mora",
+    "nameIT": "Mora",
     "image": "blackberry",
     "LC": [
       9
@@ -233,6 +255,8 @@
     "nameNL": "Broccoli",
     "nameEN": "Broccoli",
     "nameDE": "Brokkoli",
+    "nameES": "Brócoli",
+    "nameIT": "Broccoli",
     "image": "broccoli",
     "LC": [
       5
@@ -256,6 +280,8 @@
     "nameNL": "Chinese kool",
     "nameEN": "Chinese Cabbage",
     "nameDE": "Chinakohl",
+    "nameES": "Col china",
+    "nameIT": "Cavolo cinese",
     "image": "chinesecabbage",
     "LC": [
       3
@@ -276,6 +302,8 @@
     "nameNL": "Courgette",
     "nameEN": "Zucchini",
     "nameDE": "Zucchini",
+    "nameES": "Calabacín",
+    "nameIT": "Zucchina",
     "image": "zucchini",
     "LC": [
       10
@@ -296,6 +324,8 @@
     "nameNL": "Doperwt",
     "nameEN": "Peas",
     "nameDE": "Erbsen",
+    "nameES": "Guisantes",
+    "nameIT": "Piselli ",
     "image": "peas",
     "LC": [
       6
@@ -314,6 +344,8 @@
     "nameNL": "Framboos",
     "nameEN": "Raspberry",
     "nameDE": "Himbeere",
+    "nameES": "Frambuesa",
+    "nameIT": "Lampone",
     "image": "raspberry",
     "LC": [
       10
@@ -333,6 +365,8 @@
     "nameNL": "Kers",
     "nameEN": "Cherry",
     "nameDE": "Kirsche",
+    "nameES": "Cereza",
+    "nameIT": "Ciliegia",
     "image": "cherry",
     "LC": [
       7
@@ -350,6 +384,8 @@
     "nameNL": "Komkommer",
     "nameEN": "Cucumber",
     "nameDE": "Gurke",
+    "nameES": "Pepino",
+    "nameIT": "Cetriolo",
     "image": "cucumber",
     "LC": [
       11
@@ -371,6 +407,8 @@
     "nameNL": "Koolrabi",
     "nameEN": "Kohlrabi",
     "nameDE": "Kohlrabi",
+    "nameES": "Colinabo",
+    "nameIT": "Cavolo rapa",
     "image": "kohlrabi",
     "LC": [
       5
@@ -394,6 +432,8 @@
     "nameNL": "Sla",
     "nameEN": "Lettuce",
     "nameDE": "Salat",
+    "nameES": "Lechuga",
+    "nameIT": "Lattuga",
     "image": "lettuce",
     "LC": [],
     "GFS": [],
@@ -418,6 +458,8 @@
     "nameNL": "Mais",
     "nameEN": "Corn",
     "nameDE": "Mais",
+    "nameES": "Maíz",
+    "nameIT": "Mais",
     "image": "corn",
     "LC": [
       9
@@ -436,6 +478,8 @@
     "nameNL": "Paprika",
     "nameEN": "Bell pepper",
     "nameDE": "Paprika",
+    "nameES": "Pimiento",
+    "nameIT": "Peperone",
     "image": "bellpepper",
     "LC": [
       10
@@ -456,6 +500,8 @@
     "nameNL": "Pastinaak",
     "nameEN": "Parsnip",
     "nameDE": "Pastinak",
+    "nameES": "Chirivía",
+    "nameIT": "pastinaca",
     "image": "parsnip",
     "LC": [
       5
@@ -479,6 +525,8 @@
     "nameNL": "Peer",
     "nameEN": "Pear",
     "nameDE": "Birne",
+    "nameES": "Pera",
+    "nameIT": "Pera",
     "image": "pear",
     "LC": [
       3
@@ -503,6 +551,8 @@
     "nameNL": "Pompoen",
     "nameEN": "Pumpkin",
     "nameDE": "Kürbis",
+    "nameES": "Calabaza",
+    "nameIT": "Zucca",
     "image": "pumpkin",
     "LC": [
       4
@@ -526,6 +576,8 @@
     "nameNL": "Prei",
     "nameEN": "Leek",
     "nameDE": "Lauch",
+    "nameES": "Puerro",
+    "nameIT": "Porro",
     "image": "leek",
     "LC": [
       4
@@ -548,6 +600,8 @@
     "nameNL": "Pruim",
     "nameEN": "Plum",
     "nameDE": "Pflaume",
+    "nameES": "Ciruela",
+    "nameIT": "Prugna",
     "image": "plum",
     "LC": [
       9
@@ -566,6 +620,8 @@
     "nameNL": "Rode biet",
     "nameEN": "Beetroot",
     "nameDE": "Rote Bete",
+    "nameES": "Remolacha",
+    "nameIT": "Barbabietola rossa",
     "image": "beetroot",
     "LC": [
       6
@@ -592,6 +648,8 @@
     "nameNL": "Rodekool",
     "nameEN": "Red cabbage",
     "nameDE": "Rotkohl",
+    "nameES": "Lombarda",
+    "nameIT": "Cavolo rosso",
     "image": "redcabbage",
     "LC": [
       5
@@ -614,6 +672,8 @@
     "nameNL": "Rucola",
     "nameEN": "Rocket",
     "nameDE": "Rucola",
+    "nameES": "Rúcula",
+    "nameIT": "Rucola",
     "image": "rucola",
     "LC": [
       6
@@ -637,6 +697,8 @@
     "nameNL": "Savooikool",
     "nameEN": "Savoy cabbage",
     "nameDE": "Wirsingkohl",
+    "nameES": "Col de Saboya",
+    "nameIT": "Cavolo verza",
     "image": "savoycabbage",
     "LC": [
       5
@@ -659,6 +721,8 @@
     "nameNL": "Sperzieboon",
     "nameEN": "Green beans",
     "nameDE": "Grüne Bohnen",
+    "nameES": "Judías verdes",
+    "nameIT": "Fagiolini",
     "image": "greenbeans",
     "LC": [
       9
@@ -677,6 +741,8 @@
     "nameNL": "Spinazie",
     "nameEN": "Spinach",
     "nameDE": "Spinat",
+    "nameES": "Espinacas",
+    "nameIT": "Spinaci",
     "image": "spinach",
     "LC": [
       5
@@ -700,6 +766,8 @@
     "nameNL": "Spitskool",
     "nameEN": "Pointed cabbage",
     "nameDE": "Spitzkohl",
+    "nameES": "Col picuda",
+    "nameIT": "Cavolo a punta",
     "image": "oxheartcabbage",
     "LC": [
       5
@@ -722,6 +790,8 @@
     "nameNL": "Spruiten",
     "nameEN": "Brussels sprouts",
     "nameDE": "Rosenkohl",
+    "nameES": "Coles de Bruselas",
+    "nameIT": "Cavolini di Bruxelles",
     "image": "brusselssprouts",
     "LC": [
       3
@@ -742,6 +812,8 @@
     "nameNL": "Tomaat",
     "nameEN": "Tomato",
     "nameDE": "Tomate",
+    "nameES": "Tomate",
+    "nameIT": "Pomodoro",
     "image": "tomato",
     "LC": [
       11
@@ -763,6 +835,8 @@
     "nameNL": "Tuinboon",
     "nameEN": "Broad beans",
     "nameDE": "Dicke Bohnen",
+    "nameES": "Habas",
+    "nameIT": "Fave",
     "image": "broadbean",
     "LC": [
       6
@@ -782,6 +856,8 @@
     "nameNL": "Venkel",
     "nameEN": "Fennel",
     "nameDE": "Fenchel",
+    "nameES": "Hinojo",
+    "nameIT": "Finocchio",
     "image": "fennel",
     "LC": [
       5
@@ -804,6 +880,8 @@
     "nameNL": "Witlof",
     "nameEN": "Chicory",
     "nameDE": "Chicorée",
+    "nameES": "Endibia",
+    "nameIT": "Cicoria",
     "image": "chicory",
     "LC": [
       3
@@ -824,6 +902,8 @@
     "nameNL": "Wittekool",
     "nameEN": "White cabbage",
     "nameDE": "Weißkohl",
+    "nameES": "Col blanca",
+    "nameIT": "Cavolo cappuccio bianco",
     "image": "whitecabbage",
     "LC": [
       5
@@ -846,6 +926,8 @@
     "nameNL": "Wortel",
     "nameEN": "Carrot",
     "nameDE": "Karotte",
+    "nameES": "Zanahoria",
+    "nameIT": "Carota",
     "image": "carrot",
     "LC": [],
     "GFS": [],
@@ -870,6 +952,8 @@
     "nameNL": "Avocado",
     "nameEN": "Avocado",
     "nameDE": "Avocado",
+    "nameES": "Aguacate",
+    "nameIT": "Avocado",
     "image": "avocado",
     "LC": [
       5
@@ -891,6 +975,8 @@
     "nameNL": "Kiwi",
     "nameEN": "Kiwi",
     "nameDE": "Kiwi",
+    "nameES": "Kiwi",
+    "nameIT": "Kiwi",
     "image": "kiwi",
     "LC": [
       3
@@ -912,6 +998,8 @@
     "nameNL": "Mandarijn",
     "nameEN": "Mandarine",
     "nameDE": "Mandarine",
+    "nameES": "Mandarina",
+    "nameIT": "Mandarino",
     "image": "mandarine",
     "LC": [
       4
@@ -933,6 +1021,8 @@
     "nameNL": "Grapefruit",
     "nameEN": "Grapefruit",
     "nameDE": "Grapefruit",
+    "nameES": "Pomelo",
+    "nameIT": "Pompelmo",
     "image": "grapefruit",
     "LC": [
       4
@@ -953,6 +1043,8 @@
     "nameNL": "Sinaasappel",
     "nameEN": "Orange",
     "nameDE": "Orange",
+    "nameES": "Naranja",
+    "nameIT": "Arancione",
     "image": "orange",
     "LC": [
       5
@@ -974,6 +1066,8 @@
     "nameNL": "Kaki",
     "nameEN": "Persimmon",
     "nameDE": "Kaki",
+    "nameES": "Caqui",
+    "nameIT": "Cachi",
     "image": "persimmon",
     "LC": [
       12
@@ -991,6 +1085,8 @@
     "nameNL": "Mispel",
     "nameEN": "Loquat",
     "nameDE": "Mispel",
+    "nameES": "Níspero",
+    "nameIT": "Nespolo",
     "image": "loquat",
     "LC": [
       6
@@ -1008,6 +1104,8 @@
     "nameNL": "Abrikoos",
     "nameEN": "Apricot",
     "nameDE": "Aprikose",
+    "nameES": "Albaricoque",
+    "nameIT": "Albicocche",
     "image": "apricot",
     "LC": [
       8
@@ -1026,6 +1124,8 @@
     "nameNL": "Watermeloen",
     "nameEN": "Watermelon",
     "nameDE": "Wassermelone",
+    "nameES": "Sandía",
+    "nameIT": "Anguria",
     "image": "watermelon",
     "LC": [
       9
@@ -1044,6 +1144,8 @@
     "nameNL": "Perzik",
     "nameEN": "Peach",
     "nameDE": "Pfirsich",
+    "nameES": "Melocotón",
+    "nameIT": "Pesche",
     "image": "peach",
     "LC": [
       10
@@ -1063,6 +1165,8 @@
     "nameNL": "Nectarine",
     "nameEN": "Nectarine",
     "nameDE": "Nektarine",
+    "nameES": "Nectarina",
+    "nameIT": "Nectarina",
     "image": "nectarine",
     "LC": [
       9
@@ -1082,6 +1186,8 @@
     "nameNL": "Meloen",
     "nameEN": "Melon",
     "nameDE": "Melone",
+    "nameES": "Melón",
+    "nameIT": "Melone",
     "image": "melon",
     "LC": [
       9
@@ -1101,6 +1207,8 @@
     "nameNL": "Vijg",
     "nameEN": "Fig",
     "nameDE": "Feige",
+    "nameES": "Higo",
+    "nameIT": "Fico",
     "image": "fig",
     "LC": [
       10
@@ -1120,6 +1228,8 @@
     "nameNL": "Druiven",
     "nameEN": "Grapes",
     "nameDE": "Trauben",
+    "nameES": "Uvas",
+    "nameIT": "Uva",
     "image": "grapes",
     "LC": [
       11
@@ -1139,6 +1249,8 @@
     "nameNL": "Granaatappel",
     "nameEN": "Pomegranate",
     "nameDE": "Granatapfel",
+    "nameES": "Granada",
+    "nameIT": "Melograno",
     "image": "pomegranate",
     "LC": [
       12
@@ -1157,6 +1269,8 @@
     "nameNL": "Snijbiet",
     "nameEN": "Chard",
     "nameDE": "Mangold",
+    "nameES": "Acelga",
+    "nameIT": "Bietola",
     "image": "chard",
     "LC": [],
     "GFS": [],
@@ -1181,6 +1295,8 @@
     "nameNL": "Artisjok",
     "nameEN": "Artichoke",
     "nameDE": "Artischocke",
+    "nameES": "Alcachofa",
+    "nameIT": "Carciofi",
     "image": "artichoke",
     "LC": [
       5
@@ -1202,6 +1318,8 @@
     "nameNL": "Knolraap",
     "nameEN": "Turnip",
     "nameDE": "Rübe",
+    "nameES": "Nabo",
+    "nameIT": "Rapa",
     "image": "turnip",
     "LC": [
       5
