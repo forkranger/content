@@ -443,5 +443,22 @@
     "bodyDE": "In den letzten Monaten haben wir alle Quellen der Infografiken durchgesehen und, wo nötig, mit aktuellerer Forschung aktualisiert. Das Fazit bleibt dasselbe, aber einige Infografiken haben kleine Updates erhalten und ein paar wurden komplett erneuert. Mehr über dieses Update und darüber, woher wir unsere Informationen beziehen, erfährst du in diesem Blogbeitrag (nur auf Englisch).",
     "buttonTextDE": "Mehr erfahren",
     "buttonURLDE": "https://www.forkranger.com/blogs/news/we-ve-fact-checked-and-updated-all-our-sources-again"
+  },
+  {
+    "id": 30,
+    "startDate": "13-11-2026",
+    "endDate": "27-11-2026",
+    "titleEN": "New seasonal regions for the US 🇺🇸",
+    "bodyEN": "We’re adding the seasonal information to more and more regions. In the past months we’ve added 3 regions for our supporters in the US: Northeast, Southeast, and Great Lakes (these are only available in the app, not as printed seasonal calendar). More coming soon!\n\nWe’re sorry if your region is not part of it, yet. We’re a very small team doing our best. More regions coming soon!",
+    "buttonTextEN": "Read more",
+    "buttonURLEN": "https://www.forkranger.com/pages/how-the-us-seasonal-calendar-was-created",
+    "titleNL": "Steeds meer seizoensregio’s 🇺🇸",
+    "bodyNL": "De Fork Ranger app wordt in steeds meer landen gebruikt en daarom zijn we ook de seizoensinformatie voor supporters aan het uitbreiden. Dat is bijvoorbeeld (extra) goed nieuws voor Amerikanen want daar hebben we nu ook 3 seizoensregio’s toegevoegd. Er volgen meer!\n\nTrouwens, over seizoenen gesproken: mocht je nog op zoek zijn naar een leuk Sinterklaas cadeau… we hebben net een nieuwe druk van de Nederlandse seizoenskalender binnen 😇",
+    "buttonTextNL": "Naar de shop",
+    "buttonURLNL": "https://www.forkranger.com/nl/collections/shop",
+    "titleDE": "Neu: Bonusfragen! 🌟",
+    "bodyDE": "Ab jetzt kannst du als Supporter jeden Tag eine zusätzliche Quizfrage beantworten. Die wesentlichen Fakten sind in der kostenlosen Version abgedeckt, aber damit bekommst du viele interessante Bonusfakten. Zu den Bonusfragen gibt es noch keine Infografiken, aber wir arbeiten schon fleißig daran, sie bald hinzuzufügen.",
+    "buttonTextDE": "Wie wir Forschung betreiben",
+    "buttonURLDE": "https://www.forkranger.com/blogs/news/the-science-behind-our-infographics-how-we-do-research-and-select-sources"
   }
 ]
