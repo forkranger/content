@@ -407,7 +407,7 @@
     "nameNL": "Koolrabi",
     "nameEN": "Kohlrabi",
     "nameDE": "Kohlrabi",
-    "nameES": "Colinabo",
+    "nameES": "Colirrábano",
     "nameIT": "Cavolo rapa",
     "image": "kohlrabi",
     "LC": [
@@ -697,7 +697,7 @@
     "nameNL": "Savooikool",
     "nameEN": "Savoy cabbage",
     "nameDE": "Wirsingkohl",
-    "nameES": "Col de Saboya",
+    "nameES": "Col de Milán",
     "nameIT": "Cavolo verza",
     "image": "savoycabbage",
     "LC": [
@@ -1044,7 +1044,7 @@
     "nameEN": "Orange",
     "nameDE": "Orange",
     "nameES": "Naranja",
-    "nameIT": "Arancione",
+    "nameIT": "Arancia",
     "image": "orange",
     "LC": [
       5
@@ -1086,7 +1086,7 @@
     "nameEN": "Loquat",
     "nameDE": "Mispel",
     "nameES": "Níspero",
-    "nameIT": "Nespolo",
+    "nameIT": "Nespola",
     "image": "loquat",
     "LC": [
       6
@@ -1166,7 +1166,7 @@
     "nameEN": "Nectarine",
     "nameDE": "Nektarine",
     "nameES": "Nectarina",
-    "nameIT": "Nectarina",
+    "nameIT": "Pesca noce",
     "image": "nectarine",
     "LC": [
       9
